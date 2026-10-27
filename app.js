@@ -502,10 +502,10 @@ async function main() {
         title.className = "card-title";
         title.textContent = ev.title;
         body.append(title);
-        if (ev.source === "Heromkring") {
+        if (ev.source === "Heromkring" || ev.source === "Aarhus Inside") {
           const sourceTag = document.createElement("div");
           sourceTag.className = "card-source mono";
-          sourceTag.textContent = "via Heromkring";
+          sourceTag.textContent = `via ${ev.source}`;
           body.append(sourceTag);
         }
         card.append(body);
