@@ -26,7 +26,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-burger-og-comedy-night-mib@aarhus-kalend
  er
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261028T183000
 DTEND;TZID=Europe/Copenhagen:20261028T210000
 SUMMARY:Burger og Comedy Night
@@ -36,7 +36,7 @@ URL:https://aarhusinside.dk/event/burger-og-comedy-night-mib/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/magt@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261029T193000
 DTEND;TZID=Europe/Copenhagen:20261029T213000
 SUMMARY:MAGT - MAGT FOR ENHVER PRIS
@@ -46,7 +46,7 @@ URL:https://www.musikhuset.dk/kalender/magt
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/rmbshow@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261030T130000
 DTEND;TZID=Europe/Copenhagen:20261030T150000
 SUMMARY:RMBshow
@@ -56,7 +56,7 @@ URL:https://www.musikhuset.dk/kalender/rmbshow
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/anders-wortmann@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261101T190000
 DTEND;TZID=Europe/Copenhagen:20261101T210000
 SUMMARY:Anders Wortmann - Far til 2
@@ -66,7 +66,7 @@ URL:https://www.musikhuset.dk/kalender/anders-wortmann
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/daniel-lill@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261104T190000
 DTEND;TZID=Europe/Copenhagen:20261104T210000
 SUMMARY:Daniel Lill - En simpel mand
@@ -76,7 +76,7 @@ URL:https://www.musikhuset.dk/kalender/daniel-lill
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/specialklassen@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261107T180000
 DTEND;TZID=Europe/Copenhagen:20261107T200000
 SUMMARY:Specialklassen - Er det for meget?
@@ -87,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-comedy-queens-stand-up-show@aarhus-kalen
  der
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261111T183000
 DTEND;TZID=Europe/Copenhagen:20261111T193000
 SUMMARY:Comedy Queens Stand-up Show
@@ -97,7 +97,7 @@ URL:https://aarhusinside.dk/event/comedy-queens-stand-up-show/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/trines-mor@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261112T183000
 DTEND;TZID=Europe/Copenhagen:20261112T203000
 SUMMARY:Trines mor - Bodil Jørgensen og Lisbeth Wulff

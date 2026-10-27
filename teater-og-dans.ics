@@ -24,8 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:hk-20261027-44780385@aarhus-kalender
-DTSTAMP:20261027T094510Z
+UID:hk-20261027-26177061@aarhus-kalender
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261027T171500
 DTEND;TZID=Europe/Copenhagen:20261027T191500
 SUMMARY:Forelæsningsrække om ‘Den nye danske litteraturkanon’ hos Fol
@@ -37,7 +37,7 @@ URL:https://fuau.dk/aarhus/program/litteratur-sprog-film-og-musik/den-nye-d
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-bluecliff@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Blue Cliff: What Lies Beneath
@@ -47,7 +47,7 @@ URL:https://godsbanen.dk/kalender/bluecliff/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-de-doede-lykkeligt-til-deres-dages-ende@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261101
 SUMMARY:DE DØDE LYKKELIGT TIL DERES DAGES ENDE
@@ -57,7 +57,7 @@ URL:https://godsbanen.dk/kalender/de-doede-lykkeligt-til-deres-dages-ende/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/omgivet-af-idioter@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261031T150000
 DTEND;TZID=Europe/Copenhagen:20261031T170000
 SUMMARY:Omgivet af idioter
@@ -67,7 +67,7 @@ URL:https://www.musikhuset.dk/kalender/omgivet-af-idioter
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/before-the-end@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261104T193000
 DTEND;TZID=Europe/Copenhagen:20261104T213000
 SUMMARY:Before The End
@@ -77,7 +77,7 @@ URL:https://www.musikhuset.dk/kalender/before-the-end
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/kammerballetten@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261108T193000
 DTEND;TZID=Europe/Copenhagen:20261108T213000
 SUMMARY:Kammerballetten
@@ -87,7 +87,7 @@ URL:https://www.musikhuset.dk/kalender/kammerballetten
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-ball-paa-bora-bora@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261109T193000
 DTEND;TZID=Europe/Copenhagen:20261111T203000
 SUMMARY:Ball på Bora Bora
@@ -97,7 +97,7 @@ URL:https://aarhusinside.dk/event/ball-paa-bora-bora/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/musefaelden@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261110T193000
 DTEND;TZID=Europe/Copenhagen:20261110T213000
 SUMMARY:Musefælden
@@ -107,7 +107,7 @@ URL:https://www.musikhuset.dk/kalender/musefaelden
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-storyslam-den-fixer-jeg@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:STORYSLAM “Den fixer jeg!”
@@ -117,7 +117,7 @@ URL:https://godsbanen.dk/kalender/storyslam-den-fixer-jeg/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/fredagsdans@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261113T160000
 DTEND;TZID=Europe/Copenhagen:20261113T180000
 SUMMARY:Fredagsdans
@@ -127,7 +127,7 @@ URL:https://www.musikhuset.dk/kalender/fredagsdans
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/familiedans@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261114T100000
 DTEND;TZID=Europe/Copenhagen:20261114T120000
 SUMMARY:Familiedans - Teaterhuset Filuren
@@ -138,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-afro-diasporiske-musik-og-dansekulturer@
  aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261117T183000
 DTEND;TZID=Europe/Copenhagen:20261117T193000
 SUMMARY:Foredrag: Afro-diasporiske musik- og dansekulturer
@@ -148,7 +148,7 @@ URL:https://aarhusinside.dk/event/afro-diasporiske-musik-og-dansekulturer/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-wired-paa-bora-bora@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261117T193000
 DTEND;TZID=Europe/Copenhagen:20261119T203000
 SUMMARY:Wired på Bora Bora
@@ -158,7 +158,7 @@ URL:https://aarhusinside.dk/event/wired-paa-bora-bora/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-landscapes@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Cunts Collective: Leaking Landscapes
@@ -168,7 +168,7 @@ URL:https://godsbanen.dk/kalender/landscapes/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-don-quixote-fin@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:DON QUIXOTE (FIN)
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-don-quixote-paa-teater-katapult@aarhus-k
  alender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261118T193000
 DTEND;TZID=Europe/Copenhagen:20261119T203000
 SUMMARY:Don Quixote på Teater Katapult
@@ -190,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-sanseporten-paa-bora-bora@aarhus-kalende
  r
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261119T093000
 DTEND;TZID=Europe/Copenhagen:20261121T170000
 SUMMARY:Sanseporten på Bora Bora
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-dansefest-efter-wired-paa-bora-bora@aarh
  us-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261119T203000
 DTEND;TZID=Europe/Copenhagen:20261119T230000
 SUMMARY:Dansefest efter Wired på Bora Bora
@@ -212,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-et-rum-til-sorg-paa-aarhus-teater@aarhus
  -kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261125T170000
 DTEND;TZID=Europe/Copenhagen:20261125T190000
 SUMMARY:Et rum til sorg på Aarhus Teater
@@ -223,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-delirious-night-paa-bora-bora@aarhus-kal
  ender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261125T193000
 DTEND;TZID=Europe/Copenhagen:20261127T203000
 SUMMARY:Delirious Night på Bora Bora
@@ -233,7 +233,7 @@ URL:https://aarhusinside.dk/event/delirious-night-paa-bora-bora/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-kan-poesien-flytte-verden-symposium@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Kan poesien flytte verden? – symposium
@@ -244,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-dansefest-efter-delirious-night-paa-bora
  -bora@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261126T203000
 DTEND;TZID=Europe/Copenhagen:20261126T230000
 SUMMARY:Dansefest efter Delirious Night på Bora Bora
@@ -255,7 +255,7 @@ URL:https://aarhusinside.dk/event/dansefest-efter-delirious-night-paa-bora-
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-dinosaur-world@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:DINOSAUR WORLD
@@ -265,7 +265,7 @@ URL:https://godsbanen.dk/kalender/dinosaur-world/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-6b4e3211-fe3e-40eb-aa53-07c17aba26a9-0@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Rundvisning på Aarhus Teater
@@ -276,7 +276,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/rundvisning-p
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-sult@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Teater Carbon & III: EVIG SULT – ET COLLAGEVÆRK
@@ -287,7 +287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-nytaarsfest-for-singler-minglr@aarhus-ka
  lender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261231T170000
 DTEND;TZID=Europe/Copenhagen:20261231T233000
 SUMMARY:Nytårsfest for singler 30-59 år – stor dinner & dans på Centra
@@ -298,7 +298,7 @@ URL:https://aarhusinside.dk/event/nytaarsfest-for-singler-minglr/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-residency-mia-og-martha-bider@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:RESIDENCY: Mia og Martha bider
@@ -307,32 +307,8 @@ CATEGORIES:Teater & Dans\,Godsbanen
 URL:https://godsbanen.dk/kalender/residency-mia-og-martha-bider/
 END:VEVENT
 BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-1901@
- aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270119T170000
-DTEND;TZID=Europe/Copenhagen:20270119T173000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-1901/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-1901-
- 1@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270119T180000
-DTEND;TZID=Europe/Copenhagen:20270119T183000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-1901-1/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-whiteout-paa-bora-bora@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20270119T193000
 DTEND;TZID=Europe/Copenhagen:20270121T203000
 SUMMARY:Whiteout på Bora Bora
@@ -341,152 +317,8 @@ CATEGORIES:Teater & Dans\,Aarhus Inside
 URL:https://aarhusinside.dk/event/whiteout-paa-bora-bora/
 END:VEVENT
 BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2001@
- aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270120T170000
-DTEND;TZID=Europe/Copenhagen:20270120T173000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-2001/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2001-
- 2@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270120T180000
-DTEND;TZID=Europe/Copenhagen:20270120T183000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-2001-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2601@
- aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270126T170000
-DTEND;TZID=Europe/Copenhagen:20270126T173000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-2601/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2601-
- 1@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270126T180000
-DTEND;TZID=Europe/Copenhagen:20270126T183000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-2601-1/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2701-
- 1@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270127T170000
-DTEND;TZID=Europe/Copenhagen:20270127T173000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-2701-1/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2701@
- aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270127T180000
-DTEND;TZID=Europe/Copenhagen:20270127T183000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-2701/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2801@
- aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270128T170000
-DTEND;TZID=Europe/Copenhagen:20270128T173000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-2801/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2801-
- 2@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270128T180000
-DTEND;TZID=Europe/Copenhagen:20270128T183000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-2801-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0202-
- 2@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270202T170000
-DTEND;TZID=Europe/Copenhagen:20270202T173000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-0202-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0202@
- aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270202T180000
-DTEND;TZID=Europe/Copenhagen:20270202T183000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-0202/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0302@
- aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270203T170000
-DTEND;TZID=Europe/Copenhagen:20270203T173000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-0302/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0302-
- 1@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270203T180000
-DTEND;TZID=Europe/Copenhagen:20270203T183000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-0302-1/
-END:VEVENT
-BEGIN:VEVENT
 UID:va-e23f5e33-4eda-40a2-b648-d2a7ceb62ca3-0@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270311
 SUMMARY:Hamlet på Aarhus Teater
@@ -496,33 +328,9 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/hamlet-paa-aa
  rhus-teater-gdk1158902
 END:VEVENT
 BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0402-
- 1@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270204T170000
-DTEND;TZID=Europe/Copenhagen:20270204T173000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-0402-1/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0402@
- aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20270204T180000
-DTEND;TZID=Europe/Copenhagen:20270204T183000
-SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
-LOCATION:AROS
-CATEGORIES:Teater & Dans\,AROS
-URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
- oplevelse-0402/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-kandis-halbal-med-dans-og-dj@aarhus-kale
  nder
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20270320T200000
 DTEND;TZID=Europe/Copenhagen:20270321T000000
 SUMMARY:Kandis– halbal med dans og DJ
@@ -532,7 +340,7 @@ URL:https://aarhusinside.dk/event/kandis-halbal-med-dans-og-dj/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-466d9ca4-b979-4886-8507-98d881dbf8e1-0@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270325
 SUMMARY:Danseforestillingen Faust på Aarhus Teater

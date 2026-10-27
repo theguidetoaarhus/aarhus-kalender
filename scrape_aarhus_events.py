@@ -27,6 +27,7 @@ import urllib.parse
 import urllib.request
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 USER_AGENT = "aarhus-kalender-script/1.0 (personligt brug, kontakt: anders@warehousefilm.com)"
 REQUEST_DELAY_SECONDS = 0.3
@@ -1126,6 +1127,75 @@ def fetch_aarhusinside(cutoff: datetime) -> list:
 
 
 # ---------------------------------------------------------------------------
+# AGF og Aarhus Fremad - fodboldkampe fra clubnews.dk's offentlige
+# kampprogram-kalendre. Det er samme slags ICS-feed, som fans selv bruger til
+# at abonnere i Google/Outlook/Apple Kalender (ingen login, ingen token,
+# ingen bot-beskyttelse) - data stammer oprindeligt fra superliga.dk/
+# 1-division.dk. Bemærk: feedet dækker kun selve liga-rækken
+# (Superligaen/1. Division), ikke pokal- eller europæiske kampe.
+# ---------------------------------------------------------------------------
+
+CLUBNEWS_VEVENT_RE = re.compile(r"BEGIN:VEVENT(.*?)END:VEVENT", re.S)
+CLUBNEWS_UID_RE = re.compile(r"UID:([^\r\n]+)")
+CLUBNEWS_DTSTART_RE = re.compile(r"DTSTART:(\d{8})T(\d{6})Z")
+CLUBNEWS_DTEND_RE = re.compile(r"DTEND:(\d{8})T(\d{6})Z")
+CLUBNEWS_SUMMARY_RE = re.compile(r"SUMMARY:([^\r\n]+)")
+CLUBNEWS_URL_RE = re.compile(r"URL:([^\r\n]+)")
+COPENHAGEN_TZ = ZoneInfo("Europe/Copenhagen")
+
+
+def _clubnews_local(date_digits: str, time_digits: str) -> datetime:
+    utc = datetime.strptime(date_digits + time_digits, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
+    return utc.astimezone(COPENHAGEN_TZ).replace(tzinfo=None)
+
+
+def fetch_clubnews_fixtures(klub: str, source_name: str, cutoff: datetime) -> list:
+    try:
+        raw = http_get(f"https://clubnews.dk/kampprogram/kalender.ics?klub={klub}")
+    except Exception as e:
+        print(f"  ADVARSEL: kunne ikke hente {source_name}: {e}", file=sys.stderr)
+        return []
+
+    unfolded = re.sub(r"\r?\n[ \t]", "", raw)  # RFC5545-linjefoldning
+    events = []
+    for chunk in CLUBNEWS_VEVENT_RE.findall(unfolded):
+        start_m = CLUBNEWS_DTSTART_RE.search(chunk)
+        summary_m = CLUBNEWS_SUMMARY_RE.search(chunk)
+        if not start_m or not summary_m:
+            continue
+        start = _clubnews_local(*start_m.groups())
+        end_m = CLUBNEWS_DTEND_RE.search(chunk)
+        end = _clubnews_local(*end_m.groups()) if end_m else start + timedelta(hours=2)
+        if start > cutoff or start.date() < datetime.now().date():
+            continue
+        uid_m = CLUBNEWS_UID_RE.search(chunk)
+        url_m = CLUBNEWS_URL_RE.search(chunk)
+        title = html.unescape(summary_m.group(1)).strip()
+        events.append(Event(
+            uid=f"clubnews-{uid_m.group(1).strip() if uid_m else slugify(title + start.isoformat())}",
+            title=title,
+            start=start,
+            end=end,
+            all_day=False,
+            location="",
+            url=url_m.group(1).strip() if url_m else f"https://clubnews.dk/kampprogram/kalender?klub={klub}",
+            source=source_name,
+            category="Sport & Bevægelse",
+            is_free=False,
+        ))
+    print(f"  {source_name}: {len(events)} events", file=sys.stderr)
+    return events
+
+
+def fetch_agf(cutoff: datetime) -> list:
+    return fetch_clubnews_fixtures("agf", "AGF", cutoff)
+
+
+def fetch_aarhusfremad(cutoff: datetime) -> list:
+    return fetch_clubnews_fixtures("aarhus-fremad", "Aarhus Fremad", cutoff)
+
+
+# ---------------------------------------------------------------------------
 # Heromkring (ugentligt lokalt nyhedsbrev) - vi henter KUN titel, undertekst,
 # forsidebillede og link for hver udgave, aldrig selve artiklens indhold.
 # Det er en kreditering/henvisning til deres index af udgaver - ikke en
@@ -1528,6 +1598,8 @@ SOURCES = [
     ("AROS", fetch_aros),
     ("Kunsthal Aarhus", fetch_kunsthal_aarhus),
     ("Aarhus Inside", fetch_aarhusinside),
+    ("AGF", fetch_agf),
+    ("Aarhus Fremad", fetch_aarhusfremad),
 ]
 
 

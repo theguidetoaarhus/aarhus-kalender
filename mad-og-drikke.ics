@@ -24,8 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:hk-20261026-69196080@aarhus-kalender
-DTSTAMP:20261027T094510Z
+UID:hk-20261026-92330647@aarhus-kalender
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261026T160000
 DTEND;TZID=Europe/Copenhagen:20261026T180000
 SUMMARY:Fermenteringsværksted på Dokk1
@@ -35,8 +35,8 @@ URL:https://www.aakb.dk/hovedbiblioteket/arrangementer/baeredygtighed-og-na
  tur/fermenteringsvaerksted
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-21309686@aarhus-kalender
-DTSTAMP:20261027T094510Z
+UID:hk-20261026-12932803@aarhus-kalender
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261026T170000
 DTEND;TZID=Europe/Copenhagen:20261026T190000
 SUMMARY:Smag den ægyptiske udgave af falafel ‘Ta’ameya’ til Madmanda
@@ -46,8 +46,8 @@ CATEGORIES:Mad & Drikke\,Heromkring
 URL:https://www.instagram.com/p/Dewu6GDMPgN/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261029-63544066@aarhus-kalender
-DTSTAMP:20261027T094510Z
+UID:hk-20261029-92729189@aarhus-kalender
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261029T170000
 DTEND;TZID=Europe/Copenhagen:20261029T190000
 SUMMARY:Rundvisning med ølsmagning hos Århus Bryghus
@@ -58,7 +58,7 @@ URL:https://shop.aarhusbryghus.dk/billetsalg/?ytroute=/arrangementer/60382/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-faellesspisning-20261029-180000@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261029T180000
 DTEND;TZID=Europe/Copenhagen:20261029T210000
 SUMMARY:Fællesspisning
@@ -67,8 +67,8 @@ CATEGORIES:Mad & Drikke\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261031-93690690@aarhus-kalender
-DTSTAMP:20261027T094510Z
+UID:hk-20261031-28317494@aarhus-kalender
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261031T120000
 DTEND;TZID=Europe/Copenhagen:20261031T140000
 SUMMARY:Mandefrokost i Folkehuset Marselis
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-frokostsejlads-med-smoerrebroed-i-aarhus
  -havn-2026-11-01@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261101T123000
 DTEND;TZID=Europe/Copenhagen:20261101T143000
 SUMMARY:Frokostsejlads med smørrebrød i Aarhus Havn
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-frokostsejlads-med-juleskibet-svanen-202
  6-11-13@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261113T113000
 DTEND;TZID=Europe/Copenhagen:20261113T140000
 SUMMARY:Frokostsejlads med Juleskibet Svanen
@@ -102,7 +102,7 @@ URL:https://aarhusinside.dk/event/frokostsejlads-med-juleskibet-svanen/2026
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-vinsmagning-20261113-193000@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261113T193000
 DTEND;TZID=Europe/Copenhagen:20261113T220000
 SUMMARY:Vinsmagning
@@ -111,38 +111,8 @@ CATEGORIES:Mad & Drikke\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:aros-kalender-brunch-rundvisning-17112026@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20261117T101500
-DTEND;TZID=Europe/Copenhagen:20261117T121500
-SUMMARY:Brunch & Rundvisning
-LOCATION:AROS
-CATEGORIES:Mad & Drikke\,AROS
-URL:https://www.aros.dk/kalender/brunch-rundvisning-17112026/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-brunch-rundvisning-18112026@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20261118T101500
-DTEND;TZID=Europe/Copenhagen:20261118T121500
-SUMMARY:Brunch & Rundvisning
-LOCATION:AROS
-CATEGORIES:Mad & Drikke\,AROS
-URL:https://www.aros.dk/kalender/brunch-rundvisning-18112026/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-brunch-rundvisning-19112026@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20261119T101500
-DTEND;TZID=Europe/Copenhagen:20261119T121500
-SUMMARY:Brunch & Rundvisning
-LOCATION:AROS
-CATEGORIES:Mad & Drikke\,AROS
-URL:https://www.aros.dk/kalender/brunch-rundvisning-19112026/
-END:VEVENT
-BEGIN:VEVENT
 UID:bh-faellesspisning-20261119-180000@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261119T180000
 DTEND;TZID=Europe/Copenhagen:20261119T210000
 SUMMARY:Fællesspisning
@@ -151,29 +121,9 @@ CATEGORIES:Mad & Drikke\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:aros-kalender-brunch-rundvisning-20112026@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20261120T101500
-DTEND;TZID=Europe/Copenhagen:20261120T121500
-SUMMARY:Brunch & Rundvisning
-LOCATION:AROS
-CATEGORIES:Mad & Drikke\,AROS
-URL:https://www.aros.dk/kalender/brunch-rundvisning-20112026/
-END:VEVENT
-BEGIN:VEVENT
-UID:aros-kalender-rundvisning-oelsmagning-20112026@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20261120T160000
-DTEND;TZID=Europe/Copenhagen:20261120T180000
-SUMMARY:Rundvisning & Ølsmagning
-LOCATION:AROS
-CATEGORIES:Mad & Drikke\,AROS
-URL:https://www.aros.dk/kalender/rundvisning-oelsmagning-20112026/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-bourgogne-smagning-hos-smag-foerst@aarhu
  s-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261120T190000
 DTEND;TZID=Europe/Copenhagen:20261120T210000
 SUMMARY:Bourgogne smagning hos Smag Først
@@ -182,19 +132,9 @@ CATEGORIES:Mad & Drikke\,Aarhus Inside
 URL:https://aarhusinside.dk/event/bourgogne-smagning-hos-smag-foerst/
 END:VEVENT
 BEGIN:VEVENT
-UID:aros-kalender-brunch-rundvisning-21112026@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20261121T101500
-DTEND;TZID=Europe/Copenhagen:20261121T121500
-SUMMARY:Brunch & Rundvisning
-LOCATION:AROS
-CATEGORIES:Mad & Drikke\,AROS
-URL:https://www.aros.dk/kalender/brunch-rundvisning-21112026/
-END:VEVENT
-BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julefrokost-med-banko-ombord-paa-juldamp
  eren@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261121T183000
 DTEND;TZID=Europe/Copenhagen:20261121T223000
 SUMMARY:Julefrokost med banko ombord på JULDAMPEREN®
@@ -206,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-fransk-og-britisk-romsmagning-hos-smag-f
  oerst@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261121T190000
 DTEND;TZID=Europe/Copenhagen:20261121T210000
 SUMMARY:Fransk og britisk romsmagning hos Smag Først
@@ -218,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-oelsmagning-til-vands-paa-juleskibet-sva
  nen-2026-11-21@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261121T200000
 DTEND;TZID=Europe/Copenhagen:20261121T220000
 SUMMARY:Ølsmagning til vands på Juleskibet Svanen
@@ -228,18 +168,8 @@ URL:https://aarhusinside.dk/event/oelsmagning-til-vands-paa-juleskibet-svan
  en/2026-11-21/
 END:VEVENT
 BEGIN:VEVENT
-UID:aros-kalender-brunch-rundvisning-22112026@aarhus-kalender
-DTSTAMP:20261027T094510Z
-DTSTART;TZID=Europe/Copenhagen:20261122T101500
-DTEND;TZID=Europe/Copenhagen:20261122T121500
-SUMMARY:Brunch & Rundvisning
-LOCATION:AROS
-CATEGORIES:Mad & Drikke\,AROS
-URL:https://www.aros.dk/kalender/brunch-rundvisning-22112026/
-END:VEVENT
-BEGIN:VEVENT
 UID:gb-julebanko-paa-godsbanen@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Julebanko på Godsbanen
@@ -250,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julesmagning-hos-friis-kaffe-te@aarhus-k
  alender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261126T163000
 DTEND;TZID=Europe/Copenhagen:20261126T180000
 SUMMARY:Julesmagning hos Friis Kaffe & Te
@@ -261,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-whiskysmagning-hos-smag-foerst@aarhus-ka
  lender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261126T190000
 DTEND;TZID=Europe/Copenhagen:20261126T210000
 SUMMARY:Whiskysmagning hos Smag Først
@@ -272,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-champagnesmagning-hos-smag-foerst@aarhus
  -kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261127T190000
 DTEND;TZID=Europe/Copenhagen:20261127T210000
 SUMMARY:Champagnesmagning hos Smag Først
@@ -283,7 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-frokostsejlads-med-juleskibet-svanen-202
  6-12-04@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261204T113000
 DTEND;TZID=Europe/Copenhagen:20261204T140000
 SUMMARY:Frokostsejlads med Juleskibet Svanen
@@ -295,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-the-6-levels-of-rum-hos-smag-foerst@aarh
  us-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261204T190000
 DTEND;TZID=Europe/Copenhagen:20261204T210000
 SUMMARY:The 6 Levels of Rum hos Smag Først
@@ -306,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julefrokost-med-banko-paa-juldamperen@aa
  rhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261205T183000
 DTEND;TZID=Europe/Copenhagen:20261205T223000
 SUMMARY:Julefrokost med banko ombord på JULDAMPEREN®
@@ -317,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-oelsmagning-til-vands-paa-juleskibet-sva
  nen-2026-12-05@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261205T200000
 DTEND;TZID=Europe/Copenhagen:20261205T220000
 SUMMARY:Ølsmagning til vands på Juleskibet Svanen
@@ -329,7 +259,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-minglrs-julefrokost-paa-robertas-society
  -35@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261212T180000
 DTEND;TZID=Europe/Copenhagen:20261212T233000
 SUMMARY:Minglrs julefrokost på Roberta’s Society 35+
@@ -340,7 +270,7 @@ URL:https://aarhusinside.dk/event/minglrs-julefrokost-paa-robertas-society-
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-julebanko-paa-godsbanen-2@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Julebanko på Godsbanen
@@ -351,7 +281,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julens-vine-hos-smag-foerst@aarhus-kalen
  der
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261217T190000
 DTEND;TZID=Europe/Copenhagen:20261217T210000
 SUMMARY:Julens vine hos Smag Først
@@ -362,7 +292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-portvin-og-venner-hos-smag-foerst@aarhus
  -kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261218T190000
 DTEND;TZID=Europe/Copenhagen:20261218T210000
 SUMMARY:Portvin og venner hos Smag Først
@@ -373,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-nytaars-champagnesmagning-hos-smag-foers
  t@aarhus-kalender
-DTSTAMP:20261027T094510Z
+DTSTAMP:20261027T160516Z
 DTSTART;TZID=Europe/Copenhagen:20261229T150000
 DTEND;TZID=Europe/Copenhagen:20261229T170000
 SUMMARY:Nytårs champagnesmagning hos Smag Først
