@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gb-signe-boisen-manus@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261213
 SUMMARY:Signe Boisen: Manus.
@@ -34,8 +34,8 @@ CATEGORIES:Kunst\,Godsbanen\,Gratis
 URL:https://godsbanen.dk/kalender/signe-boisen-manus/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-56764887@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261026-2349357@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261026T090000
 DTEND;TZID=Europe/Copenhagen:20261026T110000
 SUMMARY:Talk & Morgenmad hos Boule bl.a. om fornyelsen af det gamle værtsh
@@ -45,8 +45,8 @@ CATEGORIES:Kunst\,Heromkring\,Gratis
 URL:https://stilling.dk/bistro-arkitekter/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-85264379@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261026-78832271@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261026T160000
 DTEND;TZID=Europe/Copenhagen:20261026T180000
 SUMMARY:Fermenteringsværksted på Dokk1
@@ -56,8 +56,8 @@ URL:https://www.aakb.dk/hovedbiblioteket/arrangementer/baeredygtighed-og-na
  tur/fermenteringsvaerksted
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-2787782@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261026-11119592@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261026T170000
 DTEND;TZID=Europe/Copenhagen:20261026T190000
 SUMMARY:Fyraftenskoncert med Maline Nuka Heiberg i Langenæskirken
@@ -68,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gb-udgivelsesreception-vandringsdigte-en-rejsedagbog-mellem-koebenhavn-
  og-aarhus@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Udgivelsesreception: Vandringsdigte – en rejsedagbog mellem Købe
@@ -79,8 +79,8 @@ URL:https://godsbanen.dk/kalender/udgivelsesreception-vandringsdigte-en-rej
  sedagbog-mellem-koebenhavn-og-aarhus/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-38541104@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261027-36168182@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261027T120000
 DTEND;TZID=Europe/Copenhagen:20261027T140000
 SUMMARY:Workshoppen ‘Gå fra idé til forretning’ hos Incuba
@@ -89,8 +89,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
 URL:https://incuba.dk/community/events/2026/gaa-fra-ide-til-forretning/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-44282894@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261027-61301021@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261027T160000
 DTEND;TZID=Europe/Copenhagen:20261027T180000
 SUMMARY:Kom til artist talk med Lea Porsager hos Det Jyske Kunstakademi
@@ -99,8 +99,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
 URL:https://www.instagram.com/p/DebfvBvDXDA/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-68616905@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261027-66392955@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261027T170000
 DTEND;TZID=Europe/Copenhagen:20261027T190000
 SUMMARY:Åbent forfatter- og illustratorfællesskab ‘Skab!’ hos Dokk1
@@ -110,8 +110,8 @@ URL:https://www.aakb.dk/hovedbiblioteket/arrangementer/viden-og-demokrati/s
  kab-besoger-dokk1
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-45024691@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261027-60181661@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261027T193000
 DTEND;TZID=Europe/Copenhagen:20261027T213000
 SUMMARY:Åben poetisk scene hos Løve’s Café
@@ -121,7 +121,7 @@ URL:https://fb.me/e/59Xd71SCl
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-bluecliff@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Blue Cliff: What Lies Beneath
@@ -130,8 +130,8 @@ CATEGORIES:Teater & Dans\,Godsbanen\,Gratis
 URL:https://godsbanen.dk/kalender/bluecliff/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-76105402@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261028-55502673@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261028T163000
 DTEND;TZID=Europe/Copenhagen:20261028T183000
 SUMMARY:BookTalk hos Det Kgl. Bibliotek med Hiromi Kawakami
@@ -140,8 +140,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
 URL:https://billetto.dk/e/booktalks-hiromi-kawakami-billetter-2006157
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-54051837@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261028-11794843@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261028T170000
 DTEND;TZID=Europe/Copenhagen:20261028T190000
 SUMMARY:BSS startup holder ‘wine & vibe coding’ med udgangspunkt i Lova
@@ -151,8 +151,8 @@ CATEGORIES:Kunst\,Heromkring\,Gratis
 URL:https://www.bssstartup.com/events/vibe-wine-coding-lab
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-35617315@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261028-80172447@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261028T173000
 DTEND;TZID=Europe/Copenhagen:20261028T193000
 SUMMARY:Tid til noget mærkeligt? Prøv opstartstræning hos Aarhus Armwres
@@ -164,7 +164,7 @@ URL:https://motivu.dk/klubber/20538/aarhus-armwrestlers/traeninger/17876/aa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261028-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261028T180000
 DTEND;TZID=Europe/Copenhagen:20261028T194000
 SUMMARY:Hopning for Quinder
@@ -173,8 +173,8 @@ CATEGORIES:Kunst\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-14801311@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261028-47366759@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261028T190000
 DTEND;TZID=Europe/Copenhagen:20261028T210000
 SUMMARY:‍ Tech Pub med Tech Hub Aarhus
@@ -186,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/all-new-festival-part-1-bands-deep-divers-2@aarhus-kalende
  r
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261028T193000
 DTEND;TZID=Europe/Copenhagen:20261028T213000
 SUMMARY:ALL NEW FESTIVAL part #1: Bands & Deep Divers - Det Jyske Musikkons
@@ -199,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/all-new-festival-part-1-bands-deep-divers-3@aarhus-kalende
  r
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261028T200000
 DTEND;TZID=Europe/Copenhagen:20261028T220000
 SUMMARY:ALL NEW FESTIVAL part #1: Bands & Deep Divers - Det Jyske Musikkons
@@ -210,8 +210,8 @@ URL:https://www.musikhuset.dk/kalender/all-new-festival-part-1-bands-deep-d
  ivers-3
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261029-68608037@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261029-70311763@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261029T173000
 DTEND;TZID=Europe/Copenhagen:20261029T193000
 SUMMARY:Foredraget ‘Fantastiske farver’ hos Antikmuseet Århus
@@ -221,7 +221,7 @@ URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20374744
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-faellesspisning-20261029-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261029T180000
 DTEND;TZID=Europe/Copenhagen:20261029T210000
 SUMMARY:Fællesspisning
@@ -232,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/all-new-festival-part-2-bands-deep-divers-2@aarhus-kalende
  r
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261029T193000
 DTEND;TZID=Europe/Copenhagen:20261029T213000
 SUMMARY:ALL NEW FESTIVAL part #2: Bands & Deep Divers - Det Jyske Musikkons
@@ -245,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/all-new-festival-part-2-bands-deep-divers-3@aarhus-kalende
  r
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261029T200000
 DTEND;TZID=Europe/Copenhagen:20261029T220000
 SUMMARY:ALL NEW FESTIVAL part #2: Bands & Deep Divers - Det Jyske Musikkons
@@ -257,7 +257,7 @@ URL:https://www.musikhuset.dk/kalender/all-new-festival-part-2-bands-deep-d
 END:VEVENT
 BEGIN:VEVENT
 UID:va-93fffd7a-c199-4071-bea7-68c8886ee809-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Lystændingsfest i Salling
@@ -267,8 +267,8 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/lystaendingsf
  est-i-salling-gdk1128059
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261030-73197649@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261030-36182910@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261030T140000
 DTEND;TZID=Europe/Copenhagen:20261030T160000
 SUMMARY:Århus Space Center & Center for Vikingetid og Middelalder invitere
@@ -279,7 +279,7 @@ URL:https://fb.me/e/29Wp9ltQNe
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-concertdeconstructed@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Concert|Deconstructed
@@ -288,8 +288,8 @@ CATEGORIES:Musik & Koncerter\,Godsbanen\,Gratis
 URL:https://godsbanen.dk/kalender/concertdeconstructed/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261031-20028415@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261031-50896726@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261031T090000
 DTEND;TZID=Europe/Copenhagen:20261031T110000
 SUMMARY:Havehygge på Kalø Højskole
@@ -300,7 +300,7 @@ URL:https://www.go-syddjurs.dk/?ytroute=%2Farrangementer%2F61288%2Flokal-ha
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/syng-i-den-blaa@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261031T110000
 DTEND;TZID=Europe/Copenhagen:20261031T130000
 SUMMARY:Syng i den blå - Fællessang
@@ -309,8 +309,8 @@ CATEGORIES:Kunst\,Musikhuset Aarhus\,Gratis
 URL:https://www.musikhuset.dk/kalender/syng-i-den-blaa
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261031-6139862@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261031-84206056@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261031T130000
 DTEND;TZID=Europe/Copenhagen:20261031T150000
 SUMMARY:Dokk1 læser livet højt med bl.a. Bukowski\, Tove Ditlevsen
@@ -320,7 +320,7 @@ URL:https://fb.me/e/4X0cwvDhN
 END:VEVENT
 BEGIN:VEVENT
 UID:va-f3bf3533-bd3d-4643-a97f-5c648465aa19-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
 SUMMARY:Aarhus Series & Film Festival
@@ -331,7 +331,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhus-series
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/skaermfri-sondag@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261101T100000
 DTEND;TZID=Europe/Copenhagen:20261101T120000
 SUMMARY:Skærmfri søndag - Musikhygge med familien
@@ -340,8 +340,8 @@ CATEGORIES:Familie & Børn\,Musikhuset Aarhus\,Gratis
 URL:https://www.musikhuset.dk/kalender/skaermfri-sondag
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261101-12913830@aarhus-kalender
-DTSTAMP:20261027T075520Z
+UID:hk-20261101-81569177@aarhus-kalender
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261101T100000
 DTEND;TZID=Europe/Copenhagen:20261101T120000
 SUMMARY:Fugletur ved Egå Engsø
@@ -352,7 +352,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/online-informationsmoede-klassiske-uddannelser@aarhus-kale
  nder
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261102T183000
 DTEND;TZID=Europe/Copenhagen:20261102T203000
 SUMMARY:Online informationsmøde - klassiske uddannelser - Det Jyske Musikk
@@ -364,7 +364,7 @@ URL:https://www.musikhuset.dk/kalender/online-informationsmoede-klassiske-u
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/new-music-for-strings-expanding-tradition@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261102T190000
 DTEND;TZID=Europe/Copenhagen:20261102T210000
 SUMMARY:New Music for Strings: Expanding Tradition - Det Jyske Musikkonserv
@@ -376,7 +376,7 @@ URL:https://www.musikhuset.dk/kalender/new-music-for-strings-expanding-trad
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/floejteaften-floejte-og-klaver@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261102T193000
 DTEND;TZID=Europe/Copenhagen:20261102T213000
 SUMMARY:Fløjteaften: Fløjte og klaver - Det Jyske Musikkonservatorium
@@ -386,7 +386,7 @@ URL:https://www.musikhuset.dk/kalender/floejteaften-floejte-og-klaver
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-bogreception-peter-pans-boern@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Bogreception – ‘Peter Pans børn’
@@ -396,7 +396,7 @@ URL:https://godsbanen.dk/kalender/bogreception-peter-pans-boern/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/sangsoire-2@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261103T193000
 DTEND;TZID=Europe/Copenhagen:20261103T213000
 SUMMARY:Sangsoiré - Det Jyske Musikkonservatorium
@@ -406,7 +406,7 @@ URL:https://www.musikhuset.dk/kalender/sangsoire-2
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261104-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261104T180000
 DTEND;TZID=Europe/Copenhagen:20261104T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -416,7 +416,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261104-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261104T180000
 DTEND;TZID=Europe/Copenhagen:20261104T194000
 SUMMARY:Hopning for Quinder
@@ -426,7 +426,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/koncertcafe-aarhus-2@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261104T190000
 DTEND;TZID=Europe/Copenhagen:20261104T210000
 SUMMARY:Koncertcafé Aarhus - Det Jyske Musikkonservatorium
@@ -436,7 +436,7 @@ URL:https://www.musikhuset.dk/kalender/koncertcafe-aarhus-2
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/basunaften-2@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261104T193000
 DTEND;TZID=Europe/Copenhagen:20261104T213000
 SUMMARY:Basun- og Tubaaften - Det Jyske Musikkonservatorium
@@ -446,7 +446,7 @@ URL:https://www.musikhuset.dk/kalender/basunaften-2
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/koncertcafe-aarhus-3@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261105T190000
 DTEND;TZID=Europe/Copenhagen:20261105T210000
 SUMMARY:Koncertcafé Aarhus - Det Jyske Musikkonservatorium
@@ -456,7 +456,7 @@ URL:https://www.musikhuset.dk/kalender/koncertcafe-aarhus-3
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/celloaften-10@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261106T193000
 DTEND;TZID=Europe/Copenhagen:20261106T213000
 SUMMARY:Celloaften - Det Jyske Musikkonservatorium
@@ -466,7 +466,7 @@ URL:https://www.musikhuset.dk/kalender/celloaften-10
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/afterlive-soren-manscher@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261106T213000
 DTEND;TZID=Europe/Copenhagen:20261106T233000
 SUMMARY:Afterlive: Søren Manscher
@@ -476,7 +476,7 @@ URL:https://www.musikhuset.dk/kalender/afterlive-soren-manscher
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/saxofonmatine-2@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261108T150000
 DTEND;TZID=Europe/Copenhagen:20261108T170000
 SUMMARY:Saxofonmatiné - Det Jyske Musikkonservatorium
@@ -486,7 +486,7 @@ URL:https://www.musikhuset.dk/kalender/saxofonmatine-2
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/operakoncert-2@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261108T193000
 DTEND;TZID=Europe/Copenhagen:20261108T213000
 SUMMARY:Operakoncert - Det Jyske Musikkonservatorium
@@ -496,7 +496,7 @@ URL:https://www.musikhuset.dk/kalender/operakoncert-2
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/diem-elektro-3@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261109T200000
 DTEND;TZID=Europe/Copenhagen:20261109T220000
 SUMMARY:DIEM Elektro - Det Jyske Musikkonservatorium
@@ -506,7 +506,7 @@ URL:https://www.musikhuset.dk/kalender/diem-elektro-3
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/bigbandkoncert-5@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261110T193000
 DTEND;TZID=Europe/Copenhagen:20261110T213000
 SUMMARY:Bigbandkoncert - Indian Skies - Det Jyske Musikkonservatorium
@@ -516,7 +516,7 @@ URL:https://www.musikhuset.dk/kalender/bigbandkoncert-5
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/slagtoejsaften-5@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261110T193000
 DTEND;TZID=Europe/Copenhagen:20261110T213000
 SUMMARY:Slagtøjsaften - Det Jyske Musikkonservatorium
@@ -526,7 +526,7 @@ URL:https://www.musikhuset.dk/kalender/slagtoejsaften-5
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261111-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261111T180000
 DTEND;TZID=Europe/Copenhagen:20261111T194000
 SUMMARY:Hopning for Quinder
@@ -536,7 +536,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/kammerkoncert-5@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261111T193000
 DTEND;TZID=Europe/Copenhagen:20261111T213000
 SUMMARY:Kammerkoncert - Det Jyske Musikkonservatorium
@@ -546,7 +546,7 @@ URL:https://www.musikhuset.dk/kalender/kammerkoncert-5
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/guitaraften-2@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261112T193000
 DTEND;TZID=Europe/Copenhagen:20261112T213000
 SUMMARY:Guitaraften - Det Jyske Musikkonservatorium
@@ -556,7 +556,7 @@ URL:https://www.musikhuset.dk/kalender/guitaraften-2
 END:VEVENT
 BEGIN:VEVENT
 UID:va-ef1764e7-3094-4b8b-b2fb-8eb8bea79e8a-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261223
 SUMMARY:Julemarkedet Julen i Aarhus
@@ -567,7 +567,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julemarkedet-
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/koncert-med-tidlig-musik@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261113T193000
 DTEND;TZID=Europe/Copenhagen:20261113T213000
 SUMMARY:Koncert med tidlig musik - Det Jyske Musikkonservatorium
@@ -578,7 +578,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/fra-glemsel-til-genopdagelse-releasekoncert-for-resurgence
  @aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261114T150000
 DTEND;TZID=Europe/Copenhagen:20261114T170000
 SUMMARY:Fra glemsel til genopdagelse: Releasekoncert for RESURGENCE - Det J
@@ -590,7 +590,7 @@ URL:https://www.musikhuset.dk/kalender/fra-glemsel-til-genopdagelse-release
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-landscapes@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Cunts Collective: Leaking Landscapes
@@ -600,7 +600,7 @@ URL:https://godsbanen.dk/kalender/landscapes/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261118-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261118T180000
 DTEND;TZID=Europe/Copenhagen:20261118T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -610,7 +610,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261118-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261118T180000
 DTEND;TZID=Europe/Copenhagen:20261118T194000
 SUMMARY:Hopning for Quinder
@@ -620,7 +620,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-faellesspisning-20261119-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261119T180000
 DTEND;TZID=Europe/Copenhagen:20261119T210000
 SUMMARY:Fællesspisning
@@ -630,7 +630,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-a89ddf2a-01b9-41bf-8e23-407d627c77bc-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Orkesterfestivalen i Musikhuset Aarhus
@@ -641,7 +641,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/orkesterfesti
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-boggods-2026@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:BogGods 2026
@@ -651,7 +651,7 @@ URL:https://godsbanen.dk/kalender/boggods-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261125-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261125T180000
 DTEND;TZID=Europe/Copenhagen:20261125T194000
 SUMMARY:Hopning for Quinder
@@ -661,7 +661,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-6dd7d14d-c31c-442e-a7e4-ad0911714b76-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
 SUMMARY:Aarhus Kunst- og Julemarked i Ridehuset
@@ -672,7 +672,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhus-kunst-
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261202-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261202T180000
 DTEND;TZID=Europe/Copenhagen:20261202T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -682,7 +682,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261202-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261202T180000
 DTEND;TZID=Europe/Copenhagen:20261202T194000
 SUMMARY:Hopning for Quinder
@@ -692,7 +692,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-68e83640-a9c9-417f-98f7-ca59c8e3f173-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261207
 SUMMARY:Arkitektskolens Julemarked
@@ -703,7 +703,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/arkitektskole
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-foto-julemarked@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Analogt portræt til Godsbanens julemarked
@@ -713,7 +713,7 @@ URL:https://godsbanen.dk/kalender/foto-julemarked/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-godsbanens-julemarked-2026@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Godsbanens Julemarked 2026
@@ -723,7 +723,7 @@ URL:https://godsbanen.dk/kalender/godsbanens-julemarked-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261209-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261209T180000
 DTEND;TZID=Europe/Copenhagen:20261209T194000
 SUMMARY:Hopning for Quinder
@@ -733,7 +733,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-ef3803c5-659d-4737-ae27-cb4f5af03e51-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Luciaoptog gennem Aarhus med ReThinkers
@@ -744,7 +744,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/luciaoptog-ge
 END:VEVENT
 BEGIN:VEVENT
 UID:va-9e82afba-fa3a-45d7-89fd-cfb2a724f6e2-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Luciaoptog i kajak
@@ -755,7 +755,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/luciaoptog-i-
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-sult@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Teater Carbon & III: EVIG SULT – ET COLLAGEVÆRK
@@ -765,7 +765,7 @@ URL:https://godsbanen.dk/kalender/sult/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261216-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261216T180000
 DTEND;TZID=Europe/Copenhagen:20261216T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -775,7 +775,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261216-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261216T180000
 DTEND;TZID=Europe/Copenhagen:20261216T194000
 SUMMARY:Hopning for Quinder
@@ -785,7 +785,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270106-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270106T180000
 DTEND;TZID=Europe/Copenhagen:20270106T194000
 SUMMARY:Hopning for Quinder
@@ -795,7 +795,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270113-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270113T180000
 DTEND;TZID=Europe/Copenhagen:20270113T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -805,7 +805,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270113-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270113T180000
 DTEND;TZID=Europe/Copenhagen:20270113T194000
 SUMMARY:Hopning for Quinder
@@ -815,7 +815,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270120-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270120T180000
 DTEND;TZID=Europe/Copenhagen:20270120T194000
 SUMMARY:Hopning for Quinder
@@ -825,7 +825,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270127-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270127T180000
 DTEND;TZID=Europe/Copenhagen:20270127T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -835,7 +835,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270127-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270127T180000
 DTEND;TZID=Europe/Copenhagen:20270127T194000
 SUMMARY:Hopning for Quinder
@@ -845,7 +845,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270203-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270203T180000
 DTEND;TZID=Europe/Copenhagen:20270203T194000
 SUMMARY:Hopning for Quinder
@@ -855,7 +855,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270210-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270210T180000
 DTEND;TZID=Europe/Copenhagen:20270210T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -865,7 +865,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270210-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270210T180000
 DTEND;TZID=Europe/Copenhagen:20270210T194000
 SUMMARY:Hopning for Quinder
@@ -875,7 +875,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270217-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270217T180000
 DTEND;TZID=Europe/Copenhagen:20270217T194000
 SUMMARY:Hopning for Quinder
@@ -885,7 +885,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270224-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270224T180000
 DTEND;TZID=Europe/Copenhagen:20270224T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -895,7 +895,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270224-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270224T180000
 DTEND;TZID=Europe/Copenhagen:20270224T194000
 SUMMARY:Hopning for Quinder
@@ -905,7 +905,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-15692aaa-103d-44a2-9441-a18140e874a0-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270228
 SUMMARY:U-days i Aarhus
@@ -916,7 +916,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/u-days-i-aarh
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270303-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270303T180000
 DTEND;TZID=Europe/Copenhagen:20270303T194000
 SUMMARY:Hopning for Quinder
@@ -926,7 +926,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270310-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270310T180000
 DTEND;TZID=Europe/Copenhagen:20270310T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -936,7 +936,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270310-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270310T180000
 DTEND;TZID=Europe/Copenhagen:20270310T194000
 SUMMARY:Hopning for Quinder
@@ -946,7 +946,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270317-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270317T180000
 DTEND;TZID=Europe/Copenhagen:20270317T194000
 SUMMARY:Hopning for Quinder
@@ -956,7 +956,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270324-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270324T180000
 DTEND;TZID=Europe/Copenhagen:20270324T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -966,7 +966,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270324-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270324T180000
 DTEND;TZID=Europe/Copenhagen:20270324T194000
 SUMMARY:Hopning for Quinder
@@ -976,7 +976,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270331-180000@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20270331T180000
 DTEND;TZID=Europe/Copenhagen:20270331T194000
 SUMMARY:Hopning for Quinder
@@ -986,7 +986,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-094f577a-59cf-43b1-bbad-1aadd1350241-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270405
 SUMMARY:Works Art Fair

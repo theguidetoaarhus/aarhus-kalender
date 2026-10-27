@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mh-/kalender/skaermfri-sondag@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261101T100000
 DTEND;TZID=Europe/Copenhagen:20261101T120000
 SUMMARY:Skærmfri søndag - Musikhygge med familien
@@ -35,7 +35,7 @@ URL:https://www.musikhuset.dk/kalender/skaermfri-sondag
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/karius-og-baktus@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261108T110000
 DTEND;TZID=Europe/Copenhagen:20261108T130000
 SUMMARY:Karius og Baktus
@@ -45,7 +45,7 @@ URL:https://www.musikhuset.dk/kalender/karius-og-baktus
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/familieteater@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;TZID=Europe/Copenhagen:20261114T120000
 DTEND;TZID=Europe/Copenhagen:20261114T140000
 SUMMARY:Familieteater
@@ -55,7 +55,7 @@ URL:https://www.musikhuset.dk/kalender/familieteater
 END:VEVENT
 BEGIN:VEVENT
 UID:va-2c901262-161c-4439-a333-177cfc7cc5c7-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Kazoo - Børnemusikfestival i Musikhuset Aarhus

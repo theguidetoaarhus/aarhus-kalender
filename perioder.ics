@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gb-signe-boisen-manus@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261213
 SUMMARY:Signe Boisen: Manus.
@@ -36,7 +36,7 @@ URL:https://godsbanen.dk/kalender/signe-boisen-manus/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-55ef6ea6-ab94-4fdb-8da6-cf249783c9c1-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20270215
 SUMMARY:Skøjtebanen i Musikhusparken i Aarhus
@@ -47,7 +47,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/skoejtebanen-
 END:VEVENT
 BEGIN:VEVENT
 UID:va-f3bf3533-bd3d-4643-a97f-5c648465aa19-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
 SUMMARY:Aarhus Series & Film Festival
@@ -58,7 +58,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhus-series
 END:VEVENT
 BEGIN:VEVENT
 UID:va-7ea3d43f-1e67-4306-bcbb-afe1946b07ac-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261231
 SUMMARY:Julerundfart med Juleskibet Svanen
@@ -69,7 +69,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julerundfart-
 END:VEVENT
 BEGIN:VEVENT
 UID:va-5f37159d-2d5d-45d0-ae0a-c5cda659b0e3-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261223
 SUMMARY:Havnerundfart på Juldamperen
@@ -80,7 +80,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/havnerundfart
 END:VEVENT
 BEGIN:VEVENT
 UID:va-ef1764e7-3094-4b8b-b2fb-8eb8bea79e8a-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261223
 SUMMARY:Julemarkedet Julen i Aarhus
@@ -91,7 +91,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julemarkedet-
 END:VEVENT
 BEGIN:VEVENT
 UID:va-5681efa1-6927-4206-93d0-406915d076e3-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20270101
 SUMMARY:Jul i Den Gamle By
@@ -102,7 +102,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/jul-i-den-gam
 END:VEVENT
 BEGIN:VEVENT
 UID:va-0bb34432-b36d-4216-ac7d-aac0815180ce-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261129
 SUMMARY:Jul i Friheden
@@ -113,7 +113,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/jul-i-frihede
 END:VEVENT
 BEGIN:VEVENT
 UID:va-8c767486-bb39-44c8-953b-d12238b2b0b7-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20270101
 SUMMARY:Julehygge i Aarhusregionen
@@ -124,7 +124,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julehygge-i-a
 END:VEVENT
 BEGIN:VEVENT
 UID:va-97ed9430-04b5-4bd0-8cfb-133628e33ac7-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261217
 SUMMARY:Rundvisning om Julens Planter i Væksthusene i Aarhus
@@ -135,7 +135,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/rundvisning-o
 END:VEVENT
 BEGIN:VEVENT
 UID:va-3ce203d1-a1c1-4910-84c4-721c4d45f089-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261218
 SUMMARY:Risengrød og bamsejul
@@ -146,7 +146,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/risengroed-og
 END:VEVENT
 BEGIN:VEVENT
 UID:va-4e89d2c5-cb73-4406-9b3a-3cd12995f933-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261223
 SUMMARY:Julekoncerter i Aarhus' kirker
@@ -157,7 +157,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julekoncerter
 END:VEVENT
 BEGIN:VEVENT
 UID:va-6dd7d14d-c31c-442e-a7e4-ad0911714b76-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
 SUMMARY:Aarhus Kunst- og Julemarked i Ridehuset
@@ -168,7 +168,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhus-kunst-
 END:VEVENT
 BEGIN:VEVENT
 UID:va-e23f5e33-4eda-40a2-b648-d2a7ceb62ca3-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270311
 SUMMARY:Hamlet på Aarhus Teater
@@ -179,7 +179,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/hamlet-paa-aa
 END:VEVENT
 BEGIN:VEVENT
 UID:va-02de1486-6f8f-4443-948d-96a654c1ac6a-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270222
 SUMMARY:Vinterferie i Den Gamle By
@@ -190,7 +190,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/vinterferie-i
 END:VEVENT
 BEGIN:VEVENT
 UID:va-1a454ecf-99ff-4eee-9a41-edc6f7fc9c01-0@aarhus-kalender
-DTSTAMP:20261027T075520Z
+DTSTAMP:20261027T083822Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270315
 SUMMARY:Århundredets Festival
