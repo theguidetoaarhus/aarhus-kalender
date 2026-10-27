@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aarhus-kalender//scrape_aarhus_events//DA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aarhus – Teater & Dans
+X-WR-CALDESC:Teater & Dans i Aarhus
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hk-20261027-12250011@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T171500
+DTEND;TZID=Europe/Copenhagen:20261027T191500
+SUMMARY:Forelæsningsrække om ‘Den nye danske litteraturkanon’ hos Fol
+ keuniversitetet
+LOCATION:Aarhus
+CATEGORIES:Teater & Dans\,Heromkring
+URL:https://fuau.dk/aarhus/program/litteratur-sprog-film-og-musik/den-nye-d
+ anske-litteraturkanon-2621-129?area=Aarhus
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-bluecliff@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Blue Cliff: What Lies Beneath
+LOCATION:Godsbanen
+CATEGORIES:Teater & Dans\,Godsbanen\,Gratis
+URL:https://godsbanen.dk/kalender/bluecliff/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-de-doede-lykkeligt-til-deres-dages-ende@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:DE DØDE LYKKELIGT TIL DERES DAGES ENDE
+LOCATION:Godsbanen
+CATEGORIES:Teater & Dans\,Godsbanen
+URL:https://godsbanen.dk/kalender/de-doede-lykkeligt-til-deres-dages-ende/
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/omgivet-af-idioter@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261031T150000
+DTEND;TZID=Europe/Copenhagen:20261031T170000
+SUMMARY:Omgivet af idioter
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Teater & Dans\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/omgivet-af-idioter
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/before-the-end@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261104T193000
+DTEND;TZID=Europe/Copenhagen:20261104T213000
+SUMMARY:Before The End
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Teater & Dans\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/before-the-end
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/kammerballetten@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261108T193000
+DTEND;TZID=Europe/Copenhagen:20261108T213000
+SUMMARY:Kammerballetten
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Teater & Dans\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/kammerballetten
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/musefaelden@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261110T193000
+DTEND;TZID=Europe/Copenhagen:20261110T213000
+SUMMARY:Musefælden
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Teater & Dans\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/musefaelden
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-storyslam-den-fixer-jeg@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:STORYSLAM “Den fixer jeg!”
+LOCATION:Godsbanen
+CATEGORIES:Teater & Dans\,Godsbanen
+URL:https://godsbanen.dk/kalender/storyslam-den-fixer-jeg/
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/fredagsdans@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261113T160000
+DTEND;TZID=Europe/Copenhagen:20261113T180000
+SUMMARY:Fredagsdans
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Teater & Dans\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/fredagsdans
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/familiedans@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261114T100000
+DTEND;TZID=Europe/Copenhagen:20261114T120000
+SUMMARY:Familiedans - Teaterhuset Filuren
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Teater & Dans\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/familiedans
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-landscapes@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Cunts Collective: Leaking Landscapes
+LOCATION:Godsbanen
+CATEGORIES:Teater & Dans\,Godsbanen\,Gratis
+URL:https://godsbanen.dk/kalender/landscapes/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-don-quixote-fin@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+SUMMARY:DON QUIXOTE (FIN)
+LOCATION:Godsbanen
+CATEGORIES:Teater & Dans\,Godsbanen
+URL:https://godsbanen.dk/kalender/don-quixote-fin/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-kan-poesien-flytte-verden-symposium@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Kan poesien flytte verden? – symposium
+LOCATION:Godsbanen
+CATEGORIES:Teater & Dans\,Godsbanen
+URL:https://godsbanen.dk/kalender/kan-poesien-flytte-verden-symposium/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-dinosaur-world@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:DINOSAUR WORLD
+LOCATION:Godsbanen
+CATEGORIES:Teater & Dans\,Godsbanen
+URL:https://godsbanen.dk/kalender/dinosaur-world/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-6b4e3211-fe3e-40eb-aa53-07c17aba26a9-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Rundvisning på Aarhus Teater
+LOCATION:Aarhus
+CATEGORIES:Teater & Dans\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/rundvisning-p
+ aa-aarhus-teater-gdk1125316
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-sult@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Teater Carbon & III: EVIG SULT – ET COLLAGEVÆRK
+LOCATION:Godsbanen
+CATEGORIES:Teater & Dans\,Godsbanen\,Gratis
+URL:https://godsbanen.dk/kalender/sult/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-residency-mia-og-martha-bider@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:RESIDENCY: Mia og Martha bider
+LOCATION:Godsbanen
+CATEGORIES:Teater & Dans\,Godsbanen
+URL:https://godsbanen.dk/kalender/residency-mia-og-martha-bider/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-e23f5e33-4eda-40a2-b648-d2a7ceb62ca3-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270311
+SUMMARY:Hamlet på Aarhus Teater
+LOCATION:Aarhus
+CATEGORIES:Teater & Dans\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/hamlet-paa-aa
+ rhus-teater-gdk1158902
+END:VEVENT
+BEGIN:VEVENT
+UID:va-466d9ca4-b979-4886-8507-98d881dbf8e1-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270325
+SUMMARY:Danseforestillingen Faust på Aarhus Teater
+LOCATION:Aarhus
+CATEGORIES:Teater & Dans\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/danseforestil
+ lingen-faust-paa-aarhus-teater-gdk1158899
+END:VEVENT
+END:VCALENDAR

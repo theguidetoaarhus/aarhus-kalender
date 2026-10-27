@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aarhus-kalender//scrape_aarhus_events//DA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aarhus – Comedy & Show
+X-WR-CALDESC:Comedy & Show i Aarhus
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:mh-/kalender/magt@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261029T193000
+DTEND;TZID=Europe/Copenhagen:20261029T213000
+SUMMARY:MAGT - MAGT FOR ENHVER PRIS
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Comedy & Show\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/magt
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/rmbshow@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261030T130000
+DTEND;TZID=Europe/Copenhagen:20261030T150000
+SUMMARY:RMBshow
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Comedy & Show\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/rmbshow
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/anders-wortmann@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261101T190000
+DTEND;TZID=Europe/Copenhagen:20261101T210000
+SUMMARY:Anders Wortmann - Far til 2
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Comedy & Show\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/anders-wortmann
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/daniel-lill@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261104T190000
+DTEND;TZID=Europe/Copenhagen:20261104T210000
+SUMMARY:Daniel Lill - En simpel mand
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Comedy & Show\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/daniel-lill
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/specialklassen@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261107T180000
+DTEND;TZID=Europe/Copenhagen:20261107T200000
+SUMMARY:Specialklassen - Er det for meget?
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Comedy & Show\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/specialklassen
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/trines-mor@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261112T183000
+DTEND;TZID=Europe/Copenhagen:20261112T203000
+SUMMARY:Trines mor - Bodil Jørgensen og Lisbeth Wulff
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Comedy & Show\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/trines-mor
+END:VEVENT
+END:VCALENDAR

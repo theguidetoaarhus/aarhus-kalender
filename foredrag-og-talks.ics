@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aarhus-kalender//scrape_aarhus_events//DA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aarhus – Foredrag & Talks
+X-WR-CALDESC:Foredrag & Talks i Aarhus
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:hk-20261026-9483985@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261026T190000
+DTEND;TZID=Europe/Copenhagen:20261026T210000
+SUMMARY:UGENS SATS – Foredrag om ‘Living without a Mobile’ hos Hjerte
+ rum
+LOCATION:Aarhus
+CATEGORIES:Foredrag & Talks\,Heromkring
+URL:https://holistisk.org/events/#!event/2026/10/26/hjerterum
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261026-61098512@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261026T190000
+DTEND;TZID=Europe/Copenhagen:20261026T210000
+SUMMARY:Forfattersamtale med Asta Olivia Nordenhof
+LOCATION:Aarhus
+CATEGORIES:Foredrag & Talks\,Heromkring
+URL:https://www.litteraturen.nu/begivenhed/forfattersamtale-med-asta-olivia
+ -nordenhof/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261026-58381899@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261026T193000
+DTEND;TZID=Europe/Copenhagen:20261026T213000
+SUMMARY:Forelæsning om mesterfotografer ‘Krigsfotografen: Robert Capa’
+LOCATION:Aarhus
+CATEGORIES:Foredrag & Talks\,Heromkring
+URL:https://fuau.dk/aarhus/program/kunst-arkitektur-og-design/mesterfotogra
+ fer-krigsfotografen-robert-capa-2621-007?area=Aarhus
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-udgivelsesreception-vandringsdigte-en-rejsedagbog-mellem-koebenhavn-
+ og-aarhus@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Udgivelsesreception: Vandringsdigte – en rejsedagbog mellem Købe
+ nhavn og Aarhus
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen\,Gratis
+URL:https://godsbanen.dk/kalender/udgivelsesreception-vandringsdigte-en-rej
+ sedagbog-mellem-koebenhavn-og-aarhus/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261027-38541104@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T120000
+DTEND;TZID=Europe/Copenhagen:20261027T140000
+SUMMARY:Workshoppen ‘Gå fra idé til forretning’ hos Incuba
+LOCATION:Aarhus
+CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
+URL:https://incuba.dk/community/events/2026/gaa-fra-ide-til-forretning/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261027-44282894@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T160000
+DTEND;TZID=Europe/Copenhagen:20261027T180000
+SUMMARY:Kom til artist talk med Lea Porsager hos Det Jyske Kunstakademi
+LOCATION:Aarhus
+CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
+URL:https://www.instagram.com/p/DebfvBvDXDA/
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/henrik-tingleff@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T190000
+DTEND;TZID=Europe/Copenhagen:20261027T210000
+SUMMARY:Henrik Tingleff - Manual til mennesker
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Foredrag & Talks\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/henrik-tingleff
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261028-76105402@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261028T163000
+DTEND;TZID=Europe/Copenhagen:20261028T183000
+SUMMARY:BookTalk hos Det Kgl. Bibliotek med Hiromi Kawakami
+LOCATION:Aarhus
+CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
+URL:https://billetto.dk/e/booktalks-hiromi-kawakami-billetter-2006157
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261028-56348095@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261028T190000
+DTEND;TZID=Europe/Copenhagen:20261028T210000
+SUMMARY:Musikforedrag om ‘The Cure’
+LOCATION:Aarhus
+CATEGORIES:Foredrag & Talks\,Heromkring
+URL:https://kulturhusbunkeren.dk/arrangementer/musikfortaellinger-the-cure
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261029-68608037@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261029T173000
+DTEND;TZID=Europe/Copenhagen:20261029T193000
+SUMMARY:Foredraget ‘Fantastiske farver’ hos Antikmuseet Århus
+LOCATION:Aarhus
+CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
+URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20374744
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/nul-stjerner@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261029T190000
+DTEND;TZID=Europe/Copenhagen:20261029T210000
+SUMMARY:Nul Stjerner - Det Store Rejseshow 2
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Foredrag & Talks\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/nul-stjerner
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-drejekursus-hurtig-intro-4@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:DREJEKURSUS – hurtig intro
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/drejekursus-hurtig-intro-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261101-1992910@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261101T131500
+DTEND;TZID=Europe/Copenhagen:20261101T151500
+SUMMARY:Efterårstur og blomster-workshop ved Moesgaard
+LOCATION:Aarhus
+CATEGORIES:Foredrag & Talks\,Heromkring
+URL:https://smagpaaaarhus.dk/arrangement/toerrede-blomster-og-evighedsbuket
+ ter/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-bogreception-peter-pans-boern@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Bogreception – ‘Peter Pans børn’
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen\,Gratis
+URL:https://godsbanen.dk/kalender/bogreception-peter-pans-boern/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kaffe-aau-foredrag-20261103-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261103T190000
+DTEND;TZID=Europe/Copenhagen:20261103T210000
+SUMMARY:Kaffe - AAU foredrag
+LOCATION:Beboernes Hus
+CATEGORIES:Foredrag & Talks\,Beboernes Hus
+URL:https://www.google.com/url?q=https://ofn.au.dk&amp;sa=D&amp;source=cale
+ ndar&amp;usd=2&amp;usg=AOvVaw3Yg2BEBimVEbd_NCzzdEgs
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-casting@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:INTRO: SILVER SAND CASTING
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/casting/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-find-roen-og-dit-kreative-flow-suminagashi-workshop@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Find roen og dit kreative flow: Suminagashi Workshop
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/find-roen-og-dit-kreative-flow-suminagash
+ i-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-foredrag-the-beatles-bandet-der-erobrede-verden@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Foredrag: The Beatles – bandet\, der erobrede verden
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/foredrag-the-beatles-bandet-der-erobrede-
+ verden/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-jewelry-make-your-own-ring-3@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Jewelry: Make your own ring
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/jewelry-make-your-own-ring-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-smykkekursus-lav-din-egen-ring-5@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Smykkekursus: Lav din egen ring
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/smykkekursus-lav-din-egen-ring-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-marmorering-af-papir-og-tekstil@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Marmorering af papir og tekstil
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/marmorering-af-papir-og-tekstil/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-de-paaroerende-journalistens-dilemma@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:De pårørende – journalistens dilemma
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/de-paaroerende-journalistens-dilemma/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-tang-aau-foredrag-20261117-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261117T190000
+DTEND;TZID=Europe/Copenhagen:20261117T210000
+SUMMARY:Tang - AAU foredrag
+LOCATION:Beboernes Hus
+CATEGORIES:Foredrag & Talks\,Beboernes Hus
+URL:https://www.google.com/url?q=https://ofn.au.dk&amp;sa=D&amp;source=cale
+ ndar&amp;usd=2&amp;usg=AOvVaw3Yg2BEBimVEbd_NCzzdEgs
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-smykkekursus-laer-at-stoebe-i-soelv-bronze-2@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Smykkekursus: Lær at støbe i sølv / bronze
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/smykkekursus-laer-at-stoebe-i-soelv-bronz
+ e-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-drejekursus-med-glasering-3@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:DREJEKURSUS med glasering
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/drejekursus-med-glasering-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-rammetryk-2@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Rammetryk
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/rammetryk-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-boggods-2026@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:BogGods 2026
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen\,Gratis
+URL:https://godsbanen.dk/kalender/boggods-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-smykkekursus-lav-din-egen-ring-3@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Smykkekursus: Lav din egen ring
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/smykkekursus-lav-din-egen-ring-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-lav-din-egen-skammel-i-trae-3@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:Lav din egen skammel i træ
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/lav-din-egen-skammel-i-trae-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-drejekursus-hurtig-intro-5@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:DREJEKURSUS – hurtig intro
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/drejekursus-hurtig-intro-5/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-smykkekursus-lav-din-egen-ring-6@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Smykkekursus: Lav din egen ring
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/smykkekursus-lav-din-egen-ring-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-drejekursus-hurtig-intro-6@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:DREJEKURSUS – hurtig intro
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/drejekursus-hurtig-intro-6/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-find-roen-og-dit-kreative-flow-suminagashi-workshop-2@aarhus-kalende
+ r
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Find roen og dit kreative flow: Suminagashi Workshop
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/find-roen-og-dit-kreative-flow-suminagash
+ i-workshop-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-find-roen-og-dit-kreative-flow-suminagashi-workshop-3@aarhus-kalende
+ r
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Find roen og dit kreative flow: Suminagashi Workshop
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/find-roen-og-dit-kreative-flow-suminagash
+ i-workshop-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-cyklusrevolutionen@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Cyklusrevolutionen
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/cyklusrevolutionen/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-johanne-mygind-cheminovas-giftige-arv@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Johanne Mygind: Cheminovas giftige arv
+LOCATION:Godsbanen
+CATEGORIES:Foredrag & Talks\,Godsbanen
+URL:https://godsbanen.dk/kalender/johanne-mygind-cheminovas-giftige-arv/
+END:VEVENT
+END:VCALENDAR

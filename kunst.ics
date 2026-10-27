@@ -1,0 +1,2099 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aarhus-kalender//scrape_aarhus_events//DA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aarhus – Kunst
+X-WR-CALDESC:Kunst i Aarhus
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:gb-signe-boisen-manus@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261213
+SUMMARY:Signe Boisen: Manus.
+LOCATION:Godsbanen
+CATEGORIES:Kunst\,Godsbanen\,Gratis
+URL:https://godsbanen.dk/kalender/signe-boisen-manus/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261026-56764887@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261026T090000
+DTEND;TZID=Europe/Copenhagen:20261026T110000
+SUMMARY:Talk & Morgenmad hos Boule bl.a. om fornyelsen af det gamle værtsh
+ us med medstifter & …
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring\,Gratis
+URL:https://stilling.dk/bistro-arkitekter/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261026-73622970@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261026T190000
+DTEND;TZID=Europe/Copenhagen:20261026T210000
+SUMMARY:‘Der er et myndigt land’ med Alex Vanopslagh
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://www.billetlugen.dk/event/der-er-et-myndigt-land-comwell-central
+ vaerkstedet-9-22096007/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261027-17797599@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T160000
+DTEND;TZID=Europe/Copenhagen:20261027T180000
+SUMMARY:Masterclass i ‘Frihedens fald’ hos ARoS
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://aros.safeticket.dk/event/113031/Masterclass_-_Tyske_ekspression
+ ister_Ernst_Ludwig_Kirchner_Emil_Nolde_og_K_the_K_the_Kollwitz
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261027-25120691@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T170000
+DTEND;TZID=Europe/Copenhagen:20261027T190000
+SUMMARY:Bagom sydkorea med journalist fra Malene Jensen fra Weekendavisen
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://www.aakb.dk/hovedbiblioteket/arrangementer/viden-og-demokrati/b
+ agom-sydkorea-0
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261027-68616905@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T170000
+DTEND;TZID=Europe/Copenhagen:20261027T190000
+SUMMARY:Åbent forfatter- og illustratorfællesskab ‘Skab!’ hos Dokk1
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring\,Gratis
+URL:https://www.aakb.dk/hovedbiblioteket/arrangementer/viden-og-demokrati/s
+ kab-besoger-dokk1
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261027-86574734@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T183000
+DTEND;TZID=Europe/Copenhagen:20261027T203000
+SUMMARY:Forfatter Eva Tind gæster KFM boghandel
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://billetto.dk/e/eva-tind-hos-kfm-billetter-2023076
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-latterklub-20261027-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T190000
+DTEND;TZID=Europe/Copenhagen:20261027T210000
+SUMMARY:Latterklub
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261027-42765348@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T190000
+DTEND;TZID=Europe/Copenhagen:20261027T210000
+SUMMARY:Mad & Fad hos Le Coq - menu er en overraskelse indtil tirsdag
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://www.instagram.com/p/DQozZRuAsEK/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261027-45024691@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T193000
+DTEND;TZID=Europe/Copenhagen:20261027T213000
+SUMMARY:Åben poetisk scene hos Løve’s Café
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring\,Gratis
+URL:https://fb.me/e/59Xd71SCl
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261028-54051837@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261028T170000
+DTEND;TZID=Europe/Copenhagen:20261028T190000
+SUMMARY:BSS startup holder ‘wine & vibe coding’ med udgangspunkt i Lova
+ ble
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring\,Gratis
+URL:https://www.bssstartup.com/events/vibe-wine-coding-lab
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261028-35617315@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261028T173000
+DTEND;TZID=Europe/Copenhagen:20261028T193000
+SUMMARY:Tid til noget mærkeligt? Prøv opstartstræning hos Aarhus Armwres
+ tlers
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring\,Gratis
+URL:https://motivu.dk/klubber/20538/aarhus-armwrestlers/traeninger/17876/aa
+ rhus-armwrestlers-opstart-traening-3
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261028-76373460@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261028T173000
+DTEND;TZID=Europe/Copenhagen:20261028T193000
+SUMMARY:Foreslæsningsrække om ‘Fra plov til smartphone - opfindelser de
+ r ændrede verden’
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://fuau.dk/aarhus/program/natur-og-univers/fra-plov-til-smartphone
+ -opfindelser-der-aendrede-verden-2621-212?area=Aarhus
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20261028-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261028T180000
+DTEND;TZID=Europe/Copenhagen:20261028T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261028-31579240@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261028T180000
+DTEND;TZID=Europe/Copenhagen:20261028T200000
+SUMMARY:‍ ‘Nighttrail’ hos orienteringsklubben ‘OK PAN’ – med s
+ auna\, suppe og samvær
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://www.sportstiming.dk/event/18480
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261028-14801311@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261028T190000
+DTEND;TZID=Europe/Copenhagen:20261028T210000
+SUMMARY:‍ Tech Pub med Tech Hub Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring\,Gratis
+URL:https://motivu.dk/klubber/20516/tech-hub-aarhus/traeninger/16819/tech-p
+ ub-aarhus
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261029-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261029T160000
+DTEND;TZID=Europe/Copenhagen:20261029T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261029-49200918@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261029T190000
+DTEND;TZID=Europe/Copenhagen:20261029T210000
+SUMMARY:Paradis i Bunkeren
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://fo.dk/kurser-i-fo-aarhus/paradis-i-bunkeren-hereditary-2018?
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261029-6659174@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261029T190000
+DTEND;TZID=Europe/Copenhagen:20261029T210000
+SUMMARY:RockTalks om ‘Jimi Hendrix’
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://billetto.dk/e/rock-talks-jimi-hendrix-billetter-1959545
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261029-38270078@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261029T200000
+DTEND;TZID=Europe/Copenhagen:20261029T220000
+SUMMARY:Se ‘964 Pinocchio aka ピノキオ√964’ hos undergrundsbiffen
+  Slagtehal3
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://slagtehal3.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-93fffd7a-c199-4071-bea7-68c8886ee809-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Lystændingsfest i Salling
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus\,Gratis
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/lystaendingsf
+ est-i-salling-gdk1128059
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261030-73197649@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261030T140000
+DTEND;TZID=Europe/Copenhagen:20261030T160000
+SUMMARY:Århus Space Center & Center for Vikingetid og Middelalder invitere
+ r dig til
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring\,Gratis
+URL:https://fb.me/e/29Wp9ltQNe
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261030-93540083@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261030T190000
+DTEND;TZID=Europe/Copenhagen:20261030T210000
+SUMMARY:Oplev chicago-baserede Bitchin’ Bajas & århusianske Warp hos PHO
+ NO
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://phono.billetten.dk/index/eventdetails/eventno/151106
+END:VEVENT
+BEGIN:VEVENT
+UID:va-bbc14962-cefa-4533-bb2d-a7cf59895fb9-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Mina Okabe i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/mina-okabe-i-
+ musikhuset-aarhus-gdk1159150
+END:VEVENT
+BEGIN:VEVENT
+UID:va-55ef6ea6-ab94-4fdb-8da6-cf249783c9c1-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20270215
+SUMMARY:Skøjtebanen i Musikhusparken i Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/skoejtebanen-
+ i-musikhusparken-i-aarhus-gdk1044429
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261031-20028415@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261031T090000
+DTEND;TZID=Europe/Copenhagen:20261031T110000
+SUMMARY:Havehygge på Kalø Højskole
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring\,Gratis
+URL:https://www.go-syddjurs.dk/?ytroute=%2Farrangementer%2F61288%2Flokal-ha
+ vehygge-paa-kaloe-hoejskole
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/syng-i-den-blaa@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261031T110000
+DTEND;TZID=Europe/Copenhagen:20261031T130000
+SUMMARY:Syng i den blå - Fællessang
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Musikhuset Aarhus\,Gratis
+URL:https://www.musikhuset.dk/kalender/syng-i-den-blaa
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261031-6139862@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261031T130000
+DTEND;TZID=Europe/Copenhagen:20261031T150000
+SUMMARY:Dokk1 læser livet højt med bl.a. Bukowski\, Tove Ditlevsen
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring\,Gratis
+URL:https://fb.me/e/4X0cwvDhN
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261031-2463615@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261031T190000
+DTEND;TZID=Europe/Copenhagen:20261031T210000
+SUMMARY:Miaw & Inga Bari
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://phono.billetten.dk/index/eventdetails/eventno/144223
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261031-96654136@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261031T200000
+DTEND;TZID=Europe/Copenhagen:20261031T220000
+SUMMARY:HELLA After Dark
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://luma.com/hdq9gjbm
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261101-12913830@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261101T100000
+DTEND;TZID=Europe/Copenhagen:20261101T120000
+SUMMARY:Fugletur ved Egå Engsø
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring\,Gratis
+URL:https://smagpaaaarhus.dk/arrangement/fugletur-ved-egaa-engsoe-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261101-38791375@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261101T173000
+DTEND;TZID=Europe/Copenhagen:20261101T193000
+SUMMARY:Eller hos Atelier 33
+LOCATION:Aarhus
+CATEGORIES:Kunst\,Heromkring
+URL:https://www.instagram.com/p/Der4HAxgiVd/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20261102-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261102T100000
+DTEND;TZID=Europe/Copenhagen:20261102T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20261102-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261102T170000
+DTEND;TZID=Europe/Copenhagen:20261102T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/online-informationsmoede-klassiske-uddannelser@aarhus-kale
+ nder
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261102T183000
+DTEND;TZID=Europe/Copenhagen:20261102T203000
+SUMMARY:Online informationsmøde - klassiske uddannelser - Det Jyske Musikk
+ onservatorium
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Musikhuset Aarhus\,Gratis
+URL:https://www.musikhuset.dk/kalender/online-informationsmoede-klassiske-u
+ ddannelser
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20261102-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261102T190000
+DTEND;TZID=Europe/Copenhagen:20261102T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-braetspil-aabent-for-alle-20261104-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261104T180000
+DTEND;TZID=Europe/Copenhagen:20261104T210000
+SUMMARY:Brætspil - åbent for alle!
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20261104-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261104T180000
+DTEND;TZID=Europe/Copenhagen:20261104T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/demensvenlig-koncert@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261105T110000
+DTEND;TZID=Europe/Copenhagen:20261105T130000
+SUMMARY:Demensvenlig koncert
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/demensvenlig-koncert
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261105-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261105T160000
+DTEND;TZID=Europe/Copenhagen:20261105T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-b34eda4b-fa96-4f02-82ec-2488fcf11746-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:J-dag i Den Gamle By
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/j-dag-i-den-g
+ amle-by-gdk1146567
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-laternefest-20261106-160000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261106T160000
+DTEND;TZID=Europe/Copenhagen:20261106T183000
+SUMMARY:Laternefest
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-7ea3d43f-1e67-4306-bcbb-afe1946b07ac-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261231
+SUMMARY:Julerundfart med Juleskibet Svanen
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julerundfart-
+ med-juleskibet-svanen-gdk1135273
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20261109-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261109T100000
+DTEND;TZID=Europe/Copenhagen:20261109T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20261109-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261109T170000
+DTEND;TZID=Europe/Copenhagen:20261109T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20261109-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261109T190000
+DTEND;TZID=Europe/Copenhagen:20261109T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-5f37159d-2d5d-45d0-ae0a-c5cda659b0e3-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261223
+SUMMARY:Havnerundfart på Juldamperen
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/havnerundfart
+ -paa-juldamperen-gdk1114985
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/ladys-club@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261110T113000
+DTEND;TZID=Europe/Copenhagen:20261110T133000
+SUMMARY:Ladys Club - Damefrokost i Musikhuset
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/ladys-club
+END:VEVENT
+BEGIN:VEVENT
+UID:va-800fd514-fcb0-4c81-a90b-75806ed34c5d-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:When Saints Go Machine i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/when-saints-g
+ o-machine-i-musikhuset-aarhus-gdk1159162
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20261111-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261111T180000
+DTEND;TZID=Europe/Copenhagen:20261111T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261112-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261112T160000
+DTEND;TZID=Europe/Copenhagen:20261112T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-ef1764e7-3094-4b8b-b2fb-8eb8bea79e8a-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261223
+SUMMARY:Julemarkedet Julen i Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus\,Gratis
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julemarkedet-
+ julen-i-aarhus-gdk1157926
+END:VEVENT
+BEGIN:VEVENT
+UID:va-5681efa1-6927-4206-93d0-406915d076e3-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20270101
+SUMMARY:Jul i Den Gamle By
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/jul-i-den-gam
+ le-by-gdk631891
+END:VEVENT
+BEGIN:VEVENT
+UID:va-0bb34432-b36d-4216-ac7d-aac0815180ce-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261129
+SUMMARY:Jul i Friheden
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/jul-i-frihede
+ n-gdk1081943
+END:VEVENT
+BEGIN:VEVENT
+UID:va-068b6330-dd53-4deb-bd2f-e6c163b325da-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Juleparaden i Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/juleparaden-i
+ -aarhus-gdk832105
+END:VEVENT
+BEGIN:VEVENT
+UID:va-8c767486-bb39-44c8-953b-d12238b2b0b7-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20270101
+SUMMARY:Julehygge i Aarhusregionen
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julehygge-i-a
+ arhusregionen-gdk829017
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20261116-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261116T100000
+DTEND;TZID=Europe/Copenhagen:20261116T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20261116-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261116T170000
+DTEND;TZID=Europe/Copenhagen:20261116T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20261116-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261116T190000
+DTEND;TZID=Europe/Copenhagen:20261116T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-97ed9430-04b5-4bd0-8cfb-133628e33ac7-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261217
+SUMMARY:Rundvisning om Julens Planter i Væksthusene i Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/rundvisning-o
+ m-julens-planter-i-vaeksthusene-i-aarhus-gdk1106399
+END:VEVENT
+BEGIN:VEVENT
+UID:va-3ce203d1-a1c1-4910-84c4-721c4d45f089-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261218
+SUMMARY:Risengrød og bamsejul
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/risengroed-og
+ -bamsejul-gdk1147224
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-braetspil-aabent-for-alle-20261118-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261118T180000
+DTEND;TZID=Europe/Copenhagen:20261118T210000
+SUMMARY:Brætspil - åbent for alle!
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20261118-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261118T180000
+DTEND;TZID=Europe/Copenhagen:20261118T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261119-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261119T160000
+DTEND;TZID=Europe/Copenhagen:20261119T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2a576416-7f82-425c-840f-a63b19d31edf-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:FLUX Festival - gaming\, kultur og musik
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/flux-festival
+ -gaming-kultur-og-musik-gdk1162720
+END:VEVENT
+BEGIN:VEVENT
+UID:va-a89ddf2a-01b9-41bf-8e23-407d627c77bc-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Orkesterfestivalen i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus\,Gratis
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/orkesterfesti
+ valen-i-musikhuset-aarhus-gdk1156253
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20261123-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261123T100000
+DTEND;TZID=Europe/Copenhagen:20261123T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20261123-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261123T170000
+DTEND;TZID=Europe/Copenhagen:20261123T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20261123-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261123T190000
+DTEND;TZID=Europe/Copenhagen:20261123T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-49ef4396-9227-4048-8cf9-6646606a3a52-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Fuldmåneaften i Planetariet
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/fuldmaaneafte
+ n-i-planetariet-gdk1080866
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-latterklub-20261124-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261124T190000
+DTEND;TZID=Europe/Copenhagen:20261124T210000
+SUMMARY:Latterklub
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20261125-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261125T180000
+DTEND;TZID=Europe/Copenhagen:20261125T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261126-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261126T160000
+DTEND;TZID=Europe/Copenhagen:20261126T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-forhjuls-banko-20261126-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261126T190000
+DTEND;TZID=Europe/Copenhagen:20261126T210000
+SUMMARY:Forhjuls banko
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-a8767297-aedb-419d-a9fc-b91ce169077e-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Black Friday
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/black-friday-
+ gdk994723
+END:VEVENT
+BEGIN:VEVENT
+UID:va-6dd7d14d-c31c-442e-a7e4-ad0911714b76-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261221
+SUMMARY:Aarhus Kunst- og Julemarked i Ridehuset
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus\,Gratis
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhus-kunst-
+ og-julemarked-i-ridehuset-gdk645953
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20261130-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261130T100000
+DTEND;TZID=Europe/Copenhagen:20261130T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20261130-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261130T170000
+DTEND;TZID=Europe/Copenhagen:20261130T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20261130-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261130T190000
+DTEND;TZID=Europe/Copenhagen:20261130T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-0e5870e5-d94f-47b6-b0a8-2a816b45616d-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Gretchen Parlato & Aarhus Jazz Orchestra i Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/gretchen-parl
+ ato-aarhus-jazz-orchestra-i-aarhus-gdk1159164
+END:VEVENT
+BEGIN:VEVENT
+UID:va-1731f059-60bd-4eb3-bb68-7c8b0a20b243-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Christmas City Run i Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/christmas-cit
+ y-run-i-aarhus-gdk1105903
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-braetspil-aabent-for-alle-20261202-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261202T180000
+DTEND;TZID=Europe/Copenhagen:20261202T210000
+SUMMARY:Brætspil - åbent for alle!
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20261202-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261202T180000
+DTEND;TZID=Europe/Copenhagen:20261202T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-11cb0f39-cb4b-4cf6-91b1-fa4fb225861c-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:The Julekalender i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/the-julekalen
+ der-i-musikhuset-aarhus-gdk1157381
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261203-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261203T160000
+DTEND;TZID=Europe/Copenhagen:20261203T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-68e83640-a9c9-417f-98f7-ca59c8e3f173-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Arkitektskolens Julemarked
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus\,Gratis
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/arkitektskole
+ ns-julemarked-gdk1095276
+END:VEVENT
+BEGIN:VEVENT
+UID:va-531da3d2-3cc6-46c5-a2c7-fd7d3f585d09-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Sigurds Jul i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/sigurds-jul-i
+ -musikhuset-aarhus-gdk1140166
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-foto-julemarked@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Analogt portræt til Godsbanens julemarked
+LOCATION:Godsbanen
+CATEGORIES:Kunst\,Godsbanen\,Gratis
+URL:https://godsbanen.dk/kalender/foto-julemarked/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-godsbanens-julemarked-2026@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+SUMMARY:Godsbanens Julemarked 2026
+LOCATION:Godsbanen
+CATEGORIES:Kunst\,Godsbanen\,Gratis
+URL:https://godsbanen.dk/kalender/godsbanens-julemarked-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-julemarked-loerdag-20261205-110000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261205T110000
+DTEND;TZID=Europe/Copenhagen:20261205T160000
+SUMMARY:Julemarked Lørdag
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-julemarked-soendag-20261206-110000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261206T110000
+DTEND;TZID=Europe/Copenhagen:20261206T160000
+SUMMARY:Julemarked Søndag
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20261207-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261207T100000
+DTEND;TZID=Europe/Copenhagen:20261207T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20261207-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261207T170000
+DTEND;TZID=Europe/Copenhagen:20261207T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20261207-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261207T190000
+DTEND;TZID=Europe/Copenhagen:20261207T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-latterklub-20261208-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261208T190000
+DTEND;TZID=Europe/Copenhagen:20261208T210000
+SUMMARY:Latterklub
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20261209-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261209T180000
+DTEND;TZID=Europe/Copenhagen:20261209T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261210-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261210T160000
+DTEND;TZID=Europe/Copenhagen:20261210T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-32986943-b583-461a-aadf-9604d951fcbb-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Juleshow med Danmarks Underholdningsorkester i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/juleshow-med-
+ danmarks-underholdningsorkester-i-musikhuset-aarhus-gdk1157373
+END:VEVENT
+BEGIN:VEVENT
+UID:va-350b27cd-1116-4e8b-bcbc-bc50d37b5ded-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Habengut marked på Godsbanen
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/habengut-mark
+ ed-paa-godsbanen-gdk1079359
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-habenguts-julemarked-2@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:HABENGUTS JULEMARKED
+LOCATION:Godsbanen
+CATEGORIES:Kunst\,Godsbanen
+URL:https://godsbanen.dk/kalender/habenguts-julemarked-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-ef3803c5-659d-4737-ae27-cb4f5af03e51-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Luciaoptog gennem Aarhus med ReThinkers
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus\,Gratis
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/luciaoptog-ge
+ nnem-aarhus-med-rethinkers-gdk1114274
+END:VEVENT
+BEGIN:VEVENT
+UID:va-9e82afba-fa3a-45d7-89fd-cfb2a724f6e2-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Luciaoptog i kajak
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus\,Gratis
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/luciaoptog-i-
+ kajak-gdk1106248
+END:VEVENT
+BEGIN:VEVENT
+UID:va-5fbd721e-242b-4982-b760-7433812f9b39-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Luciaoptog på ARoS
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/luciaoptog-pa
+ a-aros-gdk1084178
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20261214-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261214T100000
+DTEND;TZID=Europe/Copenhagen:20261214T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20261214-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261214T170000
+DTEND;TZID=Europe/Copenhagen:20261214T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20261214-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261214T190000
+DTEND;TZID=Europe/Copenhagen:20261214T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-braetspil-aabent-for-alle-20261216-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261216T180000
+DTEND;TZID=Europe/Copenhagen:20261216T210000
+SUMMARY:Brætspil - åbent for alle!
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20261216-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261216T180000
+DTEND;TZID=Europe/Copenhagen:20261216T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261217-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261217T160000
+DTEND;TZID=Europe/Copenhagen:20261217T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-4260be2f-6a0a-4d10-9fce-738ec6c976c1-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Kom i julestemning med Børstes store julefest i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/kom-i-juleste
+ mning-med-boerstes-store-julefest-i-musikhuset-aarhus-gdk1084143
+END:VEVENT
+BEGIN:VEVENT
+UID:va-78a71ee7-d673-4c91-999c-5a28ebddd748-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Juleshow med Luftens Helte i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/juleshow-med-
+ luftens-helte-i-musikhuset-aarhus-gdk1140165
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20261221-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261221T170000
+DTEND;TZID=Europe/Copenhagen:20261221T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20261228-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261228T170000
+DTEND;TZID=Europe/Copenhagen:20261228T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-90d79d51-ad33-4848-8e6f-b791cb13f4f0-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Den Kongelige Ballet: Nøddeknækkeren i Musikhuset
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/den-kongelige
+ -ballet-noeddeknaekkeren-i-musikhuset-gdk832924
+END:VEVENT
+BEGIN:VEVENT
+UID:va-e9ac50c1-f7b7-4281-b38e-3806375af1d1-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Fart på i Racehall
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/fart-paa-i-ra
+ cehall-gdk1089504
+END:VEVENT
+BEGIN:VEVENT
+UID:va-6e5008e0-43d1-40bf-8a11-00eb0803d295-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Champagneløbet
+LOCATION:Silkeborg
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/champagneloeb
+ et-gdk1093689
+END:VEVENT
+BEGIN:VEVENT
+UID:va-bb4e992d-69ef-4fbc-bd03-12fa4094ec7f-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Nytår i Aarhusregionen
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/nytaar-i-aarh
+ usregionen-gdk1062052
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270104-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270104T100000
+DTEND;TZID=Europe/Copenhagen:20270104T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270104-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270104T170000
+DTEND;TZID=Europe/Copenhagen:20270104T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270104-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270104T190000
+DTEND;TZID=Europe/Copenhagen:20270104T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270106-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270106T180000
+DTEND;TZID=Europe/Copenhagen:20270106T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270107-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270107T160000
+DTEND;TZID=Europe/Copenhagen:20270107T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270111-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270111T100000
+DTEND;TZID=Europe/Copenhagen:20270111T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270111-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270111T170000
+DTEND;TZID=Europe/Copenhagen:20270111T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270111-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270111T190000
+DTEND;TZID=Europe/Copenhagen:20270111T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-braetspil-aabent-for-alle-20270113-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270113T180000
+DTEND;TZID=Europe/Copenhagen:20270113T210000
+SUMMARY:Brætspil - åbent for alle!
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270113-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270113T180000
+DTEND;TZID=Europe/Copenhagen:20270113T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270114-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270114T160000
+DTEND;TZID=Europe/Copenhagen:20270114T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270118-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270118T100000
+DTEND;TZID=Europe/Copenhagen:20270118T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270118-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270118T170000
+DTEND;TZID=Europe/Copenhagen:20270118T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270118-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270118T190000
+DTEND;TZID=Europe/Copenhagen:20270118T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270120-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270120T180000
+DTEND;TZID=Europe/Copenhagen:20270120T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270121-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270121T160000
+DTEND;TZID=Europe/Copenhagen:20270121T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270125-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270125T100000
+DTEND;TZID=Europe/Copenhagen:20270125T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270125-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270125T170000
+DTEND;TZID=Europe/Copenhagen:20270125T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270125-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270125T190000
+DTEND;TZID=Europe/Copenhagen:20270125T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-braetspil-aabent-for-alle-20270127-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270127T180000
+DTEND;TZID=Europe/Copenhagen:20270127T210000
+SUMMARY:Brætspil - åbent for alle!
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270127-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270127T180000
+DTEND;TZID=Europe/Copenhagen:20270127T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-1d5b57fc-c824-41be-94b1-7b12ef8cfdc5-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Calby i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/calby-i-musik
+ huset-aarhus-gdk1157340
+END:VEVENT
+BEGIN:VEVENT
+UID:va-4363a302-6390-4efc-8d3b-7677658c0fae-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Jean-Efflam Bavouzet i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/jean-efflam-b
+ avouzet-i-musikhuset-aarhus-gdk1159152
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270128-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270128T160000
+DTEND;TZID=Europe/Copenhagen:20270128T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-habengut-loppemarked-4@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+SUMMARY:HABENGUT LOPPEMARKED
+LOCATION:Godsbanen
+CATEGORIES:Kunst\,Godsbanen
+URL:https://godsbanen.dk/kalender/habengut-loppemarked-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270201-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270201T100000
+DTEND;TZID=Europe/Copenhagen:20270201T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270201-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270201T170000
+DTEND;TZID=Europe/Copenhagen:20270201T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270201-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270201T190000
+DTEND;TZID=Europe/Copenhagen:20270201T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270203-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270203T180000
+DTEND;TZID=Europe/Copenhagen:20270203T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270204-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270204T160000
+DTEND;TZID=Europe/Copenhagen:20270204T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270208-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270208T100000
+DTEND;TZID=Europe/Copenhagen:20270208T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270208-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270208T170000
+DTEND;TZID=Europe/Copenhagen:20270208T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270208-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270208T190000
+DTEND;TZID=Europe/Copenhagen:20270208T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-braetspil-aabent-for-alle-20270210-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270210T180000
+DTEND;TZID=Europe/Copenhagen:20270210T210000
+SUMMARY:Brætspil - åbent for alle!
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270210-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270210T180000
+DTEND;TZID=Europe/Copenhagen:20270210T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270211-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270211T160000
+DTEND;TZID=Europe/Copenhagen:20270211T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-02de1486-6f8f-4443-948d-96a654c1ac6a-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270222
+SUMMARY:Vinterferie i Den Gamle By
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/vinterferie-i
+ -den-gamle-by-gdk853639
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270215-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270215T100000
+DTEND;TZID=Europe/Copenhagen:20270215T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270215-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270215T170000
+DTEND;TZID=Europe/Copenhagen:20270215T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270215-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270215T190000
+DTEND;TZID=Europe/Copenhagen:20270215T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270217-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270217T180000
+DTEND;TZID=Europe/Copenhagen:20270217T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270218-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270218T160000
+DTEND;TZID=Europe/Copenhagen:20270218T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270222-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270222T100000
+DTEND;TZID=Europe/Copenhagen:20270222T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270222-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270222T170000
+DTEND;TZID=Europe/Copenhagen:20270222T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270222-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270222T190000
+DTEND;TZID=Europe/Copenhagen:20270222T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-braetspil-aabent-for-alle-20270224-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270224T180000
+DTEND;TZID=Europe/Copenhagen:20270224T210000
+SUMMARY:Brætspil - åbent for alle!
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270224-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270224T180000
+DTEND;TZID=Europe/Copenhagen:20270224T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-15692aaa-103d-44a2-9441-a18140e874a0-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270228
+SUMMARY:U-days i Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus\,Gratis
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/u-days-i-aarh
+ us-gdk604048
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270225-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270225T160000
+DTEND;TZID=Europe/Copenhagen:20270225T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-fredags-jazz-live-20270226-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270226T170000
+DTEND;TZID=Europe/Copenhagen:20270226T200000
+SUMMARY:Fredags Jazz Live
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270301-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270301T100000
+DTEND;TZID=Europe/Copenhagen:20270301T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270301-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270301T170000
+DTEND;TZID=Europe/Copenhagen:20270301T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270301-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270301T190000
+DTEND;TZID=Europe/Copenhagen:20270301T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270303-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270303T180000
+DTEND;TZID=Europe/Copenhagen:20270303T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270304-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270304T160000
+DTEND;TZID=Europe/Copenhagen:20270304T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-1a454ecf-99ff-4eee-9a41-edc6f7fc9c01-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270315
+SUMMARY:Århundredets Festival
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhundredets
+ -festival-gdk1079466
+END:VEVENT
+BEGIN:VEVENT
+UID:va-7bc3d67b-4899-44e9-86c0-4010a07fbd91-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Alberte & Danmarks Underholdningsorkester i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/alberte-danma
+ rks-underholdningsorkester-i-musikhuset-aarhus-gdk1162782
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270308-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270308T100000
+DTEND;TZID=Europe/Copenhagen:20270308T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270308-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270308T170000
+DTEND;TZID=Europe/Copenhagen:20270308T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270308-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270308T190000
+DTEND;TZID=Europe/Copenhagen:20270308T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-4b637e67-0404-4719-a17f-6e21d8b76497-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Misantropen i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/misantropen-i
+ -musikhuset-aarhus-gdk1157379
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-braetspil-aabent-for-alle-20270310-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270310T180000
+DTEND;TZID=Europe/Copenhagen:20270310T210000
+SUMMARY:Brætspil - åbent for alle!
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270310-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270310T180000
+DTEND;TZID=Europe/Copenhagen:20270310T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270311-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270311T160000
+DTEND;TZID=Europe/Copenhagen:20270311T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:gb-habengut-loppemarked-3@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+SUMMARY:HABENGUT LOPPEMARKED
+LOCATION:Godsbanen
+CATEGORIES:Kunst\,Godsbanen
+URL:https://godsbanen.dk/kalender/habengut-loppemarked-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270315-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270315T100000
+DTEND;TZID=Europe/Copenhagen:20270315T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270315-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270315T170000
+DTEND;TZID=Europe/Copenhagen:20270315T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270315-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270315T190000
+DTEND;TZID=Europe/Copenhagen:20270315T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270317-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270317T180000
+DTEND;TZID=Europe/Copenhagen:20270317T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270318-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270318T160000
+DTEND;TZID=Europe/Copenhagen:20270318T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270322-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270322T100000
+DTEND;TZID=Europe/Copenhagen:20270322T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270322-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270322T170000
+DTEND;TZID=Europe/Copenhagen:20270322T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270322-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270322T190000
+DTEND;TZID=Europe/Copenhagen:20270322T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-braetspil-aabent-for-alle-20270324-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270324T180000
+DTEND;TZID=Europe/Copenhagen:20270324T210000
+SUMMARY:Brætspil - åbent for alle!
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270324-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270324T180000
+DTEND;TZID=Europe/Copenhagen:20270324T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270325-160000@
+ aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270325T160000
+DTEND;TZID=Europe/Copenhagen:20270325T173000
+SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-aabent-hus-20270329-100000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270329T100000
+DTEND;TZID=Europe/Copenhagen:20270329T130000
+SUMMARY:Åbent hus
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/hus-hygge/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-kor-ny-korleder-20270329-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270329T170000
+DTEND;TZID=Europe/Copenhagen:20270329T183000
+SUMMARY:Kor *Ny korleder*
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-noerkleaften-20270329-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270329T190000
+DTEND;TZID=Europe/Copenhagen:20270329T210000
+SUMMARY:Nørkleaften
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus
+URL:https://beboerneshus.dk/strikkeaften/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270331-180000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270331T180000
+DTEND;TZID=Europe/Copenhagen:20270331T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:va-094f577a-59cf-43b1-bbad-1aadd1350241-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+SUMMARY:Works Art Fair
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus\,Gratis
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/works-art-fai
+ r-gdk1114862
+END:VEVENT
+BEGIN:VEVENT
+UID:va-4b744ec4-e083-41d7-95ad-b1c03e9f1a0d-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Kunst - komdie i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Kunst\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/kunst-komdie-
+ i-musikhuset-aarhus-gdk1157378
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aarhus-kalender//scrape_aarhus_events//DA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aarhus – Familie & Børn
+X-WR-CALDESC:Familie & Børn i Aarhus
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:mh-/kalender/skaermfri-sondag@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261101T100000
+DTEND;TZID=Europe/Copenhagen:20261101T120000
+SUMMARY:Skærmfri søndag - Musikhygge med familien
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Familie & Børn\,Musikhuset Aarhus\,Gratis
+URL:https://www.musikhuset.dk/kalender/skaermfri-sondag
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/karius-og-baktus@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261108T110000
+DTEND;TZID=Europe/Copenhagen:20261108T130000
+SUMMARY:Karius og Baktus
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Familie & Børn\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/karius-og-baktus
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/familieteater@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261114T120000
+DTEND;TZID=Europe/Copenhagen:20261114T140000
+SUMMARY:Familieteater
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Familie & Børn\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/familieteater
+END:VEVENT
+BEGIN:VEVENT
+UID:va-2c901262-161c-4439-a333-177cfc7cc5c7-0@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Kazoo - Børnemusikfestival i Musikhuset Aarhus
+LOCATION:Aarhus
+CATEGORIES:Familie & Børn\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/kazoo-boernem
+ usikfestival-i-musikhuset-aarhus-gdk1126912
+END:VEVENT
+END:VCALENDAR

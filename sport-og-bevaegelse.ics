@@ -1,0 +1,1426 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aarhus-kalender//scrape_aarhus_events//DA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Aarhus – Sport & Bevægelse
+X-WR-CALDESC:Sport & Bevægelse i Aarhus
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VTIMEZONE
+TZID:Europe/Copenhagen
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bh-salsadans-20261027-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T170000
+DTEND;TZID=Europe/Copenhagen:20261027T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261027-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T190000
+DTEND;TZID=Europe/Copenhagen:20261027T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20261027-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261027T190000
+DTEND;TZID=Europe/Copenhagen:20261027T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261028-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261028T163000
+DTEND;TZID=Europe/Copenhagen:20261028T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261102-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261102T163000
+DTEND;TZID=Europe/Copenhagen:20261102T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20261102-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261102T170000
+DTEND;TZID=Europe/Copenhagen:20261102T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20261102-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261102T190000
+DTEND;TZID=Europe/Copenhagen:20261102T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261103-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261103T170000
+DTEND;TZID=Europe/Copenhagen:20261103T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261103-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261103T190000
+DTEND;TZID=Europe/Copenhagen:20261103T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20261103-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261103T190000
+DTEND;TZID=Europe/Copenhagen:20261103T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261104-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261104T163000
+DTEND;TZID=Europe/Copenhagen:20261104T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261109-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261109T163000
+DTEND;TZID=Europe/Copenhagen:20261109T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20261109-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261109T170000
+DTEND;TZID=Europe/Copenhagen:20261109T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20261109-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261109T190000
+DTEND;TZID=Europe/Copenhagen:20261109T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261110-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261110T170000
+DTEND;TZID=Europe/Copenhagen:20261110T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261110-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261110T190000
+DTEND;TZID=Europe/Copenhagen:20261110T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20261110-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261110T190000
+DTEND;TZID=Europe/Copenhagen:20261110T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261111-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261111T163000
+DTEND;TZID=Europe/Copenhagen:20261111T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261116-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261116T163000
+DTEND;TZID=Europe/Copenhagen:20261116T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20261116-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261116T170000
+DTEND;TZID=Europe/Copenhagen:20261116T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20261116-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261116T190000
+DTEND;TZID=Europe/Copenhagen:20261116T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261117-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261117T170000
+DTEND;TZID=Europe/Copenhagen:20261117T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261117-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261117T190000
+DTEND;TZID=Europe/Copenhagen:20261117T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20261117-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261117T190000
+DTEND;TZID=Europe/Copenhagen:20261117T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261118-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261118T163000
+DTEND;TZID=Europe/Copenhagen:20261118T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261123-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261123T163000
+DTEND;TZID=Europe/Copenhagen:20261123T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20261123-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261123T170000
+DTEND;TZID=Europe/Copenhagen:20261123T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20261123-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261123T190000
+DTEND;TZID=Europe/Copenhagen:20261123T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261124-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261124T170000
+DTEND;TZID=Europe/Copenhagen:20261124T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261124-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261124T190000
+DTEND;TZID=Europe/Copenhagen:20261124T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20261124-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261124T190000
+DTEND;TZID=Europe/Copenhagen:20261124T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261125-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261125T163000
+DTEND;TZID=Europe/Copenhagen:20261125T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261130-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261130T163000
+DTEND;TZID=Europe/Copenhagen:20261130T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20261130-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261130T170000
+DTEND;TZID=Europe/Copenhagen:20261130T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20261130-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261130T190000
+DTEND;TZID=Europe/Copenhagen:20261130T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261201-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261201T170000
+DTEND;TZID=Europe/Copenhagen:20261201T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20261201-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261201T190000
+DTEND;TZID=Europe/Copenhagen:20261201T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20261201-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261201T190000
+DTEND;TZID=Europe/Copenhagen:20261201T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261202-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261202T163000
+DTEND;TZID=Europe/Copenhagen:20261202T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261207-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261207T163000
+DTEND;TZID=Europe/Copenhagen:20261207T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20261207-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261207T170000
+DTEND;TZID=Europe/Copenhagen:20261207T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20261207-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261207T190000
+DTEND;TZID=Europe/Copenhagen:20261207T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20261208-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261208T190000
+DTEND;TZID=Europe/Copenhagen:20261208T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261209-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261209T163000
+DTEND;TZID=Europe/Copenhagen:20261209T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261214-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261214T163000
+DTEND;TZID=Europe/Copenhagen:20261214T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20261214-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261214T170000
+DTEND;TZID=Europe/Copenhagen:20261214T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20261214-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261214T190000
+DTEND;TZID=Europe/Copenhagen:20261214T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20261215-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261215T190000
+DTEND;TZID=Europe/Copenhagen:20261215T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20261216-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20261216T163000
+DTEND;TZID=Europe/Copenhagen:20261216T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270104-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270104T163000
+DTEND;TZID=Europe/Copenhagen:20270104T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270104-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270104T170000
+DTEND;TZID=Europe/Copenhagen:20270104T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270104-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270104T190000
+DTEND;TZID=Europe/Copenhagen:20270104T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270105-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270105T170000
+DTEND;TZID=Europe/Copenhagen:20270105T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270105-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270105T190000
+DTEND;TZID=Europe/Copenhagen:20270105T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270105-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270105T190000
+DTEND;TZID=Europe/Copenhagen:20270105T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270106-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270106T163000
+DTEND;TZID=Europe/Copenhagen:20270106T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270111-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270111T163000
+DTEND;TZID=Europe/Copenhagen:20270111T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270111-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270111T170000
+DTEND;TZID=Europe/Copenhagen:20270111T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270111-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270111T190000
+DTEND;TZID=Europe/Copenhagen:20270111T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270112-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270112T170000
+DTEND;TZID=Europe/Copenhagen:20270112T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270112-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270112T190000
+DTEND;TZID=Europe/Copenhagen:20270112T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270112-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270112T190000
+DTEND;TZID=Europe/Copenhagen:20270112T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270113-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270113T163000
+DTEND;TZID=Europe/Copenhagen:20270113T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270118-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270118T163000
+DTEND;TZID=Europe/Copenhagen:20270118T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270118-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270118T170000
+DTEND;TZID=Europe/Copenhagen:20270118T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270118-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270118T190000
+DTEND;TZID=Europe/Copenhagen:20270118T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270119-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270119T170000
+DTEND;TZID=Europe/Copenhagen:20270119T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270119-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270119T190000
+DTEND;TZID=Europe/Copenhagen:20270119T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270119-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270119T190000
+DTEND;TZID=Europe/Copenhagen:20270119T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270120-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270120T163000
+DTEND;TZID=Europe/Copenhagen:20270120T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270125-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270125T163000
+DTEND;TZID=Europe/Copenhagen:20270125T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270125-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270125T170000
+DTEND;TZID=Europe/Copenhagen:20270125T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270125-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270125T190000
+DTEND;TZID=Europe/Copenhagen:20270125T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270126-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270126T170000
+DTEND;TZID=Europe/Copenhagen:20270126T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270126-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270126T190000
+DTEND;TZID=Europe/Copenhagen:20270126T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270126-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270126T190000
+DTEND;TZID=Europe/Copenhagen:20270126T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270127-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270127T163000
+DTEND;TZID=Europe/Copenhagen:20270127T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270201-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270201T163000
+DTEND;TZID=Europe/Copenhagen:20270201T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270201-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270201T170000
+DTEND;TZID=Europe/Copenhagen:20270201T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270201-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270201T190000
+DTEND;TZID=Europe/Copenhagen:20270201T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270202-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270202T170000
+DTEND;TZID=Europe/Copenhagen:20270202T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270202-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270202T190000
+DTEND;TZID=Europe/Copenhagen:20270202T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270202-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270202T190000
+DTEND;TZID=Europe/Copenhagen:20270202T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270203-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270203T163000
+DTEND;TZID=Europe/Copenhagen:20270203T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270208-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270208T163000
+DTEND;TZID=Europe/Copenhagen:20270208T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270208-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270208T170000
+DTEND;TZID=Europe/Copenhagen:20270208T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270208-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270208T190000
+DTEND;TZID=Europe/Copenhagen:20270208T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270209-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270209T170000
+DTEND;TZID=Europe/Copenhagen:20270209T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270209-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270209T190000
+DTEND;TZID=Europe/Copenhagen:20270209T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270209-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270209T190000
+DTEND;TZID=Europe/Copenhagen:20270209T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270210-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270210T163000
+DTEND;TZID=Europe/Copenhagen:20270210T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270215-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270215T163000
+DTEND;TZID=Europe/Copenhagen:20270215T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270215-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270215T170000
+DTEND;TZID=Europe/Copenhagen:20270215T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270215-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270215T190000
+DTEND;TZID=Europe/Copenhagen:20270215T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270216-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270216T170000
+DTEND;TZID=Europe/Copenhagen:20270216T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270216-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270216T190000
+DTEND;TZID=Europe/Copenhagen:20270216T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270216-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270216T190000
+DTEND;TZID=Europe/Copenhagen:20270216T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270217-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270217T163000
+DTEND;TZID=Europe/Copenhagen:20270217T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270222-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270222T163000
+DTEND;TZID=Europe/Copenhagen:20270222T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270222-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270222T170000
+DTEND;TZID=Europe/Copenhagen:20270222T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270222-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270222T190000
+DTEND;TZID=Europe/Copenhagen:20270222T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270223-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270223T170000
+DTEND;TZID=Europe/Copenhagen:20270223T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270223-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270223T190000
+DTEND;TZID=Europe/Copenhagen:20270223T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270223-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270223T190000
+DTEND;TZID=Europe/Copenhagen:20270223T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270224-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270224T163000
+DTEND;TZID=Europe/Copenhagen:20270224T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270301-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270301T163000
+DTEND;TZID=Europe/Copenhagen:20270301T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270301-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270301T170000
+DTEND;TZID=Europe/Copenhagen:20270301T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270301-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270301T190000
+DTEND;TZID=Europe/Copenhagen:20270301T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270302-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270302T170000
+DTEND;TZID=Europe/Copenhagen:20270302T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270302-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270302T190000
+DTEND;TZID=Europe/Copenhagen:20270302T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270302-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270302T190000
+DTEND;TZID=Europe/Copenhagen:20270302T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270303-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270303T163000
+DTEND;TZID=Europe/Copenhagen:20270303T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270308-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270308T163000
+DTEND;TZID=Europe/Copenhagen:20270308T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270308-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270308T170000
+DTEND;TZID=Europe/Copenhagen:20270308T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270308-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270308T190000
+DTEND;TZID=Europe/Copenhagen:20270308T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270309-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270309T170000
+DTEND;TZID=Europe/Copenhagen:20270309T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270309-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270309T190000
+DTEND;TZID=Europe/Copenhagen:20270309T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270309-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270309T190000
+DTEND;TZID=Europe/Copenhagen:20270309T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270310-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270310T163000
+DTEND;TZID=Europe/Copenhagen:20270310T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270315-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270315T163000
+DTEND;TZID=Europe/Copenhagen:20270315T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270315-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270315T170000
+DTEND;TZID=Europe/Copenhagen:20270315T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270315-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270315T190000
+DTEND;TZID=Europe/Copenhagen:20270315T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270316-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270316T170000
+DTEND;TZID=Europe/Copenhagen:20270316T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270316-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270316T190000
+DTEND;TZID=Europe/Copenhagen:20270316T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270316-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270316T190000
+DTEND;TZID=Europe/Copenhagen:20270316T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270317-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270317T163000
+DTEND;TZID=Europe/Copenhagen:20270317T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270322-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270322T163000
+DTEND;TZID=Europe/Copenhagen:20270322T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270322-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270322T170000
+DTEND;TZID=Europe/Copenhagen:20270322T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270322-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270322T190000
+DTEND;TZID=Europe/Copenhagen:20270322T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270323-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270323T170000
+DTEND;TZID=Europe/Copenhagen:20270323T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270323-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270323T190000
+DTEND;TZID=Europe/Copenhagen:20270323T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270323-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270323T190000
+DTEND;TZID=Europe/Copenhagen:20270323T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270324-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270324T163000
+DTEND;TZID=Europe/Copenhagen:20270324T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270329-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270329T163000
+DTEND;TZID=Europe/Copenhagen:20270329T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:http://find-ro.dk/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-badminton-el-volley-20270329-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270329T170000
+DTEND;TZID=Europe/Copenhagen:20270329T190000
+SUMMARY:Badminton el. volley
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-capoeira-20270329-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270329T190000
+DTEND;TZID=Europe/Copenhagen:20270329T210000
+SUMMARY:Capoeira
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/capoeira/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270330-170000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270330T170000
+DTEND;TZID=Europe/Copenhagen:20270330T175000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-salsadans-20270330-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270330T190000
+DTEND;TZID=Europe/Copenhagen:20270330T195000
+SUMMARY:Salsadans
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/salsa
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-oegadernes-dart-20270330-190000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270330T190000
+DTEND;TZID=Europe/Copenhagen:20270330T230000
+SUMMARY:Øgadernes dart
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270331-163000@aarhus-kalender
+DTSTAMP:20261027T075520Z
+DTSTART;TZID=Europe/Copenhagen:20270331T163000
+DTEND;TZID=Europe/Copenhagen:20270331T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+END:VCALENDAR
