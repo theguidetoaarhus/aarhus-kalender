@@ -24,8 +24,19 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-halloween-for-boern-paa-ms-helene@aarhus
+ -kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261031T170000
+DTEND;TZID=Europe/Copenhagen:20261031T180000
+SUMMARY:Halloween for børn på MS Helene
+LOCATION:Aros Cruises
+CATEGORIES:Familie & Børn\,Aarhus Inside
+URL:https://aarhusinside.dk/event/halloween-for-boern-paa-ms-helene/
+END:VEVENT
+BEGIN:VEVENT
 UID:mh-/kalender/skaermfri-sondag@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261101T100000
 DTEND;TZID=Europe/Copenhagen:20261101T120000
 SUMMARY:Skærmfri søndag - Musikhygge med familien
@@ -35,7 +46,7 @@ URL:https://www.musikhuset.dk/kalender/skaermfri-sondag
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetimen-favoritter-fra-samlingen-0711@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261107T103000
 DTEND;TZID=Europe/Copenhagen:20261107T111500
 SUMMARY:Børnetimen - Favoritter fra samlingen
@@ -45,7 +56,7 @@ URL:https://www.aros.dk/kalender/boernetimen-favoritter-fra-samlingen-0711/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/karius-og-baktus@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261108T110000
 DTEND;TZID=Europe/Copenhagen:20261108T130000
 SUMMARY:Karius og Baktus
@@ -55,7 +66,7 @@ URL:https://www.musikhuset.dk/kalender/karius-og-baktus
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/familieteater@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261114T120000
 DTEND;TZID=Europe/Copenhagen:20261114T140000
 SUMMARY:Familieteater
@@ -65,7 +76,7 @@ URL:https://www.musikhuset.dk/kalender/familieteater
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-fernisering-boerneaabning-28112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261128T090000
 DTEND;TZID=Europe/Copenhagen:20261128T120000
 SUMMARY:Børnedag på ARoS
@@ -76,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetimen-til-fernisering-ny-samling-paa-niv-6-2811@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261128T104500
 SUMMARY:Børnetimen til fernisering: Ny samling på Niv. 6
@@ -88,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetimen-til-fernisering-ny-samling-paa-niv-8-2811@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261128T110000
 DTEND;TZID=Europe/Copenhagen:20261128T114500
 SUMMARY:Børnetimen til fernisering: Ny samling på Niv. 8
@@ -98,8 +109,19 @@ URL:https://www.aros.dk/kalender/boernetimen-til-fernisering-ny-samling-paa
  -niv-8-2811/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-fabelscenen-nissen-hos-spaekhoekeren@aar
+ hus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261128T110000
+DTEND;TZID=Europe/Copenhagen:20261129T150000
+SUMMARY:Forestilling for børn – Nissen hos spækhøkeren
+LOCATION:Den Gamle By
+CATEGORIES:Familie & Børn\,Aarhus Inside
+URL:https://aarhusinside.dk/event/fabelscenen-nissen-hos-spaekhoekeren/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-291126@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261129T103000
 DTEND;TZID=Europe/Copenhagen:20261129T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -110,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-dyr-i-kunst-5-dec-2026@aarhus-
  kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261205T103000
 DTEND;TZID=Europe/Copenhagen:20261205T111500
 SUMMARY:Børnetime: Dyr i kunst
@@ -120,8 +142,18 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-dyr-i-kunst-5-d
  ec-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-nissen-hos-spaekhoekeren@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261205T110000
+DTEND;TZID=Europe/Copenhagen:20261206T150000
+SUMMARY:Forestilling for børn – Nissen hos spækhøkeren
+LOCATION:Den Gamle By
+CATEGORIES:Familie & Børn\,Aarhus Inside
+URL:https://aarhusinside.dk/event/nissen-hos-spaekhoekeren/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-061226@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261206T103000
 DTEND;TZID=Europe/Copenhagen:20261206T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -130,8 +162,19 @@ CATEGORIES:Familie & Børn\,AROS
 URL:https://www.aros.dk/kalender/julehistorie-i-as-seen-below-061226/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-for-boern-nissen-hos-spaekhoekeren@aarhu
+ s-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261212T110000
+DTEND;TZID=Europe/Copenhagen:20261213T150000
+SUMMARY:Forestilling for børn – Nissen hos spækhøkeren
+LOCATION:Den Gamle By
+CATEGORIES:Familie & Børn\,Aarhus Inside
+URL:https://aarhusinside.dk/event/for-boern-nissen-hos-spaekhoekeren/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-131226@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261213T103000
 DTEND;TZID=Europe/Copenhagen:20261213T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -141,7 +184,7 @@ URL:https://www.aros.dk/kalender/julehistorie-i-as-seen-below-131226/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetimen-favoritter-fra-samlingen-1912@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261219T103000
 DTEND;TZID=Europe/Copenhagen:20261219T111500
 SUMMARY:Børnetimen - Favoritter fra samlingen
@@ -151,7 +194,7 @@ URL:https://www.aros.dk/kalender/boernetimen-favoritter-fra-samlingen-1912/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-201226@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261220T103000
 DTEND;TZID=Europe/Copenhagen:20261220T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -162,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-natur-i-kunst-9-jan-2027@aarhu
  s-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270109T103000
 DTEND;TZID=Europe/Copenhagen:20270109T111500
 SUMMARY:Børnetime: Natur i kunst
@@ -173,7 +216,7 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-natur-i-kunst-9
 END:VEVENT
 BEGIN:VEVENT
 UID:va-2c901262-161c-4439-a333-177cfc7cc5c7-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Kazoo - Børnemusikfestival i Musikhuset Aarhus
@@ -185,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-13-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270213T103000
 DTEND;TZID=Europe/Copenhagen:20270213T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -197,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-14-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270214T103000
 DTEND;TZID=Europe/Copenhagen:20270214T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -209,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-15-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270215T103000
 DTEND;TZID=Europe/Copenhagen:20270215T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -221,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-16-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270216T103000
 DTEND;TZID=Europe/Copenhagen:20270216T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -233,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-17-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270217T103000
 DTEND;TZID=Europe/Copenhagen:20270217T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -245,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-18-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270218T103000
 DTEND;TZID=Europe/Copenhagen:20270218T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -257,7 +300,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-19-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270219T103000
 DTEND;TZID=Europe/Copenhagen:20270219T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -269,7 +312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-20-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270220T103000
 DTEND;TZID=Europe/Copenhagen:20270220T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -281,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-21-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270221T103000
 DTEND;TZID=Europe/Copenhagen:20270221T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -293,7 +336,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-maerkelige-former-i-kunst-13-m
  arts-2027@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270313T103000
 DTEND;TZID=Europe/Copenhagen:20270313T111500
 SUMMARY:Børnetime på vinterferie: Mærkelige former i kunst
@@ -305,7 +348,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-ansigter-i-kunst-10-april-2027
  @aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270410T103000
 DTEND;TZID=Europe/Copenhagen:20270410T111500
 SUMMARY:Børnetime på vinterferie: Ansigter i kunst

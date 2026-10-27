@@ -24,8 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:hk-20261026-50762598@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261026-70857337@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261026T190000
 DTEND;TZID=Europe/Copenhagen:20261026T210000
 SUMMARY:UGENS SATS – Foredrag om ‘Living without a Mobile’ hos Hjerte
@@ -35,8 +35,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring
 URL:https://holistisk.org/events/#!event/2026/10/26/hjerterum
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-7407895@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261026-66613769@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261026T190000
 DTEND;TZID=Europe/Copenhagen:20261026T210000
 SUMMARY:Forfattersamtale med Asta Olivia Nordenhof
@@ -46,8 +46,8 @@ URL:https://www.litteraturen.nu/begivenhed/forfattersamtale-med-asta-olivia
  -nordenhof/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-99777287@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261026-81107585@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261026T193000
 DTEND;TZID=Europe/Copenhagen:20261026T213000
 SUMMARY:Forelæsning om mesterfotografer ‘Krigsfotografen: Robert Capa’
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gb-udgivelsesreception-vandringsdigte-en-rejsedagbog-mellem-koebenhavn-
  og-aarhus@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Udgivelsesreception: Vandringsdigte – en rejsedagbog mellem Købe
@@ -70,8 +70,8 @@ URL:https://godsbanen.dk/kalender/udgivelsesreception-vandringsdigte-en-rej
  sedagbog-mellem-koebenhavn-og-aarhus/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-12630611@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261027-96688645@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T120000
 DTEND;TZID=Europe/Copenhagen:20261027T140000
 SUMMARY:Workshoppen ‘Gå fra idé til forretning’ hos Incuba
@@ -80,8 +80,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
 URL:https://incuba.dk/community/events/2026/gaa-fra-ide-til-forretning/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-38373929@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261027-9231535@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T160000
 DTEND;TZID=Europe/Copenhagen:20261027T180000
 SUMMARY:Kom til artist talk med Lea Porsager hos Det Jyske Kunstakademi
@@ -91,7 +91,7 @@ URL:https://www.instagram.com/p/DebfvBvDXDA/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/henrik-tingleff@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T190000
 DTEND;TZID=Europe/Copenhagen:20261027T210000
 SUMMARY:Henrik Tingleff - Manual til mennesker
@@ -100,8 +100,20 @@ CATEGORIES:Foredrag & Talks\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/henrik-tingleff
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-925548@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:ai-https-aarhusinside-dk-event-laer-at-strikke-creating-moments-2026-10
+ -28@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261028T163000
+DTEND;TZID=Europe/Copenhagen:20261028T183000
+SUMMARY:Workshop: Lær at strikke hos Creating Moments
+LOCATION:Creating Moments
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/laer-at-strikke-creating-moments/2026-10-
+ 28/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261028-87374837@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261028T163000
 DTEND;TZID=Europe/Copenhagen:20261028T183000
 SUMMARY:BookTalk hos Det Kgl. Bibliotek med Hiromi Kawakami
@@ -110,8 +122,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
 URL:https://billetto.dk/e/booktalks-hiromi-kawakami-billetter-2006157
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-61142102@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261028-24234671@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261028T190000
 DTEND;TZID=Europe/Copenhagen:20261028T210000
 SUMMARY:Musikforedrag om ‘The Cure’
@@ -120,8 +132,20 @@ CATEGORIES:Foredrag & Talks\,Heromkring
 URL:https://kulturhusbunkeren.dk/arrangementer/musikfortaellinger-the-cure
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261029-1316292@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:ai-https-aarhusinside-dk-event-workshop-i-tofarvet-linoleumstryk-2026-1
+ 0-29@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261029T163000
+DTEND;TZID=Europe/Copenhagen:20261029T183000
+SUMMARY:Workshop i tofarvet linoleumstryk
+LOCATION:Creating Moments
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/workshop-i-tofarvet-linoleumstryk/2026-10
+ -29/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261029-48573690@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261029T173000
 DTEND;TZID=Europe/Copenhagen:20261029T193000
 SUMMARY:Foredraget ‘Fantastiske farver’ hos Antikmuseet Århus
@@ -131,7 +155,7 @@ URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20374744
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/nul-stjerner@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261029T190000
 DTEND;TZID=Europe/Copenhagen:20261029T210000
 SUMMARY:Nul Stjerner - Det Store Rejseshow 2
@@ -141,7 +165,7 @@ URL:https://www.musikhuset.dk/kalender/nul-stjerner
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-drejekursus-hurtig-intro-4@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:DREJEKURSUS – hurtig intro
@@ -150,8 +174,8 @@ CATEGORIES:Foredrag & Talks\,Godsbanen
 URL:https://godsbanen.dk/kalender/drejekursus-hurtig-intro-4/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261101-39802992@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261101-6346822@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261101T131500
 DTEND;TZID=Europe/Copenhagen:20261101T151500
 SUMMARY:Efterårstur og blomster-workshop ved Moesgaard
@@ -161,8 +185,20 @@ URL:https://smagpaaaarhus.dk/arrangement/toerrede-blomster-og-evighedsbuket
  ter/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-mit-yngre-jeg-med-lene-beier-og-vigga-br
+ o@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261102T190000
+DTEND;TZID=Europe/Copenhagen:20261102T210000
+SUMMARY:Mit yngre jeg med Lene Beier og Vigga Bro
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/mit-yngre-jeg-med-lene-beier-og-vigga-bro
+ /
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-bogreception-peter-pans-boern@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Bogreception – ‘Peter Pans børn’
@@ -172,7 +208,7 @@ URL:https://godsbanen.dk/kalender/bogreception-peter-pans-boern/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kaffe-aau-foredrag-20261103-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261103T190000
 DTEND;TZID=Europe/Copenhagen:20261103T210000
 SUMMARY:Kaffe - AAU foredrag
@@ -182,8 +218,19 @@ URL:https://www.google.com/url?q=https://ofn.au.dk&amp;sa=D&amp;source=cale
  ndar&amp;usd=2&amp;usg=AOvVaw3Yg2BEBimVEbd_NCzzdEgs
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-foredrag-om-kaffe-paa-elvaerket@aarhus-k
+ alender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261103T190000
+DTEND;TZID=Europe/Copenhagen:20261103T210000
+SUMMARY:Foredrag om kaffe på Elværket
+LOCATION:Elværket Åbyhøj
+CATEGORIES:Foredrag & Talks\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/foredrag-om-kaffe-paa-elvaerket/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-casting@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:INTRO: SILVER SAND CASTING
@@ -194,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-forfatter-tom-buk-swienty-i-samtale-med-klaus-rothstein-0
  51126@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261105T170000
 DTEND;TZID=Europe/Copenhagen:20261105T183000
 SUMMARY:Forfatter Tom Buk-Swienty i samtale med Klaus Rothstein
@@ -204,8 +251,30 @@ URL:https://www.aros.dk/kalender/forfatter-tom-buk-swienty-i-samtale-med-kl
  aus-rothstein-051126/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-dig-mig-og-magthaverne-klaus-bundgaard@a
+ arhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261105T190000
+DTEND;TZID=Europe/Copenhagen:20261105T210000
+SUMMARY:Dig\, mig og magthaverne: Foredrag med Klaus Bundgård Povlsen
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/dig-mig-og-magthaverne-klaus-bundgaard/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-den-paene-pige-kommer-ikke@aarhus-kalend
+ er
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261107T190000
+DTEND;TZID=Europe/Copenhagen:20261107T210000
+SUMMARY:Den pæne pige kommer ikke – med Christina Sander og Nina Claire
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/den-paene-pige-kommer-ikke/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-find-roen-og-dit-kreative-flow-suminagashi-workshop@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Find roen og dit kreative flow: Suminagashi Workshop
@@ -216,7 +285,7 @@ URL:https://godsbanen.dk/kalender/find-roen-og-dit-kreative-flow-suminagash
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-foredrag-the-beatles-bandet-der-erobrede-verden@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Foredrag: The Beatles – bandet\, der erobrede verden
@@ -226,8 +295,31 @@ URL:https://godsbanen.dk/kalender/foredrag-the-beatles-bandet-der-erobrede-
  verden/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-boevl-nils-villemoes-paa-slap-line@aarhu
+ s-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261109T190000
+DTEND;TZID=Europe/Copenhagen:20261109T203000
+SUMMARY:Bøvl med Nils Villemoes i Hermans
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/boevl-nils-villemoes-paa-slap-line/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-foredrag-om-rytme-paa-bora-bora-2026-11-
+ 10@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261110T183000
+DTEND;TZID=Europe/Copenhagen:20261110T193000
+SUMMARY:Foredrag om rytme på Bora Bora
+LOCATION:Bora Bora
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/foredrag-om-rytme-paa-bora-bora/2026-11-1
+ 0/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-jewelry-make-your-own-ring-3@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Jewelry: Make your own ring
@@ -236,8 +328,20 @@ CATEGORIES:Foredrag & Talks\,Godsbanen
 URL:https://godsbanen.dk/kalender/jewelry-make-your-own-ring-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-foredrag-om-rytme-paa-bora-bora-2026-11-
+ 11@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261111T183000
+DTEND;TZID=Europe/Copenhagen:20261111T193000
+SUMMARY:Foredrag om rytme på Bora Bora
+LOCATION:Bora Bora
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/foredrag-om-rytme-paa-bora-bora/2026-11-1
+ 1/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-smykkekursus-lav-din-egen-ring-5@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Smykkekursus: Lav din egen ring
@@ -248,7 +352,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-foredrag-kongeraekken-live-frihedens-fald-12112026@aarhus
  -kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261112T170000
 DTEND;TZID=Europe/Copenhagen:20261112T180000
 SUMMARY:Kongerækken LIVE - Frihedens Fald
@@ -259,7 +363,7 @@ URL:https://www.aros.dk/kalender/foredrag-kongeraekken-live-frihedens-fald-
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-marmorering-af-papir-og-tekstil@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Marmorering af papir og tekstil
@@ -269,7 +373,7 @@ URL:https://godsbanen.dk/kalender/marmorering-af-papir-og-tekstil/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-de-paaroerende-journalistens-dilemma@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:De pårørende – journalistens dilemma
@@ -278,8 +382,19 @@ CATEGORIES:Foredrag & Talks\,Godsbanen
 URL:https://godsbanen.dk/kalender/de-paaroerende-journalistens-dilemma/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-just-human-med-chris-macdonald@aarhus-ka
+ lender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261116T190000
+DTEND;TZID=Europe/Copenhagen:20261116T210000
+SUMMARY:Just Human med Chris MacDonald
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/just-human-med-chris-macdonald/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-tang-aau-foredrag-20261117-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261117T190000
 DTEND;TZID=Europe/Copenhagen:20261117T210000
 SUMMARY:Tang - AAU foredrag
@@ -289,8 +404,31 @@ URL:https://www.google.com/url?q=https://ofn.au.dk&amp;sa=D&amp;source=cale
  ndar&amp;usd=2&amp;usg=AOvVaw3Yg2BEBimVEbd_NCzzdEgs
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-er-jeg-ogsaa-psykopat-foredrag-med-geo@a
+ arhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261118T190000
+DTEND;TZID=Europe/Copenhagen:20261118T210000
+SUMMARY:Er jeg (også) psykopat? – Rørende foredrag med Geo
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/er-jeg-ogsaa-psykopat-foredrag-med-geo/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-anne-linnet-foredrag-lyset-moerket-og-in
+ derligheden@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261118T190000
+DTEND;TZID=Europe/Copenhagen:20261118T210000
+SUMMARY:Anne Linnet foredrag – lyset\, mørket og inderligheden
+LOCATION:Solsalen
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/anne-linnet-foredrag-lyset-moerket-og-ind
+ erligheden/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-smykkekursus-laer-at-stoebe-i-soelv-bronze-2@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Smykkekursus: Lær at støbe i sølv / bronze
@@ -302,7 +440,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-musik-og-talk-rockhistorier-live-punk-1977-1983-191126@aa
  rhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261119T170000
 DTEND;TZID=Europe/Copenhagen:20261119T190000
 SUMMARY:Musik og Talk - Rockhistorier Live – Punk 1977-1983
@@ -313,7 +451,7 @@ URL:https://www.aros.dk/kalender/musik-og-talk-rockhistorier-live-punk-1977
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-drejekursus-med-glasering-3@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:DREJEKURSUS med glasering
@@ -324,7 +462,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-kunsten-forbindelser-hvad-sker-der-naar-det-velkendte-bli
  ver-fremmed-21112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261121T103000
 DTEND;TZID=Europe/Copenhagen:20261121T143000
 SUMMARY:Kunsten forbindelser: Hvad sker der\, når det velkendte bliver fre
@@ -336,7 +474,7 @@ URL:https://www.aros.dk/kalender/kunsten-forbindelser-hvad-sker-der-naar-de
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-rammetryk-2@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Rammetryk
@@ -346,7 +484,7 @@ URL:https://godsbanen.dk/kalender/rammetryk-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-boggods-2026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:BogGods 2026
@@ -356,7 +494,7 @@ URL:https://godsbanen.dk/kalender/boggods-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-workshop-kunsten-at-dogmestrikke-221126@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261122T100000
 DTEND;TZID=Europe/Copenhagen:20261122T130000
 SUMMARY:Workshop: Kunsten at dogmestrikke
@@ -365,8 +503,41 @@ CATEGORIES:Foredrag & Talks\,AROS
 URL:https://www.aros.dk/kalender/workshop-kunsten-at-dogmestrikke-221126/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-taenk-vildt-med-rane-willerslev@aarhus-k
+ alender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261123T190000
+DTEND;TZID=Europe/Copenhagen:20261123T210000
+SUMMARY:Tænk vildt med Rane Willerslev
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/taenk-vildt-med-rane-willerslev/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-steno-rosenvold-musikhuset-foredrag@aarh
+ us-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261124T200000
+DTEND;TZID=Europe/Copenhagen:20261124T220000
+SUMMARY:Steno & Rosenvolds foredrag – Du er færdig i 2030
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/steno-rosenvold-musikhuset-foredrag/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-gry-jexen-musikhuset-foredrag@aarhus-kal
+ ender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261125T190000
+DTEND;TZID=Europe/Copenhagen:20261125T210000
+SUMMARY:Gry Jexens foredrag Hvem får plads i historien?
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/gry-jexen-musikhuset-foredrag/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-smykkekursus-lav-din-egen-ring-3@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Smykkekursus: Lav din egen ring
@@ -375,8 +546,32 @@ CATEGORIES:Foredrag & Talks\,Godsbanen
 URL:https://godsbanen.dk/kalender/smykkekursus-lav-din-egen-ring-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-foredrag-om-lykke-paa-bora-bora-2026-11-
+ 26@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261126T183000
+DTEND;TZID=Europe/Copenhagen:20261126T193000
+SUMMARY:Foredrag om lykke på Bora Bora
+LOCATION:Bora Bora
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/foredrag-om-lykke-paa-bora-bora/2026-11-2
+ 6/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-foredrag-om-lykke-paa-bora-bora-2026-11-
+ 27@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261127T183000
+DTEND;TZID=Europe/Copenhagen:20261127T193000
+SUMMARY:Foredrag om lykke på Bora Bora
+LOCATION:Bora Bora
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/foredrag-om-lykke-paa-bora-bora/2026-11-2
+ 7/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-lav-din-egen-skammel-i-trae-3@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY:Lav din egen skammel i træ
@@ -386,7 +581,7 @@ URL:https://godsbanen.dk/kalender/lav-din-egen-skammel-i-trae-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-drejekursus-hurtig-intro-5@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:DREJEKURSUS – hurtig intro
@@ -396,7 +591,7 @@ URL:https://godsbanen.dk/kalender/drejekursus-hurtig-intro-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-noise-vision-symposium-28112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261128T093000
 DTEND;TZID=Europe/Copenhagen:20261128T183000
 SUMMARY:NOISE & VISION symposium
@@ -406,7 +601,7 @@ URL:https://www.aros.dk/kalender/noise-vision-symposium-28112026/
 END:VEVENT
 BEGIN:VEVENT
 UID:kunsthal-pages-event-event-92gezuij@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261128T113000
 DTEND;TZID=Europe/Copenhagen:20261128T134500
 SUMMARY:Maria Viftrup: Hvil i dine fejl
@@ -417,7 +612,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-workshop-kunsten-at-brodere-paa-vaegtaepper-291126@aarhus
  -kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261129T100000
 DTEND;TZID=Europe/Copenhagen:20261129T130000
 SUMMARY:Workshop: Kunsten at brodere på vægtæpper
@@ -427,8 +622,40 @@ URL:https://www.aros.dk/kalender/workshop-kunsten-at-brodere-paa-vaegtaeppe
  r-291126/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-yngre-med-aarene-bente-klarlund-pedersen
+ @aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261129T180000
+DTEND;TZID=Europe/Copenhagen:20261129T200000
+SUMMARY:Yngre med årene med Bente Klarlund Pedersen
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/yngre-med-aarene-bente-klarlund-pedersen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-mikkel-severin-saet-mennesker-foerst@aar
+ hus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261130T190000
+DTEND;TZID=Europe/Copenhagen:20261130T220000
+SUMMARY:Mikkel Severin foredrag – Sæt mennesker først
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/mikkel-severin-saet-mennesker-foerst/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-anna-libak-putins-verden@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261201T190000
+DTEND;TZID=Europe/Copenhagen:20261201T210000
+SUMMARY:Anna Libak foredrag: Putins verden
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/anna-libak-putins-verden/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-smykkekursus-lav-din-egen-ring-6@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Smykkekursus: Lav din egen ring
@@ -439,7 +666,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-stort-romanvaerk-i-krigens-skygge-forfatter-kirsten-thoru
  p-i-samtale-med-klaus-rothstein-031226@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261203T170000
 DTEND;TZID=Europe/Copenhagen:20261203T183000
 SUMMARY:Stort romanværk i krigens skygge – forfatter Kirsten Thorup og K
@@ -452,7 +679,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-workshop-kunsten-at-lave-kaempeblomster-061226@aarhus-kal
  ender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261206T100000
 DTEND;TZID=Europe/Copenhagen:20261206T130000
 SUMMARY:Workshop: Kunsten at lave kæmpeblomster
@@ -462,8 +689,31 @@ URL:https://www.aros.dk/kalender/workshop-kunsten-at-lave-kaempeblomster-06
  1226/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-vanedyr-nicklas-brendborg@aarhus-kalende
+ r
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261207T190000
+DTEND;TZID=Europe/Copenhagen:20261207T210000
+SUMMARY:Vanedyr med Nicklas Brendborg
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/vanedyr-nicklas-brendborg/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-henrik-tingleff-foredrag-manual-til-jule
+ n@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261210T190000
+DTEND;TZID=Europe/Copenhagen:20261210T220000
+SUMMARY:Henrik Tingleff foredrag – Manual til julen
+LOCATION:Den Gamle By
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/henrik-tingleff-foredrag-manual-til-julen
+ /
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-drejekursus-hurtig-intro-6@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:DREJEKURSUS – hurtig intro
@@ -474,7 +724,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-workshop-kunsten-at-brodere-paa-toej-131226@aarhus-kalend
  er
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261213T100000
 DTEND;TZID=Europe/Copenhagen:20261213T130000
 SUMMARY:Workshop: Kunsten at brodere på tøj
@@ -484,9 +734,20 @@ URL:https://www.aros.dk/kalender/workshop-kunsten-at-brodere-paa-toej-13122
  6/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-teorier-om-stort-og-smaat-i-hermans@aarh
+ us-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261214T190000
+DTEND;TZID=Europe/Copenhagen:20261214T210000
+SUMMARY:Teorier om stort og småt i Hermans
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/teorier-om-stort-og-smaat-i-hermans/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-find-roen-og-dit-kreative-flow-suminagashi-workshop-2@aarhus-kalende
  r
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Find roen og dit kreative flow: Suminagashi Workshop
@@ -496,9 +757,53 @@ URL:https://godsbanen.dk/kalender/find-roen-og-dit-kreative-flow-suminagash
  i-workshop-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-et-juleeventyr-i-hermans@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261217T193000
+DTEND;TZID=Europe/Copenhagen:20261217T223000
+SUMMARY:Et juleeventyr i Hermans
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/et-juleeventyr-i-hermans/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-titanique-the-musical-i-hermans@aarhus-k
+ alender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270110T140000
+DTEND;TZID=Europe/Copenhagen:20270110T170000
+SUMMARY:TITANIQUE – The Musical i Hermans
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/titanique-the-musical-i-hermans/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-titanique-the-musical-hermans@aarhus-kal
+ ender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270111T190000
+DTEND;TZID=Europe/Copenhagen:20270111T213000
+SUMMARY:TITANIQUE – The Musical i Hermans
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/titanique-the-musical-hermans/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-kan-man-taenke-sig-rask-med-thomas-brein
+ holt@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270112T190000
+DTEND;TZID=Europe/Copenhagen:20270112T210000
+SUMMARY:Kan man tænke sig rask? med Thomas Breinholt
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/kan-man-taenke-sig-rask-med-thomas-breinh
+ olt/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-find-roen-og-dit-kreative-flow-suminagashi-workshop-3@aarhus-kalende
  r
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Find roen og dit kreative flow: Suminagashi Workshop
@@ -508,8 +813,19 @@ URL:https://godsbanen.dk/kalender/find-roen-og-dit-kreative-flow-suminagash
  i-workshop-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-glenn-bech-og-mutti-live-i-hermans@aarhu
+ s-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270201T190000
+DTEND;TZID=Europe/Copenhagen:20270201T210000
+SUMMARY:Glenn Bech og Mutti live i Hermans
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/glenn-bech-og-mutti-live-i-hermans/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-cyklusrevolutionen@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:Cyklusrevolutionen
@@ -520,7 +836,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-portraettet-workshop-i-samlingen-ved-illustrator-line-ref
  strup-0302-27@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270203T160000
 DTEND;TZID=Europe/Copenhagen:20270203T180000
 SUMMARY:Portrættet - Workshop i samlingen ved illustrator Line Refstrup
@@ -530,8 +846,19 @@ URL:https://www.aros.dk/kalender/portraettet-workshop-i-samlingen-ved-illus
  trator-line-refstrup-0302-27/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-eyda-vinterloebet-ved-hermans@aarhus-kal
+ ender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270228T093000
+DTEND;TZID=Europe/Copenhagen:20270228T170000
+SUMMARY:EYDA Vinterløbet ved Hermans
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/eyda-vinterloebet-ved-hermans/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-johanne-mygind-cheminovas-giftige-arv@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Johanne Mygind: Cheminovas giftige arv
@@ -540,9 +867,43 @@ CATEGORIES:Foredrag & Talks\,Godsbanen
 URL:https://godsbanen.dk/kalender/johanne-mygind-cheminovas-giftige-arv/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-rejseholdet-bent-isager-nielsen@aarhus-k
+ alender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270301T190000
+DTEND;TZID=Europe/Copenhagen:20270301T210000
+SUMMARY:Rejseholdet med Bent Isager-Nielsen
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/rejseholdet-bent-isager-nielsen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-manipulationens-psykologi-niels-kroejgaa
+ rd@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270309T190000
+DTEND;TZID=Europe/Copenhagen:20270309T210000
+SUMMARY:Manipulationens psykologi – Show og foredrag med Niels Krøjgaard
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/manipulationens-psykologi-niels-kroejgaar
+ d/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-simon-jul-rane-willerslev@aarhus-kalende
+ r
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270405T190000
+DTEND;TZID=Europe/Copenhagen:20270405T213000
+SUMMARY:Simon Jul & Rane Willerslev – Historien på hovedet
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/simon-jul-rane-willerslev/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-naturen-workshop-i-samlingen-ved-illustrator-line-refstru
  p-0704-27@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270407T160000
 DTEND;TZID=Europe/Copenhagen:20270407T180000
 SUMMARY:Naturen - Workshop i samlingen ved illustrator Line Refstrup
@@ -550,5 +911,29 @@ LOCATION:AROS
 CATEGORIES:Foredrag & Talks\,AROS
 URL:https://www.aros.dk/kalender/naturen-workshop-i-samlingen-ved-illustrat
  or-line-refstrup-0704-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-linse-kessler-hvordan-fanden-goer-du-lin
+ se@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270418T190000
+DTEND;TZID=Europe/Copenhagen:20270418T213000
+SUMMARY:Linse Kessler – Hvordan fanden gør du\, Linse?
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/linse-kessler-hvordan-fanden-goer-du-lins
+ e/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-rasmus-tantholdt-fra-verdens-braendpunkt
+ er@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270419T190000
+DTEND;TZID=Europe/Copenhagen:20270419T210000
+SUMMARY:Rasmus Tantholdt – Historier fra verdens brændpunkter
+LOCATION:Hermans
+CATEGORIES:Foredrag & Talks\,Aarhus Inside
+URL:https://aarhusinside.dk/event/rasmus-tantholdt-fra-verdens-braendpunkte
+ r/
 END:VEVENT
 END:VCALENDAR

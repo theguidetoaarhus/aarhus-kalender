@@ -1012,7 +1012,116 @@ def fetch_kunsthal_aarhus(cutoff: datetime) -> list:
     print(f"  Kunsthal Aarhus: {len(events)} events", file=sys.stderr)
     return events
 
-    print(f"  Beboernes Hus: {len(events)} events", file=sys.stderr)
+
+# ---------------------------------------------------------------------------
+# Aarhus Inside (tredjeparts-eventaggregator) - dækker en lang række
+# spillesteder/værtshuse vi ikke selv har direkte kilder til (Phono, Hermans,
+# Train, TRACK, Bora Bora, Smag Først, Aros Cruises, Den Gamle By, Dokk1,
+# Porter's m.fl.). Serverrenderet side med alle events i én side.
+# ---------------------------------------------------------------------------
+
+AARHUSINSIDE_CHUNK_SPLIT = '<article id="event_article_'
+AARHUSINSIDE_TITLE_RE = re.compile(r'<h2 class="entry-title[^"]*">\s*<a[^>]*href="([^"]+)"[^>]*>([^<]*)</a>')
+AARHUSINSIDE_DATE_RE = re.compile(r'ecs-eventDate[^"]*"[^>]*>\s*<span class=ecs-detail-label>[^<]*</span>\s*<span[^>]*>([^<]*)</span>', re.S)
+AARHUSINSIDE_TIME_RE = re.compile(r'ecs-eventTime[^"]*"[^>]*>\s*<span class=ecs-detail-label>[^<]*</span>\s*<span[^>]*>([^<]*)</span>', re.S)
+AARHUSINSIDE_VENUE_RE = re.compile(r'ecs-venue[^"]*"[^>]*>\s*<span class=ecs-detail-label>[^<]*</span>\s*<span[^>]*>([^<]*)</span>', re.S)
+AARHUSINSIDE_PRICE_RE = re.compile(r'ecs-price[^"]*"[^>]*>\s*<span class=ecs-detail-label>[^<]*</span>\s*<span[^>]*>([^<]*)</span>', re.S)
+AARHUSINSIDE_IMG_RE = re.compile(r'<img[^>]+src="([^"]+)"')
+
+# Mange titler her nævner kun stedet ("Superfan på Phono"), ikke en genre, så
+# classify_text() rammer ofte kun standard-kategorien. Disse kendte spillesteder
+# giver et bedre gæt, men kun når titlen selv ikke allerede har givet et match.
+AARHUSINSIDE_VENUE_HINTS = {
+    "phono": "Musik & Koncerter",
+    "train": "Musik & Koncerter",
+    "track": "Musik & Koncerter",
+    "track (train)": "Musik & Koncerter",
+    "fuglsøcentret": "Musik & Koncerter",
+    "hermans": "Foredrag & Talks",
+    "bora bora": "Teater & Dans",
+    "smag først": "Mad & Drikke",
+    "porter's": "Musik & Koncerter",
+    "aarhus comedy club": "Comedy & Show",
+    "turkis": "Musik & Koncerter",
+    "vindanmark": "Mad & Drikke",
+}
+
+
+def classify_aarhusinside(title: str, venue: str) -> str:
+    category = classify_text(title)
+    if category == "Kunst":
+        hint = AARHUSINSIDE_VENUE_HINTS.get(venue.strip().lower())
+        if hint:
+            return hint
+    return category
+
+
+def fetch_aarhusinside(cutoff: datetime) -> list:
+    try:
+        page = http_get("https://aarhusinside.dk/oplevelser-i-aarhus/")
+    except Exception as e:
+        print(f"  ADVARSEL: kunne ikke hente Aarhus Inside: {e}", file=sys.stderr)
+        return []
+
+    events = []
+    for chunk in page.split(AARHUSINSIDE_CHUNK_SPLIT)[1:]:
+        title_m = AARHUSINSIDE_TITLE_RE.search(chunk)
+        date_m = AARHUSINSIDE_DATE_RE.search(chunk)
+        time_m = AARHUSINSIDE_TIME_RE.search(chunk)
+        venue_m = AARHUSINSIDE_VENUE_RE.search(chunk)
+        if not title_m or not date_m or not time_m or not venue_m:
+            continue
+
+        title = html.unescape(title_m.group(2)).strip()
+        url = title_m.group(1)
+        venue = html.unescape(venue_m.group(1)).strip()
+
+        date_parts = [d.strip() for d in date_m.group(1).split("-")]
+        try:
+            start_day = datetime.strptime(date_parts[0], "%d.%m.%Y")
+            end_day = datetime.strptime(date_parts[-1], "%d.%m.%Y") if len(date_parts) > 1 else start_day
+        except ValueError:
+            continue
+
+        time_parts = [t.strip() for t in time_m.group(1).split("-")]
+        try:
+            sh, sm_ = (int(x) for x in time_parts[0].split(":"))
+            start = start_day.replace(hour=sh, minute=sm_)
+        except (ValueError, IndexError):
+            start = start_day
+        if len(time_parts) > 1:
+            try:
+                eh, em_ = (int(x) for x in time_parts[1].split(":"))
+                end = end_day.replace(hour=eh, minute=em_)
+            except ValueError:
+                end = start + timedelta(hours=2)
+        else:
+            end = start + timedelta(hours=2)
+        if end <= start:
+            end += timedelta(days=1)
+
+        if start > cutoff or start.date() < datetime.now().date():
+            continue
+
+        price_m = AARHUSINSIDE_PRICE_RE.search(chunk)
+        price = html.unescape(price_m.group(1)).strip() if price_m else ""
+        img_m = AARHUSINSIDE_IMG_RE.search(chunk)
+
+        events.append(Event(
+            uid=f"ai-{slugify(url)}",
+            title=title,
+            start=start,
+            end=end,
+            all_day=False,
+            location=venue,
+            url=url,
+            source="Aarhus Inside",
+            category=classify_aarhusinside(title, venue),
+            image=img_m.group(1) if img_m else "",
+            is_free=price.lower() == "gratis",
+        ))
+
+    print(f"  Aarhus Inside: {len(events)} events", file=sys.stderr)
     return events
 
 
@@ -1221,8 +1330,14 @@ def strip_emoji(text: str) -> str:
 # Heromkring skal aldrig "vinde" over vores egne, mere pålidelige kilder -
 # både fordi de har bedre data (billeder, præcise tider), og fordi det ikke
 # skal se ud som om alt stammer fra Heromkring, når vi faktisk selv har fundet det.
-SOURCE_PRIORITY = {"Heromkring": 0}
+SOURCE_PRIORITY = {"Heromkring": 0, "Aarhus Inside": 0}
 DEFAULT_SOURCE_PRIORITY = 1
+
+# Begge disse er tredjeparts-aggregatorer, der selv omformulerer titler (ikke
+# venuets egne ord) - derfor skal de altid vige for en event, en af vores egne
+# venue-kilder allerede har fundet, selv når den normaliserede titel ikke er
+# helt identisk (se "Pas 1" i dedupe()).
+AGGREGATOR_SOURCES = {"Heromkring", "Aarhus Inside"}
 
 
 def _source_priority(ev) -> int:
@@ -1230,25 +1345,26 @@ def _source_priority(ev) -> int:
 
 
 def dedupe(events: list) -> list:
-    # Pas 1: Heromkrings titler er ofte længere/anderledes formuleret end vores
-    # egne kilders (fx "🎙️ Malk De koijn spiller hos Voxhall" vs. "Malk De
-    # Koijn"), så et præcist titel-match fanger ikke altid overlap. Vi fjerner
-    # derfor Heromkring-events, hvis en anden kildes event samme dato har en
-    # normaliseret titel, der går igen som en del af Heromkrings titel.
+    # Pas 1: Aggregator-kilders titler er ofte længere/anderledes formuleret
+    # end vores egne kilders (fx "🎙️ Malk De koijn spiller hos Voxhall" vs.
+    # "Malk De Koijn", eller "Konvent på TRAIN" vs. "Konvent"), så et præcist
+    # titel-match fanger ikke altid overlap. Vi fjerner derfor et
+    # aggregator-event, hvis en anden (ikke-aggregator) kildes event samme
+    # dato har en normaliseret titel, der går igen som en del af aggregatorens.
     by_date = {}
     for ev in events:
         by_date.setdefault(ev.start.date(), []).append(ev)
 
     dropped_ids = set()
     for day_events in by_date.values():
-        others = [e for e in day_events if e.source != "Heromkring"]
+        others = [e for e in day_events if e.source not in AGGREGATOR_SOURCES]
         other_norms = [(normalize_title(e.title), e) for e in others]
         for ev in day_events:
-            if ev.source != "Heromkring":
+            if ev.source not in AGGREGATOR_SOURCES:
                 continue
-            hk_norm = normalize_title(ev.title)
+            agg_norm = normalize_title(ev.title)
             for other_norm, other_ev in other_norms:
-                if len(other_norm) >= 5 and other_norm in hk_norm:
+                if len(other_norm) >= 5 and other_norm in agg_norm:
                     dropped_ids.add(id(ev))
                     break
 
@@ -1411,6 +1527,7 @@ SOURCES = [
     ("Beboernes Hus", fetch_beboerneshus),
     ("AROS", fetch_aros),
     ("Kunsthal Aarhus", fetch_kunsthal_aarhus),
+    ("Aarhus Inside", fetch_aarhusinside),
 ]
 
 

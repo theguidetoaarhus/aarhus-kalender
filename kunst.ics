@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gb-signe-boisen-manus@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261213
 SUMMARY:Signe Boisen: Manus.
@@ -34,8 +34,8 @@ CATEGORIES:Kunst\,Godsbanen\,Gratis
 URL:https://godsbanen.dk/kalender/signe-boisen-manus/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-51262256@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261026-27462651@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261026T090000
 DTEND;TZID=Europe/Copenhagen:20261026T110000
 SUMMARY:Talk & Morgenmad hos Boule bl.a. om fornyelsen af det gamle værtsh
@@ -45,8 +45,8 @@ CATEGORIES:Kunst\,Heromkring\,Gratis
 URL:https://stilling.dk/bistro-arkitekter/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-4143357@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261026-4782413@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261026T190000
 DTEND;TZID=Europe/Copenhagen:20261026T210000
 SUMMARY:‘Der er et myndigt land’ med Alex Vanopslagh
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-seniorrundvisning-frihedens-fald-kunsten-i-tyskland-1910-
  1945-271026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T140000
 DTEND;TZID=Europe/Copenhagen:20261027T150000
 SUMMARY:Seniorrundvisning - Frihedens Fald. Kunsten i Tyskland 1910-1945
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-masterclass-tyske-ekspressionister-kirchner-nolde-og-koll
  witz-271026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T160000
 DTEND;TZID=Europe/Copenhagen:20261027T170000
 SUMMARY:Masterclass - Tyske ekspressionister: Kirchner\, Nolde\, og Kollwit
@@ -81,8 +81,8 @@ URL:https://www.aros.dk/kalender/masterclass-tyske-ekspressionister-kirchne
  r-nolde-og-kollwitz-271026/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-47579202@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261027-88305884@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T160000
 DTEND;TZID=Europe/Copenhagen:20261027T180000
 SUMMARY:Masterclass i ‘Frihedens fald’ hos ARoS
@@ -92,8 +92,8 @@ URL:https://aros.safeticket.dk/event/113031/Masterclass_-_Tyske_ekspression
  ister_Ernst_Ludwig_Kirchner_Emil_Nolde_og_K_the_K_the_Kollwitz
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-99906345@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261027-19021916@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T170000
 DTEND;TZID=Europe/Copenhagen:20261027T190000
 SUMMARY:Bagom sydkorea med journalist fra Malene Jensen fra Weekendavisen
@@ -103,8 +103,8 @@ URL:https://www.aakb.dk/hovedbiblioteket/arrangementer/viden-og-demokrati/b
  agom-sydkorea-0
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-9161576@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261027-24070900@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T170000
 DTEND;TZID=Europe/Copenhagen:20261027T190000
 SUMMARY:Åbent forfatter- og illustratorfællesskab ‘Skab!’ hos Dokk1
@@ -114,8 +114,20 @@ URL:https://www.aakb.dk/hovedbiblioteket/arrangementer/viden-og-demokrati/s
  kab-besoger-dokk1
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-387602@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:ai-https-aarhusinside-dk-event-vietnamesisk-tapas-og-quiz-i-markedshall
+ en@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261027T180000
+DTEND;TZID=Europe/Copenhagen:20261027T200000
+SUMMARY:Vietnamese Tapas & Bingo i Markedshallen
+LOCATION:Markedshallen Nicolinehus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/vietnamesisk-tapas-og-quiz-i-markedshalle
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261027-41310032@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T183000
 DTEND;TZID=Europe/Copenhagen:20261027T203000
 SUMMARY:Forfatter Eva Tind gæster KFM boghandel
@@ -125,7 +137,7 @@ URL:https://billetto.dk/e/eva-tind-hos-kfm-billetter-2023076
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-latterklub-20261027-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T190000
 DTEND;TZID=Europe/Copenhagen:20261027T210000
 SUMMARY:Latterklub
@@ -134,8 +146,8 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-16694489@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261027-35314239@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T190000
 DTEND;TZID=Europe/Copenhagen:20261027T210000
 SUMMARY:Mad & Fad hos Le Coq - menu er en overraskelse indtil tirsdag
@@ -144,8 +156,8 @@ CATEGORIES:Kunst\,Heromkring
 URL:https://www.instagram.com/p/DQozZRuAsEK/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-74375774@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261027-84586441@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261027T193000
 DTEND;TZID=Europe/Copenhagen:20261027T213000
 SUMMARY:Åben poetisk scene hos Løve’s Café
@@ -154,8 +166,19 @@ CATEGORIES:Kunst\,Heromkring\,Gratis
 URL:https://fb.me/e/59Xd71SCl
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-66566359@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:ai-https-aarhusinside-dk-event-offline-onsdag-skaer-graeskar-hos-bellis
+ @aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261028T160000
+DTEND;TZID=Europe/Copenhagen:20261028T180000
+SUMMARY:Offline Onsdag: Skær græskar hos Bellis
+LOCATION:Kulturbodega Bellis
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/offline-onsdag-skaer-graeskar-hos-bellis/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261028-86279327@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261028T170000
 DTEND;TZID=Europe/Copenhagen:20261028T190000
 SUMMARY:BSS startup holder ‘wine & vibe coding’ med udgangspunkt i Lova
@@ -165,8 +188,8 @@ CATEGORIES:Kunst\,Heromkring\,Gratis
 URL:https://www.bssstartup.com/events/vibe-wine-coding-lab
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-66491738@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261028-39121515@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261028T173000
 DTEND;TZID=Europe/Copenhagen:20261028T193000
 SUMMARY:Tid til noget mærkeligt? Prøv opstartstræning hos Aarhus Armwres
@@ -177,8 +200,8 @@ URL:https://motivu.dk/klubber/20538/aarhus-armwrestlers/traeninger/17876/aa
  rhus-armwrestlers-opstart-traening-3
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-98051559@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261028-26001622@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261028T173000
 DTEND;TZID=Europe/Copenhagen:20261028T193000
 SUMMARY:Foreslæsningsrække om ‘Fra plov til smartphone - opfindelser de
@@ -190,7 +213,7 @@ URL:https://fuau.dk/aarhus/program/natur-og-univers/fra-plov-til-smartphone
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261028-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261028T180000
 DTEND;TZID=Europe/Copenhagen:20261028T194000
 SUMMARY:Hopning for Quinder
@@ -199,8 +222,8 @@ CATEGORIES:Kunst\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-6585323@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261028-41050814@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261028T180000
 DTEND;TZID=Europe/Copenhagen:20261028T200000
 SUMMARY:‍ ‘Nighttrail’ hos orienteringsklubben ‘OK PAN’ – med s
@@ -210,8 +233,8 @@ CATEGORIES:Kunst\,Heromkring
 URL:https://www.sportstiming.dk/event/18480
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-6605286@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261028-21937183@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261028T190000
 DTEND;TZID=Europe/Copenhagen:20261028T210000
 SUMMARY:‍ Tech Pub med Tech Hub Aarhus
@@ -223,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261029-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261029T160000
 DTEND;TZID=Europe/Copenhagen:20261029T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -234,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-art-hour-kunst-krig-og-oproer-fra-weimarrepublikken-til-m
  urens-fald-291026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261029T170000
 DTEND;TZID=Europe/Copenhagen:20261029T180000
 SUMMARY:Art Hour - Kunst\, krig og oprør fra Weimarrepublikken til Murens 
@@ -245,8 +268,8 @@ URL:https://www.aros.dk/kalender/art-hour-kunst-krig-og-oproer-fra-weimarre
  publikken-til-murens-fald-291026/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261029-37892243@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261029-1355163@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261029T190000
 DTEND;TZID=Europe/Copenhagen:20261029T210000
 SUMMARY:Paradis i Bunkeren
@@ -255,8 +278,8 @@ CATEGORIES:Kunst\,Heromkring
 URL:https://fo.dk/kurser-i-fo-aarhus/paradis-i-bunkeren-hereditary-2018?
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261029-56706141@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261029-17927988@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261029T190000
 DTEND;TZID=Europe/Copenhagen:20261029T210000
 SUMMARY:RockTalks om ‘Jimi Hendrix’
@@ -265,8 +288,19 @@ CATEGORIES:Kunst\,Heromkring
 URL:https://billetto.dk/e/rock-talks-jimi-hendrix-billetter-1959545
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261029-10803998@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:ai-https-aarhusinside-dk-event-bo-stief-80-den-evige-droem@aarhus-kalen
+ der
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261029T193000
+DTEND;TZID=Europe/Copenhagen:20261029T220000
+SUMMARY:Bo Stief 80 – Den evige drøm
+LOCATION:Elværket Åbyhøj
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/bo-stief-80-den-evige-droem/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261029-22436324@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261029T200000
 DTEND;TZID=Europe/Copenhagen:20261029T220000
 SUMMARY:Se ‘964 Pinocchio aka ピノキオ√964’ hos undergrundsbiffen
@@ -277,7 +311,7 @@ URL:https://slagtehal3.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-93fffd7a-c199-4071-bea7-68c8886ee809-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Lystændingsfest i Salling
@@ -288,7 +322,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/lystaendingsf
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-kunst-paa-barsel-3010-26@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261030T103000
 DTEND;TZID=Europe/Copenhagen:20261030T113000
 SUMMARY:Kunst på barsel
@@ -297,8 +331,20 @@ CATEGORIES:Kunst\,AROS
 URL:https://www.aros.dk/kalender/kunst-paa-barsel-3010-26/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261030-29266934@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:ai-https-aarhusinside-dk-event-havnerundfart-med-oehop-og-aros-cruises-
+ 2026-10-30@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261030T123000
+DTEND;TZID=Europe/Copenhagen:20261030T143000
+SUMMARY:Havnerundfart med ØHOP og Aros Cruises
+LOCATION:Aros Cruises
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/havnerundfart-med-oehop-og-aros-cruises/2
+ 026-10-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261030-74996600@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261030T140000
 DTEND;TZID=Europe/Copenhagen:20261030T160000
 SUMMARY:Århus Space Center & Center for Vikingetid og Middelalder invitere
@@ -308,8 +354,73 @@ CATEGORIES:Kunst\,Heromkring\,Gratis
 URL:https://fb.me/e/29Wp9ltQNe
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261030-98431584@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:ai-https-aarhusinside-dk-event-uhyggelig-allehelgenstur@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261030T163000
+DTEND;TZID=Europe/Copenhagen:20261030T180000
+SUMMARY:Uhyggetur ved allehelgen på Moesgaard
+LOCATION:Moesgaard museum
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/uhyggelig-allehelgenstur/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-bourgogne-syd-til-nord-kjaer-sommerfeldt
+ @aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261030T170000
+DTEND;TZID=Europe/Copenhagen:20261030T190000
+SUMMARY:Bourgogne fra syd til nord hos Kjær & Sommerfeldt
+LOCATION:Kjær & Sommerfeldt
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/bourgogne-syd-til-nord-kjaer-sommerfeldt/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-byt-digt-til-fadoel-byens-forlag-og-bogc
+ afe-2026-10-30@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261030T170000
+DTEND;TZID=Europe/Copenhagen:20261030T190000
+SUMMARY:Byt et digt til en fadøl hos Byens Forlag og Bogcafé
+LOCATION:Byens Forlag og Bogcafé
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/byt-digt-til-fadoel-byens-forlag-og-bogca
+ fe/2026-10-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-halloween-isdisco-i-aarhus-skoejtehal@aa
+ rhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261030T173000
+DTEND;TZID=Europe/Copenhagen:20261030T230000
+SUMMARY:Halloween-isdisco i Aarhus Skøjtehal
+LOCATION:Aarhus Skøjtehal
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/halloween-isdisco-i-aarhus-skoejtehal/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-halloween-party-paa-cafe-smagloes@aarhus
+ -kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261030T180000
+DTEND;TZID=Europe/Copenhagen:20261030T233000
+SUMMARY:Halloween Party på Café Smagløs
+LOCATION:Café Smagløs
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/halloween-party-paa-cafe-smagloes/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-sallings-julelys-taendes@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261030T190000
+DTEND;TZID=Europe/Copenhagen:20261030T210000
+SUMMARY:Sallings julelys tændes
+LOCATION:Salling Aarhus
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/sallings-julelys-taendes/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261030-78297196@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261030T190000
 DTEND;TZID=Europe/Copenhagen:20261030T210000
 SUMMARY:Oplev chicago-baserede Bitchin’ Bajas & århusianske Warp hos PHO
@@ -319,8 +430,19 @@ CATEGORIES:Kunst\,Heromkring
 URL:https://phono.billetten.dk/index/eventdetails/eventno/151106
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-spooky-friday-bodegaquiz-hos-bellis@aarh
+ us-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261030T200000
+DTEND;TZID=Europe/Copenhagen:20261030T213000
+SUMMARY:Spooky Friday: Bodegaquiz hos Bellis
+LOCATION:Kulturbodega Bellis
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/spooky-friday-bodegaquiz-hos-bellis/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-bbc14962-cefa-4533-bb2d-a7cf59895fb9-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Mina Okabe i Musikhuset Aarhus
@@ -331,7 +453,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/mina-okabe-i-
 END:VEVENT
 BEGIN:VEVENT
 UID:va-55ef6ea6-ab94-4fdb-8da6-cf249783c9c1-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20270215
 SUMMARY:Skøjtebanen i Musikhusparken i Aarhus
@@ -341,8 +463,8 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/skoejtebanen-
  i-musikhusparken-i-aarhus-gdk1044429
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261031-72324035@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261031-69208336@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261031T090000
 DTEND;TZID=Europe/Copenhagen:20261031T110000
 SUMMARY:Havehygge på Kalø Højskole
@@ -352,8 +474,19 @@ URL:https://www.go-syddjurs.dk/?ytroute=%2Farrangementer%2F61288%2Flokal-ha
  vehygge-paa-kaloe-hoejskole
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-paa-rosenholm-slot-2026-10-31
+ @aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261031T100000
+DTEND;TZID=Europe/Copenhagen:20261101T160000
+SUMMARY:Julemarked på Rosenholm Slot
+LOCATION:Rosenholm Slot
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/julemarked-paa-rosenholm-slot/2026-10-31/
+END:VEVENT
+BEGIN:VEVENT
 UID:mh-/kalender/syng-i-den-blaa@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261031T110000
 DTEND;TZID=Europe/Copenhagen:20261031T130000
 SUMMARY:Syng i den blå - Fællessang
@@ -362,8 +495,19 @@ CATEGORIES:Kunst\,Musikhuset Aarhus\,Gratis
 URL:https://www.musikhuset.dk/kalender/syng-i-den-blaa
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261031-28019423@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:ai-https-aarhusinside-dk-event-dia-de-los-muertos-paa-cafe-smagloes@aar
+ hus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261031T120000
+DTEND;TZID=Europe/Copenhagen:20261031T233000
+SUMMARY:Día de los Muertos på Café Smagløs
+LOCATION:Café Smagløs
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/dia-de-los-muertos-paa-cafe-smagloes/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261031-68881823@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261031T130000
 DTEND;TZID=Europe/Copenhagen:20261031T150000
 SUMMARY:Dokk1 læser livet højt med bl.a. Bukowski\, Tove Ditlevsen
@@ -372,8 +516,41 @@ CATEGORIES:Kunst\,Heromkring\,Gratis
 URL:https://fb.me/e/4X0cwvDhN
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261031-75687468@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:ai-https-aarhusinside-dk-event-allehelgen-paa-gammel-estrup@aarhus-kale
+ nder
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261031T170000
+DTEND;TZID=Europe/Copenhagen:20261031T220000
+SUMMARY:Allehelgen på Gammel Estrup
+LOCATION:Gammel Estrup
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/allehelgen-paa-gammel-estrup/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-middag-med-historie-i-den-gamle-by@aarhu
+ s-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261031T173000
+DTEND;TZID=Europe/Copenhagen:20261031T210000
+SUMMARY:Middag med historie i Den Gamle By
+LOCATION:Den Gamle By
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/middag-med-historie-i-den-gamle-by/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-halloween-for-voksne-paa-aros-cruises@aa
+ rhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261031T190000
+DTEND;TZID=Europe/Copenhagen:20261031T210000
+SUMMARY:Halloween for voksne på Aros Cruises
+LOCATION:Aros Cruises
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/halloween-for-voksne-paa-aros-cruises/
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261031-63886452@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261031T190000
 DTEND;TZID=Europe/Copenhagen:20261031T210000
 SUMMARY:Miaw & Inga Bari
@@ -382,8 +559,8 @@ CATEGORIES:Kunst\,Heromkring
 URL:https://phono.billetten.dk/index/eventdetails/eventno/144223
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261031-10824672@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261031-73007941@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261031T200000
 DTEND;TZID=Europe/Copenhagen:20261031T220000
 SUMMARY:HELLA After Dark
@@ -392,8 +569,8 @@ CATEGORIES:Kunst\,Heromkring
 URL:https://luma.com/hdq9gjbm
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261101-92516856@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261101-1523084@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261101T100000
 DTEND;TZID=Europe/Copenhagen:20261101T120000
 SUMMARY:Fugletur ved Egå Engsø
@@ -404,7 +581,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-soendagsrundvisning-ulydig-kroppen-i-punk-01112026@aarhus
  -kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261101T150000
 DTEND;TZID=Europe/Copenhagen:20261101T154500
 SUMMARY:Søndagsrundvisning - Ulydig - Kroppen i punk
@@ -414,8 +591,8 @@ URL:https://www.aros.dk/kalender/soendagsrundvisning-ulydig-kroppen-i-punk-
  01112026/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261101-3681136@aarhus-kalender
-DTSTAMP:20261027T090623Z
+UID:hk-20261101-57461996@aarhus-kalender
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261101T173000
 DTEND;TZID=Europe/Copenhagen:20261101T193000
 SUMMARY:Eller hos Atelier 33
@@ -424,8 +601,19 @@ CATEGORIES:Kunst\,Heromkring
 URL:https://www.instagram.com/p/Der4HAxgiVd/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-anders-wortmann-musikhuset-comedy@aarhus
+ -kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261101T190000
+DTEND;TZID=Europe/Copenhagen:20261101T203000
+SUMMARY:Anders Wortmanns show Far til 2 i Musikhuset
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/anders-wortmann-musikhuset-comedy/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-aabent-hus-20261102-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261102T100000
 DTEND;TZID=Europe/Copenhagen:20261102T130000
 SUMMARY:Åbent hus
@@ -435,7 +623,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20261102-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261102T170000
 DTEND;TZID=Europe/Copenhagen:20261102T183000
 SUMMARY:Kor *Ny korleder*
@@ -446,7 +634,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/online-informationsmoede-klassiske-uddannelser@aarhus-kale
  nder
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261102T183000
 DTEND;TZID=Europe/Copenhagen:20261102T203000
 SUMMARY:Online informationsmøde - klassiske uddannelser - Det Jyske Musikk
@@ -458,7 +646,7 @@ URL:https://www.musikhuset.dk/kalender/online-informationsmoede-klassiske-u
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20261102-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261102T190000
 DTEND;TZID=Europe/Copenhagen:20261102T210000
 SUMMARY:Nørkleaften
@@ -467,9 +655,20 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-sara-alfort-i-den-gamle-by@aarhus-kalend
+ er
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261102T190000
+DTEND;TZID=Europe/Copenhagen:20261102T210000
+SUMMARY:Damer\, der var for meget med Sara Alfort
+LOCATION:Den Gamle By
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/sara-alfort-i-den-gamle-by/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-formiddagskunst-frihedens-fald-tysk-kunst-fra-1910-1945-0
  31126@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261103T110000
 DTEND;TZID=Europe/Copenhagen:20261103T120000
 SUMMARY:Formiddagskunst - Frihedens fald – tysk kunst fra 1910 – 1945
@@ -480,7 +679,7 @@ URL:https://www.aros.dk/kalender/formiddagskunst-frihedens-fald-tysk-kunst-
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261104-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261104T180000
 DTEND;TZID=Europe/Copenhagen:20261104T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -490,7 +689,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261104-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261104T180000
 DTEND;TZID=Europe/Copenhagen:20261104T194000
 SUMMARY:Hopning for Quinder
@@ -500,7 +699,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-slow-looking-frihedens-fald@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261104T180000
 DTEND;TZID=Europe/Copenhagen:20261104T191500
 SUMMARY:Slow Looking: Frihedens Fald
@@ -509,8 +708,20 @@ CATEGORIES:Kunst\,AROS
 URL:https://www.aros.dk/kalender/slow-looking-frihedens-fald/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-fra-forbrydelse-til-straf-stage-og-moell
+ er@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261104T190000
+DTEND;TZID=Europe/Copenhagen:20261104T210000
+SUMMARY:Fra forbrydelse til straf med Stage og Møller
+LOCATION:Studenterhus Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/fra-forbrydelse-til-straf-stage-og-moelle
+ r/
+END:VEVENT
+BEGIN:VEVENT
 UID:mh-/kalender/demensvenlig-koncert@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261105T110000
 DTEND;TZID=Europe/Copenhagen:20261105T130000
 SUMMARY:Demensvenlig koncert
@@ -521,7 +732,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261105-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261105T160000
 DTEND;TZID=Europe/Copenhagen:20261105T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -530,8 +741,19 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-series-awards-stem-med-her@aarhus-kalend
+ er
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261105T200000
+DTEND;TZID=Europe/Copenhagen:20261105T220000
+SUMMARY:Series Awards 2026 på Aarhus Rådhus
+LOCATION:Aarhus Rådhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/series-awards-stem-med-her/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-b34eda4b-fa96-4f02-82ec-2488fcf11746-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:J-dag i Den Gamle By
@@ -543,7 +765,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-demensrundvisning-frihedens-fald-kunsten-i-tyskland-1910-
  1945@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261106T101500
 DTEND;TZID=Europe/Copenhagen:20261106T121500
 SUMMARY:Demensrundvisning · Frihedens Fald – Kunsten i Tyskland 1910–1
@@ -555,7 +777,7 @@ URL:https://www.aros.dk/kalender/demensrundvisning-frihedens-fald-kunsten-i
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-laternefest-20261106-160000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261106T160000
 DTEND;TZID=Europe/Copenhagen:20261106T183000
 SUMMARY:Laternefest
@@ -564,8 +786,31 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-cocktail-cruise-med-aros-cruises-m-s-hel
+ ene-2026-11-06@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261106T170000
+DTEND;TZID=Europe/Copenhagen:20261106T183000
+SUMMARY:Cocktail Cruise med Aros Cruises
+LOCATION:Aros Cruises
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/cocktail-cruise-med-aros-cruises-m-s-hele
+ ne/2026-11-06/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-rush-all-night-en-hel-nat-i-rush-aarhus@
+ aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261106T190000
+DTEND;TZID=Europe/Copenhagen:20261107T080000
+SUMMARY:Rush All Night – en hel nat i RUSH Aarhus
+LOCATION:RUSH Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/rush-all-night-en-hel-nat-i-rush-aarhus/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-7ea3d43f-1e67-4306-bcbb-afe1946b07ac-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261231
 SUMMARY:Julerundfart med Juleskibet Svanen
@@ -575,9 +820,64 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julerundfart-
  med-juleskibet-svanen-gdk1135273
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-hos-kaiku-julestemning@aarhus
+ -kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261107T100000
+DTEND;TZID=Europe/Copenhagen:20261108T150000
+SUMMARY:Julemarked hos KAiKU
+LOCATION:KAiKU
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julemarked-hos-kaiku-julestemning/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-krea-messe-i-aarhus@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261107T100000
+DTEND;TZID=Europe/Copenhagen:20261108T160000
+SUMMARY:KREA-Messe på Godsbanen
+LOCATION:Godsbanen
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/krea-messe-i-aarhus/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-paa-rosenholm-slot-2026-11-07
+ @aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261107T100000
+DTEND;TZID=Europe/Copenhagen:20261107T160000
+SUMMARY:Julemarked på Rosenholm Slot
+LOCATION:Rosenholm Slot
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/julemarked-paa-rosenholm-slot/2026-11-07/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-paa-rosenholm-slot-2026-11-08
+ @aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261108T100000
+DTEND;TZID=Europe/Copenhagen:20261108T160000
+SUMMARY:Julemarked på Rosenholm Slot
+LOCATION:Rosenholm Slot
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/julemarked-paa-rosenholm-slot/2026-11-08/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-eventyrlig-forpremiere-paa-valdras-helte
+ -ii@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261108T130000
+DTEND;TZID=Europe/Copenhagen:20261108T153000
+SUMMARY:Eventyrlig forpremiere på Valdras Helte II
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/eventyrlig-forpremiere-paa-valdras-helte-
+ ii/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-soendagsrundvisning-frihedens-fald-08112026@aarhus-kalend
  er
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261108T150000
 DTEND;TZID=Europe/Copenhagen:20261108T154500
 SUMMARY:Søndagsrundvisning - Frihedens Fald
@@ -587,8 +887,19 @@ URL:https://www.aros.dk/kalender/soendagsrundvisning-frihedens-fald-0811202
  6/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-josefine-stork-cyklusrevolutionen@aarhus
+ -kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261108T190000
+DTEND;TZID=Europe/Copenhagen:20261108T210000
+SUMMARY:Cyklusrevolutionen med Josefine Stork
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/josefine-stork-cyklusrevolutionen/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-aabent-hus-20261109-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261109T100000
 DTEND;TZID=Europe/Copenhagen:20261109T130000
 SUMMARY:Åbent hus
@@ -598,7 +909,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20261109-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261109T170000
 DTEND;TZID=Europe/Copenhagen:20261109T183000
 SUMMARY:Kor *Ny korleder*
@@ -608,7 +919,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20261109-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261109T190000
 DTEND;TZID=Europe/Copenhagen:20261109T210000
 SUMMARY:Nørkleaften
@@ -617,8 +928,19 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-jakob-dinesen-og-albert-sanz-paa-porters
+ @aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261109T200000
+DTEND;TZID=Europe/Copenhagen:20261109T220000
+SUMMARY:Jakob Dinesen og Albert Sanz på Porter’s
+LOCATION:Porter’s
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/jakob-dinesen-og-albert-sanz-paa-porters/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-5f37159d-2d5d-45d0-ae0a-c5cda659b0e3-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261223
 SUMMARY:Havnerundfart på Juldamperen
@@ -629,7 +951,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/havnerundfart
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/ladys-club@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261110T113000
 DTEND;TZID=Europe/Copenhagen:20261110T133000
 SUMMARY:Ladys Club - Damefrokost i Musikhuset
@@ -639,7 +961,7 @@ URL:https://www.musikhuset.dk/kalender/ladys-club
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-mindfulness-ved-tusmoerke-10112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261110T162000
 DTEND;TZID=Europe/Copenhagen:20261110T170100
 SUMMARY:Mindfulness ved Tusmørke
@@ -649,7 +971,7 @@ URL:https://www.aros.dk/kalender/mindfulness-ved-tusmoerke-10112026/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-800fd514-fcb0-4c81-a90b-75806ed34c5d-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:When Saints Go Machine i Musikhuset Aarhus
@@ -660,7 +982,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/when-saints-g
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261111-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261111T180000
 DTEND;TZID=Europe/Copenhagen:20261111T194000
 SUMMARY:Hopning for Quinder
@@ -671,7 +993,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-aftenrundvisning-favoritter-fra-samlingen-1111@aarhus-kal
  ender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261111T190000
 DTEND;TZID=Europe/Copenhagen:20261111T194500
 SUMMARY:Aftenrundvisning - Favoritter fra samlingen
@@ -683,7 +1005,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261112-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261112T160000
 DTEND;TZID=Europe/Copenhagen:20261112T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -692,8 +1014,19 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-helle-heine-hansen-kvartet-i-tilst@aarhu
+ s-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261112T190000
+DTEND;TZID=Europe/Copenhagen:20261112T210000
+SUMMARY:Helle/Heine Hansen Kvartet i Tilst
+LOCATION:Tilst Gymnasium
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/helle-heine-hansen-kvartet-i-tilst/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-ef1764e7-3094-4b8b-b2fb-8eb8bea79e8a-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261223
 SUMMARY:Julemarkedet Julen i Aarhus
@@ -703,8 +1036,29 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julemarkedet-
  julen-i-aarhus-gdk1157926
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-jul-paa-faengslet@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261113T080000
+DTEND;TZID=Europe/Copenhagen:20261115T170000
+SUMMARY:Jul på FÆNGSLET
+LOCATION:Fængslet
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/jul-paa-faengslet/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-turboweekend-aarhus-congress-center@aarh
+ us-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261113T200000
+DTEND;TZID=Europe/Copenhagen:20261113T220000
+SUMMARY:Turboweekend med deres hidtil største show
+LOCATION:Aarhus Congress Center
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/turboweekend-aarhus-congress-center/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-5681efa1-6927-4206-93d0-406915d076e3-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20270101
 SUMMARY:Jul i Den Gamle By
@@ -715,7 +1069,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/jul-i-den-gam
 END:VEVENT
 BEGIN:VEVENT
 UID:va-0bb34432-b36d-4216-ac7d-aac0815180ce-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261129
 SUMMARY:Jul i Friheden
@@ -725,8 +1079,74 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/jul-i-frihede
  n-gdk1081943
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-mumle-i-aarhus-congress-center@aarhus-ka
+ lender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261114T080000
+DTEND;TZID=Europe/Copenhagen:20261114T170000
+SUMMARY:MUMLE i Aarhus Congress Center
+LOCATION:Aarhus Congress Center
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/mumle-i-aarhus-congress-center/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-i-folkehuset-skejby@aarhus-ka
+ lender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261114T100000
+DTEND;TZID=Europe/Copenhagen:20261114T143000
+SUMMARY:Julemarked i Folkehuset Skejby
+LOCATION:Folkehuset Skejby
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julemarked-i-folkehuset-skejby/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-paa-clausholm-slot@aarhus-kal
+ ender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261114T100000
+DTEND;TZID=Europe/Copenhagen:20261115T170000
+SUMMARY:Julemarked på Clausholm Slot
+LOCATION:Clausholm Slot
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/julemarked-paa-clausholm-slot/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-ida-dakar-pop-up-butik-paa-lynfabrikken@
+ aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261114T110000
+DTEND;TZID=Europe/Copenhagen:20261115T160000
+SUMMARY:Ida Dakar åbner pop up-butik på Lynfabrikken
+LOCATION:LYNfabrikken
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/ida-dakar-pop-up-butik-paa-lynfabrikken/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-roede-kors-julemarked-i-folkehuset-troej
+ borg-2026-11-14@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261114T110000
+DTEND;TZID=Europe/Copenhagen:20261114T160000
+SUMMARY:Røde Kors julemarked i Folkehuset Trøjborg
+LOCATION:Folkehuset Trøjborg
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/roede-kors-julemarked-i-folkehuset-troejb
+ org/2026-11-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-reduktivt-vinfestival@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261114T120000
+DTEND;TZID=Europe/Copenhagen:20261114T170000
+SUMMARY:Reduktivt Vinfestival 2026
+LOCATION:Roberta’s Society
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/reduktivt-vinfestival/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-068b6330-dd53-4deb-bd2f-e6c163b325da-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Juleparaden i Aarhus
@@ -736,9 +1156,32 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/juleparaden-i
  -aarhus-gdk832105
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-folkehuset-ankersgade@aarhus-
+ kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261115T100000
+DTEND;TZID=Europe/Copenhagen:20261115T150000
+SUMMARY:Julemarked i Folkehuset Ankersgade
+LOCATION:Folkehuset Ankersgade
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julemarked-folkehuset-ankersgade/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-roede-kors-julemarked-i-folkehuset-troej
+ borg-2026-11-15@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261115T110000
+DTEND;TZID=Europe/Copenhagen:20261115T160000
+SUMMARY:Røde Kors julemarked i Folkehuset Trøjborg
+LOCATION:Folkehuset Trøjborg
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/roede-kors-julemarked-i-folkehuset-troejb
+ org/2026-11-15/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-soendagsrundvisning-favoritter-fra-samlingen-15112026@aar
  hus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261115T150000
 DTEND;TZID=Europe/Copenhagen:20261115T154500
 SUMMARY:Søndagsrundvisning - Favoritter fra samlingen
@@ -748,8 +1191,29 @@ URL:https://www.aros.dk/kalender/soendagsrundvisning-favoritter-fra-samling
  en-15112026/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-juleparade@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261115T150000
+DTEND;TZID=Europe/Copenhagen:20261115T170000
+SUMMARY:Juleparade og tænding af stjernehimlen
+LOCATION:Aarhus midtby
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/juleparade/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-tommy-kenter-musikhuset-comedy@aarhus-ka
+ lender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261115T150000
+DTEND;TZID=Europe/Copenhagen:20261115T170000
+SUMMARY:Tommy Kenters Sidste KENTEX i Musikhuset
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/tommy-kenter-musikhuset-comedy/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-8c767486-bb39-44c8-953b-d12238b2b0b7-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20270101
 SUMMARY:Julehygge i Aarhusregionen
@@ -760,7 +1224,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julehygge-i-a
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20261116-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261116T100000
 DTEND;TZID=Europe/Copenhagen:20261116T130000
 SUMMARY:Åbent hus
@@ -770,7 +1234,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20261116-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261116T170000
 DTEND;TZID=Europe/Copenhagen:20261116T183000
 SUMMARY:Kor *Ny korleder*
@@ -780,7 +1244,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20261116-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261116T190000
 DTEND;TZID=Europe/Copenhagen:20261116T210000
 SUMMARY:Nørkleaften
@@ -790,7 +1254,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-97ed9430-04b5-4bd0-8cfb-133628e33ac7-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261217
 SUMMARY:Rundvisning om Julens Planter i Væksthusene i Aarhus
@@ -801,7 +1265,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/rundvisning-o
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-medlemsuge-paa-aros-17112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261117T100000
 DTEND;TZID=Europe/Copenhagen:20261117T190000
 SUMMARY:Medlemsuge på ARoS
@@ -812,7 +1276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-sneak-peek-paa-ny-samlingsudstilling-17112026@aarhus-kale
  nder
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261117T130000
 DTEND;TZID=Europe/Copenhagen:20261117T140000
 SUMMARY:UDSOLGT · Sneak peek på Ny samlingsudstilling
@@ -824,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-masterclass-abstrakt-kunst-klee-og-kandinskij-171126@aarh
  us-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261117T160000
 DTEND;TZID=Europe/Copenhagen:20261117T170000
 SUMMARY:Masterclass - Abstrakt kunst: Klee og Kandinskij
@@ -834,8 +1298,19 @@ URL:https://www.aros.dk/kalender/masterclass-abstrakt-kunst-klee-og-kandins
  kij-171126/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-samuel-rachlin-verden-ved-en-skillevej@a
+ arhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261117T190000
+DTEND;TZID=Europe/Copenhagen:20261117T210000
+SUMMARY:Samuel Rachlin: Verden ved en skillevej
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/samuel-rachlin-verden-ved-en-skillevej/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-3ce203d1-a1c1-4910-84c4-721c4d45f089-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261218
 SUMMARY:Risengrød og bamsejul
@@ -846,7 +1321,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/risengroed-og
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-medlemsuge-paa-aros-18112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261118T100000
 DTEND;TZID=Europe/Copenhagen:20261118T190000
 SUMMARY:Medlemsuge på ARoS
@@ -857,7 +1332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-sneak-peek-paa-ny-samlingsudstilling-18112026@aarhus-kale
  nder
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261118T130000
 DTEND;TZID=Europe/Copenhagen:20261118T140000
 SUMMARY:UDSOLGT · Sneak peek på Ny samlingsudstilling
@@ -869,7 +1344,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-eftermiddagskunst-frihedens-fald-tysk-kunst-fra-1910-1945
  -181126@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261118T160000
 DTEND;TZID=Europe/Copenhagen:20261118T170000
 SUMMARY:Eftermiddagskunst · Frihedens fald – tysk kunst fra 1910 – 194
@@ -881,7 +1356,7 @@ URL:https://www.aros.dk/kalender/eftermiddagskunst-frihedens-fald-tysk-kuns
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261118-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261118T180000
 DTEND;TZID=Europe/Copenhagen:20261118T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -891,7 +1366,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261118-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261118T180000
 DTEND;TZID=Europe/Copenhagen:20261118T194000
 SUMMARY:Hopning for Quinder
@@ -900,8 +1375,31 @@ CATEGORIES:Kunst\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julestrik-til-soes-paa-juleskibet-svanen
+ -2026-11-18@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261118T183000
+DTEND;TZID=Europe/Copenhagen:20261118T200000
+SUMMARY:Julestrik til søs på Juleskibet Svanen
+LOCATION:Aarhus Havnerundfart
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/julestrik-til-soes-paa-juleskibet-svanen/
+ 2026-11-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-clapper-paa-porters-jazz-bar@aarhus-kale
+ nder
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261118T200000
+DTEND;TZID=Europe/Copenhagen:20261118T230000
+SUMMARY:CLAPPER på Porter’s Jazz Bar
+LOCATION:Porter’s
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/clapper-paa-porters-jazz-bar/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-medlemsuge-paa-aros-19112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261119T100000
 DTEND;TZID=Europe/Copenhagen:20261119T190000
 SUMMARY:Medlemsuge på ARoS
@@ -912,7 +1410,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-eftermiddagskunst-james-turrell-og-light-space-bevaegelse
  n-191126@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261119T140000
 DTEND;TZID=Europe/Copenhagen:20261119T150000
 SUMMARY:Eftermiddagskunst · James Turrell og Light & Space bevægelsen
@@ -924,7 +1422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261119-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261119T160000
 DTEND;TZID=Europe/Copenhagen:20261119T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -933,8 +1431,31 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-smykkekursus-sandstoebning-i-soelv@aarhu
+ s-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261119T170000
+DTEND;TZID=Europe/Copenhagen:20261119T210000
+SUMMARY:Smykkekursus: Lær at støbe i sølv og bronze
+LOCATION:Godsbanen
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/smykkekursus-sandstoebning-i-soelv/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-moed-dit-immunforsvar-paa-aarhus-univers
+ itet@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261119T173000
+DTEND;TZID=Europe/Copenhagen:20261119T210000
+SUMMARY:Mød dit immunforsvar på Aarhus Universitet
+LOCATION:Byauditoriet
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/moed-dit-immunforsvar-paa-aarhus-universi
+ tet/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-2a576416-7f82-425c-840f-a63b19d31edf-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:FLUX Festival - gaming\, kultur og musik
@@ -944,8 +1465,19 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/flux-festival
  -gaming-kultur-og-musik-gdk1162720
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-jul-paa-faengslet-horsens@aarhus-kalende
+ r
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261120T080000
+DTEND;TZID=Europe/Copenhagen:20261122T170000
+SUMMARY:Jul på FÆNGSLET
+LOCATION:Fængslet
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/jul-paa-faengslet-horsens/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-medlemsuge-paa-aros-20112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261120T100000
 DTEND;TZID=Europe/Copenhagen:20261120T190000
 SUMMARY:Medlemsuge på ARoS
@@ -955,7 +1487,7 @@ URL:https://www.aros.dk/kalender/medlemsuge-paa-aros-20112026/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-kuratorenes-favoritter-20112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261120T130000
 DTEND;TZID=Europe/Copenhagen:20261120T140000
 SUMMARY:Kuratorenes favoritter
@@ -964,8 +1496,29 @@ CATEGORIES:Kunst\,AROS
 URL:https://www.aros.dk/kalender/kuratorenes-favoritter-20112026/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julesnefnugene-i-volden@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261120T160000
+DTEND;TZID=Europe/Copenhagen:20261120T180000
+SUMMARY:Lystænding af julesnefnugene i Volden
+LOCATION:Latinerkvarteret
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julesnefnugene-i-volden/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-hadi-ka-koush-naesten-helt-normal@aarhus
+ -kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261120T203000
+DTEND;TZID=Europe/Copenhagen:20261120T220000
+SUMMARY:Hadi Ka-koush – Næsten Helt Normal
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/hadi-ka-koush-naesten-helt-normal/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-medlemsuge-paa-aros-21112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261121T100000
 DTEND;TZID=Europe/Copenhagen:20261121T190000
 SUMMARY:Medlemsuge på ARoS
@@ -974,8 +1527,41 @@ CATEGORIES:Kunst\,AROS
 URL:https://www.aros.dk/kalender/medlemsuge-paa-aros-21112026/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-i-kulturhus-viby@aarhus-kalen
+ der
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261121T100000
+DTEND;TZID=Europe/Copenhagen:20261121T160000
+SUMMARY:Julemarked i Kulturhus Viby
+LOCATION:Kulturhus Viby
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julemarked-i-kulturhus-viby/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-clausholm-slot@aarhus-kalende
+ r
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261121T100000
+DTEND;TZID=Europe/Copenhagen:20261122T170000
+SUMMARY:Julemarked på Clausholm Slot
+LOCATION:Clausholm Slot
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/julemarked-clausholm-slot/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-paa-gasvaerket-i-brabrand@aar
+ hus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261121T110000
+DTEND;TZID=Europe/Copenhagen:20261122T160000
+SUMMARY:Hyggeligt julemarked på Gasværket i Brabrand
+LOCATION:Gasværket
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julemarked-paa-gasvaerket-i-brabrand/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-dans-i-domen-211126@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261121T120000
 DTEND;TZID=Europe/Copenhagen:20261121T130000
 SUMMARY:Dans i Domen
@@ -984,8 +1570,19 @@ CATEGORIES:Kunst\,AROS
 URL:https://www.aros.dk/kalender/dans-i-domen-211126/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-hanne-boel-musikhuset-koncert@aarhus-kal
+ ender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261121T200000
+DTEND;TZID=Europe/Copenhagen:20261121T213000
+SUMMARY:Hanne Boel live i Musikhuset
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/hanne-boel-musikhuset-koncert/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-a89ddf2a-01b9-41bf-8e23-407d627c77bc-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Orkesterfestivalen i Musikhuset Aarhus
@@ -996,7 +1593,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/orkesterfesti
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-medlemsuge-paa-aros-22112026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261122T100000
 DTEND;TZID=Europe/Copenhagen:20261122T190000
 SUMMARY:Medlemsuge på ARoS
@@ -1006,7 +1603,7 @@ URL:https://www.aros.dk/kalender/medlemsuge-paa-aros-22112026/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-dans-i-domen-221126@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261122T120000
 DTEND;TZID=Europe/Copenhagen:20261122T130000
 SUMMARY:Dans i Domen
@@ -1017,7 +1614,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-soendagsrundvisning-frihedens-fald-22112026@aarhus-kalend
  er
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261122T150000
 DTEND;TZID=Europe/Copenhagen:20261122T154500
 SUMMARY:UDSOLGT· Søndagsrundvisning - Frihedens Fald
@@ -1027,8 +1624,19 @@ URL:https://www.aros.dk/kalender/soendagsrundvisning-frihedens-fald-2211202
  6/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-mozarts-requiem-fylder-lukaskirken@aarhu
+ s-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261122T170000
+DTEND;TZID=Europe/Copenhagen:20261122T190000
+SUMMARY:Mozarts Requiem fylder Lukaskirken
+LOCATION:Skt. Lukas Kirke
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/mozarts-requiem-fylder-lukaskirken/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-aabent-hus-20261123-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261123T100000
 DTEND;TZID=Europe/Copenhagen:20261123T130000
 SUMMARY:Åbent hus
@@ -1038,7 +1646,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20261123-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261123T170000
 DTEND;TZID=Europe/Copenhagen:20261123T183000
 SUMMARY:Kor *Ny korleder*
@@ -1048,7 +1656,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20261123-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261123T190000
 DTEND;TZID=Europe/Copenhagen:20261123T210000
 SUMMARY:Nørkleaften
@@ -1058,7 +1666,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-49ef4396-9227-4048-8cf9-6646606a3a52-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Fuldmåneaften i Planetariet
@@ -1068,8 +1676,19 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/fuldmaaneafte
  n-i-planetariet-gdk1080866
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-sy-din-egen-dreamdrop-hos-bellis@aarhus-
+ kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261124T160000
+DTEND;TZID=Europe/Copenhagen:20261124T210000
+SUMMARY:Sy din egen Dreamdrop hos Bellis
+LOCATION:Kulturbodega Bellis
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/sy-din-egen-dreamdrop-hos-bellis/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-latterklub-20261124-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261124T190000
 DTEND;TZID=Europe/Copenhagen:20261124T210000
 SUMMARY:Latterklub
@@ -1079,7 +1698,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261125-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261125T180000
 DTEND;TZID=Europe/Copenhagen:20261125T194000
 SUMMARY:Hopning for Quinder
@@ -1088,8 +1707,19 @@ CATEGORIES:Kunst\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemord-ombord-paa-juleskibet-svanen@aa
+ rhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261125T183000
+DTEND;TZID=Europe/Copenhagen:20261125T203000
+SUMMARY:Julemord Ombord på Juleskibet Svanen
+LOCATION:Aarhus Havnerundfart
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/julemord-ombord-paa-juleskibet-svanen/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-aftenrundvisning-frihedens-fald-2511@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261125T190000
 DTEND;TZID=Europe/Copenhagen:20261125T194500
 SUMMARY:Aftenrundvisning - Frihedens Fald
@@ -1100,7 +1730,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261126-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261126T160000
 DTEND;TZID=Europe/Copenhagen:20261126T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1111,7 +1741,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-fernisering-nyophaengning-af-aros-samling-1@aarhus-kalend
  er
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261126T170000
 DTEND;TZID=Europe/Copenhagen:20261126T200000
 SUMMARY:Nyophængning af ARoS' samling
@@ -1122,7 +1752,7 @@ URL:https://www.aros.dk/kalender/fernisering-nyophaengning-af-aros-samling-
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-forhjuls-banko-20261126-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261126T190000
 DTEND;TZID=Europe/Copenhagen:20261126T210000
 SUMMARY:Forhjuls banko
@@ -1132,7 +1762,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-a8767297-aedb-419d-a9fc-b91ce169077e-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Black Friday
@@ -1143,7 +1773,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/black-friday-
 END:VEVENT
 BEGIN:VEVENT
 UID:va-6dd7d14d-c31c-442e-a7e4-ad0911714b76-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
 SUMMARY:Aarhus Kunst- og Julemarked i Ridehuset
@@ -1154,7 +1784,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhus-kunst-
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-kunst-paa-barsel-2711-26@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261127T103000
 DTEND;TZID=Europe/Copenhagen:20261127T113000
 SUMMARY:Kunst på barsel
@@ -1163,8 +1793,20 @@ CATEGORIES:Kunst\,AROS
 URL:https://www.aros.dk/kalender/kunst-paa-barsel-2711-26/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-kirkens-korshaers-julemarked-i-haldor-hu
+ set@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261127T130000
+DTEND;TZID=Europe/Copenhagen:20261127T180000
+SUMMARY:Kirkens Korshærs julemarked i Haldor Huset
+LOCATION:Haldor Huset
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/kirkens-korshaers-julemarked-i-haldor-hus
+ et/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-fernisering-nyophaengning-af-aros-samling@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261127T170000
 DTEND;TZID=Europe/Copenhagen:20261127T200000
 SUMMARY:Nyophængning af ARoS' samling
@@ -1173,9 +1815,75 @@ CATEGORIES:Kunst\,AROS
 URL:https://www.aros.dk/kalender/fernisering-nyophaengning-af-aros-samling/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-jule-disco-night-paa-folkestedet@aarhus-
+ kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261127T180000
+DTEND;TZID=Europe/Copenhagen:20261127T230000
+SUMMARY:Jule Disco Night på Folkestedet
+LOCATION:Folkestedet
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/jule-disco-night-paa-folkestedet/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-i-moellestien@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261128T100000
+DTEND;TZID=Europe/Copenhagen:20261128T160000
+SUMMARY:Julemarked i Møllestien
+LOCATION:Møllestien
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julemarked-i-moellestien/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-i-elvaerket-aabyhoej@aarhus-k
+ alender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261128T100000
+DTEND;TZID=Europe/Copenhagen:20261129T160000
+SUMMARY:Julemarked i Elværket Åbyhøj
+LOCATION:Elværket Åbyhøj
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julemarked-i-elvaerket-aabyhoej/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-helligaandskirkens-julemarked@aarhus-kal
+ ender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261128T100000
+DTEND;TZID=Europe/Copenhagen:20261128T160000
+SUMMARY:Helligåndskirkens Julemarked
+LOCATION:Helligåndskirken
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/helligaandskirkens-julemarked/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-paa-clausholm-slot-hadsten@aa
+ rhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261128T100000
+DTEND;TZID=Europe/Copenhagen:20261129T170000
+SUMMARY:Julemarked på Clausholm Slot
+LOCATION:Clausholm Slot
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/julemarked-paa-clausholm-slot-hadsten/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-det-groenne-museum-gammel-est
+ rup@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261128T100000
+DTEND;TZID=Europe/Copenhagen:20261129T160000
+SUMMARY:Julemarked på Det Grønne Museum ved Gammel Estrup
+LOCATION:Det Grønne Museum
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julemarked-det-groenne-museum-gammel-estr
+ up/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-soendagsrundvisning-aros-samling-nyophaengning-niv-8-2911
  2026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261129T150000
 DTEND;TZID=Europe/Copenhagen:20261129T154500
 SUMMARY:Søndagsrundvisning: ARoS samling - nyophængning Niv. 8
@@ -1186,7 +1894,7 @@ URL:https://www.aros.dk/kalender/soendagsrundvisning-aros-samling-nyophaeng
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20261130-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261130T100000
 DTEND;TZID=Europe/Copenhagen:20261130T130000
 SUMMARY:Åbent hus
@@ -1196,7 +1904,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20261130-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261130T170000
 DTEND;TZID=Europe/Copenhagen:20261130T183000
 SUMMARY:Kor *Ny korleder*
@@ -1206,7 +1914,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20261130-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261130T190000
 DTEND;TZID=Europe/Copenhagen:20261130T210000
 SUMMARY:Nørkleaften
@@ -1215,8 +1923,19 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-elvaerket-synger-med-jenny-sjoberg@aarhu
+ s-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261130T193000
+DTEND;TZID=Europe/Copenhagen:20261130T210000
+SUMMARY:Elværket synger med Jenny Sjöberg
+LOCATION:Elværket Åbyhøj
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/elvaerket-synger-med-jenny-sjoberg/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-0e5870e5-d94f-47b6-b0a8-2a816b45616d-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Gretchen Parlato & Aarhus Jazz Orchestra i Aarhus
@@ -1227,7 +1946,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/gretchen-parl
 END:VEVENT
 BEGIN:VEVENT
 UID:va-1731f059-60bd-4eb3-bb68-7c8b0a20b243-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Christmas City Run i Aarhus
@@ -1238,7 +1957,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/christmas-cit
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-de-skjulte-vaerker-rejsebilleder-0212-26@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261202T110000
 DTEND;TZID=Europe/Copenhagen:20261202T114500
 SUMMARY:De skjulte værker - Rejsebilleder
@@ -1247,8 +1966,18 @@ CATEGORIES:Kunst\,AROS
 URL:https://www.aros.dk/kalender/de-skjulte-vaerker-rejsebilleder-0212-26/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-christmas-city-run@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261202T170000
+DTEND;TZID=Europe/Copenhagen:20261202T210000
+SUMMARY:Christmas City Run 2026
+LOCATION:Bispetorvet
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/christmas-city-run/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261202-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261202T180000
 DTEND;TZID=Europe/Copenhagen:20261202T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -1258,7 +1987,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261202-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261202T180000
 DTEND;TZID=Europe/Copenhagen:20261202T194000
 SUMMARY:Hopning for Quinder
@@ -1267,8 +1996,20 @@ CATEGORIES:Kunst\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julestrik-til-soes-paa-juleskibet-svanen
+ -2026-12-02@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261202T183000
+DTEND;TZID=Europe/Copenhagen:20261202T200000
+SUMMARY:Julestrik til søs på Juleskibet Svanen
+LOCATION:Aarhus Havnerundfart
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/julestrik-til-soes-paa-juleskibet-svanen/
+ 2026-12-02/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-11cb0f39-cb4b-4cf6-91b1-fa4fb225861c-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:The Julekalender i Musikhuset Aarhus
@@ -1280,7 +2021,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261203-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261203T160000
 DTEND;TZID=Europe/Copenhagen:20261203T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1290,7 +2031,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-68e83640-a9c9-417f-98f7-ca59c8e3f173-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261207
 SUMMARY:Arkitektskolens Julemarked
@@ -1300,8 +2041,19 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/arkitektskole
  ns-julemarked-gdk1095276
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-aarets-frivilligfest-i-tivoli-friheden@a
+ arhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261204T150000
+DTEND;TZID=Europe/Copenhagen:20261204T210000
+SUMMARY:Årets Frivilligfest i Tivoli Friheden
+LOCATION:Tivoli Friheden
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/aarets-frivilligfest-i-tivoli-friheden/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-531da3d2-3cc6-46c5-a2c7-fd7d3f585d09-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Sigurds Jul i Musikhuset Aarhus
@@ -1312,7 +2064,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/sigurds-jul-i
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-foto-julemarked@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Analogt portræt til Godsbanens julemarked
@@ -1322,7 +2074,7 @@ URL:https://godsbanen.dk/kalender/foto-julemarked/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-godsbanens-julemarked-2026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Godsbanens Julemarked 2026
@@ -1332,7 +2084,7 @@ URL:https://godsbanen.dk/kalender/godsbanens-julemarked-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-julemarked-loerdag-20261205-110000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261205T110000
 DTEND;TZID=Europe/Copenhagen:20261205T160000
 SUMMARY:Julemarked Lørdag
@@ -1341,8 +2093,18 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-godsbanens-julemarked@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261205T110000
+DTEND;TZID=Europe/Copenhagen:20261206T170000
+SUMMARY:Godsbanens julemarked
+LOCATION:Godsbanen
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/godsbanens-julemarked/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-julemarked-soendag-20261206-110000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261206T110000
 DTEND;TZID=Europe/Copenhagen:20261206T160000
 SUMMARY:Julemarked Søndag
@@ -1353,7 +2115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-soendagsrundvisning-aros-samling-nyophaengning-niv-6-0612
  026@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261206T150000
 DTEND;TZID=Europe/Copenhagen:20261206T154500
 SUMMARY:Søndagsrundvisning: ARoS samling - nyophængning Niv. 6
@@ -1365,7 +2127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-lydvaerk-ved-solnedgang-i-as-seen-below-06122026@aarhus-k
  alender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261206T154500
 DTEND;TZID=Europe/Copenhagen:20261206T163200
 SUMMARY:Lydværk ved solnedgang i As Seen Below
@@ -1376,7 +2138,7 @@ URL:https://www.aros.dk/kalender/lydvaerk-ved-solnedgang-i-as-seen-below-06
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20261207-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261207T100000
 DTEND;TZID=Europe/Copenhagen:20261207T130000
 SUMMARY:Åbent hus
@@ -1386,7 +2148,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20261207-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261207T170000
 DTEND;TZID=Europe/Copenhagen:20261207T183000
 SUMMARY:Kor *Ny korleder*
@@ -1396,7 +2158,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20261207-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261207T190000
 DTEND;TZID=Europe/Copenhagen:20261207T210000
 SUMMARY:Nørkleaften
@@ -1406,7 +2168,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-art-hour-aros-samling-nyophaengt@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261208T170000
 DTEND;TZID=Europe/Copenhagen:20261208T180000
 SUMMARY:Art Hour: ARoS’ samling nyophængt
@@ -1416,7 +2178,7 @@ URL:https://www.aros.dk/kalender/art-hour-aros-samling-nyophaengt/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-latterklub-20261208-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261208T190000
 DTEND;TZID=Europe/Copenhagen:20261208T210000
 SUMMARY:Latterklub
@@ -1425,8 +2187,19 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-svend-brinkmann-meningen-med-det-hele@aa
+ rhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261208T190000
+DTEND;TZID=Europe/Copenhagen:20261208T210000
+SUMMARY:Svend Brinkmann – Meningen med det hele
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/svend-brinkmann-meningen-med-det-hele/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261209-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261209T180000
 DTEND;TZID=Europe/Copenhagen:20261209T194000
 SUMMARY:Hopning for Quinder
@@ -1435,9 +2208,19 @@ CATEGORIES:Kunst\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-ki-paa-porters-jazz-bar@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261209T200000
+DTEND;TZID=Europe/Copenhagen:20261209T223000
+SUMMARY:Ki! på Porter’s Jazz Bar
+LOCATION:Porter’s
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/ki-paa-porters-jazz-bar/
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-demensrundvisning-aros-samling-helt-nye-samlinger-1@aarhu
  s-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261210T101500
 DTEND;TZID=Europe/Copenhagen:20261210T121500
 SUMMARY:Demensrundvisning · ARoS samling: Helt nye samlinger
@@ -1449,7 +2232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261210-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261210T160000
 DTEND;TZID=Europe/Copenhagen:20261210T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1460,7 +2243,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-naar-fortidens-kunst-moeder-nutidens-blik-fra-den-braende
  nde-boers-til-aros@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261210T170000
 DTEND;TZID=Europe/Copenhagen:20261210T180000
 SUMMARY:Når fortidens kunst møder nutidens blik – Fra den brændende B
@@ -1471,8 +2254,19 @@ URL:https://www.aros.dk/kalender/naar-fortidens-kunst-moeder-nutidens-blik-
  fra-den-braendende-boers-til-aros/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-the-harlem-spirit-of-gospel-i-citykirken
+ @aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261210T200000
+DTEND;TZID=Europe/Copenhagen:20261210T213000
+SUMMARY:The Harlem Spirit of Gospel i Citykirken Aarhus
+LOCATION:Citykirken Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/the-harlem-spirit-of-gospel-i-citykirken/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-32986943-b583-461a-aadf-9604d951fcbb-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Juleshow med Danmarks Underholdningsorkester i Musikhuset Aarhus
@@ -1483,7 +2277,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/juleshow-med-
 END:VEVENT
 BEGIN:VEVENT
 UID:va-350b27cd-1116-4e8b-bcbc-bc50d37b5ded-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Habengut marked på Godsbanen
@@ -1494,7 +2288,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/habengut-mark
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-habenguts-julemarked-2@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:HABENGUTS JULEMARKED
@@ -1503,8 +2297,61 @@ CATEGORIES:Kunst\,Godsbanen
 URL:https://godsbanen.dk/kalender/habenguts-julemarked-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-habengut-julemarked@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261212T100000
+DTEND;TZID=Europe/Copenhagen:20261212T170000
+SUMMARY:Habengut Julemarked
+LOCATION:Godsbanen
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/habengut-julemarked/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-rishoejgaards-julemarked@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261212T100000
+DTEND;TZID=Europe/Copenhagen:20261212T160000
+SUMMARY:Rishøjgaards Julemarked
+LOCATION:Rishøjgaard
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/rishoejgaards-julemarked/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-i-kulturhus-bunkeren@aarhus-k
+ alender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261212T100000
+DTEND;TZID=Europe/Copenhagen:20261213T170000
+SUMMARY:Julemarked i Kulturhus Bunkeren
+LOCATION:Kulturhus Bunkeren
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julemarked-i-kulturhus-bunkeren/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julemarked-paa-hjerteland@aarhus-kalende
+ r
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261212T130000
+DTEND;TZID=Europe/Copenhagen:20261212T170000
+SUMMARY:Julemarked på Hjerteland
+LOCATION:Hjerteland
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julemarked-paa-hjerteland/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-julekoersel-i-modelparken-danmark@aarhus
+ -kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261212T130000
+DTEND;TZID=Europe/Copenhagen:20261213T170000
+SUMMARY:Julekørsel i Modelparken Danmark
+LOCATION:Modelparken Danmark
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/julekoersel-i-modelparken-danmark/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-ef3803c5-659d-4737-ae27-cb4f5af03e51-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Luciaoptog gennem Aarhus med ReThinkers
@@ -1515,7 +2362,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/luciaoptog-ge
 END:VEVENT
 BEGIN:VEVENT
 UID:va-9e82afba-fa3a-45d7-89fd-cfb2a724f6e2-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Luciaoptog i kajak
@@ -1526,7 +2373,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/luciaoptog-i-
 END:VEVENT
 BEGIN:VEVENT
 UID:va-5fbd721e-242b-4982-b760-7433812f9b39-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Luciaoptog på ARoS
@@ -1538,7 +2385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-soendagsrundvisning-ulydig-kroppen-i-punk-13122026@aarhus
  -kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261213T150000
 DTEND;TZID=Europe/Copenhagen:20261213T154500
 SUMMARY:Søndagsrundvisning - Ulydig - Kroppen i punk
@@ -1550,7 +2397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-lydvaerk-ved-solnedgang-i-as-seen-below-13122026@aarhus-k
  alender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261213T154300
 DTEND;TZID=Europe/Copenhagen:20261213T163000
 SUMMARY:Lydværk ved solnedgang i As Seen Below
@@ -1560,8 +2407,50 @@ URL:https://www.aros.dk/kalender/lydvaerk-ved-solnedgang-i-as-seen-below-13
  122026/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-rethinkers-luciaoptog@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261213T160000
+DTEND;TZID=Europe/Copenhagen:20261213T180000
+SUMMARY:ReThinkers Luciaoptog
+LOCATION:Aarhus midtby
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/rethinkers-luciaoptog/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-lucia-sejlads-juldamperen@aarhus-kalende
+ r
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261213T173000
+DTEND;TZID=Europe/Copenhagen:20261213T180000
+SUMMARY:Lucia sejlads med Juldamperen
+LOCATION:Aros Cruises
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/lucia-sejlads-juldamperen/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-lucia-i-kajak@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261213T180000
+DTEND;TZID=Europe/Copenhagen:20261213T193000
+SUMMARY:Lucia i Kajak
+LOCATION:Aarhus Kano- og Kajakklub
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/lucia-i-kajak/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-luciasejlads-paa-juleskibet-svanen@aarhu
+ s-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261213T180000
+DTEND;TZID=Europe/Copenhagen:20261213T200000
+SUMMARY:Luciasejlads på Juleskibet Svanen
+LOCATION:Aarhus Havnerundfart
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/luciasejlads-paa-juleskibet-svanen/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-aabent-hus-20261214-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261214T100000
 DTEND;TZID=Europe/Copenhagen:20261214T130000
 SUMMARY:Åbent hus
@@ -1571,7 +2460,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20261214-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261214T170000
 DTEND;TZID=Europe/Copenhagen:20261214T183000
 SUMMARY:Kor *Ny korleder*
@@ -1581,7 +2470,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20261214-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261214T190000
 DTEND;TZID=Europe/Copenhagen:20261214T210000
 SUMMARY:Nørkleaften
@@ -1591,7 +2480,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261216-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261216T180000
 DTEND;TZID=Europe/Copenhagen:20261216T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -1601,7 +2490,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261216-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261216T180000
 DTEND;TZID=Europe/Copenhagen:20261216T194000
 SUMMARY:Hopning for Quinder
@@ -1612,7 +2501,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261217-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261217T160000
 DTEND;TZID=Europe/Copenhagen:20261217T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1622,7 +2511,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-4260be2f-6a0a-4d10-9fce-738ec6c976c1-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Kom i julestemning med Børstes store julefest i Musikhuset Aarhus
@@ -1633,7 +2522,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/kom-i-juleste
 END:VEVENT
 BEGIN:VEVENT
 UID:va-78a71ee7-d673-4c91-999c-5a28ebddd748-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Juleshow med Luftens Helte i Musikhuset Aarhus
@@ -1645,7 +2534,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-soendagsrundvisning-frihedens-fald-20122026@aarhus-kalend
  er
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261220T150000
 DTEND;TZID=Europe/Copenhagen:20261220T154500
 SUMMARY:Søndagsrundvisning - Frihedens Fald
@@ -1657,7 +2546,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-lydvaerk-ved-solnedgang-i-as-seen-below-20122026@aarhus-k
  alender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261220T154400
 DTEND;TZID=Europe/Copenhagen:20261220T163100
 SUMMARY:Lydværk ved solnedgang i As Seen Below
@@ -1669,7 +2558,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-lydvaerk-ved-solnedgang-i-as-seen-below-21122026@aarhus-k
  alender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261221T154400
 DTEND;TZID=Europe/Copenhagen:20261221T163200
 SUMMARY:Lydværk ved solnedgang i As Seen Below
@@ -1680,7 +2569,7 @@ URL:https://www.aros.dk/kalender/lydvaerk-ved-solnedgang-i-as-seen-below-21
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20261221-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261221T170000
 DTEND;TZID=Europe/Copenhagen:20261221T183000
 SUMMARY:Kor *Ny korleder*
@@ -1691,7 +2580,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-soendagsrundvisning-as-seen-below-kunst-farve-og-lys-2712
  26@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261227T150000
 DTEND;TZID=Europe/Copenhagen:20261227T154500
 SUMMARY:Søndagsrundvisning: As Seen Below - Kunst\, farve og lys
@@ -1702,7 +2591,7 @@ URL:https://www.aros.dk/kalender/soendagsrundvisning-as-seen-below-kunst-fa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20261228-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20261228T170000
 DTEND;TZID=Europe/Copenhagen:20261228T183000
 SUMMARY:Kor *Ny korleder*
@@ -1712,7 +2601,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-90d79d51-ad33-4848-8e6f-b791cb13f4f0-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:Den Kongelige Ballet: Nøddeknækkeren i Musikhuset
@@ -1723,7 +2612,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/den-kongelige
 END:VEVENT
 BEGIN:VEVENT
 UID:va-e9ac50c1-f7b7-4281-b38e-3806375af1d1-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Fart på i Racehall
@@ -1734,7 +2623,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/fart-paa-i-ra
 END:VEVENT
 BEGIN:VEVENT
 UID:va-6e5008e0-43d1-40bf-8a11-00eb0803d295-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Champagneløbet
@@ -1745,7 +2634,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/champagneloeb
 END:VEVENT
 BEGIN:VEVENT
 UID:va-bb4e992d-69ef-4fbc-bd03-12fa4094ec7f-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Nytår i Aarhusregionen
@@ -1755,8 +2644,20 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/nytaar-i-aarh
  usregionen-gdk1062052
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-nytaarsfest-for-singler-40@aarhus-kalend
+ er
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20261231T170000
+DTEND;TZID=Europe/Copenhagen:20261231T233000
+SUMMARY:Nytårsfest for singler 40-65 år – helaften på Scandic Aarhus 
+ City
+LOCATION:Scandic Hotel City
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/nytaarsfest-for-singler-40/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-aabent-hus-20270104-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270104T100000
 DTEND;TZID=Europe/Copenhagen:20270104T130000
 SUMMARY:Åbent hus
@@ -1766,7 +2667,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270104-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270104T170000
 DTEND;TZID=Europe/Copenhagen:20270104T183000
 SUMMARY:Kor *Ny korleder*
@@ -1776,7 +2677,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270104-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270104T190000
 DTEND;TZID=Europe/Copenhagen:20270104T210000
 SUMMARY:Nørkleaften
@@ -1786,7 +2687,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270106-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270106T180000
 DTEND;TZID=Europe/Copenhagen:20270106T194000
 SUMMARY:Hopning for Quinder
@@ -1797,7 +2698,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270107-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270107T160000
 DTEND;TZID=Europe/Copenhagen:20270107T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1807,7 +2708,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270111-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270111T100000
 DTEND;TZID=Europe/Copenhagen:20270111T130000
 SUMMARY:Åbent hus
@@ -1817,7 +2718,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270111-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270111T170000
 DTEND;TZID=Europe/Copenhagen:20270111T183000
 SUMMARY:Kor *Ny korleder*
@@ -1827,7 +2728,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270111-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270111T190000
 DTEND;TZID=Europe/Copenhagen:20270111T210000
 SUMMARY:Nørkleaften
@@ -1837,7 +2738,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-mindfulness-ved-tusmoerke-13012027@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270113T161200
 DTEND;TZID=Europe/Copenhagen:20270113T165700
 SUMMARY:Mindfulness ved Tusmørke
@@ -1847,7 +2748,7 @@ URL:https://www.aros.dk/kalender/mindfulness-ved-tusmoerke-13012027/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270113-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270113T180000
 DTEND;TZID=Europe/Copenhagen:20270113T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -1857,7 +2758,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270113-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270113T180000
 DTEND;TZID=Europe/Copenhagen:20270113T194000
 SUMMARY:Hopning for Quinder
@@ -1866,9 +2767,19 @@ CATEGORIES:Kunst\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-pink-floyd-rock-talk@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270113T190000
+DTEND;TZID=Europe/Copenhagen:20270113T213000
+SUMMARY:Pink Floyd – Rock Talk
+LOCATION:Vejlby-Risskov Hallen
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/pink-floyd-rock-talk/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270114-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270114T160000
 DTEND;TZID=Europe/Copenhagen:20270114T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1877,8 +2788,19 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-bryan-bielanski-paa-fairbar@aarhus-kalen
+ der
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270116T200000
+DTEND;TZID=Europe/Copenhagen:20270116T213000
+SUMMARY:Bryan Bielanski på Fairbar
+LOCATION:Fairbar
+CATEGORIES:Kunst\,Aarhus Inside\,Gratis
+URL:https://aarhusinside.dk/event/bryan-bielanski-paa-fairbar/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-aabent-hus-20270118-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270118T100000
 DTEND;TZID=Europe/Copenhagen:20270118T130000
 SUMMARY:Åbent hus
@@ -1888,7 +2810,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270118-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270118T170000
 DTEND;TZID=Europe/Copenhagen:20270118T183000
 SUMMARY:Kor *Ny korleder*
@@ -1898,7 +2820,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270118-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270118T190000
 DTEND;TZID=Europe/Copenhagen:20270118T210000
 SUMMARY:Nørkleaften
@@ -1908,7 +2830,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270120-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270120T180000
 DTEND;TZID=Europe/Copenhagen:20270120T194000
 SUMMARY:Hopning for Quinder
@@ -1919,7 +2841,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270121-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270121T160000
 DTEND;TZID=Europe/Copenhagen:20270121T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1928,8 +2850,19 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-eyda-vinterloebet-ved-ceres-park@aarhus-
+ kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270124T093000
+DTEND;TZID=Europe/Copenhagen:20270124T150000
+SUMMARY:EYDA Vinterløbet ved Ceres Park
+LOCATION:Ceres Park
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/eyda-vinterloebet-ved-ceres-park/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-aabent-hus-20270125-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270125T100000
 DTEND;TZID=Europe/Copenhagen:20270125T130000
 SUMMARY:Åbent hus
@@ -1939,7 +2872,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270125-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270125T170000
 DTEND;TZID=Europe/Copenhagen:20270125T183000
 SUMMARY:Kor *Ny korleder*
@@ -1949,7 +2882,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270125-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270125T190000
 DTEND;TZID=Europe/Copenhagen:20270125T210000
 SUMMARY:Nørkleaften
@@ -1959,7 +2892,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-mindfulness-ved-tusmoerke-27012027@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270127T163900
 DTEND;TZID=Europe/Copenhagen:20270127T172200
 SUMMARY:Mindfulness ved Tusmørke
@@ -1969,7 +2902,7 @@ URL:https://www.aros.dk/kalender/mindfulness-ved-tusmoerke-27012027/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270127-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270127T180000
 DTEND;TZID=Europe/Copenhagen:20270127T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -1979,7 +2912,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270127-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270127T180000
 DTEND;TZID=Europe/Copenhagen:20270127T194000
 SUMMARY:Hopning for Quinder
@@ -1989,7 +2922,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-1d5b57fc-c824-41be-94b1-7b12ef8cfdc5-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Calby i Musikhuset Aarhus
@@ -2000,7 +2933,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/calby-i-musik
 END:VEVENT
 BEGIN:VEVENT
 UID:va-4363a302-6390-4efc-8d3b-7677658c0fae-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:Jean-Efflam Bavouzet i Musikhuset Aarhus
@@ -2012,7 +2945,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270128-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270128T160000
 DTEND;TZID=Europe/Copenhagen:20270128T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2022,7 +2955,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-kunst-paa-barsel-2901-27@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270129T103000
 DTEND;TZID=Europe/Copenhagen:20270129T113000
 SUMMARY:Kunst på barsel
@@ -2032,7 +2965,7 @@ URL:https://www.aros.dk/kalender/kunst-paa-barsel-2901-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-habengut-loppemarked-4@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270201
 SUMMARY:HABENGUT LOPPEMARKED
@@ -2042,7 +2975,7 @@ URL:https://godsbanen.dk/kalender/habengut-loppemarked-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270201-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270201T100000
 DTEND;TZID=Europe/Copenhagen:20270201T130000
 SUMMARY:Åbent hus
@@ -2052,7 +2985,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270201-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270201T170000
 DTEND;TZID=Europe/Copenhagen:20270201T183000
 SUMMARY:Kor *Ny korleder*
@@ -2062,7 +2995,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270201-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270201T190000
 DTEND;TZID=Europe/Copenhagen:20270201T210000
 SUMMARY:Nørkleaften
@@ -2072,7 +3005,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-formiddagskunst-aros-samling@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270202T110000
 DTEND;TZID=Europe/Copenhagen:20270202T120000
 SUMMARY:Formiddagskunst - ARoS samling
@@ -2082,7 +3015,7 @@ URL:https://www.aros.dk/kalender/formiddagskunst-aros-samling/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270203-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270203T180000
 DTEND;TZID=Europe/Copenhagen:20270203T194000
 SUMMARY:Hopning for Quinder
@@ -2093,7 +3026,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270204-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270204T160000
 DTEND;TZID=Europe/Copenhagen:20270204T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2103,7 +3036,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270208-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270208T100000
 DTEND;TZID=Europe/Copenhagen:20270208T130000
 SUMMARY:Åbent hus
@@ -2113,7 +3046,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270208-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270208T170000
 DTEND;TZID=Europe/Copenhagen:20270208T183000
 SUMMARY:Kor *Ny korleder*
@@ -2123,7 +3056,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270208-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270208T190000
 DTEND;TZID=Europe/Copenhagen:20270208T210000
 SUMMARY:Nørkleaften
@@ -2132,8 +3065,18 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-daniel-rye-min-historie@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270208T190000
+DTEND;TZID=Europe/Copenhagen:20270208T210000
+SUMMARY:Daniel Rye: Min historie
+LOCATION:Den Gamle By
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/daniel-rye-min-historie/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270210-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270210T180000
 DTEND;TZID=Europe/Copenhagen:20270210T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -2143,7 +3086,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270210-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270210T180000
 DTEND;TZID=Europe/Copenhagen:20270210T194000
 SUMMARY:Hopning for Quinder
@@ -2154,7 +3097,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270211-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270211T160000
 DTEND;TZID=Europe/Copenhagen:20270211T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2163,8 +3106,19 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-soerine-gotfredsen-livskraft-og-haab@aar
+ hus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270211T190000
+DTEND;TZID=Europe/Copenhagen:20270211T210000
+SUMMARY:Sørine Gotfredsen: Livskraft og håb
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/soerine-gotfredsen-livskraft-og-haab/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-02de1486-6f8f-4443-948d-96a654c1ac6a-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270222
 SUMMARY:Vinterferie i Den Gamle By
@@ -2175,7 +3129,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/vinterferie-i
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270215-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270215T100000
 DTEND;TZID=Europe/Copenhagen:20270215T130000
 SUMMARY:Åbent hus
@@ -2185,7 +3139,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270215-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270215T170000
 DTEND;TZID=Europe/Copenhagen:20270215T183000
 SUMMARY:Kor *Ny korleder*
@@ -2195,7 +3149,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270215-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270215T190000
 DTEND;TZID=Europe/Copenhagen:20270215T210000
 SUMMARY:Nørkleaften
@@ -2205,7 +3159,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270217-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270217T180000
 DTEND;TZID=Europe/Copenhagen:20270217T194000
 SUMMARY:Hopning for Quinder
@@ -2216,7 +3170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270218-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270218T160000
 DTEND;TZID=Europe/Copenhagen:20270218T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2226,7 +3180,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270222-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270222T100000
 DTEND;TZID=Europe/Copenhagen:20270222T130000
 SUMMARY:Åbent hus
@@ -2236,7 +3190,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270222-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270222T170000
 DTEND;TZID=Europe/Copenhagen:20270222T183000
 SUMMARY:Kor *Ny korleder*
@@ -2246,7 +3200,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270222-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270222T190000
 DTEND;TZID=Europe/Copenhagen:20270222T210000
 SUMMARY:Nørkleaften
@@ -2255,8 +3209,19 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-anette-prehn-faa-de-vaner-du-oensker-dig
+ @aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270223T190000
+DTEND;TZID=Europe/Copenhagen:20270223T210000
+SUMMARY:Anette Prehn – Få de vaner\, du ønsker dig!
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/anette-prehn-faa-de-vaner-du-oensker-dig/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270224-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270224T180000
 DTEND;TZID=Europe/Copenhagen:20270224T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -2266,7 +3231,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270224-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270224T180000
 DTEND;TZID=Europe/Copenhagen:20270224T194000
 SUMMARY:Hopning for Quinder
@@ -2276,7 +3241,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-15692aaa-103d-44a2-9441-a18140e874a0-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270228
 SUMMARY:U-days i Aarhus
@@ -2288,7 +3253,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270225-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270225T160000
 DTEND;TZID=Europe/Copenhagen:20270225T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2298,7 +3263,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-kunst-paa-barsel-2602-27@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270226T103000
 DTEND;TZID=Europe/Copenhagen:20270226T113000
 SUMMARY:Kunst på barsel
@@ -2308,7 +3273,7 @@ URL:https://www.aros.dk/kalender/kunst-paa-barsel-2602-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-fredags-jazz-live-20270226-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270226T170000
 DTEND;TZID=Europe/Copenhagen:20270226T200000
 SUMMARY:Fredags Jazz Live
@@ -2318,7 +3283,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270301-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270301T100000
 DTEND;TZID=Europe/Copenhagen:20270301T130000
 SUMMARY:Åbent hus
@@ -2328,7 +3293,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270301-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270301T170000
 DTEND;TZID=Europe/Copenhagen:20270301T183000
 SUMMARY:Kor *Ny korleder*
@@ -2338,7 +3303,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270301-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270301T190000
 DTEND;TZID=Europe/Copenhagen:20270301T210000
 SUMMARY:Nørkleaften
@@ -2348,7 +3313,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270303-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270303T180000
 DTEND;TZID=Europe/Copenhagen:20270303T194000
 SUMMARY:Hopning for Quinder
@@ -2359,7 +3324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270304-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270304T160000
 DTEND;TZID=Europe/Copenhagen:20270304T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2369,7 +3334,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-1a454ecf-99ff-4eee-9a41-edc6f7fc9c01-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270315
 SUMMARY:Århundredets Festival
@@ -2380,7 +3345,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhundredets
 END:VEVENT
 BEGIN:VEVENT
 UID:va-7bc3d67b-4899-44e9-86c0-4010a07fbd91-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Alberte & Danmarks Underholdningsorkester i Musikhuset Aarhus
@@ -2391,7 +3356,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/alberte-danma
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270308-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270308T100000
 DTEND;TZID=Europe/Copenhagen:20270308T130000
 SUMMARY:Åbent hus
@@ -2401,7 +3366,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270308-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270308T170000
 DTEND;TZID=Europe/Copenhagen:20270308T183000
 SUMMARY:Kor *Ny korleder*
@@ -2411,7 +3376,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270308-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270308T190000
 DTEND;TZID=Europe/Copenhagen:20270308T210000
 SUMMARY:Nørkleaften
@@ -2421,7 +3386,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-4b637e67-0404-4719-a17f-6e21d8b76497-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:Misantropen i Musikhuset Aarhus
@@ -2433,7 +3398,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-de-skjulte-vaerker-bibelske-motiver-0903-27@aarhus-kalend
  er
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270309T110000
 DTEND;TZID=Europe/Copenhagen:20270309T114500
 SUMMARY:De skjulte værker – Bibelske motiver
@@ -2444,7 +3409,7 @@ URL:https://www.aros.dk/kalender/de-skjulte-vaerker-bibelske-motiver-0903-2
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270310-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270310T180000
 DTEND;TZID=Europe/Copenhagen:20270310T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -2454,7 +3419,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270310-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270310T180000
 DTEND;TZID=Europe/Copenhagen:20270310T194000
 SUMMARY:Hopning for Quinder
@@ -2465,7 +3430,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270311-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270311T160000
 DTEND;TZID=Europe/Copenhagen:20270311T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2475,7 +3440,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-habengut-loppemarked-3@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270315
 SUMMARY:HABENGUT LOPPEMARKED
@@ -2484,8 +3449,18 @@ CATEGORIES:Kunst\,Godsbanen
 URL:https://godsbanen.dk/kalender/habengut-loppemarked-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-vinterloebet-mindeparken@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270314T093000
+DTEND;TZID=Europe/Copenhagen:20270314T170000
+SUMMARY:EYDA Vinterløbet i Mindeparken
+LOCATION:Mindeparken
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/vinterloebet-mindeparken/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-aabent-hus-20270315-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270315T100000
 DTEND;TZID=Europe/Copenhagen:20270315T130000
 SUMMARY:Åbent hus
@@ -2495,7 +3470,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270315-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270315T170000
 DTEND;TZID=Europe/Copenhagen:20270315T183000
 SUMMARY:Kor *Ny korleder*
@@ -2505,7 +3480,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270315-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270315T190000
 DTEND;TZID=Europe/Copenhagen:20270315T210000
 SUMMARY:Nørkleaften
@@ -2514,8 +3489,19 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-the-night-of-the-famous-musicals@aarhus-
+ kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270316T193000
+DTEND;TZID=Europe/Copenhagen:20270316T223000
+SUMMARY:The Night of the Famous Musicals
+LOCATION:Aarhus Congress Center
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/the-night-of-the-famous-musicals/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270317-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270317T180000
 DTEND;TZID=Europe/Copenhagen:20270317T194000
 SUMMARY:Hopning for Quinder
@@ -2526,7 +3512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270318-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270318T160000
 DTEND;TZID=Europe/Copenhagen:20270318T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2536,7 +3522,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270322-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270322T100000
 DTEND;TZID=Europe/Copenhagen:20270322T130000
 SUMMARY:Åbent hus
@@ -2546,7 +3532,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270322-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270322T170000
 DTEND;TZID=Europe/Copenhagen:20270322T183000
 SUMMARY:Kor *Ny korleder*
@@ -2556,7 +3542,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270322-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270322T190000
 DTEND;TZID=Europe/Copenhagen:20270322T210000
 SUMMARY:Nørkleaften
@@ -2566,7 +3552,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270324-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270324T180000
 DTEND;TZID=Europe/Copenhagen:20270324T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -2576,7 +3562,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270324-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270324T180000
 DTEND;TZID=Europe/Copenhagen:20270324T194000
 SUMMARY:Hopning for Quinder
@@ -2587,7 +3573,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270325-160000@
  aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270325T160000
 DTEND;TZID=Europe/Copenhagen:20270325T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2597,7 +3583,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-kunst-paa-barsel-2603-27@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270326T103000
 DTEND;TZID=Europe/Copenhagen:20270326T113000
 SUMMARY:Kunst på barsel
@@ -2607,7 +3593,7 @@ URL:https://www.aros.dk/kalender/kunst-paa-barsel-2603-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270329-100000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270329T100000
 DTEND;TZID=Europe/Copenhagen:20270329T130000
 SUMMARY:Åbent hus
@@ -2617,7 +3603,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-ny-korleder-20270329-170000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270329T170000
 DTEND;TZID=Europe/Copenhagen:20270329T183000
 SUMMARY:Kor *Ny korleder*
@@ -2627,7 +3613,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270329-190000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270329T190000
 DTEND;TZID=Europe/Copenhagen:20270329T210000
 SUMMARY:Nørkleaften
@@ -2637,7 +3623,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270331-180000@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;TZID=Europe/Copenhagen:20270331T180000
 DTEND;TZID=Europe/Copenhagen:20270331T194000
 SUMMARY:Hopning for Quinder
@@ -2647,7 +3633,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-094f577a-59cf-43b1-bbad-1aadd1350241-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270405
 SUMMARY:Works Art Fair
@@ -2657,8 +3643,30 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/works-art-fai
  r-gdk1114862
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-vinterloebet-eskelunden@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270404T093000
+DTEND;TZID=Europe/Copenhagen:20270404T170000
+SUMMARY:EYDA Vinterløbet i Eskelunden
+LOCATION:Eskelunden
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/vinterloebet-eskelunden/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-michael-starring-ben-hylder-the-king-of-
+ pop@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270410T200000
+DTEND;TZID=Europe/Copenhagen:20270410T220000
+SUMMARY:Michael Starring Ben hylder The King of Pop
+LOCATION:Aarhus Congress Center
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/michael-starring-ben-hylder-the-king-of-p
+ op/
+END:VEVENT
+BEGIN:VEVENT
 UID:va-4b744ec4-e083-41d7-95ad-b1c03e9f1a0d-0@aarhus-kalender
-DTSTAMP:20261027T090623Z
+DTSTAMP:20261027T094510Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Kunst - komdie i Musikhuset Aarhus
@@ -2666,5 +3674,28 @@ LOCATION:Aarhus
 CATEGORIES:Kunst\,VisitAarhus
 URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/kunst-komdie-
  i-musikhuset-aarhus-gdk1157378
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-niels-overgaard-gamle-svar-paa-nye-probl
+ emer@aarhus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270419T190000
+DTEND;TZID=Europe/Copenhagen:20270419T220000
+SUMMARY:Niels Overgaard – Gamle svar på nye problemer
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/niels-overgaard-gamle-svar-paa-nye-proble
+ mer/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-https-aarhusinside-dk-event-florence-mclean-i-sindet-paa-mordere@aar
+ hus-kalender
+DTSTAMP:20261027T094510Z
+DTSTART;TZID=Europe/Copenhagen:20270420T190000
+DTEND;TZID=Europe/Copenhagen:20270420T210000
+SUMMARY:Florence McLean – I sindet på mordere
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Kunst\,Aarhus Inside
+URL:https://aarhusinside.dk/event/florence-mclean-i-sindet-paa-mordere/
 END:VEVENT
 END:VCALENDAR
