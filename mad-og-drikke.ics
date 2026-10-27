@@ -24,8 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:hk-20261026-78832271@aarhus-kalender
-DTSTAMP:20261027T083822Z
+UID:hk-20261026-90616550@aarhus-kalender
+DTSTAMP:20261027T090623Z
 DTSTART;TZID=Europe/Copenhagen:20261026T160000
 DTEND;TZID=Europe/Copenhagen:20261026T180000
 SUMMARY:Fermenteringsværksted på Dokk1
@@ -35,8 +35,8 @@ URL:https://www.aakb.dk/hovedbiblioteket/arrangementer/baeredygtighed-og-na
  tur/fermenteringsvaerksted
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-62475702@aarhus-kalender
-DTSTAMP:20261027T083822Z
+UID:hk-20261026-53586540@aarhus-kalender
+DTSTAMP:20261027T090623Z
 DTSTART;TZID=Europe/Copenhagen:20261026T170000
 DTEND;TZID=Europe/Copenhagen:20261026T190000
 SUMMARY:Smag den ægyptiske udgave af falafel ‘Ta’ameya’ til Madmanda
@@ -46,8 +46,8 @@ CATEGORIES:Mad & Drikke\,Heromkring
 URL:https://www.instagram.com/p/Dewu6GDMPgN/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261029-3341630@aarhus-kalender
-DTSTAMP:20261027T083822Z
+UID:hk-20261029-92426870@aarhus-kalender
+DTSTAMP:20261027T090623Z
 DTSTART;TZID=Europe/Copenhagen:20261029T170000
 DTEND;TZID=Europe/Copenhagen:20261029T190000
 SUMMARY:Rundvisning med ølsmagning hos Århus Bryghus
@@ -58,7 +58,7 @@ URL:https://shop.aarhusbryghus.dk/billetsalg/?ytroute=/arrangementer/60382/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-faellesspisning-20261029-180000@aarhus-kalender
-DTSTAMP:20261027T083822Z
+DTSTAMP:20261027T090623Z
 DTSTART;TZID=Europe/Copenhagen:20261029T180000
 DTEND;TZID=Europe/Copenhagen:20261029T210000
 SUMMARY:Fællesspisning
@@ -67,8 +67,8 @@ CATEGORIES:Mad & Drikke\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261031-3829834@aarhus-kalender
-DTSTAMP:20261027T083822Z
+UID:hk-20261031-73284225@aarhus-kalender
+DTSTAMP:20261027T090623Z
 DTSTART;TZID=Europe/Copenhagen:20261031T120000
 DTEND;TZID=Europe/Copenhagen:20261031T140000
 SUMMARY:Mandefrokost i Folkehuset Marselis
@@ -78,7 +78,7 @@ URL:https://fb.me/e/bPgBiQHlc
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-vinsmagning-20261113-193000@aarhus-kalender
-DTSTAMP:20261027T083822Z
+DTSTAMP:20261027T090623Z
 DTSTART;TZID=Europe/Copenhagen:20261113T193000
 DTEND;TZID=Europe/Copenhagen:20261113T220000
 SUMMARY:Vinsmagning
@@ -87,8 +87,38 @@ CATEGORIES:Mad & Drikke\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:aros-kalender-brunch-rundvisning-17112026@aarhus-kalender
+DTSTAMP:20261027T090623Z
+DTSTART;TZID=Europe/Copenhagen:20261117T101500
+DTEND;TZID=Europe/Copenhagen:20261117T121500
+SUMMARY:Brunch & Rundvisning
+LOCATION:AROS
+CATEGORIES:Mad & Drikke\,AROS
+URL:https://www.aros.dk/kalender/brunch-rundvisning-17112026/
+END:VEVENT
+BEGIN:VEVENT
+UID:aros-kalender-brunch-rundvisning-18112026@aarhus-kalender
+DTSTAMP:20261027T090623Z
+DTSTART;TZID=Europe/Copenhagen:20261118T101500
+DTEND;TZID=Europe/Copenhagen:20261118T121500
+SUMMARY:Brunch & Rundvisning
+LOCATION:AROS
+CATEGORIES:Mad & Drikke\,AROS
+URL:https://www.aros.dk/kalender/brunch-rundvisning-18112026/
+END:VEVENT
+BEGIN:VEVENT
+UID:aros-kalender-brunch-rundvisning-19112026@aarhus-kalender
+DTSTAMP:20261027T090623Z
+DTSTART;TZID=Europe/Copenhagen:20261119T101500
+DTEND;TZID=Europe/Copenhagen:20261119T121500
+SUMMARY:Brunch & Rundvisning
+LOCATION:AROS
+CATEGORIES:Mad & Drikke\,AROS
+URL:https://www.aros.dk/kalender/brunch-rundvisning-19112026/
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-faellesspisning-20261119-180000@aarhus-kalender
-DTSTAMP:20261027T083822Z
+DTSTAMP:20261027T090623Z
 DTSTART;TZID=Europe/Copenhagen:20261119T180000
 DTEND;TZID=Europe/Copenhagen:20261119T210000
 SUMMARY:Fællesspisning
@@ -97,8 +127,48 @@ CATEGORIES:Mad & Drikke\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:aros-kalender-brunch-rundvisning-20112026@aarhus-kalender
+DTSTAMP:20261027T090623Z
+DTSTART;TZID=Europe/Copenhagen:20261120T101500
+DTEND;TZID=Europe/Copenhagen:20261120T121500
+SUMMARY:Brunch & Rundvisning
+LOCATION:AROS
+CATEGORIES:Mad & Drikke\,AROS
+URL:https://www.aros.dk/kalender/brunch-rundvisning-20112026/
+END:VEVENT
+BEGIN:VEVENT
+UID:aros-kalender-rundvisning-oelsmagning-20112026@aarhus-kalender
+DTSTAMP:20261027T090623Z
+DTSTART;TZID=Europe/Copenhagen:20261120T160000
+DTEND;TZID=Europe/Copenhagen:20261120T180000
+SUMMARY:Rundvisning & Ølsmagning
+LOCATION:AROS
+CATEGORIES:Mad & Drikke\,AROS
+URL:https://www.aros.dk/kalender/rundvisning-oelsmagning-20112026/
+END:VEVENT
+BEGIN:VEVENT
+UID:aros-kalender-brunch-rundvisning-21112026@aarhus-kalender
+DTSTAMP:20261027T090623Z
+DTSTART;TZID=Europe/Copenhagen:20261121T101500
+DTEND;TZID=Europe/Copenhagen:20261121T121500
+SUMMARY:Brunch & Rundvisning
+LOCATION:AROS
+CATEGORIES:Mad & Drikke\,AROS
+URL:https://www.aros.dk/kalender/brunch-rundvisning-21112026/
+END:VEVENT
+BEGIN:VEVENT
+UID:aros-kalender-brunch-rundvisning-22112026@aarhus-kalender
+DTSTAMP:20261027T090623Z
+DTSTART;TZID=Europe/Copenhagen:20261122T101500
+DTEND;TZID=Europe/Copenhagen:20261122T121500
+SUMMARY:Brunch & Rundvisning
+LOCATION:AROS
+CATEGORIES:Mad & Drikke\,AROS
+URL:https://www.aros.dk/kalender/brunch-rundvisning-22112026/
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-julebanko-paa-godsbanen@aarhus-kalender
-DTSTAMP:20261027T083822Z
+DTSTAMP:20261027T090623Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Julebanko på Godsbanen
@@ -108,7 +178,7 @@ URL:https://godsbanen.dk/kalender/julebanko-paa-godsbanen/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-julebanko-paa-godsbanen-2@aarhus-kalender
-DTSTAMP:20261027T083822Z
+DTSTAMP:20261027T090623Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Julebanko på Godsbanen

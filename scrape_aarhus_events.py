@@ -99,7 +99,7 @@ TEXT_CATEGORY_KEYWORDS = [
     ("Film", ("biograf", "film")),
     ("Mad & Drikke", (
         "madmarked", "gastro", "vinsmagning", "ølsmagning", "smagning", "street food",
-        "brunch", "frokost", "middag", "restaurant", "kulinarisk", "fermentering",
+        "brunch", "frokost", " middag", "restaurant", "kulinarisk", "fermentering",
         "madmandag", "kokkeskole", "spiseklub", "julebanko", "fællesspisning",
     )),
     ("Kunst", ("udstilling", "kunst", "museum", "galleri", "kunstakademi", "nørkle")),
@@ -872,6 +872,151 @@ def fetch_beboerneshus(cutoff: datetime) -> list:
 
 
 # ---------------------------------------------------------------------------
+# AROS (kunstmuseum) - kalenderen er JS-renderet, men henter sine data fra et
+# simpelt JSON-API (POST /api/events med tom body giver alle events, ca. et
+# år frem), så vi kan kalde det direkte uden at udføre JavaScript.
+# ---------------------------------------------------------------------------
+
+AROS_TIME_RE = re.compile(r"(\d{1,2}):(\d{2})\s*-\s*(\d{1,2}):(\d{2})")
+
+
+def fetch_aros(cutoff: datetime) -> list:
+    try:
+        req = urllib.request.Request(
+            "https://www.aros.dk/api/events",
+            data=b"{}",
+            headers={"User-Agent": USER_AGENT, "Content-Type": "application/json"},
+            method="POST",
+        )
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+    except Exception as e:
+        print(f"  ADVARSEL: kunne ikke hente AROS: {e}", file=sys.stderr)
+        return []
+
+    events = []
+    for item in data.get("events", []):
+        title = html.unescape(item.get("title") or "").strip()
+        if not title:
+            continue
+        try:
+            day = datetime.strptime(item["date"][:10], "%Y-%m-%d")
+        except (KeyError, ValueError):
+            continue
+
+        time_m = AROS_TIME_RE.search(item.get("timeLabel") or "")
+        if time_m:
+            sh, sm_, eh, em_ = (int(g) for g in time_m.groups())
+            start = day.replace(hour=sh, minute=sm_)
+            end = day.replace(hour=eh, minute=em_)
+            if end <= start:
+                end += timedelta(days=1)
+            all_day = False
+        else:
+            start = day
+            end = day + timedelta(days=1)
+            all_day = True
+
+        if start > cutoff or start.date() < datetime.now().date():
+            continue
+
+        category_labels = item.get("categoryLabels") or []
+        desc = f"{title} {' '.join(category_labels)}"
+        image_url = (item.get("image") or {}).get("url") or ""
+
+        events.append(Event(
+            uid=f"aros-{slugify(item.get('url') or title)}",
+            title=title,
+            start=start,
+            end=end,
+            all_day=all_day,
+            location="AROS",
+            url=urllib.parse.urljoin("https://www.aros.dk/", item.get("url") or "/kalender/"),
+            source="AROS",
+            category=classify_text(desc),
+            image=urllib.parse.urljoin("https://www.aros.dk/", image_url) if image_url else "",
+            is_free="gratis" in desc.lower(),
+        ))
+
+    print(f"  AROS: {len(events)} events", file=sys.stderr)
+    return events
+
+
+# ---------------------------------------------------------------------------
+# Kunsthal Aarhus (events vises via deres webshop-side, serverrenderet)
+# ---------------------------------------------------------------------------
+
+KUNSTHAL_CARD_RE = re.compile(
+    r'<a class="event-card" href="(?P<url>[^"]+)">.*?'
+    r'image-backfill:\s*url\((?P<img>[^)]+)\);.*?'
+    r'<p class="event-card__date date-time">(?P<date>[^<]*)</p>'
+    r'<p class="event-card__time date-time">(?P<time>[^<]*)</p>'
+    r'<h3 class="event-card__title"[^>]*>(?P<title>[^<]*)</h3>'
+    r'<p class="event-card__category">(?P<category>[^<]*)</p>',
+    re.S,
+)
+
+
+def fetch_kunsthal_aarhus(cutoff: datetime) -> list:
+    try:
+        page = http_get("https://kunsthal.dk/pages/events")
+    except Exception as e:
+        print(f"  ADVARSEL: kunne ikke hente Kunsthal Aarhus: {e}", file=sys.stderr)
+        return []
+
+    events = []
+    for m in KUNSTHAL_CARD_RE.finditer(page):
+        title = html.unescape(m.group("title")).strip()
+        try:
+            day = datetime.strptime(m.group("date").strip(), "%d.%m.%Y")
+        except ValueError:
+            continue
+
+        time_m = AROS_TIME_RE.search(m.group("time"))
+        if time_m:
+            sh, sm_, eh, em_ = (int(g) for g in time_m.groups())
+            start = day.replace(hour=sh, minute=sm_)
+            end = day.replace(hour=eh, minute=em_)
+            if end <= start:
+                end += timedelta(days=1)
+            all_day = False
+        else:
+            start = day
+            end = day + timedelta(days=1)
+            all_day = True
+
+        if start > cutoff or start.date() < datetime.now().date():
+            continue
+
+        category = html.unescape(m.group("category")).strip()
+        desc = f"{title} {category}"
+        img = m.group("img").strip().strip("'\"")
+        img_url = urllib.parse.urljoin("https://kunsthal.dk/", img) if img.startswith("/") else img
+        if img_url.startswith("//"):
+            img_url = "https:" + img_url
+
+        events.append(Event(
+            uid=f"kunsthal-{slugify(m.group('url'))}",
+            title=title,
+            start=start,
+            end=end,
+            all_day=all_day,
+            location="Kunsthal Aarhus",
+            url=urllib.parse.urljoin("https://kunsthal.dk/", m.group("url")),
+            source="Kunsthal Aarhus",
+            category=classify_text(desc),
+            image=img_url,
+            is_free="gratis" in desc.lower(),
+        ))
+
+    print(f"  Kunsthal Aarhus: {len(events)} events", file=sys.stderr)
+    return events
+
+    print(f"  Beboernes Hus: {len(events)} events", file=sys.stderr)
+    return events
+
+
+# ---------------------------------------------------------------------------
 # Heromkring (ugentligt lokalt nyhedsbrev) - vi henter KUN titel, undertekst,
 # forsidebillede og link for hver udgave, aldrig selve artiklens indhold.
 # Det er en kreditering/henvisning til deres index af udgaver - ikke en
@@ -1264,6 +1409,8 @@ SOURCES = [
     ("Volume Village", fetch_volumevillage),
     ("Godsbanen", fetch_godsbanen),
     ("Beboernes Hus", fetch_beboerneshus),
+    ("AROS", fetch_aros),
+    ("Kunsthal Aarhus", fetch_kunsthal_aarhus),
 ]
 
 
