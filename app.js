@@ -10,11 +10,13 @@ const RECURRING_STORAGE_KEY = "aarhus-kalender:kun-gentagende";
 function loadSelection(allNames) {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return new Set();
+    // Førstegangsbesøg: alt er slået til undtagen Film, da der er så mange
+    // filmvisninger hele tiden, at de ellers fylder det meste af listen.
+    if (!raw) return new Set(allNames.filter((name) => name !== "Film"));
     const saved = JSON.parse(raw);
     return new Set(saved.filter((name) => allNames.includes(name)));
   } catch (e) {
-    return new Set();
+    return new Set(allNames.filter((name) => name !== "Film"));
   }
 }
 
@@ -192,7 +194,7 @@ async function main() {
   let onlyRecurring = loadOnlyRecurring();
 
   // Visningsniveau (dag/uge/måned/år) + hvor mange enheder frem/tilbage fra i dag.
-  let dateMode = "week";
+  let dateMode = "day";
   let dateOffset = 0;
 
   // Events der overlapper det aktuelt valgte dag/uge/måned/år-interval - bruges
