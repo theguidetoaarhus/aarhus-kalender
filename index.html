@@ -96,9 +96,14 @@
     padding: 1.75rem 0;
     margin: 0.5rem 0 2.5rem;
   }
-  .categories {
+  .categories-wrap {
     flex: 1 1 auto;
     min-width: 0;
+  }
+  .categories-toggle-btn {
+    display: none;
+  }
+  .categories {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -386,6 +391,43 @@
     .header-top { flex-direction: column; align-items: flex-start; gap: 0.6rem; }
     .subscribe-menu { right: auto; left: 0; }
     .panel { flex-direction: column; }
+
+    .categories-toggle-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      font-family: "Space Mono", "Courier New", monospace;
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--ink);
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+    }
+    .categories-toggle-btn:hover { color: var(--heading); }
+    .categories {
+      display: none;
+      margin-top: 1rem;
+      gap: 1rem 1.5rem;
+    }
+    .categories.open { display: flex; }
+
+    .card-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1.1rem 0.75rem;
+    }
+    .card-title { font-size: 0.82rem; line-height: 1.2; }
+    .card-source { font-size: 0.6rem; }
+    .card-time, .card-free-badge {
+      font-size: 0.56rem;
+      padding: 0.15rem 0.4rem;
+    }
+    .card-media.has-period .card-free-badge { top: 1.9rem; }
+
+    .date-controls { align-items: center; width: 100%; }
   }
 
   /* Designet følger et fast hvid/kobolt-udtryk - ikke systemets mørke/lyse tilstand. */
@@ -406,7 +448,10 @@
 
   <main>
     <section class="panel">
-      <div id="categories" class="categories">Indlæser kategorier …</div>
+      <div class="categories-wrap">
+        <button type="button" id="categoriesToggle" class="categories-toggle-btn">Filtre ▾</button>
+        <div id="categories" class="categories">Indlæser kategorier …</div>
+      </div>
       <div class="date-controls">
         <div id="viewSwitcher" class="view-switcher"></div>
         <div id="dateStepper" class="date-stepper"></div>
@@ -425,6 +470,6 @@
     <footer id="footer"></footer>
   </main>
 
-  <script src="app.js?v=24"></script>
+  <script src="app.js?v=26"></script>
 </body>
 </html>

@@ -172,6 +172,7 @@ function formatDateRangeLabel(mode, offset) {
 
 async function main() {
   const categoriesEl = document.getElementById("categories");
+  const categoriesToggleEl = document.getElementById("categoriesToggle");
   const viewSwitcherEl = document.getElementById("viewSwitcher");
   const dateStepperEl = document.getElementById("dateStepper");
   const subscribeEl = document.getElementById("subscribeLinks");
@@ -398,9 +399,16 @@ async function main() {
     e.stopPropagation();
     subscribeEl.classList.toggle("open");
   });
+  categoriesToggleEl.addEventListener("click", (e) => {
+    e.stopPropagation();
+    categoriesEl.classList.toggle("open");
+  });
   document.addEventListener("click", (e) => {
     if (!subscribeEl.contains(e.target) && e.target !== subscribeToggleEl) {
       subscribeEl.classList.remove("open");
+    }
+    if (!categoriesEl.contains(e.target) && e.target !== categoriesToggleEl) {
+      categoriesEl.classList.remove("open");
     }
   });
 
@@ -472,6 +480,7 @@ async function main() {
         if (ev.is_period) {
           timeBadge.className = "card-time period";
           timeBadge.textContent = formatPeriodRange(ev);
+          media.classList.add("has-period");
         } else {
           timeBadge.className = "card-time";
           timeBadge.textContent = ev.all_day ? "Hele dagen" : formatTime(ev.start);
