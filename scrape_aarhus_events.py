@@ -1196,6 +1196,62 @@ def fetch_aarhusfremad(cutoff: datetime) -> list:
 
 
 # ---------------------------------------------------------------------------
+# Jydsk Væddeløbsbane - løbsdage fra deres egen offentlige løbskalender.
+# Datoen hentes fra "Info"-linkets egen slug (DD-MM-YYYY), da selve
+# kalenderkortet kun viser dag + månedsnavn uden årstal.
+# ---------------------------------------------------------------------------
+
+VAEDDELOEBSBANE_CHUNK_SPLIT = '<div class="track-calendar__event track-event">'
+VAEDDELOEBSBANE_INFO_RE = re.compile(r'href="(/loebskalender/\d{4}/(\d{2})-(\d{2})-(\d{4})-[^"]*)"')
+VAEDDELOEBSBANE_TIME_RE = re.compile(r'<div>[^<]*\s*-\s*(\d{1,2})\.(\d{2})</div>')
+VAEDDELOEBSBANE_TEXT_RE = re.compile(r'track-event__text">\s*<div>([^<]*)</div>\s*<div>([^<]*)</div>', re.S)
+VAEDDELOEBSBANE_TICKET_RE = re.compile(r'href="(https://billet\.jvb-aarhus\.dk/[^"]*)"')
+
+
+def fetch_vaeddeloebsbane(cutoff: datetime) -> list:
+    try:
+        page = http_get("https://www.jvb-aarhus.dk/loebskalender")
+    except Exception as e:
+        print(f"  ADVARSEL: kunne ikke hente Jydsk Væddeløbsbane: {e}", file=sys.stderr)
+        return []
+
+    events = []
+    for chunk in page.split(VAEDDELOEBSBANE_CHUNK_SPLIT)[1:]:
+        info_m = VAEDDELOEBSBANE_INFO_RE.search(chunk)
+        time_m = VAEDDELOEBSBANE_TIME_RE.search(chunk)
+        text_m = VAEDDELOEBSBANE_TEXT_RE.search(chunk)
+        if not info_m or not time_m or not text_m:
+            continue
+        try:
+            start = datetime(
+                int(info_m.group(4)), int(info_m.group(3)), int(info_m.group(2)),
+                int(time_m.group(1)), int(time_m.group(2)),
+            )
+        except ValueError:
+            continue
+        if start > cutoff or start.date() < datetime.now().date():
+            continue
+        location = html.unescape(text_m.group(1)).strip()
+        title = html.unescape(text_m.group(2)).strip()
+        ticket_m = VAEDDELOEBSBANE_TICKET_RE.search(chunk)
+        info_url = urllib.parse.urljoin("https://www.jvb-aarhus.dk", info_m.group(1))
+        events.append(Event(
+            uid=f"jvb-{slugify(info_m.group(1))}",
+            title=title,
+            start=start,
+            end=start + timedelta(hours=4),
+            all_day=False,
+            location=location or "Jydsk Væddeløbsbane",
+            url=info_url,
+            source="Jydsk Væddeløbsbane",
+            category="Sport & Bevægelse",
+            is_free=False,
+        ))
+    print(f"  Jydsk Væddeløbsbane: {len(events)} events", file=sys.stderr)
+    return events
+
+
+# ---------------------------------------------------------------------------
 # Heromkring (ugentligt lokalt nyhedsbrev) - vi henter KUN titel, undertekst,
 # forsidebillede og link for hver udgave, aldrig selve artiklens indhold.
 # Det er en kreditering/henvisning til deres index af udgaver - ikke en
@@ -1600,6 +1656,7 @@ SOURCES = [
     ("Aarhus Inside", fetch_aarhusinside),
     ("AGF", fetch_agf),
     ("Aarhus Fremad", fetch_aarhusfremad),
+    ("Jydsk Væddeløbsbane", fetch_vaeddeloebsbane),
 ]
 
 
