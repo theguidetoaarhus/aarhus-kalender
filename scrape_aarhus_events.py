@@ -1144,7 +1144,7 @@ CLUBNEWS_URL_RE = re.compile(r"URL:([^\r\n]+)")
 COPENHAGEN_TZ = ZoneInfo("Europe/Copenhagen")
 
 
-def _clubnews_local(date_digits: str, time_digits: str) -> datetime:
+def _utc_digits_to_copenhagen(date_digits: str, time_digits: str) -> datetime:
     utc = datetime.strptime(date_digits + time_digits, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
     return utc.astimezone(COPENHAGEN_TZ).replace(tzinfo=None)
 
@@ -1163,9 +1163,9 @@ def fetch_clubnews_fixtures(klub: str, source_name: str, cutoff: datetime) -> li
         summary_m = CLUBNEWS_SUMMARY_RE.search(chunk)
         if not start_m or not summary_m:
             continue
-        start = _clubnews_local(*start_m.groups())
+        start = _utc_digits_to_copenhagen(*start_m.groups())
         end_m = CLUBNEWS_DTEND_RE.search(chunk)
-        end = _clubnews_local(*end_m.groups()) if end_m else start + timedelta(hours=2)
+        end = _utc_digits_to_copenhagen(*end_m.groups()) if end_m else start + timedelta(hours=2)
         if start > cutoff or start.date() < datetime.now().date():
             continue
         uid_m = CLUBNEWS_UID_RE.search(chunk)
@@ -1248,6 +1248,308 @@ def fetch_vaeddeloebsbane(cutoff: datetime) -> list:
             is_free=False,
         ))
     print(f"  Jydsk Væddeløbsbane: {len(events)} events", file=sys.stderr)
+    return events
+
+
+# ---------------------------------------------------------------------------
+# Aarhus Teater - hentes via deres eget offentlige shows-API (samme slags
+# JSON-endpoint som AROS bruger), som lister hver forestillings konkrete
+# spilletider.
+# ---------------------------------------------------------------------------
+
+AARHUSTEATER_BASE = "https://www.aarhusteater.dk"
+
+
+def fetch_aarhusteater(cutoff: datetime) -> list:
+    try:
+        shows = json.loads(http_get(f"{AARHUSTEATER_BASE}/api/shows/"))
+    except Exception as e:
+        print(f"  ADVARSEL: kunne ikke hente Aarhus Teater: {e}", file=sys.stderr)
+        return []
+
+    events = []
+    today = datetime.now().date()
+    for show in shows:
+        title = html.unescape(show.get("name", "")).strip()
+        if not title:
+            continue
+        url = show.get("url", "")
+        venues = show.get("venues") or []
+        location = venues[0]["name"] if venues else "Aarhus Teater"
+        poster = show.get("poster") or {}
+        image_src = (poster.get("umbracoFile") or {}).get("src", "")
+        image = urllib.parse.urljoin(AARHUSTEATER_BASE, image_src) if image_src else ""
+        for run in show.get("events", []):
+            for showtime in run.get("showTimes", []):
+                try:
+                    start = datetime.fromisoformat(showtime["date"])
+                except (ValueError, KeyError, TypeError):
+                    continue
+                if start > cutoff or start.date() < today:
+                    continue
+                show_no = showtime.get("showNo") or run.get("eventNo")
+                events.append(Event(
+                    uid=f"aarhusteater-{show_no}",
+                    title=title,
+                    start=start,
+                    end=start + timedelta(hours=2, minutes=30),
+                    all_day=False,
+                    location=location,
+                    url=url,
+                    source="Aarhus Teater",
+                    category="Teater & Dans",
+                    image=image,
+                    is_free=False,
+                ))
+    print(f"  Aarhus Teater: {len(events)} events", file=sys.stderr)
+    return events
+
+
+# ---------------------------------------------------------------------------
+# Moesgaard Museum - hentes via deres egen offentlige kalender-API (samme
+# JSON som deres hjemmesides kalenderside selv henter).
+# ---------------------------------------------------------------------------
+
+MOESGAARD_BASE = "https://moesgaardmuseum.dk"
+MOESGAARD_CATEGORY_MAP = {
+    "food_and_drink": "Mad & Drikke",
+    "lectures_and_conversations": "Foredrag & Talks",
+    "guided_tours": "Kunst",
+    "outdoor_experiences": "Sport & Bevægelse",
+}
+
+
+def fetch_moesgaard(cutoff: datetime) -> list:
+    try:
+        data = json.loads(http_get(
+            f"{MOESGAARD_BASE}/cms/events?queryByDate=true&dateFilter=all_dates&limit=500&offset=0"
+        ))
+    except Exception as e:
+        print(f"  ADVARSEL: kunne ikke hente Moesgaard Museum: {e}", file=sys.stderr)
+        return []
+
+    events = []
+    today = datetime.now().date()
+    for group in data.get("events", []):
+        for item in group.get("events", []):
+            ev = item.get("event") or {}
+            ed = item.get("event_date") or {}
+            title = html.unescape(ev.get("title", "")).strip()
+            if not title:
+                continue
+            try:
+                start = datetime.fromisoformat(ed["start_date"])
+            except (ValueError, KeyError, TypeError):
+                continue
+            try:
+                end = datetime.fromisoformat(ed["end_date"])
+            except (ValueError, KeyError, TypeError):
+                end = start + timedelta(hours=1)
+            if start > cutoff or start.date() < today:
+                continue
+            categories = ev.get("categories") or []
+            category = MOESGAARD_CATEGORY_MAP.get(categories[0]) if categories else None
+            if not category:
+                category = classify_text(title)
+            url = ev.get("url") or ""
+            if url and not url.startswith("http"):
+                url = urllib.parse.urljoin(MOESGAARD_BASE, url)
+            image = ev.get("image") or ""
+            if image and not image.startswith("http"):
+                image = urllib.parse.urljoin(MOESGAARD_BASE, image)
+            events.append(Event(
+                uid=f"moesgaard-{ed.get('id') or slugify(title + start.isoformat())}",
+                title=title,
+                start=start,
+                end=end,
+                all_day=False,
+                location="Moesgaard Museum",
+                url=url or f"{MOESGAARD_BASE}/besoeg-os/kalender",
+                source="Moesgaard Museum",
+                category=category,
+                image=image,
+                is_free=False,
+            ))
+    print(f"  Moesgaard Museum: {len(events)} events", file=sys.stderr)
+    return events
+
+
+# ---------------------------------------------------------------------------
+# Bakken Bears - via deres offentlige Google Kalender-abonnement, som deres
+# egen "Synkroniser kalender"-knap på bakkenbears.com/kampe/ selv linker til
+# under "Abonner i Desktop/Mobil Kalender".
+# ---------------------------------------------------------------------------
+
+BAKKENBEARS_ICS_URL = (
+    "https://calendar.google.com/calendar/ical/"
+    "bm556sjqqrt8peojn9dikqe9a8%40group.calendar.google.com/public/basic.ics"
+)
+BEARS_VEVENT_RE = re.compile(r"BEGIN:VEVENT(.*?)END:VEVENT", re.S)
+BEARS_DTSTART_RE = re.compile(r"DTSTART:(\d{8})T(\d{6})Z")
+BEARS_DTEND_RE = re.compile(r"DTEND:(\d{8})T(\d{6})Z")
+BEARS_SUMMARY_RE = re.compile(r"SUMMARY:([^\r\n]+)")
+BEARS_UID_RE = re.compile(r"UID:([^\r\n]+)")
+BEARS_ARENA_RE = re.compile(r"Arena:</strong>\s*([^<]+)<")
+
+
+def fetch_bakkenbears(cutoff: datetime) -> list:
+    try:
+        raw = http_get(BAKKENBEARS_ICS_URL)
+    except Exception as e:
+        print(f"  ADVARSEL: kunne ikke hente Bakken Bears: {e}", file=sys.stderr)
+        return []
+
+    unfolded = re.sub(r"\r?\n[ \t]", "", raw)
+    events = []
+    today = datetime.now().date()
+    for chunk in BEARS_VEVENT_RE.findall(unfolded):
+        start_m = BEARS_DTSTART_RE.search(chunk)
+        summary_m = BEARS_SUMMARY_RE.search(chunk)
+        if not start_m or not summary_m:
+            continue
+        start = _utc_digits_to_copenhagen(*start_m.groups())
+        end_m = BEARS_DTEND_RE.search(chunk)
+        end = _utc_digits_to_copenhagen(*end_m.groups()) if end_m else start + timedelta(hours=2)
+        if start > cutoff or start.date() < today:
+            continue
+        uid_m = BEARS_UID_RE.search(chunk)
+        arena_m = BEARS_ARENA_RE.search(chunk)
+        title = html.unescape(summary_m.group(1)).strip()
+        events.append(Event(
+            uid=f"bakkenbears-{uid_m.group(1).strip() if uid_m else slugify(title + start.isoformat())}",
+            title=title,
+            start=start,
+            end=end,
+            all_day=False,
+            location=html.unescape(arena_m.group(1)).strip() if arena_m else "Bakken Bears",
+            url="https://www.bakkenbears.com/kampe/",
+            source="Bakken Bears",
+            category="Sport & Bevægelse",
+            is_free=False,
+        ))
+    print(f"  Bakken Bears: {len(events)} events", file=sys.stderr)
+    return events
+
+
+# ---------------------------------------------------------------------------
+# Dokk1 - bibliotekets egen offentlige arrangementsliste. Siden bruger
+# "infinite scroll" (Drupal views), så vi følger samme ?page=N-mønster som
+# "Fortsæt listen"-knappen selv bruger, indtil en side er tom.
+# ---------------------------------------------------------------------------
+
+DOKK1_BASE = "https://dokk1.dk"
+DOKK1_CHUNK_SPLIT = 'class="occurrence-wrapper"'
+DOKK1_OCCURRENCE_ID_RE = re.compile(r'occurrence-id="(\d+)"')
+DOKK1_FROM_RE = re.compile(r'data-from-time="([^"]+)"')
+DOKK1_TO_RE = re.compile(r'data-to-time="([^"]+)"')
+DOKK1_TITLE_RE = re.compile(r"<a href='([^']+)'><h5>\s*<span>([^<]*)</span>")
+DOKK1_TIME_RE = re.compile(r'\|\s*(\d{2}):(\d{2})\s*-\s*(\d{2}):(\d{2})')
+DOKK1_CATEGORY_RE = re.compile(r"<p class='small event-list-item-text mb-0'>\s*([^<\n]+?)\s*</p>")
+DOKK1_IMG_RE = re.compile(r'<img[^>]+src="([^"]+)"')
+
+DOKK1_CATEGORY_MAP = {
+    "børn": "Familie & Børn",
+    "viden og demokrati": "Foredrag & Talks",
+    "kreativitet": "Kunst",
+    "udstilling": "Kunst",
+    "bæredygtighed og natur": "Foredrag & Talks",
+    "hjælp og vejledning": "Foredrag & Talks",
+    "litteratur": "Foredrag & Talks",
+    "film": "Film",
+}
+# "Dagtilbud" er institutionsbesøg for daginstitutioner, ikke noget man som
+# privatperson kan melde sig til - derfor filtreret fra.
+DOKK1_SKIP_CATEGORIES = {"dagtilbud"}
+
+
+def fetch_dokk1(cutoff: datetime, max_pages: int = 40) -> list:
+    events = []
+    today = datetime.now().date()
+    seen_ids = set()
+    for page_no in range(max_pages):
+        try:
+            page = http_get(f"{DOKK1_BASE}/alle-arrangementer?page={page_no}")
+        except Exception as e:
+            print(f"  ADVARSEL: kunne ikke hente Dokk1 (side {page_no}): {e}", file=sys.stderr)
+            break
+
+        chunks = page.split(DOKK1_CHUNK_SPLIT)[1:]
+        if not chunks:
+            break
+
+        newest_from_date = None
+        for chunk in chunks:
+            from_m = DOKK1_FROM_RE.search(chunk)
+            title_m = DOKK1_TITLE_RE.search(chunk)
+            if not from_m or not title_m:
+                continue
+            try:
+                from_date = datetime.strptime(from_m.group(1), "%Y-%m-%d")
+            except ValueError:
+                continue
+            if newest_from_date is None or from_date > newest_from_date:
+                newest_from_date = from_date
+
+            occ_m = DOKK1_OCCURRENCE_ID_RE.search(chunk)
+            occ_id = occ_m.group(1) if occ_m else None
+            if occ_id:
+                if occ_id in seen_ids:
+                    continue
+                seen_ids.add(occ_id)
+
+            title = html.unescape(title_m.group(2)).strip()
+            if not title or "aflyst" in title.lower():
+                continue
+
+            to_m = DOKK1_TO_RE.search(chunk)
+            try:
+                to_date = datetime.strptime(to_m.group(1), "%Y-%m-%d") if to_m else from_date
+            except ValueError:
+                to_date = from_date
+
+            time_m = DOKK1_TIME_RE.search(chunk)
+            if time_m and time_m.groups() != ("00", "00", "23", "59"):
+                sh, sm, eh, em = (int(x) for x in time_m.groups())
+                start = from_date.replace(hour=sh, minute=sm)
+                end = from_date.replace(hour=eh, minute=em)
+                all_day = False
+            else:
+                start = from_date
+                end = to_date + timedelta(days=1)
+                all_day = True
+
+            if start > cutoff or start.date() < today:
+                continue
+
+            cat_m = DOKK1_CATEGORY_RE.search(chunk)
+            raw_category = cat_m.group(1).strip().lower() if cat_m else ""
+            if raw_category in DOKK1_SKIP_CATEGORIES:
+                continue
+            category = DOKK1_CATEGORY_MAP.get(raw_category) or classify_text(title)
+
+            href = title_m.group(1)
+            img_m = DOKK1_IMG_RE.search(chunk)
+            image = urllib.parse.urljoin(DOKK1_BASE, img_m.group(1)) if img_m else ""
+
+            events.append(Event(
+                uid=f"dokk1-{occ_id or slugify(href + start.isoformat())}",
+                title=title,
+                start=start,
+                end=end,
+                all_day=all_day,
+                location="Dokk1",
+                url=urllib.parse.urljoin(DOKK1_BASE, href),
+                source="Dokk1",
+                category=category,
+                image=image,
+                is_free=True,
+            ))
+
+        if newest_from_date is not None and newest_from_date > cutoff:
+            break
+        time.sleep(REQUEST_DELAY_SECONDS)
+
+    print(f"  Dokk1: {len(events)} events", file=sys.stderr)
     return events
 
 
@@ -1657,6 +1959,10 @@ SOURCES = [
     ("AGF", fetch_agf),
     ("Aarhus Fremad", fetch_aarhusfremad),
     ("Jydsk Væddeløbsbane", fetch_vaeddeloebsbane),
+    ("Aarhus Teater", fetch_aarhusteater),
+    ("Moesgaard Museum", fetch_moesgaard),
+    ("Bakken Bears", fetch_bakkenbears),
+    ("Dokk1", fetch_dokk1),
 ]
 
 

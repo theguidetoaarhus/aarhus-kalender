@@ -24,8 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:hk-20261027-70846191@aarhus-kalender
-DTSTAMP:20261027T163637Z
+UID:hk-20261027-58584316@aarhus-kalender
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261027T171500
 DTEND;TZID=Europe/Copenhagen:20261027T191500
 SUMMARY:Forelæsningsrække om ‘Den nye danske litteraturkanon’ hos Fol
@@ -37,7 +37,7 @@ URL:https://fuau.dk/aarhus/program/litteratur-sprog-film-og-musik/den-nye-d
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-bluecliff@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Blue Cliff: What Lies Beneath
@@ -47,7 +47,7 @@ URL:https://godsbanen.dk/kalender/bluecliff/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-de-doede-lykkeligt-til-deres-dages-ende@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261101
 SUMMARY:DE DØDE LYKKELIGT TIL DERES DAGES ENDE
@@ -57,7 +57,7 @@ URL:https://godsbanen.dk/kalender/de-doede-lykkeligt-til-deres-dages-ende/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/omgivet-af-idioter@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261031T150000
 DTEND;TZID=Europe/Copenhagen:20261031T170000
 SUMMARY:Omgivet af idioter
@@ -67,7 +67,7 @@ URL:https://www.musikhuset.dk/kalender/omgivet-af-idioter
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/before-the-end@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261104T193000
 DTEND;TZID=Europe/Copenhagen:20261104T213000
 SUMMARY:Before The End
@@ -77,7 +77,7 @@ URL:https://www.musikhuset.dk/kalender/before-the-end
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/kammerballetten@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261108T193000
 DTEND;TZID=Europe/Copenhagen:20261108T213000
 SUMMARY:Kammerballetten
@@ -87,7 +87,7 @@ URL:https://www.musikhuset.dk/kalender/kammerballetten
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-ball-paa-bora-bora@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261109T193000
 DTEND;TZID=Europe/Copenhagen:20261111T203000
 SUMMARY:Ball på Bora Bora
@@ -97,7 +97,7 @@ URL:https://aarhusinside.dk/event/ball-paa-bora-bora/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/musefaelden@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261110T193000
 DTEND;TZID=Europe/Copenhagen:20261110T213000
 SUMMARY:Musefælden
@@ -106,8 +106,18 @@ CATEGORIES:Teater & Dans\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/musefaelden
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-102074@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261110T193000
+DTEND;TZID=Europe/Copenhagen:20261110T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-storyslam-den-fixer-jeg@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:STORYSLAM “Den fixer jeg!”
@@ -116,8 +126,39 @@ CATEGORIES:Teater & Dans\,Godsbanen
 URL:https://godsbanen.dk/kalender/storyslam-den-fixer-jeg/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-102075@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261111T193000
+DTEND;TZID=Europe/Copenhagen:20261111T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102077@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261112T170000
+DTEND;TZID=Europe/Copenhagen:20261112T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100311@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261112T190000
+DTEND;TZID=Europe/Copenhagen:20261112T213000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
 UID:mh-/kalender/fredagsdans@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261113T160000
 DTEND;TZID=Europe/Copenhagen:20261113T180000
 SUMMARY:Fredagsdans
@@ -126,8 +167,29 @@ CATEGORIES:Teater & Dans\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/fredagsdans
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-102078@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261113T170000
+DTEND;TZID=Europe/Copenhagen:20261113T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100312@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261113T190000
+DTEND;TZID=Europe/Copenhagen:20261113T213000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
 UID:mh-/kalender/familiedans@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261114T100000
 DTEND;TZID=Europe/Copenhagen:20261114T120000
 SUMMARY:Familiedans - Teaterhuset Filuren
@@ -136,9 +198,40 @@ CATEGORIES:Teater & Dans\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/familiedans
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-100317@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261114T160000
+DTEND;TZID=Europe/Copenhagen:20261114T183000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102079@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261114T193000
+DTEND;TZID=Europe/Copenhagen:20261114T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102081@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261117T170000
+DTEND;TZID=Europe/Copenhagen:20261117T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-afro-diasporiske-musik-og-dansekulturer@
  aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261117T183000
 DTEND;TZID=Europe/Copenhagen:20261117T193000
 SUMMARY:Foredrag: Afro-diasporiske musik- og dansekulturer
@@ -148,7 +241,7 @@ URL:https://aarhusinside.dk/event/afro-diasporiske-musik-og-dansekulturer/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-wired-paa-bora-bora@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261117T193000
 DTEND;TZID=Europe/Copenhagen:20261119T203000
 SUMMARY:Wired på Bora Bora
@@ -157,8 +250,18 @@ CATEGORIES:Teater & Dans\,Aarhus Inside
 URL:https://aarhusinside.dk/event/wired-paa-bora-bora/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-101767@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261117T193000
+DTEND;TZID=Europe/Copenhagen:20261117T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-landscapes@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Cunts Collective: Leaking Landscapes
@@ -168,7 +271,7 @@ URL:https://godsbanen.dk/kalender/landscapes/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-don-quixote-fin@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:DON QUIXOTE (FIN)
@@ -177,9 +280,19 @@ CATEGORIES:Teater & Dans\,Godsbanen
 URL:https://godsbanen.dk/kalender/don-quixote-fin/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-102082@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261118T170000
+DTEND;TZID=Europe/Copenhagen:20261118T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-don-quixote-paa-teater-katapult@aarhus-k
  alender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261118T193000
 DTEND;TZID=Europe/Copenhagen:20261119T203000
 SUMMARY:Don Quixote på Teater Katapult
@@ -188,9 +301,19 @@ CATEGORIES:Teater & Dans\,Aarhus Inside
 URL:https://aarhusinside.dk/event/don-quixote-paa-teater-katapult/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-101779@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261118T193000
+DTEND;TZID=Europe/Copenhagen:20261118T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-sanseporten-paa-bora-bora@aarhus-kalende
  r
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261119T093000
 DTEND;TZID=Europe/Copenhagen:20261121T170000
 SUMMARY:Sanseporten på Bora Bora
@@ -199,9 +322,40 @@ CATEGORIES:Teater & Dans\,Aarhus Inside
 URL:https://aarhusinside.dk/event/sanseporten-paa-bora-bora/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-102083@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261119T170000
+DTEND;TZID=Europe/Copenhagen:20261119T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100318@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261119T170000
+DTEND;TZID=Europe/Copenhagen:20261119T193000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101780@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261119T193000
+DTEND;TZID=Europe/Copenhagen:20261119T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-dansefest-efter-wired-paa-bora-bora@aarh
  us-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261119T203000
 DTEND;TZID=Europe/Copenhagen:20261119T230000
 SUMMARY:Dansefest efter Wired på Bora Bora
@@ -210,9 +364,123 @@ CATEGORIES:Teater & Dans\,Aarhus Inside\,Gratis
 URL:https://aarhusinside.dk/event/dansefest-efter-wired-paa-bora-bora/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-102084@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261120T170000
+DTEND;TZID=Europe/Copenhagen:20261120T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101781@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261120T193000
+DTEND;TZID=Europe/Copenhagen:20261120T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100320@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T110000
+DTEND;TZID=Europe/Copenhagen:20261121T133000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101791@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T150000
+DTEND;TZID=Europe/Copenhagen:20261121T173000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100324@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T160000
+DTEND;TZID=Europe/Copenhagen:20261121T183000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102085@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T180000
+DTEND;TZID=Europe/Copenhagen:20261121T203000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100329@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261122T120000
+DTEND;TZID=Europe/Copenhagen:20261122T143000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106454@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261122T150000
+DTEND;TZID=Europe/Copenhagen:20261122T173000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102086@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261123T170000
+DTEND;TZID=Europe/Copenhagen:20261123T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102087@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261124T170000
+DTEND;TZID=Europe/Copenhagen:20261124T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101797@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261124T193000
+DTEND;TZID=Europe/Copenhagen:20261124T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-et-rum-til-sorg-paa-aarhus-teater@aarhus
  -kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261125T170000
 DTEND;TZID=Europe/Copenhagen:20261125T190000
 SUMMARY:Et rum til sorg på Aarhus Teater
@@ -221,9 +489,29 @@ CATEGORIES:Teater & Dans\,Aarhus Inside
 URL:https://aarhusinside.dk/event/et-rum-til-sorg-paa-aarhus-teater/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-102088@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261125T170000
+DTEND;TZID=Europe/Copenhagen:20261125T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-116457@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261125T170000
+DTEND;TZID=Europe/Copenhagen:20261125T193000
+SUMMARY:Eksistens
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/eksistens
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-delirious-night-paa-bora-bora@aarhus-kal
  ender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261125T193000
 DTEND;TZID=Europe/Copenhagen:20261127T203000
 SUMMARY:Delirious Night på Bora Bora
@@ -232,8 +520,18 @@ CATEGORIES:Teater & Dans\,Aarhus Inside
 URL:https://aarhusinside.dk/event/delirious-night-paa-bora-bora/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-101798@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261125T193000
+DTEND;TZID=Europe/Copenhagen:20261125T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-kan-poesien-flytte-verden-symposium@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Kan poesien flytte verden? – symposium
@@ -242,9 +540,40 @@ CATEGORIES:Teater & Dans\,Godsbanen
 URL:https://godsbanen.dk/kalender/kan-poesien-flytte-verden-symposium/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-102089@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261126T170000
+DTEND;TZID=Europe/Copenhagen:20261126T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100319@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261126T170000
+DTEND;TZID=Europe/Copenhagen:20261126T193000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101799@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261126T193000
+DTEND;TZID=Europe/Copenhagen:20261126T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-dansefest-efter-delirious-night-paa-bora
  -bora@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261126T203000
 DTEND;TZID=Europe/Copenhagen:20261126T230000
 SUMMARY:Dansefest efter Delirious Night på Bora Bora
@@ -254,8 +583,102 @@ URL:https://aarhusinside.dk/event/dansefest-efter-delirious-night-paa-bora-
  bora/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-102090@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261127T170000
+DTEND;TZID=Europe/Copenhagen:20261127T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101800@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261127T193000
+DTEND;TZID=Europe/Copenhagen:20261127T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100334@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261128T110000
+DTEND;TZID=Europe/Copenhagen:20261128T133000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101792@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261128T150000
+DTEND;TZID=Europe/Copenhagen:20261128T173000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100325@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261128T160000
+DTEND;TZID=Europe/Copenhagen:20261128T183000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102091@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261128T180000
+DTEND;TZID=Europe/Copenhagen:20261128T203000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100330@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261129T120000
+DTEND;TZID=Europe/Copenhagen:20261129T143000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106455@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261129T150000
+DTEND;TZID=Europe/Copenhagen:20261129T173000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102092@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261130T170000
+DTEND;TZID=Europe/Copenhagen:20261130T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-dinosaur-world@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:DINOSAUR WORLD
@@ -264,8 +687,28 @@ CATEGORIES:Teater & Dans\,Godsbanen
 URL:https://godsbanen.dk/kalender/dinosaur-world/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-102093@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261201T170000
+DTEND;TZID=Europe/Copenhagen:20261201T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101802@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261201T193000
+DTEND;TZID=Europe/Copenhagen:20261201T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
 UID:va-6b4e3211-fe3e-40eb-aa53-07c17aba26a9-0@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Rundvisning på Aarhus Teater
@@ -275,8 +718,436 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/rundvisning-p
  aa-aarhus-teater-gdk1125316
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-106456@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261202T110000
+DTEND;TZID=Europe/Copenhagen:20261202T133000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102094@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261202T170000
+DTEND;TZID=Europe/Copenhagen:20261202T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100335@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261202T180000
+DTEND;TZID=Europe/Copenhagen:20261202T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101803@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261202T193000
+DTEND;TZID=Europe/Copenhagen:20261202T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102095@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261203T170000
+DTEND;TZID=Europe/Copenhagen:20261203T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100336@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261203T180000
+DTEND;TZID=Europe/Copenhagen:20261203T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101804@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261203T193000
+DTEND;TZID=Europe/Copenhagen:20261203T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102096@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261204T170000
+DTEND;TZID=Europe/Copenhagen:20261204T193000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100337@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261204T180000
+DTEND;TZID=Europe/Copenhagen:20261204T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101805@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261204T193000
+DTEND;TZID=Europe/Copenhagen:20261204T220000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100321@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261205T110000
+DTEND;TZID=Europe/Copenhagen:20261205T133000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101793@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261205T150000
+DTEND;TZID=Europe/Copenhagen:20261205T173000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100326@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261205T160000
+DTEND;TZID=Europe/Copenhagen:20261205T183000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102097@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261205T180000
+DTEND;TZID=Europe/Copenhagen:20261205T203000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100331@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261206T120000
+DTEND;TZID=Europe/Copenhagen:20261206T143000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102098@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261207T193000
+DTEND;TZID=Europe/Copenhagen:20261207T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101807@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261208T170000
+DTEND;TZID=Europe/Copenhagen:20261208T193000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100338@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261208T180000
+DTEND;TZID=Europe/Copenhagen:20261208T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102099@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261208T193000
+DTEND;TZID=Europe/Copenhagen:20261208T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101808@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261209T170000
+DTEND;TZID=Europe/Copenhagen:20261209T193000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100339@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261209T180000
+DTEND;TZID=Europe/Copenhagen:20261209T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102100@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261209T193000
+DTEND;TZID=Europe/Copenhagen:20261209T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106457@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261210T110000
+DTEND;TZID=Europe/Copenhagen:20261210T133000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101809@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261210T170000
+DTEND;TZID=Europe/Copenhagen:20261210T193000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100340@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261210T180000
+DTEND;TZID=Europe/Copenhagen:20261210T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102101@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261210T193000
+DTEND;TZID=Europe/Copenhagen:20261210T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101810@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261211T170000
+DTEND;TZID=Europe/Copenhagen:20261211T193000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100341@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261211T180000
+DTEND;TZID=Europe/Copenhagen:20261211T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102102@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261211T193000
+DTEND;TZID=Europe/Copenhagen:20261211T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100322@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261212T110000
+DTEND;TZID=Europe/Copenhagen:20261212T133000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101794@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261212T150000
+DTEND;TZID=Europe/Copenhagen:20261212T173000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100327@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261212T160000
+DTEND;TZID=Europe/Copenhagen:20261212T183000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102103@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261212T180000
+DTEND;TZID=Europe/Copenhagen:20261212T203000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100332@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261213T120000
+DTEND;TZID=Europe/Copenhagen:20261213T143000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-117019@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261213T170000
+DTEND;TZID=Europe/Copenhagen:20261213T193000
+SUMMARY:Julekoncert med Aarhus Teaters Kor
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/julekoncert
+ -med-aarhus-teaters-kor
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101811@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261214T170000
+DTEND;TZID=Europe/Copenhagen:20261214T193000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102105@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261214T193000
+DTEND;TZID=Europe/Copenhagen:20261214T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106458@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261215T100000
+DTEND;TZID=Europe/Copenhagen:20261215T123000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101812@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261215T170000
+DTEND;TZID=Europe/Copenhagen:20261215T193000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100342@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261215T180000
+DTEND;TZID=Europe/Copenhagen:20261215T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102106@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261215T193000
+DTEND;TZID=Europe/Copenhagen:20261215T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-sult@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Teater Carbon & III: EVIG SULT – ET COLLAGEVÆRK
@@ -285,9 +1156,124 @@ CATEGORIES:Teater & Dans\,Godsbanen\,Gratis
 URL:https://godsbanen.dk/kalender/sult/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-101813@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261216T170000
+DTEND;TZID=Europe/Copenhagen:20261216T193000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100343@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261216T180000
+DTEND;TZID=Europe/Copenhagen:20261216T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102107@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261216T193000
+DTEND;TZID=Europe/Copenhagen:20261216T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101814@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261217T170000
+DTEND;TZID=Europe/Copenhagen:20261217T193000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100344@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261217T180000
+DTEND;TZID=Europe/Copenhagen:20261217T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102108@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261217T193000
+DTEND;TZID=Europe/Copenhagen:20261217T220000
+SUMMARY:Mann
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/mann
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101815@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261218T170000
+DTEND;TZID=Europe/Copenhagen:20261218T193000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100345@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261218T180000
+DTEND;TZID=Europe/Copenhagen:20261218T203000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100323@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261219T110000
+DTEND;TZID=Europe/Copenhagen:20261219T133000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101795@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261219T150000
+DTEND;TZID=Europe/Copenhagen:20261219T173000
+SUMMARY:Lille Eyolf
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/lille-eyolf
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100333@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261220T120000
+DTEND;TZID=Europe/Copenhagen:20261220T143000
+SUMMARY:Absalons Hemmelighed
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/absalons-he
+ mmelighed
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-nytaarsfest-for-singler-minglr@aarhus-ka
  lender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261231T170000
 DTEND;TZID=Europe/Copenhagen:20261231T233000
 SUMMARY:Nytårsfest for singler 30-59 år – stor dinner & dans på Centra
@@ -297,8 +1283,30 @@ CATEGORIES:Teater & Dans\,Aarhus Inside
 URL:https://aarhusinside.dk/event/nytaarsfest-for-singler-minglr/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-106459@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270107T163000
+DTEND;TZID=Europe/Copenhagen:20270107T190000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106460@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270112T100000
+DTEND;TZID=Europe/Copenhagen:20270112T123000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-residency-mia-og-martha-bider@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:RESIDENCY: Mia og Martha bider
@@ -309,7 +1317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-1901@
  aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270119T170000
 DTEND;TZID=Europe/Copenhagen:20270119T173000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -321,7 +1329,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-1901-
  1@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270119T180000
 DTEND;TZID=Europe/Copenhagen:20270119T183000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -332,7 +1340,7 @@ URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-whiteout-paa-bora-bora@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270119T193000
 DTEND;TZID=Europe/Copenhagen:20270121T203000
 SUMMARY:Whiteout på Bora Bora
@@ -343,7 +1351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2001@
  aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270120T170000
 DTEND;TZID=Europe/Copenhagen:20270120T173000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -355,7 +1363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2001-
  2@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270120T180000
 DTEND;TZID=Europe/Copenhagen:20270120T183000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -367,7 +1375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2601@
  aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270126T170000
 DTEND;TZID=Europe/Copenhagen:20270126T173000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -379,7 +1387,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2601-
  1@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270126T180000
 DTEND;TZID=Europe/Copenhagen:20270126T183000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -391,7 +1399,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2701-
  1@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270127T170000
 DTEND;TZID=Europe/Copenhagen:20270127T173000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -403,7 +1411,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2701@
  aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270127T180000
 DTEND;TZID=Europe/Copenhagen:20270127T183000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -415,7 +1423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2801@
  aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270128T170000
 DTEND;TZID=Europe/Copenhagen:20270128T173000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -427,7 +1435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-2801-
  2@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270128T180000
 DTEND;TZID=Europe/Copenhagen:20270128T183000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -439,7 +1447,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0202-
  2@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270202T170000
 DTEND;TZID=Europe/Copenhagen:20270202T173000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -451,7 +1459,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0202@
  aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270202T180000
 DTEND;TZID=Europe/Copenhagen:20270202T183000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -461,9 +1469,19 @@ URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
  oplevelse-0202/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-101967@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270202T193000
+DTEND;TZID=Europe/Copenhagen:20270202T220000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0302@
  aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270203T170000
 DTEND;TZID=Europe/Copenhagen:20270203T173000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -475,7 +1493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0302-
  1@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270203T180000
 DTEND;TZID=Europe/Copenhagen:20270203T183000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -485,8 +1503,18 @@ URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
  oplevelse-0302-1/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-101969@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270203T193000
+DTEND;TZID=Europe/Copenhagen:20270203T220000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
 UID:va-e23f5e33-4eda-40a2-b648-d2a7ceb62ca3-0@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270311
 SUMMARY:Hamlet på Aarhus Teater
@@ -498,7 +1526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0402-
  1@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270204T170000
 DTEND;TZID=Europe/Copenhagen:20270204T173000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -508,9 +1536,19 @@ URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
  oplevelse-0402-1/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-101970@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270204T170000
+DTEND;TZID=Europe/Copenhagen:20270204T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-skaebnen-af-christian-lollike-en-vr-teateroplevelse-0402@
  aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270204T180000
 DTEND;TZID=Europe/Copenhagen:20270204T183000
 SUMMARY:SKÆBNEN af Christian Lollike - En VR teateroplevelse
@@ -520,9 +1558,911 @@ URL:https://www.aros.dk/kalender/skaebnen-af-christian-lollike-en-vr-teater
  oplevelse-0402/
 END:VEVENT
 BEGIN:VEVENT
+UID:aarhusteater-100555@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270204T193000
+DTEND;TZID=Europe/Copenhagen:20270204T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101971@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270205T170000
+DTEND;TZID=Europe/Copenhagen:20270205T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100605@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270205T193000
+DTEND;TZID=Europe/Copenhagen:20270205T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100680@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270206T160000
+DTEND;TZID=Europe/Copenhagen:20270206T183000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101973@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270206T193000
+DTEND;TZID=Europe/Copenhagen:20270206T220000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100684@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270209T170000
+DTEND;TZID=Europe/Copenhagen:20270209T193000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101975@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270209T170000
+DTEND;TZID=Europe/Copenhagen:20270209T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101861@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270209T193000
+DTEND;TZID=Europe/Copenhagen:20270209T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100685@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270210T170000
+DTEND;TZID=Europe/Copenhagen:20270210T193000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101976@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270210T170000
+DTEND;TZID=Europe/Copenhagen:20270210T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101862@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270210T193000
+DTEND;TZID=Europe/Copenhagen:20270210T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100686@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270211T170000
+DTEND;TZID=Europe/Copenhagen:20270211T193000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101977@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270211T170000
+DTEND;TZID=Europe/Copenhagen:20270211T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101863@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270211T193000
+DTEND;TZID=Europe/Copenhagen:20270211T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101978@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270212T170000
+DTEND;TZID=Europe/Copenhagen:20270212T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100687@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270212T193000
+DTEND;TZID=Europe/Copenhagen:20270212T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101864@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270212T193000
+DTEND;TZID=Europe/Copenhagen:20270212T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101887@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270213T150000
+DTEND;TZID=Europe/Copenhagen:20270213T173000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100688@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270213T160000
+DTEND;TZID=Europe/Copenhagen:20270213T183000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101979@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270213T180000
+DTEND;TZID=Europe/Copenhagen:20270213T203000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106461@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270216T110000
+DTEND;TZID=Europe/Copenhagen:20270216T133000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100690@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270216T170000
+DTEND;TZID=Europe/Copenhagen:20270216T193000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101981@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270216T170000
+DTEND;TZID=Europe/Copenhagen:20270216T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101866@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270216T193000
+DTEND;TZID=Europe/Copenhagen:20270216T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101982@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270217T170000
+DTEND;TZID=Europe/Copenhagen:20270217T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100691@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270217T193000
+DTEND;TZID=Europe/Copenhagen:20270217T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101867@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270217T193000
+DTEND;TZID=Europe/Copenhagen:20270217T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101983@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270218T170000
+DTEND;TZID=Europe/Copenhagen:20270218T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100692@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270218T193000
+DTEND;TZID=Europe/Copenhagen:20270218T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101868@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270218T193000
+DTEND;TZID=Europe/Copenhagen:20270218T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101984@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270219T170000
+DTEND;TZID=Europe/Copenhagen:20270219T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100693@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270219T193000
+DTEND;TZID=Europe/Copenhagen:20270219T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101869@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270219T193000
+DTEND;TZID=Europe/Copenhagen:20270219T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106462@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270220T110000
+DTEND;TZID=Europe/Copenhagen:20270220T133000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101888@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270220T150000
+DTEND;TZID=Europe/Copenhagen:20270220T173000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100694@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270220T160000
+DTEND;TZID=Europe/Copenhagen:20270220T183000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101985@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270220T180000
+DTEND;TZID=Europe/Copenhagen:20270220T203000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101986@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270222T170000
+DTEND;TZID=Europe/Copenhagen:20270222T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100695@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270222T193000
+DTEND;TZID=Europe/Copenhagen:20270222T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100696@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270223T170000
+DTEND;TZID=Europe/Copenhagen:20270223T193000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101987@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270223T170000
+DTEND;TZID=Europe/Copenhagen:20270223T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101871@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270223T193000
+DTEND;TZID=Europe/Copenhagen:20270223T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106463@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270224T100000
+DTEND;TZID=Europe/Copenhagen:20270224T123000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101988@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270224T170000
+DTEND;TZID=Europe/Copenhagen:20270224T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100697@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270224T193000
+DTEND;TZID=Europe/Copenhagen:20270224T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101872@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270224T193000
+DTEND;TZID=Europe/Copenhagen:20270224T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101989@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270225T170000
+DTEND;TZID=Europe/Copenhagen:20270225T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100698@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270225T193000
+DTEND;TZID=Europe/Copenhagen:20270225T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101873@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270225T193000
+DTEND;TZID=Europe/Copenhagen:20270225T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-114994@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270225T200000
+DTEND;TZID=Europe/Copenhagen:20270225T223000
+SUMMARY:STUDIO Saloner
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/studiosalon
+ 2627
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101990@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270226T170000
+DTEND;TZID=Europe/Copenhagen:20270226T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100699@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270226T193000
+DTEND;TZID=Europe/Copenhagen:20270226T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101874@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270226T193000
+DTEND;TZID=Europe/Copenhagen:20270226T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101889@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270227T150000
+DTEND;TZID=Europe/Copenhagen:20270227T173000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100700@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270227T160000
+DTEND;TZID=Europe/Copenhagen:20270227T183000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101991@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270227T180000
+DTEND;TZID=Europe/Copenhagen:20270227T203000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101992@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270301T170000
+DTEND;TZID=Europe/Copenhagen:20270301T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100701@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270301T193000
+DTEND;TZID=Europe/Copenhagen:20270301T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101875@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270301T193000
+DTEND;TZID=Europe/Copenhagen:20270301T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106464@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270302T110000
+DTEND;TZID=Europe/Copenhagen:20270302T133000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101993@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270302T170000
+DTEND;TZID=Europe/Copenhagen:20270302T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100702@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270302T193000
+DTEND;TZID=Europe/Copenhagen:20270302T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101876@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270302T193000
+DTEND;TZID=Europe/Copenhagen:20270302T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101994@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270303T170000
+DTEND;TZID=Europe/Copenhagen:20270303T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100703@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270303T193000
+DTEND;TZID=Europe/Copenhagen:20270303T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101877@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270303T193000
+DTEND;TZID=Europe/Copenhagen:20270303T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101995@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270304T170000
+DTEND;TZID=Europe/Copenhagen:20270304T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100704@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270304T193000
+DTEND;TZID=Europe/Copenhagen:20270304T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101878@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270304T193000
+DTEND;TZID=Europe/Copenhagen:20270304T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100705@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270305T140000
+DTEND;TZID=Europe/Copenhagen:20270305T163000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101996@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270305T170000
+DTEND;TZID=Europe/Copenhagen:20270305T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101879@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270305T193000
+DTEND;TZID=Europe/Copenhagen:20270305T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101890@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270306T150000
+DTEND;TZID=Europe/Copenhagen:20270306T173000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100706@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270306T160000
+DTEND;TZID=Europe/Copenhagen:20270306T183000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101997@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270306T180000
+DTEND;TZID=Europe/Copenhagen:20270306T203000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101998@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270308T170000
+DTEND;TZID=Europe/Copenhagen:20270308T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100707@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270308T193000
+DTEND;TZID=Europe/Copenhagen:20270308T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101880@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270308T193000
+DTEND;TZID=Europe/Copenhagen:20270308T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101999@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270309T170000
+DTEND;TZID=Europe/Copenhagen:20270309T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100708@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270309T193000
+DTEND;TZID=Europe/Copenhagen:20270309T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101881@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270309T193000
+DTEND;TZID=Europe/Copenhagen:20270309T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106465@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270310T110000
+DTEND;TZID=Europe/Copenhagen:20270310T133000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102000@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270310T170000
+DTEND;TZID=Europe/Copenhagen:20270310T193000
+SUMMARY:Christlike
+LOCATION:Studio
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/christlike
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-100709@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270310T193000
+DTEND;TZID=Europe/Copenhagen:20270310T220000
+SUMMARY:Hamlet
+LOCATION:Store Scene
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hamlet
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101882@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270310T193000
+DTEND;TZID=Europe/Copenhagen:20270310T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101883@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270311T193000
+DTEND;TZID=Europe/Copenhagen:20270311T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101884@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270312T193000
+DTEND;TZID=Europe/Copenhagen:20270312T220000
+SUMMARY:HVAD BLEV DER AF BABY JANE?
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/hvad-blev-d
+ er-af-baby-jane
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-kandis-halbal-med-dans-og-dj@aarhus-kale
  nder
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270320T200000
 DTEND;TZID=Europe/Copenhagen:20270321T000000
 SUMMARY:Kandis– halbal med dans og DJ
@@ -532,7 +2472,7 @@ URL:https://aarhusinside.dk/event/kandis-halbal-med-dans-og-dj/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-466d9ca4-b979-4886-8507-98d881dbf8e1-0@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270325
 SUMMARY:Danseforestillingen Faust på Aarhus Teater
@@ -540,5 +2480,157 @@ LOCATION:Aarhus
 CATEGORIES:Teater & Dans\,VisitAarhus
 URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/danseforestil
  lingen-faust-paa-aarhus-teater-gdk1158899
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101936@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270322T193000
+DTEND;TZID=Europe/Copenhagen:20270322T220000
+SUMMARY:Faust
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/faust
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101937@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270323T193000
+DTEND;TZID=Europe/Copenhagen:20270323T220000
+SUMMARY:Faust
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/faust
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-101938@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270324T193000
+DTEND;TZID=Europe/Copenhagen:20270324T220000
+SUMMARY:Faust
+LOCATION:Scala
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/faust
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106466@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270406T100000
+DTEND;TZID=Europe/Copenhagen:20270406T123000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102022@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270413T193000
+DTEND;TZID=Europe/Copenhagen:20270413T220000
+SUMMARY:SOLO
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/solo
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102023@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270414T193000
+DTEND;TZID=Europe/Copenhagen:20270414T220000
+SUMMARY:SOLO
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/solo
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102024@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270415T180000
+DTEND;TZID=Europe/Copenhagen:20270415T203000
+SUMMARY:SOLO
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/solo
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102025@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270416T193000
+DTEND;TZID=Europe/Copenhagen:20270416T220000
+SUMMARY:SOLO
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/solo
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102026@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270417T180000
+DTEND;TZID=Europe/Copenhagen:20270417T203000
+SUMMARY:SOLO
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/solo
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-106467@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270420T100000
+DTEND;TZID=Europe/Copenhagen:20270420T123000
+SUMMARY:Rundvisning på teatret
+LOCATION:Aarhus Teater
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/rundvisning
+ -paa-teatret
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102028@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270420T200000
+DTEND;TZID=Europe/Copenhagen:20270420T223000
+SUMMARY:SOLO
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/solo
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102029@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270421T200000
+DTEND;TZID=Europe/Copenhagen:20270421T223000
+SUMMARY:SOLO
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/solo
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102030@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270422T200000
+DTEND;TZID=Europe/Copenhagen:20270422T223000
+SUMMARY:SOLO
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/solo
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102031@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270423T200000
+DTEND;TZID=Europe/Copenhagen:20270423T223000
+SUMMARY:SOLO
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/solo
+END:VEVENT
+BEGIN:VEVENT
+UID:aarhusteater-102032@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270424T200000
+DTEND;TZID=Europe/Copenhagen:20270424T223000
+SUMMARY:SOLO
+LOCATION:Stiklingen
+CATEGORIES:Teater & Dans\,Aarhus Teater
+URL:https://www.aarhusteater.dk/det-sker/forestillinger/aktuelt/solo
 END:VEVENT
 END:VCALENDAR

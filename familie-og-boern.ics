@@ -24,9 +24,59 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:dokk1-2877767@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261029T100000
+DTEND;TZID=Europe/Copenhagen:20261029T110000
+SUMMARY:Dig & din baby - Motorik og leg
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/dig-din-baby-motorik-og-leg-0
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877835@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261029T120000
+DTEND;TZID=Europe/Copenhagen:20261029T143000
+SUMMARY:Fars legestue
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/fars-legestue-27
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877780@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261029T160000
+DTEND;TZID=Europe/Copenhagen:20261029T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-24
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878455@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261031T100000
+DTEND;TZID=Europe/Copenhagen:20261031T160000
+SUMMARY:Game jam
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/game-jam
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878488@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261031T103000
+DTEND;TZID=Europe/Copenhagen:20261031T123000
+SUMMARY:LørdagsKREA: Halloween
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/loerdagskrea-halloween
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-halloween-for-boern-paa-ms-helene@aarhus
  -kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261031T170000
 DTEND;TZID=Europe/Copenhagen:20261031T180000
 SUMMARY:Halloween for børn på MS Helene
@@ -36,7 +86,7 @@ URL:https://aarhusinside.dk/event/halloween-for-boern-paa-ms-helene/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/skaermfri-sondag@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261101T100000
 DTEND;TZID=Europe/Copenhagen:20261101T120000
 SUMMARY:Skærmfri søndag - Musikhygge med familien
@@ -45,8 +95,59 @@ CATEGORIES:Familie & Børn\,Musikhuset Aarhus\,Gratis
 URL:https://www.musikhuset.dk/kalender/skaermfri-sondag
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878290@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261101T130000
+DTEND;TZID=Europe/Copenhagen:20261101T140000
+SUMMARY:'Heksebeths Halloween' og minikoncert med Rosa
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/heksebeths-halloween-og-minikoncert-med-rosa
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877764@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261105T100000
+DTEND;TZID=Europe/Copenhagen:20261105T104500
+SUMMARY:Dig & din baby - Bøger og barsel
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/dig-din-baby-boeger-og-barsel-1
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877839@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261105T120000
+DTEND;TZID=Europe/Copenhagen:20261105T143000
+SUMMARY:Fars legestue
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/fars-legestue-31
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877785@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261105T160000
+DTEND;TZID=Europe/Copenhagen:20261105T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-34
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878551@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261106T100000
+DTEND;TZID=Europe/Copenhagen:20261106T114500
+SUMMARY:Barselskor & Babyrytmik på DOKK1 / Den Kreative Skole Aarhus
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/barselskor-babyrytmik-paa-dokk1-den-kreative-
+ skole-aarhus
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-boernetimen-favoritter-fra-samlingen-0711@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261107T103000
 DTEND;TZID=Europe/Copenhagen:20261107T111500
 SUMMARY:Børnetimen - Favoritter fra samlingen
@@ -55,8 +156,18 @@ CATEGORIES:Familie & Børn\,AROS
 URL:https://www.aros.dk/kalender/boernetimen-favoritter-fra-samlingen-0711/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878789@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261107T130000
+DTEND;TZID=Europe/Copenhagen:20261107T170000
+SUMMARY:De dødes dag
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/de-doedes-dag
+END:VEVENT
+BEGIN:VEVENT
 UID:mh-/kalender/karius-og-baktus@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261108T110000
 DTEND;TZID=Europe/Copenhagen:20261108T130000
 SUMMARY:Karius og Baktus
@@ -65,8 +176,68 @@ CATEGORIES:Familie & Børn\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/karius-og-baktus
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878291@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261108T130000
+DTEND;TZID=Europe/Copenhagen:20261108T143000
+SUMMARY:Eventyrlig forpremiere på 'Valdras Helte II'
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/eventyrlig-forpremiere-paa-valdras-helte-ii
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877762@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261112T100000
+DTEND;TZID=Europe/Copenhagen:20261112T120000
+SUMMARY:Dig & din baby - Babytryk
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/dig-din-baby-babytryk-2
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877832@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261112T120000
+DTEND;TZID=Europe/Copenhagen:20261112T143000
+SUMMARY:Fars legestue
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/fars-legestue-23
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877761@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261112T124500
+DTEND;TZID=Europe/Copenhagen:20261112T144500
+SUMMARY:Dig & din baby - Babytryk
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/dig-din-baby-babytryk-1
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877793@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261112T160000
+DTEND;TZID=Europe/Copenhagen:20261112T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-43
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877765@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261113T103000
+DTEND;TZID=Europe/Copenhagen:20261113T111500
+SUMMARY:Dig & din baby - Leg og peg
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/dig-din-baby-leg-og-peg-13
+END:VEVENT
+BEGIN:VEVENT
 UID:mh-/kalender/familieteater@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261114T120000
 DTEND;TZID=Europe/Copenhagen:20261114T140000
 SUMMARY:Familieteater
@@ -75,8 +246,300 @@ CATEGORIES:Familie & Børn\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/familieteater
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878713@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261122
+SUMMARY:Albus Festival: Udstilling - 500 ORD
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-udstilling-500-ord
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877836@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261119T120000
+DTEND;TZID=Europe/Copenhagen:20261119T143000
+SUMMARY:Fars legestue
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/fars-legestue-28
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877774@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261119T160000
+DTEND;TZID=Europe/Copenhagen:20261119T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-19
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878664@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261122
+SUMMARY:Albus Festival: Udstilling - Garmanns hemmelighed
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-udstilling-garmanns-hemmelighe
+ d
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878681@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261120T140000
+DTEND;TZID=Europe/Copenhagen:20261120T150000
+SUMMARY:500 ord: kåring af årets vindere (UDSOLGT)
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/500-ord-kaaring-af-aarets-vindere-udsolgt
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878687@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T100000
+DTEND;TZID=Europe/Copenhagen:20261121T153000
+SUMMARY:Albus Festival: Tegn svævende ansigter
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-tegn-svaevende-ansigter
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878712@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T101500
+DTEND;TZID=Europe/Copenhagen:20261121T110000
+SUMMARY:Albus Festival: Hva´ ser du? - en kreativ workshop med Kristin Ros
+ kifte
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-hva-ser-du-en-kreativ-workshop
+ -med-kristin-roskifte-0
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878663@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T101500
+DTEND;TZID=Europe/Copenhagen:20261121T153000
+SUMMARY:Albus Festival: Tiden går\, men hvor går den hen?
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-tiden-gaar-men-hvor-gaar-den-h
+ en
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878674@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T103000
+DTEND;TZID=Europe/Copenhagen:20261121T120000
+SUMMARY:Albus Festival: Kom og rør ved en "ægte" dinosaur!
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-kom-og-roer-ved-en-aegte-dinos
+ aur
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878685@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T103000
+DTEND;TZID=Europe/Copenhagen:20261121T110000
+SUMMARY:Albus Festival: Hyggelig højtlæsning
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-hyggelig-hoejtlaesning
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878661@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T103000
+DTEND;TZID=Europe/Copenhagen:20261121T110000
+SUMMARY:Albus Festival: TID - en legende og varm forestilling
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-tid-en-legende-og-varm-foresti
+ lling
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878659@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T110000
+DTEND;TZID=Europe/Copenhagen:20261121T113000
+SUMMARY:Albus Festival: Smag på historien
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-smag-paa-historien
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878675@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T110000
+DTEND;TZID=Europe/Copenhagen:20261121T113000
+SUMMARY:Albus Festival: Dyb tid
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878785@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T111500
+DTEND;TZID=Europe/Copenhagen:20261121T114500
+SUMMARY:Albus Festival: Hyggelig højtlæsning
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-hyggelig-hoejtlaesning-1
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878758@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T120000
+DTEND;TZID=Europe/Copenhagen:20261121T130000
+SUMMARY:Albus Festival: Valhalla live - Guder\, helte og historier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-valhalla-live-guder-helte-og-h
+ istorier
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878652@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T123000
+DTEND;TZID=Europe/Copenhagen:20261121T130000
+SUMMARY:Albus Festival: Dyb tid
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid-1
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878673@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T123000
+DTEND;TZID=Europe/Copenhagen:20261121T150000
+SUMMARY:Albus Festival: Kom og rør en ved en "ægte" dinosaur!
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-kom-og-roer-en-ved-en-aegte-di
+ nosaur
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878666@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T130000
+DTEND;TZID=Europe/Copenhagen:20261121T133000
+SUMMARY:Albus festival: Dyb tid
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid-2
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878660@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T130000
+DTEND;TZID=Europe/Copenhagen:20261121T133000
+SUMMARY:Albus Festival: Smag på historien
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-smag-paa-historien-0
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878786@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T131500
+DTEND;TZID=Europe/Copenhagen:20261121T135000
+SUMMARY:Albus Festival: Kaj og Bamse-live
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-kaj-og-bamselive
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878787@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T131500
+DTEND;TZID=Europe/Copenhagen:20261121T140000
+SUMMARY:Albus Festival: Leg i litteraturen
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-leg-i-litteraturen-0
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878651@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T133000
+DTEND;TZID=Europe/Copenhagen:20261121T140000
+SUMMARY:Albus Festival: Dyb tid
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid-0
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878715@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T140000
+DTEND;TZID=Europe/Copenhagen:20261121T150000
+SUMMARY:Albus Festival: Hva´ ser du? - en kreativ workshop med Kristin Ros
+ kifte
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-hva-ser-du-en-kreativ-workshop
+ -med-kristin-roskifte
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878734@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T141000
+DTEND;TZID=Europe/Copenhagen:20261121T143000
+SUMMARY:Albus Festival: Hyggelig højtlæsning
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-hyggelig-hoejtlaesning-0
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878765@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261121T143000
+DTEND;TZID=Europe/Copenhagen:20261121T151500
+SUMMARY:Albus Festival: Musikalsk forestilling om billedbogen\, Skyggens Sa
+ ng
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-musikalsk-forestilling-om-bill
+ edbogen-skyggens-sang
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877760@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261126T100000
+DTEND;TZID=Europe/Copenhagen:20261126T110000
+SUMMARY:Dig & din baby - Babymassage og zoneterapi
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/dig-din-baby-babymassage-og-zoneterapi-2
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877830@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261126T120000
+DTEND;TZID=Europe/Copenhagen:20261126T143000
+SUMMARY:Fars legestue
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/fars-legestue-19
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877786@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261126T160000
+DTEND;TZID=Europe/Copenhagen:20261126T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-35
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-fernisering-boerneaabning-28112026@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261128T090000
 DTEND;TZID=Europe/Copenhagen:20261128T120000
 SUMMARY:Børnedag på ARoS
@@ -87,7 +550,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetimen-til-fernisering-ny-samling-paa-niv-6-2811@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261128T104500
 SUMMARY:Børnetimen til fernisering: Ny samling på Niv. 6
@@ -97,9 +560,19 @@ URL:https://www.aros.dk/kalender/boernetimen-til-fernisering-ny-samling-paa
  -niv-6-2811/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877824@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261128T103000
+DTEND;TZID=Europe/Copenhagen:20261128T110000
+SUMMARY:Eventyrlige fortællinger for børn
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/eventyrlige-fortaellinger-boern-1
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-boernetimen-til-fernisering-ny-samling-paa-niv-8-2811@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261128T110000
 DTEND;TZID=Europe/Copenhagen:20261128T114500
 SUMMARY:Børnetimen til fernisering: Ny samling på Niv. 8
@@ -111,7 +584,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-fabelscenen-nissen-hos-spaekhoekeren@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261128T110000
 DTEND;TZID=Europe/Copenhagen:20261129T150000
 SUMMARY:Forestilling for børn – Nissen hos spækhøkeren
@@ -120,8 +593,18 @@ CATEGORIES:Familie & Børn\,Aarhus Inside
 URL:https://aarhusinside.dk/event/fabelscenen-nissen-hos-spaekhoekeren/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877825@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261128T113000
+DTEND;TZID=Europe/Copenhagen:20261128T120000
+SUMMARY:Eventyrlige fortællinger for børn
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/eventyrlige-fortaellinger-boern-2
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-291126@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261129T103000
 DTEND;TZID=Europe/Copenhagen:20261129T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -130,9 +613,40 @@ CATEGORIES:Familie & Børn\,AROS
 URL:https://www.aros.dk/kalender/julehistorie-i-as-seen-below-291126/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877840@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261203T120000
+DTEND;TZID=Europe/Copenhagen:20261203T143000
+SUMMARY:Fars legestue
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/fars-legestue-32
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877775@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261203T160000
+DTEND;TZID=Europe/Copenhagen:20261203T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-25
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878552@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261204T100000
+DTEND;TZID=Europe/Copenhagen:20261204T114500
+SUMMARY:Barselskor & Babyrytmik på DOKK1 / Den Kreative Skole Aarhus
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/barselskor-babyrytmik-paa-dokk1-den-kreative-
+ skole-aarhus-0
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-dyr-i-kunst-5-dec-2026@aarhus-
  kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261205T103000
 DTEND;TZID=Europe/Copenhagen:20261205T111500
 SUMMARY:Børnetime: Dyr i kunst
@@ -142,8 +656,18 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-dyr-i-kunst-5-d
  ec-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878510@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261205T103000
+DTEND;TZID=Europe/Copenhagen:20261205T113000
+SUMMARY:Tulle og Skralle i nissernes land (2-4 år)
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/tulle-og-skralle-i-nissernes-land-24-aar-0
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-nissen-hos-spaekhoekeren@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261205T110000
 DTEND;TZID=Europe/Copenhagen:20261206T150000
 SUMMARY:Forestilling for børn – Nissen hos spækhøkeren
@@ -153,7 +677,7 @@ URL:https://aarhusinside.dk/event/nissen-hos-spaekhoekeren/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-061226@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261206T103000
 DTEND;TZID=Europe/Copenhagen:20261206T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -162,9 +686,39 @@ CATEGORIES:Familie & Børn\,AROS
 URL:https://www.aros.dk/kalender/julehistorie-i-as-seen-below-061226/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877837@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261210T120000
+DTEND;TZID=Europe/Copenhagen:20261210T143000
+SUMMARY:Fars legestue
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/fars-legestue-29
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877781@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261210T160000
+DTEND;TZID=Europe/Copenhagen:20261210T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-27
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878044@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261212T103000
+DTEND;TZID=Europe/Copenhagen:20261212T110000
+SUMMARY:Musikskolens fløjtekoncert
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/musikskolens-floejtekoncert
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-for-boern-nissen-hos-spaekhoekeren@aarhu
  s-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261212T110000
 DTEND;TZID=Europe/Copenhagen:20261213T150000
 SUMMARY:Forestilling for børn – Nissen hos spækhøkeren
@@ -174,7 +728,7 @@ URL:https://aarhusinside.dk/event/for-boern-nissen-hos-spaekhoekeren/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-131226@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261213T103000
 DTEND;TZID=Europe/Copenhagen:20261213T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -183,8 +737,28 @@ CATEGORIES:Familie & Børn\,AROS
 URL:https://www.aros.dk/kalender/julehistorie-i-as-seen-below-131226/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877841@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261217T120000
+DTEND;TZID=Europe/Copenhagen:20261217T143000
+SUMMARY:Fars legestue
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/fars-legestue-33
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877787@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20261217T160000
+DTEND;TZID=Europe/Copenhagen:20261217T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-37
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-boernetimen-favoritter-fra-samlingen-1912@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261219T103000
 DTEND;TZID=Europe/Copenhagen:20261219T111500
 SUMMARY:Børnetimen - Favoritter fra samlingen
@@ -194,7 +768,7 @@ URL:https://www.aros.dk/kalender/boernetimen-favoritter-fra-samlingen-1912/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-201226@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20261220T103000
 DTEND;TZID=Europe/Copenhagen:20261220T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -203,9 +777,19 @@ CATEGORIES:Familie & Børn\,AROS
 URL:https://www.aros.dk/kalender/julehistorie-i-as-seen-below-201226/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877776@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270107T160000
+DTEND;TZID=Europe/Copenhagen:20270107T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-28
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-natur-i-kunst-9-jan-2027@aarhu
  s-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270109T103000
 DTEND;TZID=Europe/Copenhagen:20270109T111500
 SUMMARY:Børnetime: Natur i kunst
@@ -215,8 +799,38 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-natur-i-kunst-9
  -jan-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877788@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270114T160000
+DTEND;TZID=Europe/Copenhagen:20270114T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-36
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877801@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270121T160000
+DTEND;TZID=Europe/Copenhagen:20270121T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-45
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877802@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270128T160000
+DTEND;TZID=Europe/Copenhagen:20270128T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-44
+END:VEVENT
+BEGIN:VEVENT
 UID:va-2c901262-161c-4439-a333-177cfc7cc5c7-0@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Kazoo - Børnemusikfestival i Musikhuset Aarhus
@@ -226,9 +840,29 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/kazoo-boernem
  usikfestival-i-musikhuset-aarhus-gdk1126912
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877803@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270204T160000
+DTEND;TZID=Europe/Copenhagen:20270204T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-47
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877794@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270211T160000
+DTEND;TZID=Europe/Copenhagen:20270211T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-48
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-13-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270213T103000
 DTEND;TZID=Europe/Copenhagen:20270213T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -240,7 +874,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-14-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270214T103000
 DTEND;TZID=Europe/Copenhagen:20270214T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -252,7 +886,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-15-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270215T103000
 DTEND;TZID=Europe/Copenhagen:20270215T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -264,7 +898,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-16-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270216T103000
 DTEND;TZID=Europe/Copenhagen:20270216T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -276,7 +910,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-17-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270217T103000
 DTEND;TZID=Europe/Copenhagen:20270217T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -288,7 +922,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-18-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270218T103000
 DTEND;TZID=Europe/Copenhagen:20270218T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -300,7 +934,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-19-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270219T103000
 DTEND;TZID=Europe/Copenhagen:20270219T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -312,7 +946,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-20-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270220T103000
 DTEND;TZID=Europe/Copenhagen:20270220T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -324,7 +958,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-21-feb-2027@aar
  hus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270221T103000
 DTEND;TZID=Europe/Copenhagen:20270221T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -334,9 +968,39 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-farver-i-kunst-
  21-feb-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877777@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270225T160000
+DTEND;TZID=Europe/Copenhagen:20270225T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-26
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877795@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270304T160000
+DTEND;TZID=Europe/Copenhagen:20270304T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-49
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877784@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270311T160000
+DTEND;TZID=Europe/Copenhagen:20270311T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-32
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-maerkelige-former-i-kunst-13-m
  arts-2027@aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270313T103000
 DTEND;TZID=Europe/Copenhagen:20270313T111500
 SUMMARY:Børnetime på vinterferie: Mærkelige former i kunst
@@ -346,9 +1010,39 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-maerkelige-form
  er-i-kunst-13-marts-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877804@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270318T160000
+DTEND;TZID=Europe/Copenhagen:20270318T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-46
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877789@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270401T160000
+DTEND;TZID=Europe/Copenhagen:20270401T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-38
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877770@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270408T160000
+DTEND;TZID=Europe/Copenhagen:20270408T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-20
+END:VEVENT
+BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-ansigter-i-kunst-10-april-2027
  @aarhus-kalender
-DTSTAMP:20261027T163637Z
+DTSTAMP:20261027T195418Z
 DTSTART;TZID=Europe/Copenhagen:20270410T103000
 DTEND;TZID=Europe/Copenhagen:20270410T111500
 SUMMARY:Børnetime på vinterferie: Ansigter i kunst
@@ -356,5 +1050,25 @@ LOCATION:AROS
 CATEGORIES:Familie & Børn\,AROS
 URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-ansigter-i-kuns
  t-10-april-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877796@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270415T160000
+DTEND;TZID=Europe/Copenhagen:20270415T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-50
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2877771@aarhus-kalender
+DTSTAMP:20261027T195418Z
+DTSTART;TZID=Europe/Copenhagen:20270422T160000
+DTEND;TZID=Europe/Copenhagen:20270422T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-21
 END:VEVENT
 END:VCALENDAR
