@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gb-signe-boisen-manus@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261213
 SUMMARY:Signe Boisen: Manus.
@@ -34,8 +34,8 @@ CATEGORIES:Kunst\,Godsbanen\,Gratis
 URL:https://godsbanen.dk/kalender/signe-boisen-manus/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-36398093@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261026-3469121@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261026T090000
 DTEND;TZID=Europe/Copenhagen:20261026T110000
 SUMMARY:Talk & Morgenmad hos Boule bl.a. om fornyelsen af det gamle værtsh
@@ -45,8 +45,8 @@ CATEGORIES:Kunst\,Heromkring\,Gratis
 URL:https://stilling.dk/bistro-arkitekter/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-8813507@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261026-74287554@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261026T160000
 DTEND;TZID=Europe/Copenhagen:20261026T180000
 SUMMARY:Fermenteringsværksted på Dokk1
@@ -56,8 +56,8 @@ URL:https://www.aakb.dk/hovedbiblioteket/arrangementer/baeredygtighed-og-na
  tur/fermenteringsvaerksted
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261026-28542407@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261026-37321170@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261026T170000
 DTEND;TZID=Europe/Copenhagen:20261026T190000
 SUMMARY:Fyraftenskoncert med Maline Nuka Heiberg i Langenæskirken
@@ -66,21 +66,8 @@ CATEGORIES:Musik & Koncerter\,Heromkring\,Gratis
 URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20139886
 END:VEVENT
 BEGIN:VEVENT
-UID:gb-udgivelsesreception-vandringsdigte-en-rejsedagbog-mellem-koebenhavn-
- og-aarhus@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Udgivelsesreception: Vandringsdigte – en rejsedagbog mellem Købe
- nhavn og Aarhus
-LOCATION:Godsbanen
-CATEGORIES:Foredrag & Talks\,Godsbanen\,Gratis
-URL:https://godsbanen.dk/kalender/udgivelsesreception-vandringsdigte-en-rej
- sedagbog-mellem-koebenhavn-og-aarhus/
-END:VEVENT
-BEGIN:VEVENT
-UID:hk-20261027-20095350@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261027-2659583@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261027T120000
 DTEND;TZID=Europe/Copenhagen:20261027T140000
 SUMMARY:Workshoppen ‘Gå fra idé til forretning’ hos Incuba
@@ -89,8 +76,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
 URL:https://incuba.dk/community/events/2026/gaa-fra-ide-til-forretning/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-29892488@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261027-77456727@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261027T160000
 DTEND;TZID=Europe/Copenhagen:20261027T180000
 SUMMARY:Kom til artist talk med Lea Porsager hos Det Jyske Kunstakademi
@@ -99,8 +86,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
 URL:https://www.instagram.com/p/DebfvBvDXDA/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-291819@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261027-87190356@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261027T170000
 DTEND;TZID=Europe/Copenhagen:20261027T190000
 SUMMARY:Åbent forfatter- og illustratorfællesskab ‘Skab!’ hos Dokk1
@@ -110,8 +97,8 @@ URL:https://www.aakb.dk/hovedbiblioteket/arrangementer/viden-og-demokrati/s
  kab-besoger-dokk1
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261027-59889795@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261027-49618500@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261027T193000
 DTEND;TZID=Europe/Copenhagen:20261027T213000
 SUMMARY:Åben poetisk scene hos Løve’s Café
@@ -121,7 +108,7 @@ URL:https://fb.me/e/59Xd71SCl
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-bluecliff@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Blue Cliff: What Lies Beneath
@@ -131,7 +118,7 @@ URL:https://godsbanen.dk/kalender/bluecliff/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878071@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T093000
 DTEND;TZID=Europe/Copenhagen:20261028T120000
 SUMMARY:Papirværkstedet
@@ -141,7 +128,7 @@ URL:https://dokk1.dk/det-sker/papirvaerkstedet-63
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875538@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T100000
 DTEND;TZID=Europe/Copenhagen:20261028T120000
 SUMMARY:AppsCafé
@@ -151,7 +138,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878353@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T140000
 DTEND;TZID=Europe/Copenhagen:20261028T180000
 SUMMARY:Åbent syværksted
@@ -161,7 +148,7 @@ URL:https://dokk1.dk/det-sker/aabent-syvaerksted-16
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878406@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T140000
 DTEND;TZID=Europe/Copenhagen:20261028T163000
 SUMMARY:Strikkehækleklub
@@ -171,7 +158,7 @@ URL:https://dokk1.dk/det-sker/strikkehaekleklub-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878267@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T150000
 DTEND;TZID=Europe/Copenhagen:20261028T180000
 SUMMARY:Åbent Lab
@@ -181,7 +168,7 @@ URL:https://dokk1.dk/det-sker/aabent-lab-31
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878379@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T160000
 DTEND;TZID=Europe/Copenhagen:20261028T173000
 SUMMARY:KREAværksted: Halloween
@@ -190,8 +177,8 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/kreavaerksted-halloween
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-56240736@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261028-18999167@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T163000
 DTEND;TZID=Europe/Copenhagen:20261028T183000
 SUMMARY:BookTalk hos Det Kgl. Bibliotek med Hiromi Kawakami
@@ -200,18 +187,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring\,Gratis
 URL:https://billetto.dk/e/booktalks-hiromi-kawakami-billetter-2006157
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877739@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261028T170000
-DTEND;TZID=Europe/Copenhagen:20261028T190000
-SUMMARY:DIY drop-in
-LOCATION:Dokk1
-CATEGORIES:Kunst\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/diy-dropin-20
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2877898@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T170000
 DTEND;TZID=Europe/Copenhagen:20261028T183000
 SUMMARY:Hvad vil den nye regering med EU?
@@ -220,8 +197,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/hvad-vil-den-nye-regering-med-eu
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-88587302@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:dokk1-2877739@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261028T170000
+DTEND;TZID=Europe/Copenhagen:20261028T190000
+SUMMARY:DIY drop-in
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/diy-dropin-20
+END:VEVENT
+BEGIN:VEVENT
+UID:hk-20261028-18894744@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T170000
 DTEND;TZID=Europe/Copenhagen:20261028T190000
 SUMMARY:BSS startup holder ‘wine & vibe coding’ med udgangspunkt i Lova
@@ -231,8 +218,8 @@ CATEGORIES:Kunst\,Heromkring\,Gratis
 URL:https://www.bssstartup.com/events/vibe-wine-coding-lab
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-46577818@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261028-9187334@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T173000
 DTEND;TZID=Europe/Copenhagen:20261028T193000
 SUMMARY:Tid til noget mærkeligt? Prøv opstartstræning hos Aarhus Armwres
@@ -244,7 +231,7 @@ URL:https://motivu.dk/klubber/20538/aarhus-armwrestlers/traeninger/17876/aa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261028-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T180000
 DTEND;TZID=Europe/Copenhagen:20261028T194000
 SUMMARY:Hopning for Quinder
@@ -254,7 +241,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878391@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T190000
 DTEND;TZID=Europe/Copenhagen:20261028T210000
 SUMMARY:Anja Ringgren Lovén: Afrikas heksebørn
@@ -263,8 +250,8 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/anja-ringgren-loven-afrikas-hekseboern
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261028-6268257@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261028-72462753@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T190000
 DTEND;TZID=Europe/Copenhagen:20261028T210000
 SUMMARY:‍ Tech Pub med Tech Hub Aarhus
@@ -276,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/all-new-festival-part-1-bands-deep-divers-2@aarhus-kalende
  r
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T193000
 DTEND;TZID=Europe/Copenhagen:20261028T213000
 SUMMARY:ALL NEW FESTIVAL part #1: Bands & Deep Divers - Det Jyske Musikkons
@@ -289,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/all-new-festival-part-1-bands-deep-divers-3@aarhus-kalende
  r
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261028T200000
 DTEND;TZID=Europe/Copenhagen:20261028T220000
 SUMMARY:ALL NEW FESTIVAL part #1: Bands & Deep Divers - Det Jyske Musikkons
@@ -301,7 +288,7 @@ URL:https://www.musikhuset.dk/kalender/all-new-festival-part-1-bands-deep-d
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878513@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T100000
 DTEND;TZID=Europe/Copenhagen:20261029T113000
 SUMMARY:Åben Spire - torsdag
@@ -311,7 +298,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877767@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T100000
 DTEND;TZID=Europe/Copenhagen:20261029T110000
 SUMMARY:Dig & din baby - Motorik og leg
@@ -321,7 +308,7 @@ URL:https://dokk1.dk/det-sker/dig-din-baby-motorik-og-leg-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875539@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T100000
 DTEND;TZID=Europe/Copenhagen:20261029T120000
 SUMMARY:AppsCafé
@@ -331,7 +318,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878739@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T113000
 DTEND;TZID=Europe/Copenhagen:20261029T123000
 SUMMARY:Billig bælgfrokost
@@ -341,7 +328,7 @@ URL:https://dokk1.dk/det-sker/billig-baelgfrokost-10
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877835@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T120000
 DTEND;TZID=Europe/Copenhagen:20261029T143000
 SUMMARY:Fars legestue
@@ -351,7 +338,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-27
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878548@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T140000
 DTEND;TZID=Europe/Copenhagen:20261029T153000
 SUMMARY:Friedrich Nietzsche ”Tragediens fødsel”
@@ -361,7 +348,7 @@ URL:https://dokk1.dk/det-sker/friedrich-nietzsche-tragediens-foedsel
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877780@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T160000
 DTEND;TZID=Europe/Copenhagen:20261029T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -371,7 +358,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-24
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878025@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T160000
 DTEND;TZID=Europe/Copenhagen:20261029T180000
 SUMMARY:Matematikcafe
@@ -381,7 +368,7 @@ URL:https://dokk1.dk/det-sker/matematikcafe-27
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878204@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T161500
 DTEND;TZID=Europe/Copenhagen:20261029T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -391,7 +378,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-69
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878479@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T173000
 DTEND;TZID=Europe/Copenhagen:20261029T190000
 SUMMARY:Mahjongklubben på Dokk1
@@ -400,8 +387,8 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/mahjongklubben-paa-dokk1-6
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261029-56331835@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261029-75446435@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T173000
 DTEND;TZID=Europe/Copenhagen:20261029T193000
 SUMMARY:Foredraget ‘Fantastiske farver’ hos Antikmuseet Århus
@@ -411,7 +398,7 @@ URL:https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20374744
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-faellesspisning-20261029-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T180000
 DTEND;TZID=Europe/Copenhagen:20261029T210000
 SUMMARY:Fællesspisning
@@ -421,7 +408,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878054@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T190000
 DTEND;TZID=Europe/Copenhagen:20261029T210000
 SUMMARY:Niels Krause-Kjær: Ude for uden
@@ -432,7 +419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/all-new-festival-part-2-bands-deep-divers-2@aarhus-kalende
  r
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T193000
 DTEND;TZID=Europe/Copenhagen:20261029T213000
 SUMMARY:ALL NEW FESTIVAL part #2: Bands & Deep Divers - Det Jyske Musikkons
@@ -445,7 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/all-new-festival-part-2-bands-deep-divers-3@aarhus-kalende
  r
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261029T200000
 DTEND;TZID=Europe/Copenhagen:20261029T220000
 SUMMARY:ALL NEW FESTIVAL part #2: Bands & Deep Divers - Det Jyske Musikkons
@@ -457,7 +444,7 @@ URL:https://www.musikhuset.dk/kalender/all-new-festival-part-2-bands-deep-d
 END:VEVENT
 BEGIN:VEVENT
 UID:va-93fffd7a-c199-4071-bea7-68c8886ee809-0@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Lystændingsfest i Salling
@@ -468,7 +455,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/lystaendingsf
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878127@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261030T100000
 DTEND;TZID=Europe/Copenhagen:20261030T120000
 SUMMARY:Skak på Altanen
@@ -477,8 +464,8 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/skak-paa-altanen-33
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261030-10533329@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261030-50711531@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261030T140000
 DTEND;TZID=Europe/Copenhagen:20261030T160000
 SUMMARY:Århus Space Center & Center for Vikingetid og Middelalder invitere
@@ -489,7 +476,7 @@ URL:https://fb.me/e/29Wp9ltQNe
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878549@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261030T160000
 DTEND;TZID=Europe/Copenhagen:20261030T180000
 SUMMARY:Brudte relationer mellem forældre og voksne børn
@@ -501,7 +488,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-byt-digt-til-fadoel-byens-forlag-og-bogc
  afe-2026-10-30@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261030T170000
 DTEND;TZID=Europe/Copenhagen:20261030T190000
 SUMMARY:Byt et digt til en fadøl hos Byens Forlag og Bogcafé
@@ -513,7 +500,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-halloween-party-paa-cafe-smagloes@aarhus
  -kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261030T180000
 DTEND;TZID=Europe/Copenhagen:20261030T233000
 SUMMARY:Halloween Party på Café Smagløs
@@ -523,7 +510,7 @@ URL:https://aarhusinside.dk/event/halloween-party-paa-cafe-smagloes/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-sallings-julelys-taendes@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261030T190000
 DTEND;TZID=Europe/Copenhagen:20261030T210000
 SUMMARY:Sallings julelys tændes
@@ -534,7 +521,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-spooky-friday-bodegaquiz-hos-bellis@aarh
  us-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261030T200000
 DTEND;TZID=Europe/Copenhagen:20261030T213000
 SUMMARY:Spooky Friday: Bodegaquiz hos Bellis
@@ -544,7 +531,7 @@ URL:https://aarhusinside.dk/event/spooky-friday-bodegaquiz-hos-bellis/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-concertdeconstructed@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Concert|Deconstructed
@@ -553,8 +540,8 @@ CATEGORIES:Musik & Koncerter\,Godsbanen\,Gratis
 URL:https://godsbanen.dk/kalender/concertdeconstructed/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261031-21657164@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261031-46887691@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261031T090000
 DTEND;TZID=Europe/Copenhagen:20261031T110000
 SUMMARY:Havehygge på Kalø Højskole
@@ -565,7 +552,7 @@ URL:https://www.go-syddjurs.dk/?ytroute=%2Farrangementer%2F61288%2Flokal-ha
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878455@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261031T100000
 DTEND;TZID=Europe/Copenhagen:20261031T160000
 SUMMARY:Game jam
@@ -575,7 +562,7 @@ URL:https://dokk1.dk/det-sker/game-jam
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878488@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261031T103000
 DTEND;TZID=Europe/Copenhagen:20261031T123000
 SUMMARY:LørdagsKREA: Halloween
@@ -585,7 +572,7 @@ URL:https://dokk1.dk/det-sker/loerdagskrea-halloween
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/syng-i-den-blaa@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261031T110000
 DTEND;TZID=Europe/Copenhagen:20261031T130000
 SUMMARY:Syng i den blå - Fællessang
@@ -596,7 +583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-dia-de-los-muertos-paa-cafe-smagloes@aar
  hus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261031T120000
 DTEND;TZID=Europe/Copenhagen:20261031T233000
 SUMMARY:Día de los Muertos på Café Smagløs
@@ -606,7 +593,7 @@ URL:https://aarhusinside.dk/event/dia-de-los-muertos-paa-cafe-smagloes/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878270@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261031T120000
 DTEND;TZID=Europe/Copenhagen:20261031T150000
 SUMMARY:Åbent Lab
@@ -616,7 +603,7 @@ URL:https://dokk1.dk/det-sker/aabent-lab-48
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877808@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261031T130000
 DTEND;TZID=Europe/Copenhagen:20261031T143000
 SUMMARY:Dokk1 læser livet højt
@@ -626,7 +613,7 @@ URL:https://dokk1.dk/det-sker/dokk1-laeser-livet-hoejt-6
 END:VEVENT
 BEGIN:VEVENT
 UID:va-f3bf3533-bd3d-4643-a97f-5c648465aa19-0@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
 SUMMARY:Aarhus Series & Film Festival
@@ -637,7 +624,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhus-series
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/skaermfri-sondag@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261101T100000
 DTEND;TZID=Europe/Copenhagen:20261101T120000
 SUMMARY:Skærmfri søndag - Musikhygge med familien
@@ -646,8 +633,8 @@ CATEGORIES:Familie & Børn\,Musikhuset Aarhus\,Gratis
 URL:https://www.musikhuset.dk/kalender/skaermfri-sondag
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261101-89961950@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:hk-20261101-90622110@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261101T100000
 DTEND;TZID=Europe/Copenhagen:20261101T120000
 SUMMARY:Fugletur ved Egå Engsø
@@ -657,7 +644,7 @@ URL:https://smagpaaaarhus.dk/arrangement/fugletur-ved-egaa-engsoe-24/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878290@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261101T130000
 DTEND;TZID=Europe/Copenhagen:20261101T140000
 SUMMARY:'Heksebeths Halloween' og minikoncert med Rosa
@@ -667,7 +654,7 @@ URL:https://dokk1.dk/det-sker/heksebeths-halloween-og-minikoncert-med-rosa
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878432@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261101T140000
 DTEND;TZID=Europe/Copenhagen:20261101T153000
 SUMMARY:Søndagsfilm på Dokk1: Det sidste paradis på jord
@@ -678,7 +665,7 @@ URL:https://dokk1.dk/det-sker/soendagsfilm-paa-dokk1-det-sidste-paradis-paa
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878301@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261102T110000
 DTEND;TZID=Europe/Copenhagen:20261102T150000
 SUMMARY:Sund & Fri - Sundhedsevent for alle
@@ -688,7 +675,7 @@ URL:https://dokk1.dk/det-sker/sund-fri-sundhedsevent-alle
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878110@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261102T140000
 DTEND;TZID=Europe/Copenhagen:20261102T160000
 SUMMARY:Robottimen
@@ -698,7 +685,7 @@ URL:https://dokk1.dk/det-sker/robottimen-25
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877861@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261102T160000
 DTEND;TZID=Europe/Copenhagen:20261102T180000
 SUMMARY:Frøbibliotek
@@ -708,7 +695,7 @@ URL:https://dokk1.dk/det-sker/froebibliotek-18
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878628@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261102T160000
 DTEND;TZID=Europe/Copenhagen:20261102T180000
 SUMMARY:Planteværksted - bælg
@@ -718,7 +705,7 @@ URL:https://dokk1.dk/det-sker/plantevaerksted-baelg-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878486@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261102T170000
 DTEND;TZID=Europe/Copenhagen:20261102T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -729,7 +716,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/online-informationsmoede-klassiske-uddannelser@aarhus-kale
  nder
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261102T183000
 DTEND;TZID=Europe/Copenhagen:20261102T203000
 SUMMARY:Online informationsmøde - klassiske uddannelser - Det Jyske Musikk
@@ -741,7 +728,7 @@ URL:https://www.musikhuset.dk/kalender/online-informationsmoede-klassiske-u
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/new-music-for-strings-expanding-tradition@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261102T190000
 DTEND;TZID=Europe/Copenhagen:20261102T210000
 SUMMARY:New Music for Strings: Expanding Tradition - Det Jyske Musikkonserv
@@ -753,7 +740,7 @@ URL:https://www.musikhuset.dk/kalender/new-music-for-strings-expanding-trad
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877899@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261102T190000
 DTEND;TZID=Europe/Copenhagen:20261102T210000
 SUMMARY:Hvad vise kvinder ved om overgangsalderen
@@ -763,7 +750,7 @@ URL:https://dokk1.dk/det-sker/hvad-vise-kvinder-ved-om-overgangsalderen
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/floejteaften-floejte-og-klaver@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261102T193000
 DTEND;TZID=Europe/Copenhagen:20261102T213000
 SUMMARY:Fløjteaften: Fløjte og klaver - Det Jyske Musikkonservatorium
@@ -773,7 +760,7 @@ URL:https://www.musikhuset.dk/kalender/floejteaften-floejte-og-klaver
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-bogreception-peter-pans-boern@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Bogreception – ‘Peter Pans børn’
@@ -783,7 +770,7 @@ URL:https://godsbanen.dk/kalender/bogreception-peter-pans-boern/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878774@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261103T093000
 DTEND;TZID=Europe/Copenhagen:20261103T150000
 SUMMARY:Studievalg - vejledning
@@ -793,7 +780,7 @@ URL:https://dokk1.dk/det-sker/studievalg-vejledning-62
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878778@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261103T160000
 DTEND;TZID=Europe/Copenhagen:20261103T173000
 SUMMARY:KREAværksted: Papportrætter
@@ -803,7 +790,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-papportraetter
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878194@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261103T161500
 DTEND;TZID=Europe/Copenhagen:20261103T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -813,7 +800,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-54
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878508@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261103T163000
 DTEND;TZID=Europe/Copenhagen:20261103T180000
 SUMMARY:Hvad kunstig intelligens tager fra os - og hvordan vi vinder det ti
@@ -825,7 +812,7 @@ URL:https://dokk1.dk/det-sker/hvad-kunstig-intelligens-tager-fra-os-og-hvor
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878244@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261103T180000
 DTEND;TZID=Europe/Copenhagen:20261103T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -835,7 +822,7 @@ URL:https://dokk1.dk/det-sker/fantasy-fellowship-chapter-2-9
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877849@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261103T180000
 DTEND;TZID=Europe/Copenhagen:20261103T210000
 SUMMARY:Filosofisk filmsalon #15: George A. Romero
@@ -846,7 +833,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-foredrag-om-kaffe-paa-elvaerket@aarhus-k
  alender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261103T190000
 DTEND;TZID=Europe/Copenhagen:20261103T210000
 SUMMARY:Foredrag om kaffe på Elværket
@@ -856,7 +843,7 @@ URL:https://aarhusinside.dk/event/foredrag-om-kaffe-paa-elvaerket/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877906@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261103T190000
 DTEND;TZID=Europe/Copenhagen:20261103T210000
 SUMMARY:Jagten på liv i universet
@@ -866,7 +853,7 @@ URL:https://dokk1.dk/det-sker/jagten-paa-liv-i-universet
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/sangsoire-2@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261103T193000
 DTEND;TZID=Europe/Copenhagen:20261103T213000
 SUMMARY:Sangsoiré - Det Jyske Musikkonservatorium
@@ -876,7 +863,7 @@ URL:https://www.musikhuset.dk/kalender/sangsoire-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878065@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T093000
 DTEND;TZID=Europe/Copenhagen:20261104T120000
 SUMMARY:Papirværkstedet
@@ -886,7 +873,7 @@ URL:https://dokk1.dk/det-sker/papirvaerkstedet-56
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875540@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T100000
 DTEND;TZID=Europe/Copenhagen:20261104T120000
 SUMMARY:AppsCafé
@@ -896,7 +883,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878412@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T140000
 DTEND;TZID=Europe/Copenhagen:20261104T163000
 SUMMARY:Strikkehækleklub
@@ -906,7 +893,7 @@ URL:https://dokk1.dk/det-sker/strikkehaekleklub-6
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878354@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T140000
 DTEND;TZID=Europe/Copenhagen:20261104T180000
 SUMMARY:Åbent syværksted
@@ -916,7 +903,7 @@ URL:https://dokk1.dk/det-sker/aabent-syvaerksted-14
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878275@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T150000
 DTEND;TZID=Europe/Copenhagen:20261104T180000
 SUMMARY:Åbent Lab
@@ -926,7 +913,7 @@ URL:https://dokk1.dk/det-sker/aabent-lab-40
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878252@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T160000
 DTEND;TZID=Europe/Copenhagen:20261104T200000
 SUMMARY:Ubuntu Aarhus
@@ -936,7 +923,7 @@ URL:https://dokk1.dk/det-sker/ubuntu-aarhus-3
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878779@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T160000
 DTEND;TZID=Europe/Copenhagen:20261104T173000
 SUMMARY:KREAværksted: Papportrætter
@@ -946,7 +933,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-papportraetter-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878771@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T160000
 DTEND;TZID=Europe/Copenhagen:20261104T170000
 SUMMARY:Samtale mellem Mikkel Thykier\, Otto Kjærgaard og Victor Chakravar
@@ -958,7 +945,7 @@ URL:https://dokk1.dk/det-sker/samtale-mellem-mikkel-thykier-otto-kjaergaard
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878761@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T163000
 DTEND;TZID=Europe/Copenhagen:20261104T180000
 SUMMARY:Vinterbørn og moderskab
@@ -968,7 +955,7 @@ URL:https://dokk1.dk/det-sker/vinterboern-og-moderskab
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878754@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T170000
 DTEND;TZID=Europe/Copenhagen:20261104T183000
 SUMMARY:Skal EU sikre ligestilling?
@@ -978,7 +965,7 @@ URL:https://dokk1.dk/det-sker/skal-eu-sikre-ligestilling
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261104-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T180000
 DTEND;TZID=Europe/Copenhagen:20261104T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -988,7 +975,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261104-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T180000
 DTEND;TZID=Europe/Copenhagen:20261104T194000
 SUMMARY:Hopning for Quinder
@@ -998,7 +985,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/koncertcafe-aarhus-2@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T190000
 DTEND;TZID=Europe/Copenhagen:20261104T210000
 SUMMARY:Koncertcafé Aarhus - Det Jyske Musikkonservatorium
@@ -1008,7 +995,7 @@ URL:https://www.musikhuset.dk/kalender/koncertcafe-aarhus-2
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/basunaften-2@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261104T193000
 DTEND;TZID=Europe/Copenhagen:20261104T213000
 SUMMARY:Basun- og Tubaaften - Det Jyske Musikkonservatorium
@@ -1018,7 +1005,7 @@ URL:https://www.musikhuset.dk/kalender/basunaften-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877764@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T100000
 DTEND;TZID=Europe/Copenhagen:20261105T104500
 SUMMARY:Dig & din baby - Bøger og barsel
@@ -1028,7 +1015,7 @@ URL:https://dokk1.dk/det-sker/dig-din-baby-boeger-og-barsel-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878517@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T100000
 DTEND;TZID=Europe/Copenhagen:20261105T113000
 SUMMARY:Åben Spire - torsdag
@@ -1038,7 +1025,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-4
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875541@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T100000
 DTEND;TZID=Europe/Copenhagen:20261105T120000
 SUMMARY:AppsCafé
@@ -1048,7 +1035,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878741@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T113000
 DTEND;TZID=Europe/Copenhagen:20261105T123000
 SUMMARY:Billig bælgfrokost
@@ -1058,7 +1045,7 @@ URL:https://dokk1.dk/det-sker/billig-baelgfrokost-12
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877839@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T120000
 DTEND;TZID=Europe/Copenhagen:20261105T143000
 SUMMARY:Fars legestue
@@ -1068,7 +1055,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-31
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878115@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T150000
 DTEND;TZID=Europe/Copenhagen:20261105T161500
 SUMMARY:Rundvisning på Dokk1
@@ -1078,7 +1065,7 @@ URL:https://dokk1.dk/det-sker/rundvisning-paa-dokk1-6
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877785@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T160000
 DTEND;TZID=Europe/Copenhagen:20261105T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1088,7 +1075,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-34
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878034@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T160000
 DTEND;TZID=Europe/Copenhagen:20261105T180000
 SUMMARY:Matematikcafe
@@ -1098,7 +1085,7 @@ URL:https://dokk1.dk/det-sker/matematikcafe-36
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878195@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T161500
 DTEND;TZID=Europe/Copenhagen:20261105T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -1108,7 +1095,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-55
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878312@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T163000
 DTEND;TZID=Europe/Copenhagen:20261105T180000
 SUMMARY:Åbent Medieværksted i IRIS Lab
@@ -1118,7 +1105,7 @@ URL:https://dokk1.dk/det-sker/aabent-medievaerksted-i-iris-lab-6
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878118@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T170000
 DTEND;TZID=Europe/Copenhagen:20261105T190000
 SUMMARY:Simon Krohn: Stå stærkt i stormen
@@ -1128,7 +1115,7 @@ URL:https://dokk1.dk/det-sker/simon-krohn-staa-staerkt-i-stormen
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/koncertcafe-aarhus-3@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T190000
 DTEND;TZID=Europe/Copenhagen:20261105T210000
 SUMMARY:Koncertcafé Aarhus - Det Jyske Musikkonservatorium
@@ -1137,18 +1124,8 @@ CATEGORIES:Musik & Koncerter\,Musikhuset Aarhus\,Gratis
 URL:https://www.musikhuset.dk/kalender/koncertcafe-aarhus-3
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877769@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261105T190000
-DTEND;TZID=Europe/Copenhagen:20261105T210000
-SUMMARY:Dig\, mig og magthaverne
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/dig-mig-og-magthaverne-0
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2877993@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261105T190000
 DTEND;TZID=Europe/Copenhagen:20261105T210000
 SUMMARY:Klaus Bundgård Povlsen: Dig\, mig og magthaverne
@@ -1158,18 +1135,18 @@ URL:https://dokk1.dk/det-sker/klaus-bundgaard-povlsen-dig-mig-og-magthavern
  e
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878130@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261106T100000
-DTEND;TZID=Europe/Copenhagen:20261106T120000
-SUMMARY:Skak på Altanen
+UID:dokk1-2877769@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261105T190000
+DTEND;TZID=Europe/Copenhagen:20261105T210000
+SUMMARY:Dig\, mig og magthaverne
 LOCATION:Dokk1
-CATEGORIES:Kunst\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/skak-paa-altanen-36
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/dig-mig-og-magthaverne-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878551@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261106T100000
 DTEND;TZID=Europe/Copenhagen:20261106T114500
 SUMMARY:Barselskor & Babyrytmik på DOKK1 / Den Kreative Skole Aarhus
@@ -1179,8 +1156,18 @@ URL:https://dokk1.dk/det-sker/barselskor-babyrytmik-paa-dokk1-den-kreative-
  skole-aarhus
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878130@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261106T100000
+DTEND;TZID=Europe/Copenhagen:20261106T120000
+SUMMARY:Skak på Altanen
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/skak-paa-altanen-36
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878151@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261106T130000
 DTEND;TZID=Europe/Copenhagen:20261106T150000
 SUMMARY:Skriveværksted på Dokk1 - tekst til tiden
@@ -1190,7 +1177,7 @@ URL:https://dokk1.dk/det-sker/skrivevaerksted-paa-dokk1-tekst-til-tiden-14
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878790@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261106T163000
 DTEND;TZID=Europe/Copenhagen:20261106T180000
 SUMMARY:Oplæsning på Dokk1: To live outside the law
@@ -1200,7 +1187,7 @@ URL:https://dokk1.dk/det-sker/oplaesning-paa-dokk1-live-outside-law
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/celloaften-10@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261106T193000
 DTEND;TZID=Europe/Copenhagen:20261106T213000
 SUMMARY:Celloaften - Det Jyske Musikkonservatorium
@@ -1210,7 +1197,7 @@ URL:https://www.musikhuset.dk/kalender/celloaften-10
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/afterlive-soren-manscher@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261106T213000
 DTEND;TZID=Europe/Copenhagen:20261106T233000
 SUMMARY:Afterlive: Søren Manscher
@@ -1221,7 +1208,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-hos-kaiku-julestemning@aarhus
  -kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261107T100000
 DTEND;TZID=Europe/Copenhagen:20261108T150000
 SUMMARY:Julemarked hos KAiKU
@@ -1231,7 +1218,7 @@ URL:https://aarhusinside.dk/event/julemarked-hos-kaiku-julestemning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878580@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261107T103000
 DTEND;TZID=Europe/Copenhagen:20261107T153000
 SUMMARY:Amatørkulturens dag 2026
@@ -1240,8 +1227,18 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/amatoerkulturens-dag-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878180@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261107T130000
+DTEND;TZID=Europe/Copenhagen:20261107T160000
+SUMMARY:Strikkecafé på Dokk1
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/strikkecafe-paa-dokk1-6
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878789@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261107T130000
 DTEND;TZID=Europe/Copenhagen:20261107T170000
 SUMMARY:De dødes dag
@@ -1251,7 +1248,7 @@ URL:https://dokk1.dk/det-sker/de-doedes-dag
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878291@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261108T130000
 DTEND;TZID=Europe/Copenhagen:20261108T143000
 SUMMARY:Eventyrlig forpremiere på 'Valdras Helte II'
@@ -1261,7 +1258,7 @@ URL:https://dokk1.dk/det-sker/eventyrlig-forpremiere-paa-valdras-helte-ii
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/saxofonmatine-2@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261108T150000
 DTEND;TZID=Europe/Copenhagen:20261108T170000
 SUMMARY:Saxofonmatiné - Det Jyske Musikkonservatorium
@@ -1271,7 +1268,7 @@ URL:https://www.musikhuset.dk/kalender/saxofonmatine-2
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/operakoncert-2@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261108T193000
 DTEND;TZID=Europe/Copenhagen:20261108T213000
 SUMMARY:Operakoncert - Det Jyske Musikkonservatorium
@@ -1281,7 +1278,7 @@ URL:https://www.musikhuset.dk/kalender/operakoncert-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878144@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261109T130000
 DTEND;TZID=Europe/Copenhagen:20261109T150000
 SUMMARY:Skriveværksted på Dokk1 - tekst til tiden
@@ -1291,7 +1288,7 @@ URL:https://dokk1.dk/det-sker/skrivevaerksted-paa-dokk1-tekst-til-tiden-4
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878102@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261109T140000
 DTEND;TZID=Europe/Copenhagen:20261109T160000
 SUMMARY:Robottimen
@@ -1300,18 +1297,8 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/robottimen-13
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877872@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261109T160000
-DTEND;TZID=Europe/Copenhagen:20261109T180000
-SUMMARY:Frøbibliotek
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/froebibliotek-28
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878627@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261109T160000
 DTEND;TZID=Europe/Copenhagen:20261109T180000
 SUMMARY:Planteværksted - bælg
@@ -1320,8 +1307,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/plantevaerksted-baelg
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877872@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261109T160000
+DTEND;TZID=Europe/Copenhagen:20261109T180000
+SUMMARY:Frøbibliotek
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/froebibliotek-28
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878720@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261109T170000
 DTEND;TZID=Europe/Copenhagen:20261109T190000
 SUMMARY:Passer samfundet til vores kroppe? - Foredrag om "normalitet" og di
@@ -1333,7 +1330,7 @@ URL:https://dokk1.dk/det-sker/passer-samfundet-til-vores-kroppe-foredrag-om
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/diem-elektro-3@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261109T200000
 DTEND;TZID=Europe/Copenhagen:20261109T220000
 SUMMARY:DIEM Elektro - Det Jyske Musikkonservatorium
@@ -1343,7 +1340,7 @@ URL:https://www.musikhuset.dk/kalender/diem-elektro-3
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878640@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T100000
 DTEND;TZID=Europe/Copenhagen:20261110T180000
 SUMMARY:Bogsalg
@@ -1353,7 +1350,7 @@ URL:https://dokk1.dk/det-sker/bogsalg-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878173@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T130000
 DTEND;TZID=Europe/Copenhagen:20261110T160000
 SUMMARY:Spørgehjørne for slægtsforskere
@@ -1363,7 +1360,7 @@ URL:https://dokk1.dk/det-sker/spoergehjoerne-slaegtsforskere-8
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878557@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T130000
 DTEND;TZID=Europe/Copenhagen:20261110T150000
 SUMMARY:Åben Spire - tirsdag
@@ -1373,7 +1370,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878163@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T130000
 DTEND;TZID=Europe/Copenhagen:20261110T150000
 SUMMARY:Spis-dyrk-skab-Lab
@@ -1383,7 +1380,7 @@ URL:https://dokk1.dk/det-sker/spisdyrkskablab-9
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878781@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T160000
 DTEND;TZID=Europe/Copenhagen:20261110T173000
 SUMMARY:KREAværksted: TIDsmaskiner
@@ -1393,7 +1390,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-tidsmaskiner-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878187@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T161500
 DTEND;TZID=Europe/Copenhagen:20261110T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -1403,7 +1400,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-47
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878097@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T163000
 DTEND;TZID=Europe/Copenhagen:20261110T190000
 SUMMARY:Repair Cafe
@@ -1413,7 +1410,7 @@ URL:https://dokk1.dk/det-sker/repair-cafe-17
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877826@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T170000
 DTEND;TZID=Europe/Copenhagen:20261110T180000
 SUMMARY:Faglitterær læseklub FULDT BOOKET
@@ -1423,7 +1420,7 @@ URL:https://dokk1.dk/det-sker/faglitteraer-laeseklub-fuldt-booket
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877753@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T190000
 DTEND;TZID=Europe/Copenhagen:20261110T210000
 SUMMARY:Den litterære filosofi #3: Albert Camus
@@ -1433,7 +1430,7 @@ URL:https://dokk1.dk/det-sker/den-litteraere-filosofi-3-albert-camus
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/bigbandkoncert-5@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T193000
 DTEND;TZID=Europe/Copenhagen:20261110T213000
 SUMMARY:Bigbandkoncert - Indian Skies - Det Jyske Musikkonservatorium
@@ -1443,7 +1440,7 @@ URL:https://www.musikhuset.dk/kalender/bigbandkoncert-5
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/slagtoejsaften-5@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261110T193000
 DTEND;TZID=Europe/Copenhagen:20261110T213000
 SUMMARY:Slagtøjsaften - Det Jyske Musikkonservatorium
@@ -1453,7 +1450,7 @@ URL:https://www.musikhuset.dk/kalender/slagtoejsaften-5
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878072@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T093000
 DTEND;TZID=Europe/Copenhagen:20261111T120000
 SUMMARY:Papirværkstedet
@@ -1462,18 +1459,8 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/papirvaerkstedet-64
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878639@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261111T100000
-DTEND;TZID=Europe/Copenhagen:20261111T180000
-SUMMARY:Bogsalg
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/bogsalg-1
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2875542@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T100000
 DTEND;TZID=Europe/Copenhagen:20261111T120000
 SUMMARY:AppsCafé
@@ -1482,8 +1469,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878639@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261111T100000
+DTEND;TZID=Europe/Copenhagen:20261111T180000
+SUMMARY:Bogsalg
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/bogsalg-1
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878357@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T140000
 DTEND;TZID=Europe/Copenhagen:20261111T180000
 SUMMARY:Åbent syværksted
@@ -1493,7 +1490,7 @@ URL:https://dokk1.dk/det-sker/aabent-syvaerksted-17
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878410@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T140000
 DTEND;TZID=Europe/Copenhagen:20261111T163000
 SUMMARY:Strikkehækleklub
@@ -1503,7 +1500,7 @@ URL:https://dokk1.dk/det-sker/strikkehaekleklub-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878209@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T140000
 DTEND;TZID=Europe/Copenhagen:20261111T160000
 SUMMARY:Studiestøtte til studerende
@@ -1513,7 +1510,7 @@ URL:https://dokk1.dk/det-sker/studiestoette-til-studerende-7
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878278@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T150000
 DTEND;TZID=Europe/Copenhagen:20261111T180000
 SUMMARY:Åbent Lab
@@ -1523,7 +1520,7 @@ URL:https://dokk1.dk/det-sker/aabent-lab-46
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878780@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T160000
 DTEND;TZID=Europe/Copenhagen:20261111T173000
 SUMMARY:KREAværksted: TIDsmaskiner
@@ -1533,7 +1530,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-tidsmaskiner
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877735@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T170000
 DTEND;TZID=Europe/Copenhagen:20261111T190000
 SUMMARY:DIY drop-in
@@ -1543,7 +1540,7 @@ URL:https://dokk1.dk/det-sker/diy-dropin-17
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261111-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T180000
 DTEND;TZID=Europe/Copenhagen:20261111T194000
 SUMMARY:Hopning for Quinder
@@ -1553,7 +1550,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/kammerkoncert-5@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T193000
 DTEND;TZID=Europe/Copenhagen:20261111T213000
 SUMMARY:Kammerkoncert - Det Jyske Musikkonservatorium
@@ -1564,7 +1561,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-live-elektroniks-paa-turkis@aarhus-kalen
  der
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261111T193000
 DTEND;TZID=Europe/Copenhagen:20261111T203000
 SUMMARY:Live Elektroniks på Turkis
@@ -1574,7 +1571,7 @@ URL:https://aarhusinside.dk/event/live-elektroniks-paa-turkis/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877762@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T100000
 DTEND;TZID=Europe/Copenhagen:20261112T120000
 SUMMARY:Dig & din baby - Babytryk
@@ -1584,7 +1581,7 @@ URL:https://dokk1.dk/det-sker/dig-din-baby-babytryk-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878526@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T100000
 DTEND;TZID=Europe/Copenhagen:20261112T113000
 SUMMARY:Åben Spire - torsdag
@@ -1594,7 +1591,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-9
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875543@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T100000
 DTEND;TZID=Europe/Copenhagen:20261112T120000
 SUMMARY:AppsCafé
@@ -1604,7 +1601,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878743@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T113000
 DTEND;TZID=Europe/Copenhagen:20261112T123000
 SUMMARY:Billig bælgfrokost
@@ -1614,7 +1611,7 @@ URL:https://dokk1.dk/det-sker/billig-baelgfrokost-13
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877832@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T120000
 DTEND;TZID=Europe/Copenhagen:20261112T143000
 SUMMARY:Fars legestue
@@ -1624,7 +1621,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-23
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877761@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T124500
 DTEND;TZID=Europe/Copenhagen:20261112T144500
 SUMMARY:Dig & din baby - Babytryk
@@ -1634,7 +1631,7 @@ URL:https://dokk1.dk/det-sker/dig-din-baby-babytryk-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878022@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T160000
 DTEND;TZID=Europe/Copenhagen:20261112T180000
 SUMMARY:Matematikcafe
@@ -1644,7 +1641,7 @@ URL:https://dokk1.dk/det-sker/matematikcafe-24
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877793@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T160000
 DTEND;TZID=Europe/Copenhagen:20261112T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1654,7 +1651,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-43
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878188@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T161500
 DTEND;TZID=Europe/Copenhagen:20261112T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -1664,7 +1661,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-48
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878475@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T173000
 DTEND;TZID=Europe/Copenhagen:20261112T190000
 SUMMARY:Mahjongklubben på Dokk1
@@ -1674,7 +1671,7 @@ URL:https://dokk1.dk/det-sker/mahjongklubben-paa-dokk1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878174@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T190000
 DTEND;TZID=Europe/Copenhagen:20261112T210000
 SUMMARY:Steffen Gram: Verden ifølge Gram
@@ -1684,7 +1681,7 @@ URL:https://dokk1.dk/det-sker/steffen-gram-verden-ifoelge-gram
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/guitaraften-2@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261112T193000
 DTEND;TZID=Europe/Copenhagen:20261112T213000
 SUMMARY:Guitaraften - Det Jyske Musikkonservatorium
@@ -1694,7 +1691,7 @@ URL:https://www.musikhuset.dk/kalender/guitaraften-2
 END:VEVENT
 BEGIN:VEVENT
 UID:va-ef1764e7-3094-4b8b-b2fb-8eb8bea79e8a-0@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261223
 SUMMARY:Julemarkedet Julen i Aarhus
@@ -1705,7 +1702,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julemarkedet-
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878124@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261113T100000
 DTEND;TZID=Europe/Copenhagen:20261113T120000
 SUMMARY:Skak på Altanen
@@ -1715,7 +1712,7 @@ URL:https://dokk1.dk/det-sker/skak-paa-altanen-28
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877765@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261113T103000
 DTEND;TZID=Europe/Copenhagen:20261113T111500
 SUMMARY:Dig & din baby - Leg og peg
@@ -1725,7 +1722,7 @@ URL:https://dokk1.dk/det-sker/dig-din-baby-leg-og-peg-13
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/koncert-med-tidlig-musik@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261113T193000
 DTEND;TZID=Europe/Copenhagen:20261113T213000
 SUMMARY:Koncert med tidlig musik - Det Jyske Musikkonservatorium
@@ -1736,7 +1733,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-i-folkehuset-skejby@aarhus-ka
  lender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T100000
 DTEND;TZID=Europe/Copenhagen:20261114T143000
 SUMMARY:Julemarked i Folkehuset Skejby
@@ -1745,38 +1742,8 @@ CATEGORIES:Kunst\,Aarhus Inside\,Gratis
 URL:https://aarhusinside.dk/event/julemarked-i-folkehuset-skejby/
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878748@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261114T103000
-DTEND;TZID=Europe/Copenhagen:20261114T123000
-SUMMARY:Følsomt broderi - workshop
-LOCATION:Dokk1
-CATEGORIES:Kunst\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/foelsomt-broderi-workshop
-END:VEVENT
-BEGIN:VEVENT
-UID:dokk1-2878766@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261114T103000
-DTEND;TZID=Europe/Copenhagen:20261114T110000
-SUMMARY:Åbning af Fæstivalg
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/aabning-af-faestivalg
-END:VEVENT
-BEGIN:VEVENT
-UID:dokk1-2878506@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261114T103000
-DTEND;TZID=Europe/Copenhagen:20261114T150000
-SUMMARY:Nøgleringe & Embossment med Bellis Volunteers
-LOCATION:Dokk1
-CATEGORIES:Kunst\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/noegleringe-embossment-med-bellis-volunteers
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878530@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T103000
 DTEND;TZID=Europe/Copenhagen:20261114T120000
 SUMMARY:Sprogets Fantasi af Unge Danske Digtere
@@ -1786,7 +1753,7 @@ URL:https://dokk1.dk/det-sker/sprogets-fantasi-af-unge-danske-digtere
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878782@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T103000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Nota Service
@@ -1796,7 +1763,7 @@ URL:https://dokk1.dk/det-sker/nota-service
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878062@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T103000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Ordblind og undervisning
@@ -1806,7 +1773,7 @@ URL:https://dokk1.dk/det-sker/ordblind-og-undervisning
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878733@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T103000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Tegning er et sprog
@@ -1816,7 +1783,7 @@ URL:https://dokk1.dk/det-sker/tegning-er-et-sprog
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878399@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T103000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Kunstværk - et møde mellem mennesker
@@ -1826,7 +1793,7 @@ URL:https://dokk1.dk/det-sker/kunstvaerk-et-moede-mellem-mennesker
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878762@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T103000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Fæstivalg for ordblinde - og alle andre
@@ -1836,7 +1803,7 @@ URL:https://dokk1.dk/det-sker/faestivalg-ordblinde-og-alle-andre
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878732@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T103000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Fold 1000 traner
@@ -1846,7 +1813,7 @@ URL:https://dokk1.dk/det-sker/fold-1000-traner
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878565@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T103000
 DTEND;TZID=Europe/Copenhagen:20261114T143000
 SUMMARY:Tegn plantemønstre på dit porcelæn
@@ -1856,7 +1823,7 @@ URL:https://dokk1.dk/det-sker/tegn-plantemoenstre-paa-dit-porcelaen
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878731@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T103000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Farsø Efterskole 🎉
@@ -1866,7 +1833,7 @@ URL:https://dokk1.dk/det-sker/farsoe-efterskole
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878769@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T103000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Puslespil og fortællinger
@@ -1875,8 +1842,38 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/puslespil-og-fortaellinger
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878748@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261114T103000
+DTEND;TZID=Europe/Copenhagen:20261114T123000
+SUMMARY:Følsomt broderi - workshop
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/foelsomt-broderi-workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878766@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261114T103000
+DTEND;TZID=Europe/Copenhagen:20261114T110000
+SUMMARY:Åbning af Fæstivalg
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/aabning-af-faestivalg
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878506@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261114T103000
+DTEND;TZID=Europe/Copenhagen:20261114T150000
+SUMMARY:Nøgleringe & Embossment med Bellis Volunteers
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/noegleringe-embossment-med-bellis-volunteers
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-hos-glasvaerk@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T110000
 DTEND;TZID=Europe/Copenhagen:20261114T160000
 SUMMARY:Julemarked hos GLASVÆRK i Risskov
@@ -1887,7 +1884,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-ida-dakar-pop-up-butik-paa-lynfabrikken@
  aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T110000
 DTEND;TZID=Europe/Copenhagen:20261115T160000
 SUMMARY:Ida Dakar åbner pop up-butik på Lynfabrikken
@@ -1898,7 +1895,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-roede-kors-julemarked-i-folkehuset-troej
  borg-2026-11-14@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T110000
 DTEND;TZID=Europe/Copenhagen:20261114T160000
 SUMMARY:Røde Kors julemarked i Folkehuset Trøjborg
@@ -1908,18 +1905,8 @@ URL:https://aarhusinside.dk/event/roede-kors-julemarked-i-folkehuset-troejb
  org/2026-11-14/
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878401@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261114T110000
-DTEND;TZID=Europe/Copenhagen:20261114T150000
-SUMMARY:Stempel-workshop
-LOCATION:Dokk1
-CATEGORIES:Kunst\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/stempelworkshop
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878767@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T110000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Podcast!
@@ -1929,7 +1916,7 @@ URL:https://dokk1.dk/det-sker/podcast
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878750@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T110000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Ordblindeforeningen
@@ -1939,7 +1926,7 @@ URL:https://dokk1.dk/det-sker/ordblindeforeningen
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878768@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T110000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Meningsrummet
@@ -1949,7 +1936,7 @@ URL:https://dokk1.dk/det-sker/meningsrummet
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878397@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T110000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Badge workshop
@@ -1959,7 +1946,7 @@ URL:https://dokk1.dk/det-sker/badge-workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878776@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T110000
 DTEND;TZID=Europe/Copenhagen:20261114T114500
 SUMMARY:Escape Game
@@ -1969,7 +1956,7 @@ URL:https://dokk1.dk/det-sker/escape-game
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878528@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T110000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Podcast samtaler
@@ -1978,8 +1965,28 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/podcast-samtaler
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878726@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261114T110000
+DTEND;TZID=Europe/Copenhagen:20261114T150000
+SUMMARY:OU - Ordblinde Ungdom
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/ou-ordblinde-ungdom
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878401@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261114T110000
+DTEND;TZID=Europe/Copenhagen:20261114T150000
+SUMMARY:Stempel-workshop
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/stempelworkshop
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2877890@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T111500
 DTEND;TZID=Europe/Copenhagen:20261114T121500
 SUMMARY:Har du et ordblindt barnebarn?
@@ -1989,7 +1996,7 @@ URL:https://dokk1.dk/det-sker/har-du-et-ordblindt-barnebarn
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878040@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T113000
 DTEND;TZID=Europe/Copenhagen:20261114T123000
 SUMMARY:Morgendagens ordblinde
@@ -1999,7 +2006,7 @@ URL:https://dokk1.dk/det-sker/morgendagens-ordblinde
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877897@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T123000
 DTEND;TZID=Europe/Copenhagen:20261114T131500
 SUMMARY:Hvad er ordblindhed
@@ -2009,7 +2016,7 @@ URL:https://dokk1.dk/det-sker/hvad-er-ordblindhed
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878396@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T124500
 DTEND;TZID=Europe/Copenhagen:20261114T134500
 SUMMARY:AI - læring og løsning
@@ -2019,7 +2026,7 @@ URL:https://dokk1.dk/det-sker/ai-laering-og-loesning
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878574@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T130000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Talks - morgendagens ordblinde
@@ -2029,7 +2036,7 @@ URL:https://dokk1.dk/det-sker/talks-morgendagens-ordblinde
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878529@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T130000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Sprogets Fantasi - pop up
@@ -2039,7 +2046,7 @@ URL:https://dokk1.dk/det-sker/sprogets-fantasi-pop
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878770@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T130000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Åbent broderiværksted
@@ -2049,7 +2056,7 @@ URL:https://dokk1.dk/det-sker/aabent-broderivaerksted
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878398@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T140000
 DTEND;TZID=Europe/Copenhagen:20261114T150000
 SUMMARY:Goss - et skabende univers
@@ -2059,7 +2066,7 @@ URL:https://dokk1.dk/det-sker/goss-et-skabende-univers
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878751@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T140000
 DTEND;TZID=Europe/Copenhagen:20261114T144500
 SUMMARY:Talblindhed & matematikvanskeligheder
@@ -2070,7 +2077,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/fra-glemsel-til-genopdagelse-releasekoncert-for-resurgence
  @aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261114T150000
 DTEND;TZID=Europe/Copenhagen:20261114T170000
 SUMMARY:Fra glemsel til genopdagelse: Releasekoncert for RESURGENCE - Det J
@@ -2083,7 +2090,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-folkehuset-ankersgade@aarhus-
  kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261115T100000
 DTEND;TZID=Europe/Copenhagen:20261115T150000
 SUMMARY:Julemarked i Folkehuset Ankersgade
@@ -2094,7 +2101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-roede-kors-julemarked-i-folkehuset-troej
  borg-2026-11-15@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261115T110000
 DTEND;TZID=Europe/Copenhagen:20261115T160000
 SUMMARY:Røde Kors julemarked i Folkehuset Trøjborg
@@ -2105,7 +2112,7 @@ URL:https://aarhusinside.dk/event/roede-kors-julemarked-i-folkehuset-troejb
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-juleparade@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261115T150000
 DTEND;TZID=Europe/Copenhagen:20261115T170000
 SUMMARY:Juleparade og tænding af stjernehimlen
@@ -2115,7 +2122,7 @@ URL:https://aarhusinside.dk/event/juleparade/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878145@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261116T130000
 DTEND;TZID=Europe/Copenhagen:20261116T150000
 SUMMARY:Skriveværksted på Dokk1 - tekst til tiden
@@ -2125,7 +2132,7 @@ URL:https://dokk1.dk/det-sker/skrivevaerksted-paa-dokk1-tekst-til-tiden-5
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878106@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261116T140000
 DTEND;TZID=Europe/Copenhagen:20261116T160000
 SUMMARY:Robottimen
@@ -2134,18 +2141,8 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/robottimen-21
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877868@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261116T160000
-DTEND;TZID=Europe/Copenhagen:20261116T180000
-SUMMARY:Frøbibliotek
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/froebibliotek-25
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878631@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261116T160000
 DTEND;TZID=Europe/Copenhagen:20261116T180000
 SUMMARY:Planteværksted - frø som gaver
@@ -2154,8 +2151,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/plantevaerksted-froe-som-gaver-1
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877868@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261116T160000
+DTEND;TZID=Europe/Copenhagen:20261116T180000
+SUMMARY:Frøbibliotek
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/froebibliotek-25
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2877873@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261116T163000
 DTEND;TZID=Europe/Copenhagen:20261116T180000
 SUMMARY:Fully booked! English Book Clubs at Dokk1
@@ -2165,7 +2172,7 @@ URL:https://dokk1.dk/det-sker/fully-booked-english-book-clubs-dokk1-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878007@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261116T190000
 DTEND;TZID=Europe/Copenhagen:20261116T210000
 SUMMARY:Leif Davidsen: Requiem for Rusland
@@ -2174,8 +2181,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/leif-davidsen-requiem-rusland
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878559@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261117T130000
+DTEND;TZID=Europe/Copenhagen:20261117T150000
+SUMMARY:Åben Spire - tirsdag
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-2
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2877813@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261117T130000
 DTEND;TZID=Europe/Copenhagen:20261117T150000
 SUMMARY:Eco-print ☘️
@@ -2185,7 +2202,7 @@ URL:https://dokk1.dk/det-sker/ecoprint-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878167@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261117T130000
 DTEND;TZID=Europe/Copenhagen:20261117T150000
 SUMMARY:Spis-dyrk-skab-Lab
@@ -2194,18 +2211,8 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/spisdyrkskablab-13
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878559@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261117T130000
-DTEND;TZID=Europe/Copenhagen:20261117T150000
-SUMMARY:Åben Spire - tirsdag
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-2
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2877934@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261117T160000
 DTEND;TZID=Europe/Copenhagen:20261117T173000
 SUMMARY:KREAværksted
@@ -2215,7 +2222,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-27
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878196@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261117T161500
 DTEND;TZID=Europe/Copenhagen:20261117T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -2225,7 +2232,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-56
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877875@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261117T163000
 DTEND;TZID=Europe/Copenhagen:20261117T180000
 SUMMARY:Fully booked! English Book Clubs at Dokk1
@@ -2235,7 +2242,7 @@ URL:https://dokk1.dk/det-sker/fully-booked-english-book-clubs-dokk1-3
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-landscapes@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Cunts Collective: Leaking Landscapes
@@ -2245,7 +2252,7 @@ URL:https://godsbanen.dk/kalender/landscapes/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878713@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261122
 SUMMARY:Albus Festival: Udstilling - 500 ORD
@@ -2255,7 +2262,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-udstilling-500-ord
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878075@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261118T093000
 DTEND;TZID=Europe/Copenhagen:20261118T120000
 SUMMARY:Papirværkstedet
@@ -2265,7 +2272,7 @@ URL:https://dokk1.dk/det-sker/papirvaerkstedet-71
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875544@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261118T100000
 DTEND;TZID=Europe/Copenhagen:20261118T120000
 SUMMARY:AppsCafé
@@ -2275,7 +2282,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877704@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261118T110000
 DTEND;TZID=Europe/Copenhagen:20261118T160000
 SUMMARY:Albus Seminar 2026: Børnelitteratur til tiden – det gamle\, det 
@@ -2287,7 +2294,7 @@ URL:https://dokk1.dk/det-sker/albus-seminar-2026-boernelitteratur-til-tiden
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878358@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261118T140000
 DTEND;TZID=Europe/Copenhagen:20261118T180000
 SUMMARY:Åbent syværksted
@@ -2297,7 +2304,7 @@ URL:https://dokk1.dk/det-sker/aabent-syvaerksted-18
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878413@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261118T140000
 DTEND;TZID=Europe/Copenhagen:20261118T163000
 SUMMARY:Strikkehækleklub
@@ -2307,7 +2314,7 @@ URL:https://dokk1.dk/det-sker/strikkehaekleklub-7
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877935@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261118T160000
 DTEND;TZID=Europe/Copenhagen:20261118T173000
 SUMMARY:KREAværksted
@@ -2317,7 +2324,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-28
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261118-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261118T180000
 DTEND;TZID=Europe/Copenhagen:20261118T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -2327,7 +2334,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261118-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261118T180000
 DTEND;TZID=Europe/Copenhagen:20261118T194000
 SUMMARY:Hopning for Quinder
@@ -2337,7 +2344,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878518@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T100000
 DTEND;TZID=Europe/Copenhagen:20261119T113000
 SUMMARY:Åben Spire - torsdag
@@ -2347,7 +2354,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-5
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875545@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T100000
 DTEND;TZID=Europe/Copenhagen:20261119T120000
 SUMMARY:AppsCafé
@@ -2357,7 +2364,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878745@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T113000
 DTEND;TZID=Europe/Copenhagen:20261119T123000
 SUMMARY:Billig bælgfrokost
@@ -2367,7 +2374,7 @@ URL:https://dokk1.dk/det-sker/billig-baelgfrokost-15
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877836@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T120000
 DTEND;TZID=Europe/Copenhagen:20261119T143000
 SUMMARY:Fars legestue
@@ -2377,7 +2384,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-28
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878028@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T160000
 DTEND;TZID=Europe/Copenhagen:20261119T180000
 SUMMARY:Matematikcafe
@@ -2387,7 +2394,7 @@ URL:https://dokk1.dk/det-sker/matematikcafe-31
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877699@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T160000
 DTEND;TZID=Europe/Copenhagen:20261119T200000
 SUMMARY:Aarhus Try Out: sy din egen totebag
@@ -2397,7 +2404,7 @@ URL:https://dokk1.dk/det-sker/aarhus-try-out-sy-din-egen-totebag
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877774@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T160000
 DTEND;TZID=Europe/Copenhagen:20261119T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -2407,7 +2414,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-19
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878308@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T163000
 DTEND;TZID=Europe/Copenhagen:20261119T180000
 SUMMARY:Åbent Medieværksted i IRIS Lab
@@ -2418,7 +2425,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-moed-dit-immunforsvar-paa-aarhus-univers
  itet@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T173000
 DTEND;TZID=Europe/Copenhagen:20261119T210000
 SUMMARY:Mød dit immunforsvar på Aarhus Universitet
@@ -2429,7 +2436,7 @@ URL:https://aarhusinside.dk/event/moed-dit-immunforsvar-paa-aarhus-universi
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-faellesspisning-20261119-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T180000
 DTEND;TZID=Europe/Copenhagen:20261119T210000
 SUMMARY:Fællesspisning
@@ -2440,7 +2447,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-dansefest-efter-wired-paa-bora-bora@aarh
  us-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261119T203000
 DTEND;TZID=Europe/Copenhagen:20261119T230000
 SUMMARY:Dansefest efter Wired på Bora Bora
@@ -2450,7 +2457,7 @@ URL:https://aarhusinside.dk/event/dansefest-efter-wired-paa-bora-bora/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878664@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261122
 SUMMARY:Albus Festival: Udstilling - Garmanns hemmelighed
@@ -2461,7 +2468,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-udstilling-garmanns-hemmelighe
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878131@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261120T100000
 DTEND;TZID=Europe/Copenhagen:20261120T120000
 SUMMARY:Skak på Altanen
@@ -2471,7 +2478,7 @@ URL:https://dokk1.dk/det-sker/skak-paa-altanen-37
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877757@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261120T120000
 DTEND;TZID=Europe/Copenhagen:20261120T130000
 SUMMARY:Det store Orlaprisen-show
@@ -2481,7 +2488,7 @@ URL:https://dokk1.dk/det-sker/det-store-orlaprisenshow-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878682@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261120T140000
 DTEND;TZID=Europe/Copenhagen:20261120T213000
 SUMMARY:Albus Festival for Unge
@@ -2491,7 +2498,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-unge
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878681@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261120T140000
 DTEND;TZID=Europe/Copenhagen:20261120T150000
 SUMMARY:500 ord: kåring af årets vindere (UDSOLGT)
@@ -2501,7 +2508,7 @@ URL:https://dokk1.dk/det-sker/500-ord-kaaring-af-aarets-vindere-udsolgt
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julesnefnugene-i-volden@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261120T160000
 DTEND;TZID=Europe/Copenhagen:20261120T180000
 SUMMARY:Lystænding af julesnefnugene i Volden
@@ -2512,7 +2519,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-i-kulturhus-viby@aarhus-kalen
  der
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T100000
 DTEND;TZID=Europe/Copenhagen:20261121T160000
 SUMMARY:Julemarked i Kulturhus Viby
@@ -2522,7 +2529,7 @@ URL:https://aarhusinside.dk/event/julemarked-i-kulturhus-viby/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878687@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T100000
 DTEND;TZID=Europe/Copenhagen:20261121T153000
 SUMMARY:Albus Festival: Tegn svævende ansigter
@@ -2532,7 +2539,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-tegn-svaevende-ansigter
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878712@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T101500
 DTEND;TZID=Europe/Copenhagen:20261121T110000
 SUMMARY:Albus Festival: Hva´ ser du? - en kreativ workshop med Kristin Ros
@@ -2544,7 +2551,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-hva-ser-du-en-kreativ-workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878663@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T101500
 DTEND;TZID=Europe/Copenhagen:20261121T153000
 SUMMARY:Albus Festival: Tiden går\, men hvor går den hen?
@@ -2554,19 +2561,8 @@ URL:https://dokk1.dk/det-sker/albus-festival-tiden-gaar-men-hvor-gaar-den-h
  en
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878674@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261121T103000
-DTEND;TZID=Europe/Copenhagen:20261121T120000
-SUMMARY:Albus Festival: Kom og rør ved en "ægte" dinosaur!
-LOCATION:Dokk1
-CATEGORIES:Familie & Børn\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/albus-festival-kom-og-roer-ved-en-aegte-dinos
- aur
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878685@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T103000
 DTEND;TZID=Europe/Copenhagen:20261121T110000
 SUMMARY:Albus Festival: Hyggelig højtlæsning
@@ -2576,7 +2572,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-hyggelig-hoejtlaesning
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878661@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T103000
 DTEND;TZID=Europe/Copenhagen:20261121T110000
 SUMMARY:Albus Festival: TID - en legende og varm forestilling
@@ -2586,9 +2582,20 @@ URL:https://dokk1.dk/det-sker/albus-festival-tid-en-legende-og-varm-foresti
  lling
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878674@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261121T103000
+DTEND;TZID=Europe/Copenhagen:20261121T120000
+SUMMARY:Albus Festival: Kom og rør ved en "ægte" dinosaur!
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-kom-og-roer-ved-en-aegte-dinos
+ aur
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-paa-gasvaerket-i-brabrand@aar
  hus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T110000
 DTEND;TZID=Europe/Copenhagen:20261122T160000
 SUMMARY:Hyggeligt julemarked på Gasværket i Brabrand
@@ -2597,8 +2604,18 @@ CATEGORIES:Kunst\,Aarhus Inside\,Gratis
 URL:https://aarhusinside.dk/event/julemarked-paa-gasvaerket-i-brabrand/
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878675@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261121T110000
+DTEND;TZID=Europe/Copenhagen:20261121T113000
+SUMMARY:Albus Festival: Dyb tid
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878444@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T110000
 DTEND;TZID=Europe/Copenhagen:20261121T150000
 SUMMARY:Grøn Gavebod 🌱
@@ -2608,7 +2625,7 @@ URL:https://dokk1.dk/det-sker/groen-gavebod
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878659@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T110000
 DTEND;TZID=Europe/Copenhagen:20261121T113000
 SUMMARY:Albus Festival: Smag på historien
@@ -2617,18 +2634,8 @@ CATEGORIES:Familie & Børn\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/albus-festival-smag-paa-historien
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878675@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261121T110000
-DTEND;TZID=Europe/Copenhagen:20261121T113000
-SUMMARY:Albus Festival: Dyb tid
-LOCATION:Dokk1
-CATEGORIES:Familie & Børn\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878785@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T111500
 DTEND;TZID=Europe/Copenhagen:20261121T114500
 SUMMARY:Albus Festival: Hyggelig højtlæsning
@@ -2638,7 +2645,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-hyggelig-hoejtlaesning-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878758@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T120000
 DTEND;TZID=Europe/Copenhagen:20261121T130000
 SUMMARY:Albus Festival: Valhalla live - Guder\, helte og historier
@@ -2649,7 +2656,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-valhalla-live-guder-helte-og-h
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878652@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T123000
 DTEND;TZID=Europe/Copenhagen:20261121T130000
 SUMMARY:Albus Festival: Dyb tid
@@ -2659,7 +2666,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878673@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T123000
 DTEND;TZID=Europe/Copenhagen:20261121T150000
 SUMMARY:Albus Festival: Kom og rør en ved en "ægte" dinosaur!
@@ -2669,18 +2676,8 @@ URL:https://dokk1.dk/det-sker/albus-festival-kom-og-roer-en-ved-en-aegte-di
  nosaur
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878666@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261121T130000
-DTEND;TZID=Europe/Copenhagen:20261121T133000
-SUMMARY:Albus festival: Dyb tid
-LOCATION:Dokk1
-CATEGORIES:Familie & Børn\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid-2
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878660@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T130000
 DTEND;TZID=Europe/Copenhagen:20261121T133000
 SUMMARY:Albus Festival: Smag på historien
@@ -2689,8 +2686,18 @@ CATEGORIES:Familie & Børn\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/albus-festival-smag-paa-historien-0
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878666@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261121T130000
+DTEND;TZID=Europe/Copenhagen:20261121T133000
+SUMMARY:Albus festival: Dyb tid
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid-2
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878786@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T131500
 DTEND;TZID=Europe/Copenhagen:20261121T135000
 SUMMARY:Albus Festival: Kaj og Bamse-live
@@ -2700,7 +2707,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-kaj-og-bamselive
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878787@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T131500
 DTEND;TZID=Europe/Copenhagen:20261121T140000
 SUMMARY:Albus Festival: Leg i litteraturen
@@ -2710,7 +2717,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-leg-i-litteraturen-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878651@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T133000
 DTEND;TZID=Europe/Copenhagen:20261121T140000
 SUMMARY:Albus Festival: Dyb tid
@@ -2719,8 +2726,19 @@ CATEGORIES:Familie & Børn\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid-0
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878737@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261121T140000
+DTEND;TZID=Europe/Copenhagen:20261121T160000
+SUMMARY:Albus Festival: DM i Poetry Slam for efterskoler 2026
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-dm-i-poetry-slam-efterskoler-2
+ 026
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878715@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T140000
 DTEND;TZID=Europe/Copenhagen:20261121T150000
 SUMMARY:Albus Festival: Hva´ ser du? - en kreativ workshop med Kristin Ros
@@ -2731,19 +2749,8 @@ URL:https://dokk1.dk/det-sker/albus-festival-hva-ser-du-en-kreativ-workshop
  -med-kristin-roskifte
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878737@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261121T140000
-DTEND;TZID=Europe/Copenhagen:20261121T160000
-SUMMARY:Albus Festival: DM i Poetry Slam for efterskoler 2026
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/albus-festival-dm-i-poetry-slam-efterskoler-2
- 026
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878734@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T141000
 DTEND;TZID=Europe/Copenhagen:20261121T143000
 SUMMARY:Albus Festival: Hyggelig højtlæsning
@@ -2753,7 +2760,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-hyggelig-hoejtlaesning-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878765@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261121T143000
 DTEND;TZID=Europe/Copenhagen:20261121T151500
 SUMMARY:Albus Festival: Musikalsk forestilling om billedbogen\, Skyggens Sa
@@ -2765,7 +2772,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-musikalsk-forestilling-om-bill
 END:VEVENT
 BEGIN:VEVENT
 UID:va-a89ddf2a-01b9-41bf-8e23-407d627c77bc-0@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Orkesterfestivalen i Musikhuset Aarhus
@@ -2776,7 +2783,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/orkesterfesti
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-boggods-2026@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:BogGods 2026
@@ -2787,7 +2794,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-mozarts-requiem-fylder-lukaskirken@aarhu
  s-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261122T170000
 DTEND;TZID=Europe/Copenhagen:20261122T190000
 SUMMARY:Mozarts Requiem fylder Lukaskirken
@@ -2797,7 +2804,7 @@ URL:https://aarhusinside.dk/event/mozarts-requiem-fylder-lukaskirken/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878148@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261123T130000
 DTEND;TZID=Europe/Copenhagen:20261123T150000
 SUMMARY:Skriveværksted på Dokk1 - tekst til tiden
@@ -2807,7 +2814,7 @@ URL:https://dokk1.dk/det-sker/skrivevaerksted-paa-dokk1-tekst-til-tiden-11
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878629@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261123T160000
 DTEND;TZID=Europe/Copenhagen:20261123T180000
 SUMMARY:Planteværksted - frø som gaver
@@ -2817,7 +2824,7 @@ URL:https://dokk1.dk/det-sker/plantevaerksted-froe-som-gaver
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877863@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261123T160000
 DTEND;TZID=Europe/Copenhagen:20261123T180000
 SUMMARY:Frøbibliotek
@@ -2827,7 +2834,7 @@ URL:https://dokk1.dk/det-sker/froebibliotek-20
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878008@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261124T120000
 DTEND;TZID=Europe/Copenhagen:20261124T144500
 SUMMARY:LitLab 2026 - et laboratorium for skønlitteratur\, læsekultur og 
@@ -2838,18 +2845,8 @@ URL:https://dokk1.dk/det-sker/litlab-2026-et-laboratorium-skoenlitteratur-l
  aesekultur-og-skrivelyst
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877814@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261124T130000
-DTEND;TZID=Europe/Copenhagen:20261124T150000
-SUMMARY:Eco-print ☘️
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/ecoprint-1
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878169@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261124T130000
 DTEND;TZID=Europe/Copenhagen:20261124T150000
 SUMMARY:Spis-dyrk-skab-Lab
@@ -2859,7 +2856,7 @@ URL:https://dokk1.dk/det-sker/spisdyrkskablab-17
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878561@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261124T130000
 DTEND;TZID=Europe/Copenhagen:20261124T150000
 SUMMARY:Åben Spire - tirsdag
@@ -2868,8 +2865,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-4
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877814@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261124T130000
+DTEND;TZID=Europe/Copenhagen:20261124T150000
+SUMMARY:Eco-print ☘️
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/ecoprint-1
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2877977@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261124T160000
 DTEND;TZID=Europe/Copenhagen:20261124T173000
 SUMMARY:KREAværksted
@@ -2879,7 +2886,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-74
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878202@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261124T161500
 DTEND;TZID=Europe/Copenhagen:20261124T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -2889,7 +2896,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-66
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878096@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261124T163000
 DTEND;TZID=Europe/Copenhagen:20261124T190000
 SUMMARY:Repair Cafe
@@ -2899,7 +2906,7 @@ URL:https://dokk1.dk/det-sker/repair-cafe-16
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877996@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261124T170000
 DTEND;TZID=Europe/Copenhagen:20261124T183000
 SUMMARY:Kommer hele Norden med i EU?
@@ -2909,7 +2916,7 @@ URL:https://dokk1.dk/det-sker/kommer-hele-norden-med-i-eu
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878784@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261124T190000
 DTEND;TZID=Europe/Copenhagen:20261124T210000
 SUMMARY:Nadia Mansour: Arven fra Palæstina
@@ -2919,7 +2926,7 @@ URL:https://dokk1.dk/det-sker/nadia-mansour-arven-fra-palaestina
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878076@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261125T093000
 DTEND;TZID=Europe/Copenhagen:20261125T120000
 SUMMARY:Papirværkstedet
@@ -2929,7 +2936,7 @@ URL:https://dokk1.dk/det-sker/papirvaerkstedet-72
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875546@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261125T100000
 DTEND;TZID=Europe/Copenhagen:20261125T120000
 SUMMARY:AppsCafé
@@ -2938,18 +2945,8 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878416@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261125T140000
-DTEND;TZID=Europe/Copenhagen:20261125T163000
-SUMMARY:Strikkehækleklub
-LOCATION:Dokk1
-CATEGORIES:Kunst\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/strikkehaekleklub-10
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878351@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261125T140000
 DTEND;TZID=Europe/Copenhagen:20261125T180000
 SUMMARY:Åbent syværksted
@@ -2958,8 +2955,18 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/aabent-syvaerksted-20
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878416@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261125T140000
+DTEND;TZID=Europe/Copenhagen:20261125T163000
+SUMMARY:Strikkehækleklub
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/strikkehaekleklub-10
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878268@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261125T150000
 DTEND;TZID=Europe/Copenhagen:20261125T180000
 SUMMARY:Åbent Lab
@@ -2969,7 +2976,7 @@ URL:https://dokk1.dk/det-sker/aabent-lab-32
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877936@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261125T160000
 DTEND;TZID=Europe/Copenhagen:20261125T173000
 SUMMARY:KREAværksted
@@ -2979,7 +2986,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-29
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877736@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261125T170000
 DTEND;TZID=Europe/Copenhagen:20261125T190000
 SUMMARY:DIY drop-in
@@ -2989,7 +2996,7 @@ URL:https://dokk1.dk/det-sker/diy-dropin-19
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261125-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261125T180000
 DTEND;TZID=Europe/Copenhagen:20261125T194000
 SUMMARY:Hopning for Quinder
@@ -2999,7 +3006,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877882@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261125T190000
 DTEND;TZID=Europe/Copenhagen:20261125T210000
 SUMMARY:Glenn Bech om parforhold og klasse
@@ -3009,7 +3016,7 @@ URL:https://dokk1.dk/det-sker/glenn-bech-om-parforhold-og-klasse
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2876795@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261125T190000
 DTEND;TZID=Europe/Copenhagen:20261125T210000
 SUMMARY:Hinduisme og buddhisme – Nepal som religionshistorisk tidsmaskine
@@ -3021,7 +3028,7 @@ URL:https://dokk1.dk/det-sker/hinduisme-og-buddhisme-nepal-som-religionshis
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878521@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T100000
 DTEND;TZID=Europe/Copenhagen:20261126T113000
 SUMMARY:Åben Spire - torsdag
@@ -3031,7 +3038,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-8
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877760@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T100000
 DTEND;TZID=Europe/Copenhagen:20261126T110000
 SUMMARY:Dig & din baby - Babymassage og zoneterapi
@@ -3041,7 +3048,7 @@ URL:https://dokk1.dk/det-sker/dig-din-baby-babymassage-og-zoneterapi-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875547@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T100000
 DTEND;TZID=Europe/Copenhagen:20261126T120000
 SUMMARY:AppsCafé
@@ -3051,7 +3058,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878746@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T113000
 DTEND;TZID=Europe/Copenhagen:20261126T123000
 SUMMARY:Billig bælgfrokost
@@ -3061,7 +3068,7 @@ URL:https://dokk1.dk/det-sker/billig-baelgfrokost-16
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877830@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T120000
 DTEND;TZID=Europe/Copenhagen:20261126T143000
 SUMMARY:Fars legestue
@@ -3071,7 +3078,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-19
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878029@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T160000
 DTEND;TZID=Europe/Copenhagen:20261126T180000
 SUMMARY:Matematikcafe
@@ -3081,7 +3088,7 @@ URL:https://dokk1.dk/det-sker/matematikcafe-32
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877786@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T160000
 DTEND;TZID=Europe/Copenhagen:20261126T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -3091,7 +3098,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-35
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878203@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T161500
 DTEND;TZID=Europe/Copenhagen:20261126T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -3101,7 +3108,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-67
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878476@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T173000
 DTEND;TZID=Europe/Copenhagen:20261126T190000
 SUMMARY:Mahjongklubben på Dokk1
@@ -3111,7 +3118,7 @@ URL:https://dokk1.dk/det-sker/mahjongklubben-paa-dokk1-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878175@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T190000
 DTEND;TZID=Europe/Copenhagen:20261126T210000
 SUMMARY:Steffen Kretz: Midtvejsvalget der kan ændre alt
@@ -3122,7 +3129,7 @@ URL:https://dokk1.dk/det-sker/steffen-kretz-midtvejsvalget-der-kan-aendre-a
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878752@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T193000
 DTEND;TZID=Europe/Copenhagen:20261126T204500
 SUMMARY:DEN NÆSTE I RÆKKEN - Niels-Peter Henriksen
@@ -3133,7 +3140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-dansefest-efter-delirious-night-paa-bora
  -bora@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261126T203000
 DTEND;TZID=Europe/Copenhagen:20261126T230000
 SUMMARY:Dansefest efter Delirious Night på Bora Bora
@@ -3144,7 +3151,7 @@ URL:https://aarhusinside.dk/event/dansefest-efter-delirious-night-paa-bora-
 END:VEVENT
 BEGIN:VEVENT
 UID:va-6dd7d14d-c31c-442e-a7e4-ad0911714b76-0@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
 SUMMARY:Aarhus Kunst- og Julemarked i Ridehuset
@@ -3155,7 +3162,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhus-kunst-
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878132@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261127T100000
 DTEND;TZID=Europe/Copenhagen:20261127T120000
 SUMMARY:Skak på Altanen
@@ -3166,7 +3173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-kirkens-korshaers-julemarked-i-haldor-hu
  set@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261127T130000
 DTEND;TZID=Europe/Copenhagen:20261127T180000
 SUMMARY:Kirkens Korshærs julemarked i Haldor Huset
@@ -3177,7 +3184,7 @@ URL:https://aarhusinside.dk/event/kirkens-korshaers-julemarked-i-haldor-hus
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-i-moellestien@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261128T160000
 SUMMARY:Julemarked i Møllestien
@@ -3188,7 +3195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-i-elvaerket-aabyhoej@aarhus-k
  alender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261129T160000
 SUMMARY:Julemarked i Elværket Åbyhøj
@@ -3199,7 +3206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-helligaandskirkens-julemarked@aarhus-kal
  ender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261128T160000
 SUMMARY:Helligåndskirkens Julemarked
@@ -3210,7 +3217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-det-groenne-museum-gammel-est
  rup@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261129T160000
 SUMMARY:Julemarked på Det Grønne Museum ved Gammel Estrup
@@ -3220,8 +3227,8 @@ URL:https://aarhusinside.dk/event/julemarked-det-groenne-museum-gammel-estr
  up/
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878703@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:dokk1-2878704@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261128T104000
 SUMMARY:Hvor er Europa på vej hen? – med Derek Beach og Anne Ingemann Jo
@@ -3229,11 +3236,11 @@ SUMMARY:Hvor er Europa på vej hen? – med Derek Beach og Anne Ingemann Jo
 LOCATION:Dokk1
 CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/hvor-er-europa-paa-vej-hen-med-derek-beach-og
- -anne-ingemann-johansen
+ -anne-ingemann-johansen-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877824@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T103000
 DTEND;TZID=Europe/Copenhagen:20261128T110000
 SUMMARY:Eventyrlige fortællinger for børn
@@ -3243,7 +3250,7 @@ URL:https://dokk1.dk/det-sker/eventyrlige-fortaellinger-boern-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878705@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T110000
 DTEND;TZID=Europe/Copenhagen:20261128T114000
 SUMMARY:Kunsten at tænke i mørke tider – med Anna Cornelia Ploug og Nan
@@ -3255,7 +3262,7 @@ URL:https://dokk1.dk/det-sker/kunsten-taenke-i-moerke-tider-med-anna-cornel
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877825@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T113000
 DTEND;TZID=Europe/Copenhagen:20261128T120000
 SUMMARY:Eventyrlige fortællinger for børn
@@ -3264,20 +3271,8 @@ CATEGORIES:Familie & Børn\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/eventyrlige-fortaellinger-boern-2
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878710@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261128T120000
-DTEND;TZID=Europe/Copenhagen:20261128T124000
-SUMMARY:Åndelig oprustning for et robust Europa? – med Søren Fauth og J
- ens Erik Kristensen
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/aandelig-oprustning-et-robust-europa-med-soer
- en-fauth-og-jens-erik-kristensen
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878279@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T120000
 DTEND;TZID=Europe/Copenhagen:20261128T150000
 SUMMARY:Åbent Lab
@@ -3286,8 +3281,20 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/aabent-lab-49
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878700@aarhus-kalender
-DTSTAMP:20261027T195418Z
+UID:dokk1-2878711@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261128T120000
+DTEND;TZID=Europe/Copenhagen:20261128T124000
+SUMMARY:Åndelig oprustning for et robust Europa? – med Søren Fauth og J
+ ens Erik Kristensen
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/aandelig-oprustning-et-robust-europa-med-soer
+ en-fauth-og-jens-erik-kristensen-0
+END:VEVENT
+BEGIN:VEVENT
+UID:dokk1-2878701@aarhus-kalender
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T130000
 DTEND;TZID=Europe/Copenhagen:20261128T134000
 SUMMARY:Dét skal du vide om Europas historie – med Asser Amdisen og Jør
@@ -3295,11 +3302,11 @@ SUMMARY:Dét skal du vide om Europas historie – med Asser Amdisen og Jør
 LOCATION:Dokk1
 CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/det-skal-du-vide-om-europas-historie-med-asse
- r-amdisen-og-joergen-moeller-0
+ r-amdisen-og-joergen-moeller
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878708@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T140000
 DTEND;TZID=Europe/Copenhagen:20261128T144000
 SUMMARY:Kvindernes moderne gennembrud i Europas kunst – med Sara Alfort o
@@ -3311,7 +3318,7 @@ URL:https://dokk1.dk/det-sker/kvindernes-moderne-gennembrud-i-europas-kunst
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878698@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T150000
 DTEND;TZID=Europe/Copenhagen:20261128T155000
 SUMMARY:Den franske revolution og det moderne Europa – med Bertel Nygaard
@@ -3323,7 +3330,7 @@ URL:https://dokk1.dk/det-sker/den-franske-revolution-og-det-moderne-europa-
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878714@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T161500
 DTEND;TZID=Europe/Copenhagen:20261128T170000
 SUMMARY:Udsolgt: Europas store skønlitterære værker – med Søren Ulrik
@@ -3335,7 +3342,7 @@ URL:https://dokk1.dk/det-sker/udsolgt-europas-store-skoenlitteraere-vaerker
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878702@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261128T161500
 DTEND;TZID=Europe/Copenhagen:20261128T170000
 SUMMARY:Europas store skønlitterære værker – med Søren Ulrik Thomsen 
@@ -3347,7 +3354,7 @@ URL:https://dokk1.dk/det-sker/europas-store-skoenlitteraere-vaerker-med-soe
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878152@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261130T130000
 DTEND;TZID=Europe/Copenhagen:20261130T150000
 SUMMARY:Skriveværksted på Dokk1 - tekst til tiden
@@ -3357,7 +3364,7 @@ URL:https://dokk1.dk/det-sker/skrivevaerksted-paa-dokk1-tekst-til-tiden-15
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878107@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261130T140000
 DTEND;TZID=Europe/Copenhagen:20261130T160000
 SUMMARY:Robottimen
@@ -3367,7 +3374,7 @@ URL:https://dokk1.dk/det-sker/robottimen-22
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877864@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261130T160000
 DTEND;TZID=Europe/Copenhagen:20261130T180000
 SUMMARY:Frøbibliotek
@@ -3377,7 +3384,7 @@ URL:https://dokk1.dk/det-sker/froebibliotek-21
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878630@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261130T160000
 DTEND;TZID=Europe/Copenhagen:20261130T180000
 SUMMARY:Planteværksted - frø som gaver
@@ -3387,7 +3394,7 @@ URL:https://dokk1.dk/det-sker/plantevaerksted-froe-som-gaver-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878555@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261130T160000
 DTEND;TZID=Europe/Copenhagen:20261130T180000
 SUMMARY:Fermenteringsværksted
@@ -3397,7 +3404,7 @@ URL:https://dokk1.dk/det-sker/fermenteringsvaerksted-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877721@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261130T190000
 DTEND;TZID=Europe/Copenhagen:20261130T210000
 SUMMARY:Bliv klogere på dig selv som læser
@@ -3407,7 +3414,7 @@ URL:https://dokk1.dk/det-sker/bliv-klogere-paa-dig-selv-som-laeser
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878245@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261130T190000
 DTEND;TZID=Europe/Copenhagen:20261130T210000
 SUMMARY:Trine Hjorth Bønnerup: Kend dig selv - og bliv en bedre partner
@@ -3417,18 +3424,8 @@ URL:https://dokk1.dk/det-sker/trine-hjorth-boennerup-kend-dig-selv-og-bliv-
  en-bedre-partner
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878164@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261201T130000
-DTEND;TZID=Europe/Copenhagen:20261201T150000
-SUMMARY:Spis-dyrk-skab-Lab
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/spisdyrkskablab-10
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878562@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261201T130000
 DTEND;TZID=Europe/Copenhagen:20261201T150000
 SUMMARY:Åben Spire - tirsdag
@@ -3437,8 +3434,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-5
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878164@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261201T130000
+DTEND;TZID=Europe/Copenhagen:20261201T150000
+SUMMARY:Spis-dyrk-skab-Lab
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/spisdyrkskablab-10
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2877928@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261201T160000
 DTEND;TZID=Europe/Copenhagen:20261201T173000
 SUMMARY:KREAværksted
@@ -3448,7 +3455,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-30
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878197@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261201T161500
 DTEND;TZID=Europe/Copenhagen:20261201T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -3458,7 +3465,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-61
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877850@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261201T180000
 DTEND;TZID=Europe/Copenhagen:20261201T210000
 SUMMARY:Filosofisk filmsalon #16: Chris Marker
@@ -3468,7 +3475,7 @@ URL:https://dokk1.dk/det-sker/filosofisk-filmsalon-16-chris-marker
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878232@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261201T180000
 DTEND;TZID=Europe/Copenhagen:20261201T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -3478,7 +3485,7 @@ URL:https://dokk1.dk/det-sker/fantasy-fellowship-chapter-2-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877710@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261201T190000
 DTEND;TZID=Europe/Copenhagen:20261201T210000
 SUMMARY:Anna Libak: Putins verden
@@ -3488,7 +3495,7 @@ URL:https://dokk1.dk/det-sker/anna-libak-putins-verden
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878067@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261202T093000
 DTEND;TZID=Europe/Copenhagen:20261202T120000
 SUMMARY:Papirværkstedet
@@ -3498,7 +3505,7 @@ URL:https://dokk1.dk/det-sker/papirvaerkstedet-59
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875548@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261202T100000
 DTEND;TZID=Europe/Copenhagen:20261202T120000
 SUMMARY:AppsCafé
@@ -3508,7 +3515,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878414@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261202T140000
 DTEND;TZID=Europe/Copenhagen:20261202T163000
 SUMMARY:Strikkehækleklub
@@ -3518,7 +3525,7 @@ URL:https://dokk1.dk/det-sker/strikkehaekleklub-8
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878361@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261202T140000
 DTEND;TZID=Europe/Copenhagen:20261202T180000
 SUMMARY:Åbent syværksted
@@ -3528,7 +3535,7 @@ URL:https://dokk1.dk/det-sker/aabent-syvaerksted-22
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878114@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261202T150000
 DTEND;TZID=Europe/Copenhagen:20261202T161500
 SUMMARY:Rundvisning på Dokk1
@@ -3538,7 +3545,7 @@ URL:https://dokk1.dk/det-sker/rundvisning-paa-dokk1-5
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878276@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261202T150000
 DTEND;TZID=Europe/Copenhagen:20261202T180000
 SUMMARY:Åbent Lab
@@ -3548,7 +3555,7 @@ URL:https://dokk1.dk/det-sker/aabent-lab-42
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877951@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261202T160000
 DTEND;TZID=Europe/Copenhagen:20261202T173000
 SUMMARY:KREAværksted
@@ -3558,7 +3565,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-48
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878253@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261202T160000
 DTEND;TZID=Europe/Copenhagen:20261202T200000
 SUMMARY:Ubuntu Aarhus
@@ -3568,7 +3575,7 @@ URL:https://dokk1.dk/det-sker/ubuntu-aarhus-5
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261202-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261202T180000
 DTEND;TZID=Europe/Copenhagen:20261202T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -3578,7 +3585,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261202-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261202T180000
 DTEND;TZID=Europe/Copenhagen:20261202T194000
 SUMMARY:Hopning for Quinder
@@ -3588,7 +3595,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878514@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261203T100000
 DTEND;TZID=Europe/Copenhagen:20261203T113000
 SUMMARY:Åben Spire - torsdag
@@ -3598,7 +3605,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875549@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261203T100000
 DTEND;TZID=Europe/Copenhagen:20261203T120000
 SUMMARY:AppsCafé
@@ -3608,7 +3615,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878744@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261203T113000
 DTEND;TZID=Europe/Copenhagen:20261203T123000
 SUMMARY:Billig bælgfrokost
@@ -3618,7 +3625,7 @@ URL:https://dokk1.dk/det-sker/billig-baelgfrokost-14
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877840@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261203T120000
 DTEND;TZID=Europe/Copenhagen:20261203T143000
 SUMMARY:Fars legestue
@@ -3627,18 +3634,8 @@ CATEGORIES:Familie & Børn\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/fars-legestue-32
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877775@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261203T160000
-DTEND;TZID=Europe/Copenhagen:20261203T173000
-SUMMARY:Digital Leg for Børn og Familier
-LOCATION:Dokk1
-CATEGORIES:Familie & Børn\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-25
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878021@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261203T160000
 DTEND;TZID=Europe/Copenhagen:20261203T180000
 SUMMARY:Matematikcafe
@@ -3647,8 +3644,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/matematikcafe-23
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877775@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261203T160000
+DTEND;TZID=Europe/Copenhagen:20261203T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-25
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878205@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261203T161500
 DTEND;TZID=Europe/Copenhagen:20261203T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -3658,7 +3665,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-70
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878313@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261203T163000
 DTEND;TZID=Europe/Copenhagen:20261203T180000
 SUMMARY:Åbent Medieværksted i IRIS Lab
@@ -3668,7 +3675,7 @@ URL:https://dokk1.dk/det-sker/aabent-medievaerksted-i-iris-lab-7
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878035@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261203T190000
 DTEND;TZID=Europe/Copenhagen:20261203T210000
 SUMMARY:Mavero - vejen til en bedre fordøjelse
@@ -3678,7 +3685,7 @@ URL:https://dokk1.dk/det-sker/mavero-vejen-til-en-bedre-fordoejelse
 END:VEVENT
 BEGIN:VEVENT
 UID:va-68e83640-a9c9-417f-98f7-ca59c8e3f173-0@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261207
 SUMMARY:Arkitektskolens Julemarked
@@ -3688,18 +3695,8 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/arkitektskole
  ns-julemarked-gdk1095276
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878139@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261204T100000
-DTEND;TZID=Europe/Copenhagen:20261204T120000
-SUMMARY:Skak på Altanen
-LOCATION:Dokk1
-CATEGORIES:Kunst\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/skak-paa-altanen-43
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878552@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261204T100000
 DTEND;TZID=Europe/Copenhagen:20261204T114500
 SUMMARY:Barselskor & Babyrytmik på DOKK1 / Den Kreative Skole Aarhus
@@ -3709,9 +3706,19 @@ URL:https://dokk1.dk/det-sker/barselskor-babyrytmik-paa-dokk1-den-kreative-
  skole-aarhus-0
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878139@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261204T100000
+DTEND;TZID=Europe/Copenhagen:20261204T120000
+SUMMARY:Skak på Altanen
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/skak-paa-altanen-43
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-aarets-frivilligfest-i-tivoli-friheden@a
  arhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261204T150000
 DTEND;TZID=Europe/Copenhagen:20261204T210000
 SUMMARY:Årets Frivilligfest i Tivoli Friheden
@@ -3721,7 +3728,7 @@ URL:https://aarhusinside.dk/event/aarets-frivilligfest-i-tivoli-friheden/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-foto-julemarked@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Analogt portræt til Godsbanens julemarked
@@ -3731,7 +3738,7 @@ URL:https://godsbanen.dk/kalender/foto-julemarked/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-godsbanens-julemarked-2026@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Godsbanens Julemarked 2026
@@ -3741,7 +3748,7 @@ URL:https://godsbanen.dk/kalender/godsbanens-julemarked-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878510@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261205T103000
 DTEND;TZID=Europe/Copenhagen:20261205T113000
 SUMMARY:Tulle og Skralle i nissernes land (2-4 år)
@@ -3751,7 +3758,7 @@ URL:https://dokk1.dk/det-sker/tulle-og-skralle-i-nissernes-land-24-aar-0
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-godsbanens-julemarked@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261205T110000
 DTEND;TZID=Europe/Copenhagen:20261206T170000
 SUMMARY:Godsbanens julemarked
@@ -3761,7 +3768,7 @@ URL:https://aarhusinside.dk/event/godsbanens-julemarked/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878178@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261205T130000
 DTEND;TZID=Europe/Copenhagen:20261205T160000
 SUMMARY:Strikkecafé på Dokk1
@@ -3771,7 +3778,7 @@ URL:https://dokk1.dk/det-sker/strikkecafe-paa-dokk1-4
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878679@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20270118
 SUMMARY:Kalk - en fortælling om et misforstået mineral
@@ -3782,7 +3789,7 @@ URL:https://dokk1.dk/det-sker/kalk-en-fortaelling-om-et-misforstaaet-minera
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878646@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261206T110000
 DTEND;TZID=Europe/Copenhagen:20261206T140000
 SUMMARY:Julepynt v. Capuzzi Studio
@@ -3792,7 +3799,7 @@ URL:https://dokk1.dk/det-sker/julepynt-v-capuzzi-studio
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878223@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261206T140000
 DTEND;TZID=Europe/Copenhagen:20261206T155000
 SUMMARY:Søndagsfilm
@@ -3802,7 +3809,7 @@ URL:https://dokk1.dk/det-sker/soendagsfilm-3
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878146@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261207T130000
 DTEND;TZID=Europe/Copenhagen:20261207T150000
 SUMMARY:Skriveværksted på Dokk1 - tekst til tiden
@@ -3811,18 +3818,8 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/skrivevaerksted-paa-dokk1-tekst-til-tiden-7
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877867@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261207T160000
-DTEND;TZID=Europe/Copenhagen:20261207T180000
-SUMMARY:Frøbibliotek
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/froebibliotek-24
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878635@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261207T160000
 DTEND;TZID=Europe/Copenhagen:20261207T180000
 SUMMARY:Planteværksted - korn
@@ -3831,8 +3828,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/plantevaerksted-korn-0
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877867@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261207T160000
+DTEND;TZID=Europe/Copenhagen:20261207T180000
+SUMMARY:Frøbibliotek
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/froebibliotek-24
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878481@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261207T170000
 DTEND;TZID=Europe/Copenhagen:20261207T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -3841,18 +3848,8 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt-0
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878171@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261208T130000
-DTEND;TZID=Europe/Copenhagen:20261208T160000
-SUMMARY:Spørgehjørne for slægtsforskere
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/spoergehjoerne-slaegtsforskere-5
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878168@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261208T130000
 DTEND;TZID=Europe/Copenhagen:20261208T150000
 SUMMARY:Spis-dyrk-skab-Lab
@@ -3862,7 +3859,7 @@ URL:https://dokk1.dk/det-sker/spisdyrkskablab-14
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878560@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261208T130000
 DTEND;TZID=Europe/Copenhagen:20261208T150000
 SUMMARY:Åben Spire - tirsdag
@@ -3871,8 +3868,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-3
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878171@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261208T130000
+DTEND;TZID=Europe/Copenhagen:20261208T160000
+SUMMARY:Spørgehjørne for slægtsforskere
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/spoergehjoerne-slaegtsforskere-5
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2877937@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261208T160000
 DTEND;TZID=Europe/Copenhagen:20261208T173000
 SUMMARY:KREAværksted
@@ -3882,7 +3889,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-31
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878198@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261208T161500
 DTEND;TZID=Europe/Copenhagen:20261208T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -3892,7 +3899,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-62
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878098@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261208T163000
 DTEND;TZID=Europe/Copenhagen:20261208T190000
 SUMMARY:Repair Cafe
@@ -3902,7 +3909,7 @@ URL:https://dokk1.dk/det-sker/repair-cafe-18
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877828@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261208T170000
 DTEND;TZID=Europe/Copenhagen:20261208T180000
 SUMMARY:Faglitterær læseklub FULDT BOOKET
@@ -3912,7 +3919,7 @@ URL:https://dokk1.dk/det-sker/faglitteraer-laeseklub-fuldt-booket-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877711@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261208T190000
 DTEND;TZID=Europe/Copenhagen:20261208T210000
 SUMMARY:Annie Ernaux – at skrive tidens gang
@@ -3922,7 +3929,7 @@ URL:https://dokk1.dk/det-sker/annie-ernaux-skrive-tidens-gang
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878222@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261208T190000
 DTEND;TZID=Europe/Copenhagen:20261208T210000
 SUMMARY:Svend Brinkmann: Meningen med det hele
@@ -3932,7 +3939,7 @@ URL:https://dokk1.dk/det-sker/svend-brinkmann-meningen-med-det-hele
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878073@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261209T093000
 DTEND;TZID=Europe/Copenhagen:20261209T120000
 SUMMARY:Papirværkstedet
@@ -3942,7 +3949,7 @@ URL:https://dokk1.dk/det-sker/papirvaerkstedet-65
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875550@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261209T100000
 DTEND;TZID=Europe/Copenhagen:20261209T120000
 SUMMARY:AppsCafé
@@ -3952,7 +3959,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878210@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261209T140000
 DTEND;TZID=Europe/Copenhagen:20261209T160000
 SUMMARY:Studiestøtte til studerende
@@ -3962,7 +3969,7 @@ URL:https://dokk1.dk/det-sker/studiestoette-til-studerende-8
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878362@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261209T140000
 DTEND;TZID=Europe/Copenhagen:20261209T180000
 SUMMARY:Åbent syværksted
@@ -3972,7 +3979,7 @@ URL:https://dokk1.dk/det-sker/aabent-syvaerksted-23
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878271@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261209T150000
 DTEND;TZID=Europe/Copenhagen:20261209T180000
 SUMMARY:Åbent Lab
@@ -3982,7 +3989,7 @@ URL:https://dokk1.dk/det-sker/aabent-lab-33
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877970@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261209T160000
 DTEND;TZID=Europe/Copenhagen:20261209T173000
 SUMMARY:KREAværksted
@@ -3992,7 +3999,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-67
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877737@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261209T170000
 DTEND;TZID=Europe/Copenhagen:20261209T190000
 SUMMARY:DIY drop-in
@@ -4002,7 +4009,7 @@ URL:https://dokk1.dk/det-sker/diy-dropin-21
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261209-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261209T180000
 DTEND;TZID=Europe/Copenhagen:20261209T194000
 SUMMARY:Hopning for Quinder
@@ -4012,7 +4019,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877754@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261209T190000
 DTEND;TZID=Europe/Copenhagen:20261209T210000
 SUMMARY:Den litterære filosofi #4: Simone Weil
@@ -4022,7 +4029,7 @@ URL:https://dokk1.dk/det-sker/den-litteraere-filosofi-4-simone-weil
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878515@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261210T100000
 DTEND;TZID=Europe/Copenhagen:20261210T113000
 SUMMARY:Åben Spire - torsdag
@@ -4032,7 +4039,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875551@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261210T100000
 DTEND;TZID=Europe/Copenhagen:20261210T120000
 SUMMARY:AppsCafé
@@ -4042,7 +4049,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877837@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261210T120000
 DTEND;TZID=Europe/Copenhagen:20261210T143000
 SUMMARY:Fars legestue
@@ -4051,18 +4058,8 @@ CATEGORIES:Familie & Børn\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/fars-legestue-29
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877781@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261210T160000
-DTEND;TZID=Europe/Copenhagen:20261210T173000
-SUMMARY:Digital Leg for Børn og Familier
-LOCATION:Dokk1
-CATEGORIES:Familie & Børn\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-27
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878031@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261210T160000
 DTEND;TZID=Europe/Copenhagen:20261210T180000
 SUMMARY:Matematikcafe
@@ -4071,8 +4068,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/matematikcafe-37
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877781@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261210T160000
+DTEND;TZID=Europe/Copenhagen:20261210T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-27
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878189@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261210T161500
 DTEND;TZID=Europe/Copenhagen:20261210T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -4082,7 +4089,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-58
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878535@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261210T163000
 DTEND;TZID=Europe/Copenhagen:20261210T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
@@ -4092,7 +4099,7 @@ URL:https://dokk1.dk/det-sker/udsolgt-dr-romanklub-paa-dokk1-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878477@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261210T173000
 DTEND;TZID=Europe/Copenhagen:20261210T190000
 SUMMARY:Mahjongklubben på Dokk1
@@ -4102,7 +4109,7 @@ URL:https://dokk1.dk/det-sker/mahjongklubben-paa-dokk1-3
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877820@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261210T193000
 DTEND;TZID=Europe/Copenhagen:20261210T203000
 SUMMARY:Ellen Hillingsø: Nattergalen
@@ -4112,7 +4119,7 @@ URL:https://dokk1.dk/det-sker/ellen-hillingsoe-nattergalen
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878133@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261211T100000
 DTEND;TZID=Europe/Copenhagen:20261211T120000
 SUMMARY:Skak på Altanen
@@ -4122,7 +4129,7 @@ URL:https://dokk1.dk/det-sker/skak-paa-altanen-39
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-rishoejgaards-julemarked@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261212T100000
 DTEND;TZID=Europe/Copenhagen:20261212T160000
 SUMMARY:Rishøjgaards Julemarked
@@ -4133,7 +4140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-i-kulturhus-bunkeren@aarhus-k
  alender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261212T100000
 DTEND;TZID=Europe/Copenhagen:20261213T170000
 SUMMARY:Julemarked i Kulturhus Bunkeren
@@ -4143,7 +4150,7 @@ URL:https://aarhusinside.dk/event/julemarked-i-kulturhus-bunkeren/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878044@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261212T103000
 DTEND;TZID=Europe/Copenhagen:20261212T110000
 SUMMARY:Musikskolens fløjtekoncert
@@ -4154,7 +4161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julemarked-paa-hjerteland@aarhus-kalende
  r
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261212T130000
 DTEND;TZID=Europe/Copenhagen:20261212T170000
 SUMMARY:Julemarked på Hjerteland
@@ -4165,7 +4172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julekoersel-i-modelparken-danmark@aarhus
  -kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261212T130000
 DTEND;TZID=Europe/Copenhagen:20261213T170000
 SUMMARY:Julekørsel i Modelparken Danmark
@@ -4175,7 +4182,7 @@ URL:https://aarhusinside.dk/event/julekoersel-i-modelparken-danmark/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-ef3803c5-659d-4737-ae27-cb4f5af03e51-0@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Luciaoptog gennem Aarhus med ReThinkers
@@ -4186,7 +4193,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/luciaoptog-ge
 END:VEVENT
 BEGIN:VEVENT
 UID:va-9e82afba-fa3a-45d7-89fd-cfb2a724f6e2-0@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Luciaoptog i kajak
@@ -4197,7 +4204,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/luciaoptog-i-
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-rethinkers-luciaoptog@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261213T160000
 DTEND;TZID=Europe/Copenhagen:20261213T180000
 SUMMARY:ReThinkers Luciaoptog
@@ -4207,7 +4214,7 @@ URL:https://aarhusinside.dk/event/rethinkers-luciaoptog/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-lucia-i-kajak@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261213T180000
 DTEND;TZID=Europe/Copenhagen:20261213T193000
 SUMMARY:Lucia i Kajak
@@ -4217,7 +4224,7 @@ URL:https://aarhusinside.dk/event/lucia-i-kajak/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878147@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261214T130000
 DTEND;TZID=Europe/Copenhagen:20261214T150000
 SUMMARY:Skriveværksted på Dokk1 - tekst til tiden
@@ -4226,18 +4233,8 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/skrivevaerksted-paa-dokk1-tekst-til-tiden-6
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878554@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20261214T160000
-DTEND;TZID=Europe/Copenhagen:20261214T180000
-SUMMARY:Fermenteringsværksted
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/fermenteringsvaerksted-0
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2877869@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261214T160000
 DTEND;TZID=Europe/Copenhagen:20261214T180000
 SUMMARY:Frøbibliotek
@@ -4247,7 +4244,7 @@ URL:https://dokk1.dk/det-sker/froebibliotek-29
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878634@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261214T160000
 DTEND;TZID=Europe/Copenhagen:20261214T180000
 SUMMARY:Planteværksted - korn
@@ -4256,8 +4253,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/plantevaerksted-korn
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878554@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20261214T160000
+DTEND;TZID=Europe/Copenhagen:20261214T180000
+SUMMARY:Fermenteringsværksted
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/fermenteringsvaerksted-0
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2877874@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261214T163000
 DTEND;TZID=Europe/Copenhagen:20261214T180000
 SUMMARY:Fully booked! English Book Clubs at Dokk1
@@ -4267,7 +4274,7 @@ URL:https://dokk1.dk/det-sker/fully-booked-english-book-clubs-dokk1-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878165@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261215T130000
 DTEND;TZID=Europe/Copenhagen:20261215T150000
 SUMMARY:Spis-dyrk-skab-Lab
@@ -4277,7 +4284,7 @@ URL:https://dokk1.dk/det-sker/spisdyrkskablab-11
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878558@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261215T130000
 DTEND;TZID=Europe/Copenhagen:20261215T150000
 SUMMARY:Åben Spire - tirsdag
@@ -4287,7 +4294,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877938@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261215T160000
 DTEND;TZID=Europe/Copenhagen:20261215T173000
 SUMMARY:KREAværksted
@@ -4297,7 +4304,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-32
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878190@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261215T161500
 DTEND;TZID=Europe/Copenhagen:20261215T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -4307,7 +4314,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-57
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877877@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261215T163000
 DTEND;TZID=Europe/Copenhagen:20261215T180000
 SUMMARY:Fully booked! English Book Clubs at Dokk1
@@ -4317,7 +4324,7 @@ URL:https://dokk1.dk/det-sker/fully-booked-english-book-clubs-dokk1-5
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-sult@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Teater Carbon & III: EVIG SULT – ET COLLAGEVÆRK
@@ -4327,7 +4334,7 @@ URL:https://godsbanen.dk/kalender/sult/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878066@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261216T093000
 DTEND;TZID=Europe/Copenhagen:20261216T120000
 SUMMARY:Papirværkstedet
@@ -4337,7 +4344,7 @@ URL:https://dokk1.dk/det-sker/papirvaerkstedet-57
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875552@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261216T100000
 DTEND;TZID=Europe/Copenhagen:20261216T120000
 SUMMARY:AppsCafé
@@ -4347,7 +4354,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878763@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261216T140000
 DTEND;TZID=Europe/Copenhagen:20261216T160000
 SUMMARY:Ventemaskinen
@@ -4357,7 +4364,7 @@ URL:https://dokk1.dk/det-sker/ventemaskinen
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878355@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261216T140000
 DTEND;TZID=Europe/Copenhagen:20261216T180000
 SUMMARY:Åbent syværksted
@@ -4367,7 +4374,7 @@ URL:https://dokk1.dk/det-sker/aabent-syvaerksted-21
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878411@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261216T140000
 DTEND;TZID=Europe/Copenhagen:20261216T163000
 SUMMARY:Strikkehækleklub
@@ -4377,7 +4384,7 @@ URL:https://dokk1.dk/det-sker/strikkehaekleklub-5
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878272@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261216T150000
 DTEND;TZID=Europe/Copenhagen:20261216T180000
 SUMMARY:Åbent Lab
@@ -4387,7 +4394,7 @@ URL:https://dokk1.dk/det-sker/aabent-lab-34
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877917@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261216T160000
 DTEND;TZID=Europe/Copenhagen:20261216T173000
 SUMMARY:KREAværksted
@@ -4397,7 +4404,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-12
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20261216-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261216T180000
 DTEND;TZID=Europe/Copenhagen:20261216T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -4407,7 +4414,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261216-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261216T180000
 DTEND;TZID=Europe/Copenhagen:20261216T194000
 SUMMARY:Hopning for Quinder
@@ -4417,7 +4424,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878519@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261217T100000
 DTEND;TZID=Europe/Copenhagen:20261217T113000
 SUMMARY:Åben Spire - torsdag
@@ -4427,7 +4434,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-6
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875553@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261217T100000
 DTEND;TZID=Europe/Copenhagen:20261217T120000
 SUMMARY:AppsCafé
@@ -4437,7 +4444,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877841@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261217T120000
 DTEND;TZID=Europe/Copenhagen:20261217T143000
 SUMMARY:Fars legestue
@@ -4447,7 +4454,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-33
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877787@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261217T160000
 DTEND;TZID=Europe/Copenhagen:20261217T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -4457,7 +4464,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-37
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878032@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261217T160000
 DTEND;TZID=Europe/Copenhagen:20261217T180000
 SUMMARY:Matematikcafe
@@ -4467,7 +4474,7 @@ URL:https://dokk1.dk/det-sker/matematikcafe-38
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878206@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261217T161500
 DTEND;TZID=Europe/Copenhagen:20261217T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -4477,7 +4484,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-71
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878314@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261217T163000
 DTEND;TZID=Europe/Copenhagen:20261217T180000
 SUMMARY:Åbent Medieværksted i IRIS Lab
@@ -4487,7 +4494,7 @@ URL:https://dokk1.dk/det-sker/aabent-medievaerksted-i-iris-lab-8
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878128@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20261218T100000
 DTEND;TZID=Europe/Copenhagen:20261218T120000
 SUMMARY:Skak på Altanen
@@ -4497,7 +4504,7 @@ URL:https://dokk1.dk/det-sker/skak-paa-altanen-34
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878181@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270102T130000
 DTEND;TZID=Europe/Copenhagen:20270102T160000
 SUMMARY:Strikkecafé på Dokk1
@@ -4507,7 +4514,7 @@ URL:https://dokk1.dk/det-sker/strikkecafe-paa-dokk1-7
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877700@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270126
 SUMMARY:Aarhus dengang i 1960’erne - og nu
@@ -4517,7 +4524,7 @@ URL:https://dokk1.dk/det-sker/aarhus-dengang-i-1960erne-og-nu
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878482@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270104T170000
 DTEND;TZID=Europe/Copenhagen:20270104T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -4527,7 +4534,7 @@ URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877919@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270105T160000
 DTEND;TZID=Europe/Copenhagen:20270105T173000
 SUMMARY:KREAværksted
@@ -4537,7 +4544,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-11
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878235@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270105T180000
 DTEND;TZID=Europe/Copenhagen:20270105T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -4547,7 +4554,7 @@ URL:https://dokk1.dk/det-sker/fantasy-fellowship-chapter-2-13
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877920@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270106T160000
 DTEND;TZID=Europe/Copenhagen:20270106T173000
 SUMMARY:KREAværksted
@@ -4557,7 +4564,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-13
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270106-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270106T180000
 DTEND;TZID=Europe/Copenhagen:20270106T194000
 SUMMARY:Hopning for Quinder
@@ -4566,18 +4573,8 @@ CATEGORIES:Kunst\,Beboernes Hus\,Gratis
 URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877776@aarhus-kalender
-DTSTAMP:20261027T195418Z
-DTSTART;TZID=Europe/Copenhagen:20270107T160000
-DTEND;TZID=Europe/Copenhagen:20270107T173000
-SUMMARY:Digital Leg for Børn og Familier
-LOCATION:Dokk1
-CATEGORIES:Familie & Børn\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-28
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878023@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270107T160000
 DTEND;TZID=Europe/Copenhagen:20270107T180000
 SUMMARY:Matematikcafe
@@ -4586,8 +4583,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/matematikcafe-25
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877776@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;TZID=Europe/Copenhagen:20270107T160000
+DTEND;TZID=Europe/Copenhagen:20270107T173000
+SUMMARY:Digital Leg for Børn og Familier
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-28
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878125@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270108T100000
 DTEND;TZID=Europe/Copenhagen:20270108T120000
 SUMMARY:Skak på Altanen
@@ -4597,7 +4604,7 @@ URL:https://dokk1.dk/det-sker/skak-paa-altanen-29
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878688@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270109T110000
 DTEND;TZID=Europe/Copenhagen:20270109T120000
 SUMMARY:Robotten Ibber - Katrine Bille
@@ -4607,7 +4614,7 @@ URL:https://dokk1.dk/det-sker/robotten-ibber-katrine-bille
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877921@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270112T160000
 DTEND;TZID=Europe/Copenhagen:20270112T173000
 SUMMARY:KREAværksted
@@ -4617,7 +4624,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-16
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877979@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270113T160000
 DTEND;TZID=Europe/Copenhagen:20270113T173000
 SUMMARY:KREAværksted
@@ -4627,7 +4634,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-76
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270113-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270113T180000
 DTEND;TZID=Europe/Copenhagen:20270113T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -4637,7 +4644,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270113-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270113T180000
 DTEND;TZID=Europe/Copenhagen:20270113T194000
 SUMMARY:Hopning for Quinder
@@ -4647,7 +4654,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877788@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270114T160000
 DTEND;TZID=Europe/Copenhagen:20270114T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -4657,7 +4664,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-36
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878207@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270114T161500
 DTEND;TZID=Europe/Copenhagen:20270114T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -4667,7 +4674,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-72
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878533@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270114T163000
 DTEND;TZID=Europe/Copenhagen:20270114T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
@@ -4677,7 +4684,7 @@ URL:https://dokk1.dk/det-sker/udsolgt-dr-romanklub-paa-dokk1-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878137@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270115T100000
 DTEND;TZID=Europe/Copenhagen:20270115T120000
 SUMMARY:Skak på Altanen
@@ -4688,7 +4695,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-bryan-bielanski-paa-fairbar@aarhus-kalen
  der
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270116T200000
 DTEND;TZID=Europe/Copenhagen:20270116T213000
 SUMMARY:Bryan Bielanski på Fairbar
@@ -4698,7 +4705,7 @@ URL:https://aarhusinside.dk/event/bryan-bielanski-paa-fairbar/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878154@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270118T090000
 DTEND;TZID=Europe/Copenhagen:20270118T101500
 SUMMARY:Små væsner\, store eventyr
@@ -4708,7 +4715,7 @@ URL:https://dokk1.dk/det-sker/smaa-vaesner-store-eventyr
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877690@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270118T120000
 DTEND;TZID=Europe/Copenhagen:20270118T134500
 SUMMARY:A Fox Under a Pink Moon
@@ -4718,7 +4725,7 @@ URL:https://dokk1.dk/det-sker/fox-under-pink-moon
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877971@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270119T160000
 DTEND;TZID=Europe/Copenhagen:20270119T173000
 SUMMARY:KREAværksted
@@ -4728,7 +4735,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-68
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877983@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270120T160000
 DTEND;TZID=Europe/Copenhagen:20270120T173000
 SUMMARY:KREAværksted
@@ -4738,7 +4745,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-78
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270120-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270120T180000
 DTEND;TZID=Europe/Copenhagen:20270120T194000
 SUMMARY:Hopning for Quinder
@@ -4748,7 +4755,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877801@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270121T160000
 DTEND;TZID=Europe/Copenhagen:20270121T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -4758,7 +4765,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-45
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878136@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270122T100000
 DTEND;TZID=Europe/Copenhagen:20270122T120000
 SUMMARY:Skak på Altanen
@@ -4768,7 +4775,7 @@ URL:https://dokk1.dk/det-sker/skak-paa-altanen-42
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877953@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270126T160000
 DTEND;TZID=Europe/Copenhagen:20270126T173000
 SUMMARY:KREAværksted
@@ -4778,7 +4785,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-51
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877960@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270127T160000
 DTEND;TZID=Europe/Copenhagen:20270127T173000
 SUMMARY:KREAværksted
@@ -4788,7 +4795,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-49
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270127-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270127T180000
 DTEND;TZID=Europe/Copenhagen:20270127T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -4798,7 +4805,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270127-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270127T180000
 DTEND;TZID=Europe/Copenhagen:20270127T194000
 SUMMARY:Hopning for Quinder
@@ -4808,7 +4815,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878285@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270128T100000
 DTEND;TZID=Europe/Copenhagen:20270128T130000
 SUMMARY:Åbningsceremoni Science Comes to Aarhus
@@ -4818,7 +4825,7 @@ URL:https://dokk1.dk/det-sker/aabningsceremoni-science-comes-aarhus
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877802@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270128T160000
 DTEND;TZID=Europe/Copenhagen:20270128T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -4828,7 +4835,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-44
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878138@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270129T100000
 DTEND;TZID=Europe/Copenhagen:20270129T120000
 SUMMARY:Skak på Altanen
@@ -4838,7 +4845,7 @@ URL:https://dokk1.dk/det-sker/skak-paa-altanen-45
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877972@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270202T160000
 DTEND;TZID=Europe/Copenhagen:20270202T173000
 SUMMARY:KREAværksted
@@ -4848,7 +4855,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-69
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878243@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270202T180000
 DTEND;TZID=Europe/Copenhagen:20270202T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -4858,7 +4865,7 @@ URL:https://dokk1.dk/det-sker/fantasy-fellowship-chapter-2-21
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878450@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270203T150000
 DTEND;TZID=Europe/Copenhagen:20270203T161500
 SUMMARY:Rundvisning på Dokk1
@@ -4868,7 +4875,7 @@ URL:https://dokk1.dk/det-sker/rundvisning-paa-dokk1-8
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877922@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270203T160000
 DTEND;TZID=Europe/Copenhagen:20270203T173000
 SUMMARY:KREAværksted
@@ -4878,7 +4885,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-14
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270203-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270203T180000
 DTEND;TZID=Europe/Copenhagen:20270203T194000
 SUMMARY:Hopning for Quinder
@@ -4888,7 +4895,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877803@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270204T160000
 DTEND;TZID=Europe/Copenhagen:20270204T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -4898,7 +4905,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-47
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878756@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270305
 SUMMARY:Mysteriet Jørgen – Genopstandelsen
@@ -4907,8 +4914,18 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/mysteriet-joergen-genopstandelsen
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877734@aarhus-kalender
+DTSTAMP:20261028T034154Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270222
+SUMMARY:Crowdfunding
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/crowdfunding
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878485@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270208T170000
 DTEND;TZID=Europe/Copenhagen:20270208T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -4918,7 +4935,7 @@ URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt-4
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878757@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270208T190000
 DTEND;TZID=Europe/Copenhagen:20270208T210000
 SUMMARY:Talk: Mysteriet Jørgen - Genopstandelsen
@@ -4928,7 +4945,7 @@ URL:https://dokk1.dk/det-sker/talk-mysteriet-joergen-genopstandelsen
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877940@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270209T160000
 DTEND;TZID=Europe/Copenhagen:20270209T173000
 SUMMARY:KREAværksted
@@ -4938,7 +4955,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-34
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877923@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270210T160000
 DTEND;TZID=Europe/Copenhagen:20270210T173000
 SUMMARY:KREAværksted
@@ -4948,7 +4965,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-17
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270210-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270210T180000
 DTEND;TZID=Europe/Copenhagen:20270210T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -4958,7 +4975,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270210-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270210T180000
 DTEND;TZID=Europe/Copenhagen:20270210T194000
 SUMMARY:Hopning for Quinder
@@ -4968,7 +4985,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877794@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270211T160000
 DTEND;TZID=Europe/Copenhagen:20270211T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -4978,7 +4995,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-48
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878536@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270211T163000
 DTEND;TZID=Europe/Copenhagen:20270211T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
@@ -4988,7 +5005,7 @@ URL:https://dokk1.dk/det-sker/udsolgt-dr-romanklub-paa-dokk1-3
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270217-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270217T180000
 DTEND;TZID=Europe/Copenhagen:20270217T194000
 SUMMARY:Hopning for Quinder
@@ -4998,7 +5015,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877941@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270223T160000
 DTEND;TZID=Europe/Copenhagen:20270223T173000
 SUMMARY:KREAværksted
@@ -5008,7 +5025,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-35
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877973@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270224T160000
 DTEND;TZID=Europe/Copenhagen:20270224T173000
 SUMMARY:KREAværksted
@@ -5018,7 +5035,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-70
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270224-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270224T180000
 DTEND;TZID=Europe/Copenhagen:20270224T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -5028,7 +5045,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270224-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270224T180000
 DTEND;TZID=Europe/Copenhagen:20270224T194000
 SUMMARY:Hopning for Quinder
@@ -5038,7 +5055,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-15692aaa-103d-44a2-9441-a18140e874a0-0@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270228
 SUMMARY:U-days i Aarhus
@@ -5049,7 +5066,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/u-days-i-aarh
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877777@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270225T160000
 DTEND;TZID=Europe/Copenhagen:20270225T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -5059,7 +5076,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-26
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878480@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270301T170000
 DTEND;TZID=Europe/Copenhagen:20270301T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -5069,7 +5086,7 @@ URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877910@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270302T160000
 DTEND;TZID=Europe/Copenhagen:20270302T173000
 SUMMARY:KREAværksted
@@ -5079,7 +5096,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-19
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878240@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270302T180000
 DTEND;TZID=Europe/Copenhagen:20270302T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -5089,7 +5106,7 @@ URL:https://dokk1.dk/det-sker/fantasy-fellowship-chapter-2-16
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878451@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270303T150000
 DTEND;TZID=Europe/Copenhagen:20270303T161500
 SUMMARY:Rundvisning på Dokk1
@@ -5099,7 +5116,7 @@ URL:https://dokk1.dk/det-sker/rundvisning-paa-dokk1-9
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877961@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270303T160000
 DTEND;TZID=Europe/Copenhagen:20270303T173000
 SUMMARY:KREAværksted
@@ -5109,7 +5126,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-53
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270303-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270303T180000
 DTEND;TZID=Europe/Copenhagen:20270303T194000
 SUMMARY:Hopning for Quinder
@@ -5119,7 +5136,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877795@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270304T160000
 DTEND;TZID=Europe/Copenhagen:20270304T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -5129,7 +5146,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-49
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877955@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270309T160000
 DTEND;TZID=Europe/Copenhagen:20270309T173000
 SUMMARY:KREAværksted
@@ -5139,7 +5156,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-58
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877925@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270310T160000
 DTEND;TZID=Europe/Copenhagen:20270310T173000
 SUMMARY:KREAværksted
@@ -5149,7 +5166,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-20
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270310-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270310T180000
 DTEND;TZID=Europe/Copenhagen:20270310T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -5159,7 +5176,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270310-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270310T180000
 DTEND;TZID=Europe/Copenhagen:20270310T194000
 SUMMARY:Hopning for Quinder
@@ -5169,7 +5186,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877784@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270311T160000
 DTEND;TZID=Europe/Copenhagen:20270311T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -5179,7 +5196,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-32
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878532@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270311T163000
 DTEND;TZID=Europe/Copenhagen:20270311T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
@@ -5189,7 +5206,7 @@ URL:https://dokk1.dk/det-sker/udsolgt-dr-romanklub-paa-dokk1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877926@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270316T160000
 DTEND;TZID=Europe/Copenhagen:20270316T173000
 SUMMARY:KREAværksted
@@ -5199,7 +5216,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-21
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877984@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270317T160000
 DTEND;TZID=Europe/Copenhagen:20270317T173000
 SUMMARY:KREAværksted
@@ -5209,7 +5226,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-79
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270317-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270317T180000
 DTEND;TZID=Europe/Copenhagen:20270317T194000
 SUMMARY:Hopning for Quinder
@@ -5219,7 +5236,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877804@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270318T160000
 DTEND;TZID=Europe/Copenhagen:20270318T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -5229,7 +5246,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-46
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877911@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270323T160000
 DTEND;TZID=Europe/Copenhagen:20270323T173000
 SUMMARY:KREAværksted
@@ -5239,7 +5256,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-22
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877956@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270324T160000
 DTEND;TZID=Europe/Copenhagen:20270324T173000
 SUMMARY:KREAværksted
@@ -5249,7 +5266,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-60
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-braetspil-aabent-for-alle-20270324-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270324T180000
 DTEND;TZID=Europe/Copenhagen:20270324T210000
 SUMMARY:Brætspil - åbent for alle!
@@ -5259,7 +5276,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270324-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270324T180000
 DTEND;TZID=Europe/Copenhagen:20270324T194000
 SUMMARY:Hopning for Quinder
@@ -5269,7 +5286,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877962@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270330T160000
 DTEND;TZID=Europe/Copenhagen:20270330T173000
 SUMMARY:KREAværksted
@@ -5279,7 +5296,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-61
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877929@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270331T160000
 DTEND;TZID=Europe/Copenhagen:20270331T173000
 SUMMARY:KREAværksted
@@ -5289,7 +5306,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-36
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270331-180000@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270331T180000
 DTEND;TZID=Europe/Copenhagen:20270331T194000
 SUMMARY:Hopning for Quinder
@@ -5299,7 +5316,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877789@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270401T160000
 DTEND;TZID=Europe/Copenhagen:20270401T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -5309,7 +5326,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-38
 END:VEVENT
 BEGIN:VEVENT
 UID:va-094f577a-59cf-43b1-bbad-1aadd1350241-0@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270405
 SUMMARY:Works Art Fair
@@ -5320,7 +5337,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/works-art-fai
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878487@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270405T170000
 DTEND;TZID=Europe/Copenhagen:20270405T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -5330,7 +5347,7 @@ URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt-6
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877930@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270406T160000
 DTEND;TZID=Europe/Copenhagen:20270406T173000
 SUMMARY:KREAværksted
@@ -5340,7 +5357,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-37
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878238@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270406T180000
 DTEND;TZID=Europe/Copenhagen:20270406T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -5350,7 +5367,7 @@ URL:https://dokk1.dk/det-sker/fantasy-fellowship-chapter-2-17
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878449@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270407T150000
 DTEND;TZID=Europe/Copenhagen:20270407T161500
 SUMMARY:Rundvisning på Dokk1
@@ -5360,7 +5377,7 @@ URL:https://dokk1.dk/det-sker/rundvisning-paa-dokk1-7
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877974@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270407T160000
 DTEND;TZID=Europe/Copenhagen:20270407T173000
 SUMMARY:KREAværksted
@@ -5370,7 +5387,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-71
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878719@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270407T170000
 DTEND;TZID=Europe/Copenhagen:20270407T190000
 SUMMARY:Danmarks første kvindelige kriminalbetjent
@@ -5380,7 +5397,7 @@ URL:https://dokk1.dk/det-sker/danmarks-foerste-kvindelige-kriminalbetjent
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877770@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270408T160000
 DTEND;TZID=Europe/Copenhagen:20270408T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -5390,7 +5407,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-20
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878534@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270408T163000
 DTEND;TZID=Europe/Copenhagen:20270408T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
@@ -5400,7 +5417,7 @@ URL:https://dokk1.dk/det-sker/udsolgt-dr-romanklub-paa-dokk1-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877912@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270413T160000
 DTEND;TZID=Europe/Copenhagen:20270413T173000
 SUMMARY:KREAværksted
@@ -5410,7 +5427,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-23
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877980@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270414T160000
 DTEND;TZID=Europe/Copenhagen:20270414T173000
 SUMMARY:KREAværksted
@@ -5420,7 +5437,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-80
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877796@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270415T160000
 DTEND;TZID=Europe/Copenhagen:20270415T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -5430,7 +5447,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-50
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877963@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270420T160000
 DTEND;TZID=Europe/Copenhagen:20270420T173000
 SUMMARY:KREAværksted
@@ -5440,7 +5457,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-54
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877942@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270421T160000
 DTEND;TZID=Europe/Copenhagen:20270421T173000
 SUMMARY:KREAværksted
@@ -5450,7 +5467,7 @@ URL:https://dokk1.dk/det-sker/kreavaerksted-38
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877771@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270422T160000
 DTEND;TZID=Europe/Copenhagen:20270422T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -5460,7 +5477,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-21
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878527@aarhus-kalender
-DTSTAMP:20261027T195418Z
+DTSTAMP:20261028T034154Z
 DTSTART;TZID=Europe/Copenhagen:20270424T130000
 DTEND;TZID=Europe/Copenhagen:20270424T141500
 SUMMARY:"Skal du ikke snart have en kæreste?"
