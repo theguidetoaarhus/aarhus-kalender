@@ -1554,6 +1554,200 @@ def fetch_dokk1(cutoff: datetime, max_pages: int = 40) -> list:
 
 
 # ---------------------------------------------------------------------------
+# Aarhus Kommunes Biblioteker - de øvrige 16 biblioteksfilialer (ikke
+# Hovedbiblioteket/Dokk1, som allerede hentes fuldt pagineret ovenfor).
+# aakb.dk's "indlæs mere" er en Drupal AJAX-pager, der kræver en
+# sessionsspecifik dom-id og ikke giver pålidelige, ikke-overlappende sider
+# uden en rigtig browser-session - så i stedet henter vi hver filial for sig
+# via dens egen facet-URL, hvor alle filialer (på nær Hovedbiblioteket) har
+# få nok events til at ligge på én side.
+# ---------------------------------------------------------------------------
+
+AAKB_BASE = "https://www.aakb.dk"
+AAKB_BRANCHES = {
+    "36": "Åby Bibliotek",
+    "19": "Bavnehøj Bibliotek",
+    "20": "Beder-Malling Bibliotek",
+    "21": "Gellerup Bibliotek",
+    "22": "Harlev Bibliotek",
+    "23": "Hasle Bibliotek",
+    "24": "Hjortshøj Kombi-bibliotek",
+    "25": "Højbjerg Bibliotek",
+    "26": "Lystrup Bibliotek",
+    "28": "Risskov Bibliotek",
+    "29": "Sabro Bibliotek",
+    "30": "Skødstrup Kombi-bibliotek",
+    "31": "Solbjerg Bibliotek",
+    "32": "Tilst Bibliotek",
+    "33": "Tranbjerg Bibliotek",
+    "34": "Trige Kombi-bibliotek",
+    "35": "Viby Bibliotek",
+}
+
+AAKB_CHUNK_SPLIT = '<li class="content-list__item'
+AAKB_HREF_RE = re.compile(r'href="([^"]+)"')
+AAKB_TITLE_RE = re.compile(r'<h2 class="content-list-item__title">\s*([^<]+?)\s*</h2>', re.S)
+AAKB_CATEGORY_RE = re.compile(r'<span class="tag--small content-list-item__tag tag tag--fill">\s*([^<]+?)\s*</span>', re.S)
+AAKB_DATETIME_RE = re.compile(
+    r'<time datetime="(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{2}:\d{2})/(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}[+-]\d{2}:\d{2})">'
+)
+AAKB_TIME_LABEL_RE = re.compile(r'content-list-item__time"\s*\n?\s*datetime="[^"]*">\s*([^<]+?)\s*</time>')
+AAKB_IMG_RE = re.compile(r'<img[^>]+src="([^"]+)"')
+AAKB_PRICE_RE = re.compile(r'content-list-item__content__price">\s*([^<]+?)\s*</div>', re.S)
+
+AAKB_CATEGORY_MAP = dict(DOKK1_CATEGORY_MAP, **{"lyd og musik": "Musik & Koncerter"})
+# "Skole" er skoleklassebesøg, ikke noget man som privatperson melder sig til.
+AAKB_SKIP_CATEGORIES = DOKK1_SKIP_CATEGORIES | {"skole"}
+
+
+def fetch_aakb_biblioteker(cutoff: datetime) -> list:
+    events = []
+    today = datetime.now().date()
+    for branch_id, branch_name in AAKB_BRANCHES.items():
+        try:
+            page = http_get(f"{AAKB_BASE}/arrangementer?f%5B0%5D=filial%3A{branch_id}")
+        except Exception as e:
+            print(f"  ADVARSEL: kunne ikke hente {branch_name}: {e}", file=sys.stderr)
+            continue
+
+        for chunk in page.split(AAKB_CHUNK_SPLIT)[1:]:
+            title_m = AAKB_TITLE_RE.search(chunk)
+            dt_m = AAKB_DATETIME_RE.search(chunk)
+            href_m = AAKB_HREF_RE.search(chunk)
+            if not title_m or not dt_m or not href_m:
+                continue
+            title = html.unescape(title_m.group(1)).strip()
+            if not title or "aflyst" in title.lower():
+                continue
+            try:
+                start = datetime.fromisoformat(dt_m.group(1)).replace(tzinfo=None)
+                end = datetime.fromisoformat(dt_m.group(2)).replace(tzinfo=None)
+            except ValueError:
+                continue
+            if start > cutoff or start.date() < today:
+                continue
+
+            time_label_m = AAKB_TIME_LABEL_RE.search(chunk)
+            all_day = time_label_m is None or "hele dagen" in time_label_m.group(1).lower()
+
+            cat_m = AAKB_CATEGORY_RE.search(chunk)
+            raw_category = cat_m.group(1).strip().lower() if cat_m else ""
+            if raw_category in AAKB_SKIP_CATEGORIES:
+                continue
+            category = AAKB_CATEGORY_MAP.get(raw_category) or classify_text(title)
+
+            href = href_m.group(1)
+            img_m = AAKB_IMG_RE.search(chunk)
+            image = urllib.parse.urljoin(AAKB_BASE, img_m.group(1)) if img_m else ""
+            price_m = AAKB_PRICE_RE.search(chunk)
+            is_free = price_m.group(1).strip().lower() == "gratis" if price_m else True
+
+            events.append(Event(
+                uid=f"aakb-{slugify(href)}",
+                title=title,
+                start=start,
+                end=end if end > start else start + timedelta(hours=1),
+                all_day=all_day,
+                location=branch_name,
+                url=urllib.parse.urljoin(AAKB_BASE, href),
+                source="Aarhus Kommunes Biblioteker",
+                category=category,
+                image=image,
+                is_free=is_free,
+            ))
+        time.sleep(REQUEST_DELAY_SECONDS)
+
+    print(f"  Aarhus Kommunes Biblioteker: {len(events)} events", file=sys.stderr)
+    return events
+
+
+# ---------------------------------------------------------------------------
+# Porter's (bar med livemusik, Sydhavnen) - henter fra Squarespace-sidens
+# egen indlejrede JSON (data-current-context). Kun konkrete, datobestemte
+# koncerter tages med - de ugentligt tilbagevendende arrangementer (jazzjam,
+# DJ-aftener) har ingen faste datoer på siden at udlede.
+# ---------------------------------------------------------------------------
+
+PORTERS_MONTHS = {
+    "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
+    "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
+}
+PORTERS_DATE_RE = re.compile(
+    r'\b(january|february|march|april|may|june|july|august|september|october|november|december)'
+    r'\s+(\d{1,2})(?:st|nd|rd|th)?(?:\s+(\d{4}))?\b', re.I,
+)
+PORTERS_TIME_RE = re.compile(r'\b(\d{1,2}):(\d{2})\s*(am|pm)\b', re.I)
+
+
+def fetch_porters(cutoff: datetime) -> list:
+    try:
+        page = http_get("https://www.porters.dk/")
+    except Exception as e:
+        print(f"  ADVARSEL: kunne ikke hente Porter's: {e}", file=sys.stderr)
+        return []
+
+    marker = page.find("&quot;userItems&quot;")
+    if marker == -1:
+        print("  ADVARSEL: Porter's - fandt ikke events-data på siden", file=sys.stderr)
+        return []
+    attr_start = page.rfind('data-current-context="', 0, marker) + len('data-current-context="')
+    end = page.find('}"', marker)
+    try:
+        data = json.loads(html.unescape(page[attr_start:end + 1]))
+    except ValueError as e:
+        print(f"  ADVARSEL: Porter's - kunne ikke parse events-data: {e}", file=sys.stderr)
+        return []
+
+    events = []
+    today = datetime.now()
+    for item in data.get("userItems", []):
+        title = html.unescape(item.get("title", "")).strip()
+        if not title or "every week" in title.lower():
+            continue
+        text = html.unescape(re.sub(r"<[^>]+>", " ", item.get("description", "")))
+        date_m = PORTERS_DATE_RE.search(text)
+        if not date_m:
+            continue
+        month = PORTERS_MONTHS[date_m.group(1).lower()]
+        day = int(date_m.group(2))
+        year = int(date_m.group(3)) if date_m.group(3) else today.year
+        time_m = PORTERS_TIME_RE.search(text)
+        if time_m:
+            hour = int(time_m.group(1)) % 12
+            if time_m.group(3).lower() == "pm":
+                hour += 12
+            minute = int(time_m.group(2))
+        else:
+            hour, minute = 20, 0
+        try:
+            start = datetime(year, month, day, hour, minute)
+        except ValueError:
+            continue
+        if not date_m.group(3) and start.date() < today.date():
+            start = start.replace(year=year + 1)
+        if start > cutoff or start.date() < today.date():
+            continue
+
+        button = item.get("button") or {}
+        image = (item.get("image") or {}).get("assetUrl", "")
+        events.append(Event(
+            uid=f"porters-{slugify(title + start.isoformat())}",
+            title=title,
+            start=start,
+            end=start + timedelta(hours=3),
+            all_day=False,
+            location="Porter's",
+            url=button.get("buttonLink") or "https://www.porters.dk/",
+            source="Porter's",
+            category="Musik & Koncerter",
+            image=image,
+            is_free="free" in title.lower(),
+        ))
+    print(f"  Porter's: {len(events)} events", file=sys.stderr)
+    return events
+
+
+# ---------------------------------------------------------------------------
 # Heromkring (ugentligt lokalt nyhedsbrev) - vi henter KUN titel, undertekst,
 # forsidebillede og link for hver udgave, aldrig selve artiklens indhold.
 # Det er en kreditering/henvisning til deres index af udgaver - ikke en
@@ -1963,6 +2157,8 @@ SOURCES = [
     ("Moesgaard Museum", fetch_moesgaard),
     ("Bakken Bears", fetch_bakkenbears),
     ("Dokk1", fetch_dokk1),
+    ("Aarhus Kommunes Biblioteker", fetch_aakb_biblioteker),
+    ("Porter's", fetch_porters),
 ]
 
 
