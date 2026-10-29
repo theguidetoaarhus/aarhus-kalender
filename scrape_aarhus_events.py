@@ -1748,6 +1748,109 @@ def fetch_porters(cutoff: datetime) -> list:
 
 
 # ---------------------------------------------------------------------------
+# Manuelt tilføjede events - til ting der ikke findes i scrapbart format
+# noget sted (fx et cafétilbud der kun nævnes på Instagram, eller et
+# engangsarrangement vi selv hører om). Ligger i manual_events.json, som
+# IKKE bliver overskrevet af scraperen - kun læst ind og tilføjet til
+# resten af events hver gang scriptet kører.
+#
+# Format pr. indgang i manual_events.json:
+#   {
+#     "title": "...", "location": "...", "category": "Mad & Drikke",
+#     "time": "10:00", "end_time": "14:00", "url": "...", "is_free": false,
+#     "date": "2026-11-05"              # engangsbegivenhed, ELLER
+#     "weekday": "søndag", "until": "2026-12-31"   # ugentligt tilbagevendende
+#   }
+# ---------------------------------------------------------------------------
+
+MANUAL_EVENTS_PATH = "manual_events.json"
+MANUAL_WEEKDAYS = {
+    "mandag": 0, "tirsdag": 1, "onsdag": 2, "torsdag": 3,
+    "fredag": 4, "lørdag": 5, "søndag": 6,
+}
+
+
+def fetch_manual_events(cutoff: datetime) -> list:
+    try:
+        with open(MANUAL_EVENTS_PATH, encoding="utf-8") as f:
+            entries = json.load(f)
+    except FileNotFoundError:
+        return []
+    except ValueError as e:
+        print(f"  ADVARSEL: manual_events.json kunne ikke læses: {e}", file=sys.stderr)
+        return []
+
+    today = datetime.now().date()
+    events = []
+    for entry in entries:
+        title = (entry.get("title") or "").strip()
+        location = (entry.get("location") or "").strip()
+        if not title:
+            continue
+        category = entry.get("category") or "Mad & Drikke"
+        url = entry.get("url") or ""
+        is_free = bool(entry.get("is_free", False))
+
+        try:
+            sh, sm = (int(x) for x in (entry.get("time") or "12:00").split(":"))
+        except ValueError:
+            sh, sm = 12, 0
+        end_time = entry.get("end_time")
+        if end_time:
+            try:
+                eh, em = (int(x) for x in end_time.split(":"))
+            except ValueError:
+                eh, em = (sh + 2) % 24, sm
+        else:
+            eh, em = (sh + 2) % 24, sm
+
+        dates = []
+        if "date" in entry:
+            try:
+                dates = [datetime.strptime(entry["date"], "%Y-%m-%d").date()]
+            except ValueError:
+                continue
+        elif "weekday" in entry:
+            weekday = MANUAL_WEEKDAYS.get((entry.get("weekday") or "").strip().lower())
+            if weekday is None:
+                continue
+            until_str = entry.get("until")
+            try:
+                until = datetime.strptime(until_str, "%Y-%m-%d").date() if until_str else cutoff.date()
+            except ValueError:
+                until = cutoff.date()
+            d = today
+            while d.weekday() != weekday:
+                d += timedelta(days=1)
+            while d <= min(until, cutoff.date()):
+                dates.append(d)
+                d += timedelta(days=7)
+
+        for d in dates:
+            start = datetime(d.year, d.month, d.day, sh, sm)
+            end = datetime(d.year, d.month, d.day, eh, em)
+            if end <= start:
+                end += timedelta(hours=2)
+            if start > cutoff or start.date() < today:
+                continue
+            events.append(Event(
+                uid=f"manual-{slugify(title + location)}-{d.isoformat()}",
+                title=title,
+                start=start,
+                end=end,
+                all_day=False,
+                location=location,
+                url=url,
+                source="Manuelt tilføjet",
+                category=category,
+                is_free=is_free,
+            ))
+
+    print(f"  Manuelt tilføjede events: {len(events)} events", file=sys.stderr)
+    return events
+
+
+# ---------------------------------------------------------------------------
 # Heromkring (ugentligt lokalt nyhedsbrev) - vi henter KUN titel, undertekst,
 # forsidebillede og link for hver udgave, aldrig selve artiklens indhold.
 # Det er en kreditering/henvisning til deres index af udgaver - ikke en
@@ -2159,6 +2262,7 @@ SOURCES = [
     ("Dokk1", fetch_dokk1),
     ("Aarhus Kommunes Biblioteker", fetch_aakb_biblioteker),
     ("Porter's", fetch_porters),
+    ("Manuelt tilføjet", fetch_manual_events),
 ]
 
 
