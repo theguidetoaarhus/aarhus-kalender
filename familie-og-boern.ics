@@ -24,19 +24,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dokk1-2878290@aarhus-kalender
-DTSTAMP:20261101T035231Z
-DTSTART;TZID=Europe/Copenhagen:20261101T130000
-DTEND;TZID=Europe/Copenhagen:20261101T140000
-SUMMARY:'Heksebeths Halloween' og minikoncert med Rosa
-LOCATION:Dokk1
-CATEGORIES:Familie & Børn\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/heksebeths-halloween-og-minikoncert-med-rosa
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-trige-kombi-bibliotek-arrangementer-born-barselshygge-laer-babymas
  sage-og-zoneterapi@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261102T100000
 DTEND;TZID=Europe/Copenhagen:20261102T110000
 SUMMARY:Barselshygge: lær babymassage og zoneterapi
@@ -48,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-born-kreabordet-kreative-julegave
  r-0@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261102T150000
 DTEND;TZID=Europe/Copenhagen:20261102T170000
 SUMMARY:Kreabordet: Kreative julegaver
@@ -60,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-beder-malling-bibliotek-arrangementer-born-barselshojskole-2026-11
  -03@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261103T094500
 DTEND;TZID=Europe/Copenhagen:20261103T120000
 SUMMARY:Barselshøjskole
@@ -72,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-aben-barselscafe-krop-og-bev
  aegelse-2026-11-03@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261103T103000
 DTEND;TZID=Europe/Copenhagen:20261103T113000
 SUMMARY:Åben barselscafé - krop og bevægelse
@@ -84,7 +74,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-born-bornebogklubben-5@aarhus-kal
  ender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261103T153000
 DTEND;TZID=Europe/Copenhagen:20261103T164500
 SUMMARY:Børnebogklubben
@@ -96,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-hyggelig-hojtlaesning-2026-1
  1-03@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261103T160000
 DTEND;TZID=Europe/Copenhagen:20261103T163000
 SUMMARY:Hyggelig højtlæsning
@@ -108,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-born-pigernes-bogklub-2026-11-03@aarhu
  s-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261103T163000
 DTEND;TZID=Europe/Copenhagen:20261103T173000
 SUMMARY:Pigernes Bogklub
@@ -120,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-ord-2026-11-04@aarhus-kalend
  er
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261104T101500
 DTEND;TZID=Europe/Copenhagen:20261104T111500
 SUMMARY:ORD
@@ -131,7 +121,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/born/ord/2026-11-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877764@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261105T100000
 DTEND;TZID=Europe/Copenhagen:20261105T104500
 SUMMARY:Dig & din baby - Bøger og barsel
@@ -142,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hasle-bibliotek-arrangementer-born-babyklang-2026-11-05@aarhus-kal
  ender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261105T101500
 DTEND;TZID=Europe/Copenhagen:20261105T120000
 SUMMARY:Babyklang
@@ -153,7 +143,7 @@ URL:https://www.aakb.dk/hasle-bibliotek/arrangementer/born/babyklang/2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877839@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261105T120000
 DTEND;TZID=Europe/Copenhagen:20261105T143000
 SUMMARY:Fars legestue
@@ -163,7 +153,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-31
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877785@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261105T160000
 DTEND;TZID=Europe/Copenhagen:20261105T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -174,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-lektiecafe-born-og-unge-25@aa
  rhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261105T160000
 DTEND;TZID=Europe/Copenhagen:20261105T173000
 SUMMARY:Lektiecafé for børn og unge
@@ -185,7 +175,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/born/lektiecafe-bor
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878551@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261106T100000
 DTEND;TZID=Europe/Copenhagen:20261106T114500
 SUMMARY:Barselskor & Babyrytmik på DOKK1 / Den Kreative Skole Aarhus
@@ -197,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hjortshoj-kombi-bibliotek-arrangementer-born-tulle-og-skralle-den-
  magiske-sangkuffert@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261106T153000
 DTEND;TZID=Europe/Copenhagen:20261106T163000
 SUMMARY:Tulle og Skralle - den magiske sangkuffert
@@ -209,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-lego-lordag-5@aarhus-kalende
  r
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261107T100000
 DTEND;TZID=Europe/Copenhagen:20261107T130000
 SUMMARY:Lego Lørdag
@@ -220,7 +210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-born-ved-kreabordet-svampehus@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261107T100000
 DTEND;TZID=Europe/Copenhagen:20261107T130000
 SUMMARY:Ved kreabordet: Svampehus
@@ -232,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-trige-kombi-bibliotek-arrangementer-born-banko-med-sallys-far-1@aa
  rhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261107T100000
 DTEND;TZID=Europe/Copenhagen:20261107T110000
 SUMMARY:Banko med Sallys far
@@ -243,7 +233,7 @@ URL:https://www.aakb.dk/trige-kombi-bibliotek/arrangementer/born/banko-med-
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetimen-favoritter-fra-samlingen-0711@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261107T103000
 DTEND;TZID=Europe/Copenhagen:20261107T111500
 SUMMARY:Børnetimen - Favoritter fra samlingen
@@ -253,7 +243,7 @@ URL:https://www.aros.dk/kalender/boernetimen-favoritter-fra-samlingen-0711/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878789@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261107T130000
 DTEND;TZID=Europe/Copenhagen:20261107T170000
 SUMMARY:De dødes dag
@@ -262,8 +252,18 @@ CATEGORIES:Familie & Børn\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/de-doedes-dag
 END:VEVENT
 BEGIN:VEVENT
+UID:mh-/kalender/karius-og-baktus@aarhus-kalender
+DTSTAMP:20261102T035716Z
+DTSTART;TZID=Europe/Copenhagen:20261108T110000
+DTEND;TZID=Europe/Copenhagen:20261108T130000
+SUMMARY:Karius og Baktus
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Familie & Børn\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/karius-og-baktus
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878291@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261108T130000
 DTEND;TZID=Europe/Copenhagen:20261108T143000
 SUMMARY:Eventyrlig forpremiere på 'Valdras Helte II'
@@ -274,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hjortshoj-kombi-bibliotek-arrangementer-born-babymotorik-barselsca
  fe-i-viruphuset-5@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261109T100000
 DTEND;TZID=Europe/Copenhagen:20261109T110000
 SUMMARY:Babymotorik - Barselscafe i Viruphuset
@@ -286,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-hyggelig-hojtlaesning-2026-1
  1-10@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261110T160000
 DTEND;TZID=Europe/Copenhagen:20261110T163000
 SUMMARY:Hyggelig højtlæsning
@@ -298,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-ord-2026-11-11@aarhus-kalend
  er
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261111T101500
 DTEND;TZID=Europe/Copenhagen:20261111T111500
 SUMMARY:ORD
@@ -309,7 +309,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/born/ord/2026-11-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877762@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261112T100000
 DTEND;TZID=Europe/Copenhagen:20261112T120000
 SUMMARY:Dig & din baby - Babytryk
@@ -320,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hasle-bibliotek-arrangementer-born-babyklang-2026-11-12@aarhus-kal
  ender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261112T101500
 DTEND;TZID=Europe/Copenhagen:20261112T120000
 SUMMARY:Babyklang (Helligåndskirken)
@@ -331,7 +331,7 @@ URL:https://www.aakb.dk/hasle-bibliotek/arrangementer/born/babyklang/2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877832@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261112T120000
 DTEND;TZID=Europe/Copenhagen:20261112T143000
 SUMMARY:Fars legestue
@@ -341,7 +341,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-23
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877761@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261112T124500
 DTEND;TZID=Europe/Copenhagen:20261112T144500
 SUMMARY:Dig & din baby - Babytryk
@@ -351,7 +351,7 @@ URL:https://dokk1.dk/det-sker/dig-din-baby-babytryk-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877793@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261112T160000
 DTEND;TZID=Europe/Copenhagen:20261112T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -362,7 +362,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-lektiecafe-born-og-unge-27@aa
  rhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261112T160000
 DTEND;TZID=Europe/Copenhagen:20261112T173000
 SUMMARY:Lektiecafé for børn og unge
@@ -374,7 +374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-events-born-skoleklasse-pa-besog@aarhus-kalend
  er
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261113T100000
 DTEND;TZID=Europe/Copenhagen:20261113T111500
 SUMMARY:Skoleklasse på besøg
@@ -385,7 +385,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/events/born/skoleklasse-pa-beso
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877765@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261113T103000
 DTEND;TZID=Europe/Copenhagen:20261113T111500
 SUMMARY:Dig & din baby - Leg og peg
@@ -396,7 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-born-tramp-og-trommer-0@aarhus-kalend
  er
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261114T093000
 DTEND;TZID=Europe/Copenhagen:20261114T123000
 SUMMARY:Tramp og trommer
@@ -408,7 +408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-laes-og-leg-tid-0@aarhus-kal
  ender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261114T100000
 DTEND;TZID=Europe/Copenhagen:20261114T103000
 SUMMARY:Læs og leg - TID
@@ -420,7 +420,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hasle-bibliotek-arrangementer-born-familielordag-robotter-0@aarhus
  -kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261114T100000
 DTEND;TZID=Europe/Copenhagen:20261114T130000
 SUMMARY:Familielørdag - Robotter
@@ -432,7 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-born-ved-kreabordet-svampehus-1@a
  arhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261114T100000
 DTEND;TZID=Europe/Copenhagen:20261114T130000
 SUMMARY:Ved kreabordet: Svampehus
@@ -442,9 +442,19 @@ URL:https://www.aakb.dk/hojbjerg-bibliotek/arrangementer/born/ved-kreaborde
  t-svampehus-1
 END:VEVENT
 BEGIN:VEVENT
+UID:mh-/kalender/familieteater@aarhus-kalender
+DTSTAMP:20261102T035716Z
+DTSTART;TZID=Europe/Copenhagen:20261114T120000
+DTEND;TZID=Europe/Copenhagen:20261114T140000
+SUMMARY:Familieteater
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Familie & Børn\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/familieteater
+END:VEVENT
+BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-barselscafe-lydbad-7@aarhus-k
  alender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261116T100000
 DTEND;TZID=Europe/Copenhagen:20261116T110000
 SUMMARY:Barselscafé: Lydbad
@@ -456,7 +466,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-aben-barselscafe-tandsundhed
  -0@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261117T103000
 DTEND;TZID=Europe/Copenhagen:20261117T113000
 SUMMARY:Åben Barselscafé - Tandsundhed
@@ -468,7 +478,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-hyggelig-hojtlaesning-2026-1
  1-17@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261117T160000
 DTEND;TZID=Europe/Copenhagen:20261117T163000
 SUMMARY:Hyggelig højtlæsning
@@ -480,7 +490,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-fyraftenshygge-familier-18@aa
  rhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261117T160000
 DTEND;TZID=Europe/Copenhagen:20261117T170000
 SUMMARY:Fyraftenshygge for familier
@@ -491,7 +501,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/born/fyraftenshygge
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878713@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261122
 SUMMARY:Albus Festival: Udstilling - 500 ORD
@@ -502,7 +512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-bavnehoj-bibliotek-arrangementer-born-byg-hyg-og-lyt@aarhus-kalend
  er
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261118T163000
 DTEND;TZID=Europe/Copenhagen:20261118T173000
 SUMMARY:BYG\, HYG OG LYT
@@ -514,7 +524,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-sabro-bibliotek-arrangementer-born-tulle-og-skralle-til-bamses-fod
  selsdag@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261119T100000
 DTEND;TZID=Europe/Copenhagen:20261119T110000
 SUMMARY:Tulle og Skralle til Bamses fødselsdag
@@ -526,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hasle-bibliotek-arrangementer-born-babyklang-2026-11-19@aarhus-kal
  ender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261119T101500
 DTEND;TZID=Europe/Copenhagen:20261119T120000
 SUMMARY:Babyklang
@@ -537,7 +547,7 @@ URL:https://www.aakb.dk/hasle-bibliotek/arrangementer/born/babyklang/2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877836@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261119T120000
 DTEND;TZID=Europe/Copenhagen:20261119T143000
 SUMMARY:Fars legestue
@@ -547,7 +557,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-28
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877774@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261119T160000
 DTEND;TZID=Europe/Copenhagen:20261119T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -558,7 +568,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-lektiecafe-born-og-unge-29@aa
  rhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261119T160000
 DTEND;TZID=Europe/Copenhagen:20261119T173000
 SUMMARY:Lektiecafé for børn og unge
@@ -569,7 +579,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/born/lektiecafe-bor
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878664@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261122
 SUMMARY:Albus Festival: Udstilling - Garmanns hemmelighed
@@ -580,7 +590,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-udstilling-garmanns-hemmelighe
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878681@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261120T140000
 DTEND;TZID=Europe/Copenhagen:20261120T150000
 SUMMARY:500 ord: kåring af årets vindere (UDSOLGT)
@@ -590,7 +600,7 @@ URL:https://dokk1.dk/det-sker/500-ord-kaaring-af-aarets-vindere-udsolgt
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878687@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T100000
 DTEND;TZID=Europe/Copenhagen:20261121T153000
 SUMMARY:Albus Festival: Tegn svævende ansigter
@@ -601,7 +611,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-born-ved-kreabordet-nuttede-pingv
  iner@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T100000
 DTEND;TZID=Europe/Copenhagen:20261121T130000
 SUMMARY:Ved kreabordet: Nuttede pingviner
@@ -611,8 +621,19 @@ URL:https://www.aakb.dk/hojbjerg-bibliotek/arrangementer/born/ved-kreaborde
  t-nuttede-pingviner
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878663@aarhus-kalender
+DTSTAMP:20261102T035716Z
+DTSTART;TZID=Europe/Copenhagen:20261121T101500
+DTEND;TZID=Europe/Copenhagen:20261121T153000
+SUMMARY:Albus Festival: Tiden går\, men hvor går den hen?
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-tiden-gaar-men-hvor-gaar-den-h
+ en
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878712@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T101500
 DTEND;TZID=Europe/Copenhagen:20261121T110000
 SUMMARY:Albus Festival: Hva´ ser du? - en kreativ workshop med Kristin Ros
@@ -623,19 +644,8 @@ URL:https://dokk1.dk/det-sker/albus-festival-hva-ser-du-en-kreativ-workshop
  -med-kristin-roskifte-0
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878663@aarhus-kalender
-DTSTAMP:20261101T035231Z
-DTSTART;TZID=Europe/Copenhagen:20261121T101500
-DTEND;TZID=Europe/Copenhagen:20261121T153000
-SUMMARY:Albus Festival: Tiden går\, men hvor går den hen?
-LOCATION:Dokk1
-CATEGORIES:Familie & Børn\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/albus-festival-tiden-gaar-men-hvor-gaar-den-h
- en
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878685@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T103000
 DTEND;TZID=Europe/Copenhagen:20261121T110000
 SUMMARY:Albus Festival: Hyggelig højtlæsning
@@ -645,7 +655,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-hyggelig-hoejtlaesning
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878661@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T103000
 DTEND;TZID=Europe/Copenhagen:20261121T110000
 SUMMARY:Albus Festival: TID - en legende og varm forestilling
@@ -656,7 +666,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-tid-en-legende-og-varm-foresti
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878674@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T103000
 DTEND;TZID=Europe/Copenhagen:20261121T120000
 SUMMARY:Albus Festival: Kom og rør ved en "ægte" dinosaur!
@@ -667,7 +677,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-kom-og-roer-ved-en-aegte-dinos
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878675@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T110000
 DTEND;TZID=Europe/Copenhagen:20261121T113000
 SUMMARY:Albus Festival: Dyb tid
@@ -677,7 +687,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878659@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T110000
 DTEND;TZID=Europe/Copenhagen:20261121T113000
 SUMMARY:Albus Festival: Smag på historien
@@ -687,7 +697,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-smag-paa-historien
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878785@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T111500
 DTEND;TZID=Europe/Copenhagen:20261121T114500
 SUMMARY:Albus Festival: Hyggelig højtlæsning
@@ -697,7 +707,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-hyggelig-hoejtlaesning-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878758@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T120000
 DTEND;TZID=Europe/Copenhagen:20261121T130000
 SUMMARY:Albus Festival: Valhalla live - Guder\, helte og historier
@@ -707,18 +717,8 @@ URL:https://dokk1.dk/det-sker/albus-festival-valhalla-live-guder-helte-og-h
  istorier
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878812@aarhus-kalender
-DTSTAMP:20261101T035231Z
-DTSTART;TZID=Europe/Copenhagen:20261121T123000
-DTEND;TZID=Europe/Copenhagen:20261121T130000
-SUMMARY:UDSOLGT Albus Festival: Dyb tid
-LOCATION:Dokk1
-CATEGORIES:Familie & Børn\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/udsolgt-albus-festival-dyb-tid
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878673@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T123000
 DTEND;TZID=Europe/Copenhagen:20261121T150000
 SUMMARY:Albus Festival: Kom og rør en ved en "ægte" dinosaur!
@@ -728,18 +728,18 @@ URL:https://dokk1.dk/det-sker/albus-festival-kom-og-roer-en-ved-en-aegte-di
  nosaur
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878660@aarhus-kalender
-DTSTAMP:20261101T035231Z
-DTSTART;TZID=Europe/Copenhagen:20261121T130000
-DTEND;TZID=Europe/Copenhagen:20261121T133000
-SUMMARY:Albus Festival: Smag på historien
+UID:dokk1-2878812@aarhus-kalender
+DTSTAMP:20261102T035716Z
+DTSTART;TZID=Europe/Copenhagen:20261121T123000
+DTEND;TZID=Europe/Copenhagen:20261121T130000
+SUMMARY:UDSOLGT Albus Festival: Dyb tid
 LOCATION:Dokk1
 CATEGORIES:Familie & Børn\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/albus-festival-smag-paa-historien-0
+URL:https://dokk1.dk/det-sker/udsolgt-albus-festival-dyb-tid
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878666@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T130000
 DTEND;TZID=Europe/Copenhagen:20261121T133000
 SUMMARY:Albus festival: Dyb tid
@@ -748,8 +748,18 @@ CATEGORIES:Familie & Børn\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid-2
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878660@aarhus-kalender
+DTSTAMP:20261102T035716Z
+DTSTART;TZID=Europe/Copenhagen:20261121T130000
+DTEND;TZID=Europe/Copenhagen:20261121T133000
+SUMMARY:Albus Festival: Smag på historien
+LOCATION:Dokk1
+CATEGORIES:Familie & Børn\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/albus-festival-smag-paa-historien-0
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878787@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T131500
 DTEND;TZID=Europe/Copenhagen:20261121T140000
 SUMMARY:Albus Festival: Leg i litteraturen
@@ -759,7 +769,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-leg-i-litteraturen-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878786@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T131500
 DTEND;TZID=Europe/Copenhagen:20261121T135000
 SUMMARY:Albus Festival: Kaj og Bamse-live
@@ -769,7 +779,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-kaj-og-bamselive
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878651@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T133000
 DTEND;TZID=Europe/Copenhagen:20261121T140000
 SUMMARY:Albus Festival: Dyb tid
@@ -779,7 +789,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-dyb-tid-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878813@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T140000
 DTEND;TZID=Europe/Copenhagen:20261121T150000
 SUMMARY:UDSOLGT Albus Festival: Hva´ ser du? - en kreativ workshop med Kri
@@ -791,7 +801,7 @@ URL:https://dokk1.dk/det-sker/udsolgt-albus-festival-hva-ser-du-en-kreativ-
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878734@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T141000
 DTEND;TZID=Europe/Copenhagen:20261121T143000
 SUMMARY:Albus Festival: Hyggelig højtlæsning
@@ -801,7 +811,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-hyggelig-hoejtlaesning-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878765@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261121T143000
 DTEND;TZID=Europe/Copenhagen:20261121T151500
 SUMMARY:Albus Festival: Musikalsk forestilling om billedbogen\, Skyggens Sa
@@ -812,9 +822,19 @@ URL:https://dokk1.dk/det-sker/albus-festival-musikalsk-forestilling-om-bill
  edbogen-skyggens-sang
 END:VEVENT
 BEGIN:VEVENT
+UID:mh-/kalender/orkesterfestivalen@aarhus-kalender
+DTSTAMP:20261102T035716Z
+DTSTART;TZID=Europe/Copenhagen:20261122T100000
+DTEND;TZID=Europe/Copenhagen:20261122T120000
+SUMMARY:Orkesterfestivalen - Klassisk musikfestival for børn og unge
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Familie & Børn\,Musikhuset Aarhus\,Gratis
+URL:https://www.musikhuset.dk/kalender/orkesterfestivalen
+END:VEVENT
+BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-hyggelig-hojtlaesning-2026-1
  1-24@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261124T160000
 DTEND;TZID=Europe/Copenhagen:20261124T163000
 SUMMARY:Hyggelig højtlæsning
@@ -825,7 +845,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/born/hyggelig-hojt
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877760@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261126T100000
 DTEND;TZID=Europe/Copenhagen:20261126T110000
 SUMMARY:Dig & din baby - Babymassage og zoneterapi
@@ -836,7 +856,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hasle-bibliotek-arrangementer-born-babyklang-2026-11-26@aarhus-kal
  ender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261126T101500
 DTEND;TZID=Europe/Copenhagen:20261126T120000
 SUMMARY:Babyklang (Helligåndskirken)
@@ -847,7 +867,7 @@ URL:https://www.aakb.dk/hasle-bibliotek/arrangementer/born/babyklang/2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877830@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261126T120000
 DTEND;TZID=Europe/Copenhagen:20261126T143000
 SUMMARY:Fars legestue
@@ -857,7 +877,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-19
 END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-born-kreadagen@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261126T140000
 DTEND;TZID=Europe/Copenhagen:20261126T160000
 SUMMARY:Kreadagen
@@ -867,7 +887,7 @@ URL:https://www.aakb.dk/viby-bibliotek/arrangementer/born/kreadagen
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877786@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261126T160000
 DTEND;TZID=Europe/Copenhagen:20261126T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -878,7 +898,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-lektiecafe-born-og-unge-31@aa
  rhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261126T160000
 DTEND;TZID=Europe/Copenhagen:20261126T173000
 SUMMARY:Lektiecafé for børn og unge
@@ -890,7 +910,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-trige-kombi-bibliotek-arrangementer-born-fyraftensfilm-de-mindste-
  2026-11-26@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261126T160000
 DTEND;TZID=Europe/Copenhagen:20261126T170000
 SUMMARY:Fyraftensfilm for de mindste
@@ -901,7 +921,7 @@ URL:https://www.aakb.dk/trige-kombi-bibliotek/arrangementer/born/fyraftensf
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-fernisering-boerneaabning-28112026@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261128T090000
 DTEND;TZID=Europe/Copenhagen:20261128T120000
 SUMMARY:Børnedag på ARoS
@@ -912,7 +932,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetimen-til-fernisering-ny-samling-paa-niv-6-2811@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261128T104500
 SUMMARY:Børnetimen til fernisering: Ny samling på Niv. 6
@@ -924,7 +944,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-born-ved-kreabordet-nuttede-pingv
  iner-1@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261128T130000
 SUMMARY:Ved kreabordet: Nuttede pingviner
@@ -935,7 +955,7 @@ URL:https://www.aakb.dk/hojbjerg-bibliotek/arrangementer/born/ved-kreaborde
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877824@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261128T103000
 DTEND;TZID=Europe/Copenhagen:20261128T110000
 SUMMARY:Eventyrlige fortællinger for børn
@@ -946,7 +966,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetimen-til-fernisering-ny-samling-paa-niv-8-2811@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261128T110000
 DTEND;TZID=Europe/Copenhagen:20261128T114500
 SUMMARY:Børnetimen til fernisering: Ny samling på Niv. 8
@@ -958,7 +978,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-fabelscenen-nissen-hos-spaekhoekeren@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261128T110000
 DTEND;TZID=Europe/Copenhagen:20261129T150000
 SUMMARY:Forestilling for børn – Nissen hos spækhøkeren
@@ -968,7 +988,7 @@ URL:https://aarhusinside.dk/event/fabelscenen-nissen-hos-spaekhoekeren/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877825@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261128T113000
 DTEND;TZID=Europe/Copenhagen:20261128T120000
 SUMMARY:Eventyrlige fortællinger for børn
@@ -978,7 +998,7 @@ URL:https://dokk1.dk/det-sker/eventyrlige-fortaellinger-boern-2
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-291126@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261129T103000
 DTEND;TZID=Europe/Copenhagen:20261129T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -989,7 +1009,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-de-tavse-borns-stemmer@aarhus-kalende
  r
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261222
 SUMMARY:De tavse børns stemmer
@@ -1000,7 +1020,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-aben-barselscafe-krop-og-bev
  aegelse-2026-12-01@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261201T103000
 DTEND;TZID=Europe/Copenhagen:20261201T113000
 SUMMARY:Åben barselscafé - krop og bevægelse
@@ -1012,7 +1032,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-born-bornebogklubben-6@aarhus-kal
  ender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261201T153000
 DTEND;TZID=Europe/Copenhagen:20261201T164500
 SUMMARY:Børnebogklubben
@@ -1024,7 +1044,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-hyggelig-hojtlaesning-2026-1
  2-01@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261201T160000
 DTEND;TZID=Europe/Copenhagen:20261201T163000
 SUMMARY:Hyggelig højtlæsning
@@ -1036,7 +1056,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-born-pigernes-bogklub-2026-12-01@aarhu
  s-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261201T163000
 DTEND;TZID=Europe/Copenhagen:20261201T173000
 SUMMARY:Pigernes Bogklub
@@ -1048,7 +1068,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hasle-bibliotek-arrangementer-born-babyklang-2026-12-03@aarhus-kal
  ender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261203T101500
 DTEND;TZID=Europe/Copenhagen:20261203T120000
 SUMMARY:Babyklang
@@ -1059,7 +1079,7 @@ URL:https://www.aakb.dk/hasle-bibliotek/arrangementer/born/babyklang/2026-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877840@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261203T120000
 DTEND;TZID=Europe/Copenhagen:20261203T143000
 SUMMARY:Fars legestue
@@ -1069,7 +1089,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-32
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877775@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261203T160000
 DTEND;TZID=Europe/Copenhagen:20261203T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1080,7 +1100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-lektiecafe-born-og-unge-33@aa
  rhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261203T160000
 DTEND;TZID=Europe/Copenhagen:20261203T173000
 SUMMARY:Lektiecafé for børn og unge
@@ -1091,7 +1111,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/born/lektiecafe-bor
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878552@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261204T100000
 DTEND;TZID=Europe/Copenhagen:20261204T114500
 SUMMARY:Barselskor & Babyrytmik på DOKK1 / Den Kreative Skole Aarhus
@@ -1102,7 +1122,7 @@ URL:https://dokk1.dk/det-sker/barselskor-babyrytmik-paa-dokk1-den-kreative-
 END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-events-born-bamsehospitalet@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261204T150000
 DTEND;TZID=Europe/Copenhagen:20261204T170000
 SUMMARY:Bamsehospitalet
@@ -1113,7 +1133,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-born-ved-kreabordet-juletrae@aarh
  us-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261205T100000
 DTEND;TZID=Europe/Copenhagen:20261205T130000
 SUMMARY:Ved kreabordet: Juletræ
@@ -1125,7 +1145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-dyr-i-kunst-5-dec-2026@aarhus-
  kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261205T103000
 DTEND;TZID=Europe/Copenhagen:20261205T111500
 SUMMARY:Børnetime: Dyr i kunst
@@ -1136,7 +1156,7 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-dyr-i-kunst-5-d
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878510@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261205T103000
 DTEND;TZID=Europe/Copenhagen:20261205T113000
 SUMMARY:Tulle og Skralle i nissernes land (2-4 år)
@@ -1146,7 +1166,7 @@ URL:https://dokk1.dk/det-sker/tulle-og-skralle-i-nissernes-land-24-aar-0
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-nissen-hos-spaekhoekeren@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261205T110000
 DTEND;TZID=Europe/Copenhagen:20261206T150000
 SUMMARY:Forestilling for børn – Nissen hos spækhøkeren
@@ -1156,7 +1176,7 @@ URL:https://aarhusinside.dk/event/nissen-hos-spaekhoekeren/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-061226@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261206T103000
 DTEND;TZID=Europe/Copenhagen:20261206T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -1167,7 +1187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hjortshoj-kombi-bibliotek-arrangementer-born-barselscafe-tryk-af-b
  abys-hand-eller-fod-2@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261207T100000
 DTEND;TZID=Europe/Copenhagen:20261207T110000
 SUMMARY:Barselscafé: Tryk af babys hånd eller fod
@@ -1179,7 +1199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-born-kreabordet-julekrea-med-nome
  rne-0@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261207T150000
 DTEND;TZID=Europe/Copenhagen:20261207T170000
 SUMMARY:Kreabordet: Julekrea med Nomerne
@@ -1191,7 +1211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-hyggelig-hojtlaesning-2026-1
  2-08@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261208T160000
 DTEND;TZID=Europe/Copenhagen:20261208T163000
 SUMMARY:Hyggelig højtlæsning
@@ -1203,7 +1223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-barselscafe-tryk-af-babys-han
  d-eller-fod-2@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261210T100000
 DTEND;TZID=Europe/Copenhagen:20261210T110000
 SUMMARY:Barselscafé: Tryk af babys hånd eller fod
@@ -1214,7 +1234,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/born/barselscafe-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877837@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261210T120000
 DTEND;TZID=Europe/Copenhagen:20261210T143000
 SUMMARY:Fars legestue
@@ -1224,7 +1244,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-29
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877781@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261210T160000
 DTEND;TZID=Europe/Copenhagen:20261210T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1235,7 +1255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-lektiecafe-born-og-unge-35@aa
  rhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261210T160000
 DTEND;TZID=Europe/Copenhagen:20261210T173000
 SUMMARY:Lektiecafé for børn og unge
@@ -1247,7 +1267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-born-litteraer-barselscafe-0@aarhu
  s-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261211T100000
 DTEND;TZID=Europe/Copenhagen:20261211T110000
 SUMMARY:Litterær barselscafé
@@ -1259,7 +1279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hasle-bibliotek-arrangementer-born-familielordag-juleby-0@aarhus-k
  alender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261212T100000
 DTEND;TZID=Europe/Copenhagen:20261212T130000
 SUMMARY:Familielørdag - Juleby
@@ -1271,7 +1291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-born-ved-kreabordet-en-julehund@a
  arhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261212T100000
 DTEND;TZID=Europe/Copenhagen:20261212T130000
 SUMMARY:Ved kreabordet: En julehund
@@ -1282,7 +1302,7 @@ URL:https://www.aakb.dk/hojbjerg-bibliotek/arrangementer/born/ved-kreaborde
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878044@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261212T103000
 DTEND;TZID=Europe/Copenhagen:20261212T110000
 SUMMARY:Musikskolens fløjtekoncert
@@ -1293,7 +1313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-for-boern-nissen-hos-spaekhoekeren@aarhu
  s-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261212T110000
 DTEND;TZID=Europe/Copenhagen:20261213T150000
 SUMMARY:Forestilling for børn – Nissen hos spækhøkeren
@@ -1303,7 +1323,7 @@ URL:https://aarhusinside.dk/event/for-boern-nissen-hos-spaekhoekeren/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-131226@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261213T103000
 DTEND;TZID=Europe/Copenhagen:20261213T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -1314,7 +1334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-aben-barselscafe-babybibliot
  ek-2026-12-15@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261215T103000
 DTEND;TZID=Europe/Copenhagen:20261215T113000
 SUMMARY:Åben barselscafé - babybibliotek
@@ -1326,7 +1346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-hyggelig-hojtlaesning-2026-1
  2-15@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261215T160000
 DTEND;TZID=Europe/Copenhagen:20261215T163000
 SUMMARY:Hyggelig højtlæsning
@@ -1337,7 +1357,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/born/hyggelig-hojt
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877841@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261217T120000
 DTEND;TZID=Europe/Copenhagen:20261217T143000
 SUMMARY:Fars legestue
@@ -1347,7 +1367,7 @@ URL:https://dokk1.dk/det-sker/fars-legestue-33
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877787@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261217T160000
 DTEND;TZID=Europe/Copenhagen:20261217T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1358,7 +1378,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-trige-kombi-bibliotek-arrangementer-born-fyraftensfilm-de-mindste-
  2026-12-17@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261217T160000
 DTEND;TZID=Europe/Copenhagen:20261217T170000
 SUMMARY:Fyraftensfilm for de mindste
@@ -1370,7 +1390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-born-ved-kreabordet-en-julehund-1
  @aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261219T100000
 DTEND;TZID=Europe/Copenhagen:20261219T130000
 SUMMARY:Ved kreabordet: En julehund
@@ -1381,7 +1401,7 @@ URL:https://www.aakb.dk/hojbjerg-bibliotek/arrangementer/born/ved-kreaborde
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetimen-favoritter-fra-samlingen-1912@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261219T103000
 DTEND;TZID=Europe/Copenhagen:20261219T111500
 SUMMARY:Børnetimen - Favoritter fra samlingen
@@ -1391,7 +1411,7 @@ URL:https://www.aros.dk/kalender/boernetimen-favoritter-fra-samlingen-1912/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-julehistorie-i-as-seen-below-201226@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261220T103000
 DTEND;TZID=Europe/Copenhagen:20261220T110000
 SUMMARY:Julehistorie i As Seen Below
@@ -1402,7 +1422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-born-hyggelig-hojtlaesning-2026-1
  2-22@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20261222T160000
 DTEND;TZID=Europe/Copenhagen:20261222T163000
 SUMMARY:Hyggelig højtlæsning
@@ -1414,7 +1434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-de-tavse-borns-stemmer-0@aarh
  us-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270124
 SUMMARY:De tavse børns stemmer
@@ -1425,7 +1445,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/born/de-tavse-borns
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877776@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270107T160000
 DTEND;TZID=Europe/Copenhagen:20270107T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1436,7 +1456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-natur-i-kunst-9-jan-2027@aarhu
  s-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270109T103000
 DTEND;TZID=Europe/Copenhagen:20270109T111500
 SUMMARY:Børnetime: Natur i kunst
@@ -1447,7 +1467,7 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-natur-i-kunst-9
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877788@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270114T160000
 DTEND;TZID=Europe/Copenhagen:20270114T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1457,7 +1477,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-36
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877801@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270121T160000
 DTEND;TZID=Europe/Copenhagen:20270121T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1467,7 +1487,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-45
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877802@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270128T160000
 DTEND;TZID=Europe/Copenhagen:20270128T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1477,7 +1497,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-44
 END:VEVENT
 BEGIN:VEVENT
 UID:va-2c901262-161c-4439-a333-177cfc7cc5c7-0@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Kazoo - Børnemusikfestival i Musikhuset Aarhus
@@ -1488,7 +1508,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/kazoo-boernem
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877803@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270204T160000
 DTEND;TZID=Europe/Copenhagen:20270204T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1498,7 +1518,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-47
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877794@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270211T160000
 DTEND;TZID=Europe/Copenhagen:20270211T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1509,7 +1529,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-13-feb-2027@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270213T103000
 DTEND;TZID=Europe/Copenhagen:20270213T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -1521,7 +1541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-14-feb-2027@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270214T103000
 DTEND;TZID=Europe/Copenhagen:20270214T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -1533,7 +1553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-15-feb-2027@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270215T103000
 DTEND;TZID=Europe/Copenhagen:20270215T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -1545,7 +1565,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-16-feb-2027@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270216T103000
 DTEND;TZID=Europe/Copenhagen:20270216T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -1557,7 +1577,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-17-feb-2027@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270217T103000
 DTEND;TZID=Europe/Copenhagen:20270217T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -1569,7 +1589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-18-feb-2027@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270218T103000
 DTEND;TZID=Europe/Copenhagen:20270218T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -1581,7 +1601,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-19-feb-2027@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270219T103000
 DTEND;TZID=Europe/Copenhagen:20270219T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -1593,7 +1613,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-20-feb-2027@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270220T103000
 DTEND;TZID=Europe/Copenhagen:20270220T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -1605,7 +1625,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-farver-i-kunst-21-feb-2027@aar
  hus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270221T103000
 DTEND;TZID=Europe/Copenhagen:20270221T111500
 SUMMARY:Børnetime på vinterferie: Farver i kunst
@@ -1616,7 +1636,7 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-farver-i-kunst-
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877777@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270225T160000
 DTEND;TZID=Europe/Copenhagen:20270225T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1627,7 +1647,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-born-leg-musik-og-bevaegelse@aarhus-k
  alender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270227T100000
 DTEND;TZID=Europe/Copenhagen:20270227T113000
 SUMMARY:Leg\, musik og bevægelse
@@ -1638,7 +1658,7 @@ URL:https://www.aakb.dk/viby-bibliotek/arrangementer/born/leg-musik-og-beva
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877795@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270304T160000
 DTEND;TZID=Europe/Copenhagen:20270304T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1648,7 +1668,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-49
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877784@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270311T160000
 DTEND;TZID=Europe/Copenhagen:20270311T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1659,7 +1679,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-maerkelige-former-i-kunst-13-m
  arts-2027@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270313T103000
 DTEND;TZID=Europe/Copenhagen:20270313T111500
 SUMMARY:Børnetime på vinterferie: Mærkelige former i kunst
@@ -1670,7 +1690,7 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-maerkelige-form
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877804@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270318T160000
 DTEND;TZID=Europe/Copenhagen:20270318T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1680,7 +1700,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-46
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877789@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270401T160000
 DTEND;TZID=Europe/Copenhagen:20270401T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1690,7 +1710,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-38
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877770@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270408T160000
 DTEND;TZID=Europe/Copenhagen:20270408T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1701,7 +1721,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-boernetime-kunst-for-boern-ansigter-i-kunst-10-april-2027
  @aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270410T103000
 DTEND;TZID=Europe/Copenhagen:20270410T111500
 SUMMARY:Børnetime på vinterferie: Ansigter i kunst
@@ -1712,7 +1732,7 @@ URL:https://www.aros.dk/kalender/boernetime-kunst-for-boern-ansigter-i-kuns
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877796@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270415T160000
 DTEND;TZID=Europe/Copenhagen:20270415T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1722,7 +1742,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-50
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877771@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270422T160000
 DTEND;TZID=Europe/Copenhagen:20270422T173000
 SUMMARY:Digital Leg for Børn og Familier
@@ -1732,7 +1752,7 @@ URL:https://dokk1.dk/det-sker/digital-leg-boern-og-familier-21
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877797@aarhus-kalender
-DTSTAMP:20261101T035231Z
+DTSTAMP:20261102T035716Z
 DTSTART;TZID=Europe/Copenhagen:20270429T160000
 DTEND;TZID=Europe/Copenhagen:20270429T173000
 SUMMARY:Digital Leg for Børn og Familier
