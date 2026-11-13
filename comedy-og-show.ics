@@ -24,18 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mh-/kalender/trines-mor@aarhus-kalender
-DTSTAMP:20261112T035803Z
-DTSTART;TZID=Europe/Copenhagen:20261112T183000
-DTEND;TZID=Europe/Copenhagen:20261112T203000
-SUMMARY:Trines mor - Bodil Jørgensen og Lisbeth Wulff
-LOCATION:Musikhuset Aarhus
-CATEGORIES:Comedy & Show\,Musikhuset Aarhus
-URL:https://www.musikhuset.dk/kalender/trines-mor
-END:VEVENT
-BEGIN:VEVENT
 UID:mh-/kalender/tommy-kenter@aarhus-kalender
-DTSTAMP:20261112T035803Z
+DTSTAMP:20261113T035508Z
 DTSTART;TZID=Europe/Copenhagen:20261115T150000
 DTEND;TZID=Europe/Copenhagen:20261115T170000
 SUMMARY:Tommy Kenter - Sidste KENTEX
@@ -45,7 +35,7 @@ URL:https://www.musikhuset.dk/kalender/tommy-kenter
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/dybt-go-nat-danmark@aarhus-kalender
-DTSTAMP:20261112T035803Z
+DTSTAMP:20261113T035508Z
 DTSTART;TZID=Europe/Copenhagen:20261119T193000
 DTEND;TZID=Europe/Copenhagen:20261119T213000
 SUMMARY:Dybt Go'nat
@@ -55,7 +45,7 @@ URL:https://www.musikhuset.dk/kalender/dybt-go-nat-danmark
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/hadi-ka-koush@aarhus-kalender
-DTSTAMP:20261112T035803Z
+DTSTAMP:20261113T035508Z
 DTSTART;TZID=Europe/Copenhagen:20261120T203000
 DTEND;TZID=Europe/Copenhagen:20261120T223000
 SUMMARY:Hadi Ka-koush - Næsten Helt Normal
@@ -65,7 +55,7 @@ URL:https://www.musikhuset.dk/kalender/hadi-ka-koush
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/mads-og-a-holdet@aarhus-kalender
-DTSTAMP:20261112T035803Z
+DTSTAMP:20261113T035508Z
 DTSTART;TZID=Europe/Copenhagen:20261127T203000
 DTEND;TZID=Europe/Copenhagen:20261127T223000
 SUMMARY:Mads og A-holdet - Live
@@ -75,7 +65,7 @@ URL:https://www.musikhuset.dk/kalender/mads-og-a-holdet
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/rasmus-wallbridge@aarhus-kalender
-DTSTAMP:20261112T035803Z
+DTSTAMP:20261113T035508Z
 DTSTART;TZID=Europe/Copenhagen:20261128T170000
 DTEND;TZID=Europe/Copenhagen:20261128T190000
 SUMMARY:Rasmus Wallbridge - Små Sensationer
@@ -84,9 +74,19 @@ CATEGORIES:Comedy & Show\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/rasmus-wallbridge
 END:VEVENT
 BEGIN:VEVENT
+UID:mh-/kalender/mark-le-fevre@aarhus-kalender
+DTSTAMP:20261113T035508Z
+DTSTART;TZID=Europe/Copenhagen:20261201T180000
+DTEND;TZID=Europe/Copenhagen:20261201T200000
+SUMMARY:Mark Le Fevre - Det Fejler Ik' En Skid
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Comedy & Show\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/mark-le-fevre
+END:VEVENT
+BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julebanko-hos-aarhus-comedy-club@aarhus-
  kalender
-DTSTAMP:20261112T035803Z
+DTSTAMP:20261113T035508Z
 DTSTART;TZID=Europe/Copenhagen:20261205T200000
 DTEND;TZID=Europe/Copenhagen:20261205T220000
 SUMMARY:Julebanko hos Aarhus Comedy Club
