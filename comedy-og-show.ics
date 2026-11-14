@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mh-/kalender/tommy-kenter@aarhus-kalender
-DTSTAMP:20261113T035508Z
+DTSTAMP:20261114T035013Z
 DTSTART;TZID=Europe/Copenhagen:20261115T150000
 DTEND;TZID=Europe/Copenhagen:20261115T170000
 SUMMARY:Tommy Kenter - Sidste KENTEX
@@ -35,7 +35,7 @@ URL:https://www.musikhuset.dk/kalender/tommy-kenter
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/dybt-go-nat-danmark@aarhus-kalender
-DTSTAMP:20261113T035508Z
+DTSTAMP:20261114T035013Z
 DTSTART;TZID=Europe/Copenhagen:20261119T193000
 DTEND;TZID=Europe/Copenhagen:20261119T213000
 SUMMARY:Dybt Go'nat
@@ -45,7 +45,7 @@ URL:https://www.musikhuset.dk/kalender/dybt-go-nat-danmark
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/hadi-ka-koush@aarhus-kalender
-DTSTAMP:20261113T035508Z
+DTSTAMP:20261114T035013Z
 DTSTART;TZID=Europe/Copenhagen:20261120T203000
 DTEND;TZID=Europe/Copenhagen:20261120T223000
 SUMMARY:Hadi Ka-koush - Næsten Helt Normal
@@ -55,7 +55,7 @@ URL:https://www.musikhuset.dk/kalender/hadi-ka-koush
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/mads-og-a-holdet@aarhus-kalender
-DTSTAMP:20261113T035508Z
+DTSTAMP:20261114T035013Z
 DTSTART;TZID=Europe/Copenhagen:20261127T203000
 DTEND;TZID=Europe/Copenhagen:20261127T223000
 SUMMARY:Mads og A-holdet - Live
@@ -64,18 +64,8 @@ CATEGORIES:Comedy & Show\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/mads-og-a-holdet
 END:VEVENT
 BEGIN:VEVENT
-UID:mh-/kalender/rasmus-wallbridge@aarhus-kalender
-DTSTAMP:20261113T035508Z
-DTSTART;TZID=Europe/Copenhagen:20261128T170000
-DTEND;TZID=Europe/Copenhagen:20261128T190000
-SUMMARY:Rasmus Wallbridge - Små Sensationer
-LOCATION:Musikhuset Aarhus
-CATEGORIES:Comedy & Show\,Musikhuset Aarhus
-URL:https://www.musikhuset.dk/kalender/rasmus-wallbridge
-END:VEVENT
-BEGIN:VEVENT
 UID:mh-/kalender/mark-le-fevre@aarhus-kalender
-DTSTAMP:20261113T035508Z
+DTSTAMP:20261114T035013Z
 DTSTART;TZID=Europe/Copenhagen:20261201T180000
 DTEND;TZID=Europe/Copenhagen:20261201T200000
 SUMMARY:Mark Le Fevre - Det Fejler Ik' En Skid
@@ -86,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julebanko-hos-aarhus-comedy-club@aarhus-
  kalender
-DTSTAMP:20261113T035508Z
+DTSTAMP:20261114T035013Z
 DTSTART;TZID=Europe/Copenhagen:20261205T200000
 DTEND;TZID=Europe/Copenhagen:20261205T220000
 SUMMARY:Julebanko hos Aarhus Comedy Club
