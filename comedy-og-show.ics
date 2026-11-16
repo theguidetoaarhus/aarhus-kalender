@@ -24,18 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mh-/kalender/tommy-kenter@aarhus-kalender
-DTSTAMP:20261115T035553Z
-DTSTART;TZID=Europe/Copenhagen:20261115T150000
-DTEND;TZID=Europe/Copenhagen:20261115T170000
-SUMMARY:Tommy Kenter - Sidste KENTEX
-LOCATION:Musikhuset Aarhus
-CATEGORIES:Comedy & Show\,Musikhuset Aarhus
-URL:https://www.musikhuset.dk/kalender/tommy-kenter
-END:VEVENT
-BEGIN:VEVENT
 UID:mh-/kalender/dybt-go-nat-danmark@aarhus-kalender
-DTSTAMP:20261115T035553Z
+DTSTAMP:20261116T040932Z
 DTSTART;TZID=Europe/Copenhagen:20261119T193000
 DTEND;TZID=Europe/Copenhagen:20261119T213000
 SUMMARY:Dybt Go'nat
@@ -45,7 +35,7 @@ URL:https://www.musikhuset.dk/kalender/dybt-go-nat-danmark
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/hadi-ka-koush@aarhus-kalender
-DTSTAMP:20261115T035553Z
+DTSTAMP:20261116T040932Z
 DTSTART;TZID=Europe/Copenhagen:20261120T203000
 DTEND;TZID=Europe/Copenhagen:20261120T223000
 SUMMARY:Hadi Ka-koush - Næsten Helt Normal
@@ -55,7 +45,7 @@ URL:https://www.musikhuset.dk/kalender/hadi-ka-koush
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/mads-og-a-holdet@aarhus-kalender
-DTSTAMP:20261115T035553Z
+DTSTAMP:20261116T040932Z
 DTSTART;TZID=Europe/Copenhagen:20261127T203000
 DTEND;TZID=Europe/Copenhagen:20261127T223000
 SUMMARY:Mads og A-holdet - Live
@@ -65,7 +55,7 @@ URL:https://www.musikhuset.dk/kalender/mads-og-a-holdet
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/mark-le-fevre@aarhus-kalender
-DTSTAMP:20261115T035553Z
+DTSTAMP:20261116T040932Z
 DTSTART;TZID=Europe/Copenhagen:20261201T180000
 DTEND;TZID=Europe/Copenhagen:20261201T200000
 SUMMARY:Mark Le Fevre - Det Fejler Ik' En Skid
@@ -76,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ai-https-aarhusinside-dk-event-julebanko-hos-aarhus-comedy-club@aarhus-
  kalender
-DTSTAMP:20261115T035553Z
+DTSTAMP:20261116T040932Z
 DTSTART;TZID=Europe/Copenhagen:20261205T200000
 DTEND;TZID=Europe/Copenhagen:20261205T220000
 SUMMARY:Julebanko hos Aarhus Comedy Club
