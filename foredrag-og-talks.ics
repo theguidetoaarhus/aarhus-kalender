@@ -24,154 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gb-de-paaroerende-journalistens-dilemma@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:De pårørende – journalistens dilemma
-LOCATION:Godsbanen
-CATEGORIES:Foredrag & Talks\,Godsbanen
-URL:https://godsbanen.dk/kalender/de-paaroerende-journalistens-dilemma/
-END:VEVENT
-BEGIN:VEVENT
-UID:aakb-aby-bibliotek-arrangementer-litteratur-aby-skrivegruppe-om-erindri
- nger@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T100000
-DTEND;TZID=Europe/Copenhagen:20261116T120000
-SUMMARY:Åby skrivegruppe - om erindringer
-LOCATION:Åby Bibliotek
-CATEGORIES:Foredrag & Talks\,Aarhus Kommunes Biblioteker\,Gratis
-URL:https://www.aakb.dk/aby-bibliotek/arrangementer/litteratur/aby-skrivegr
- uppe-om-erindringer
-END:VEVENT
-BEGIN:VEVENT
-UID:aakb-hojbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe
- -2026-11-16@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T100000
-DTEND;TZID=Europe/Copenhagen:20261116T120000
-SUMMARY:Digital Café
-LOCATION:Højbjerg Bibliotek
-CATEGORIES:Foredrag & Talks\,Aarhus Kommunes Biblioteker\,Gratis
-URL:https://www.aakb.dk/hojbjerg-bibliotek/arrangementer/hjaelp-og-vejledni
- ng/digital-cafe/2026-11-16
-END:VEVENT
-BEGIN:VEVENT
-UID:aakb-lystrup-bibliotek-arrangementer-viden-og-demokrati-samtalecafe-pa-
- folkehuset-i-lystrup-2@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T100000
-DTEND;TZID=Europe/Copenhagen:20261116T120000
-SUMMARY:Samtalecafe på Folkehuset i Lystrup
-LOCATION:Lystrup Bibliotek
-CATEGORIES:Foredrag & Talks\,Aarhus Kommunes Biblioteker\,Gratis
-URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/viden-og-demokrati/
- samtalecafe-pa-folkehuset-i-lystrup-2
-END:VEVENT
-BEGIN:VEVENT
-UID:aakb-gellerup-bibliotek-arrangementer-hjaelp-og-vejledning-gellerups-it
- -mandage-2026-11-16@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T110000
-DTEND;TZID=Europe/Copenhagen:20261116T130000
-SUMMARY:Gellerups IT-mandage
-LOCATION:Gellerup Bibliotek
-CATEGORIES:Foredrag & Talks\,Aarhus Kommunes Biblioteker\,Gratis
-URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/hjaelp-og-vejledni
- ng/gellerups-it-mandage/2026-11-16
-END:VEVENT
-BEGIN:VEVENT
-UID:aakb-harlev-bibliotek-arrangementer-litteratur-ordbanko@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T140000
-DTEND;TZID=Europe/Copenhagen:20261116T150000
-SUMMARY:OrdBanko
-LOCATION:Harlev Bibliotek
-CATEGORIES:Foredrag & Talks\,Aarhus Kommunes Biblioteker\,Gratis
-URL:https://www.aakb.dk/harlev-bibliotek/arrangementer/litteratur/ordbanko
-END:VEVENT
-BEGIN:VEVENT
-UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2026-
- 11-16@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T140000
-DTEND;TZID=Europe/Copenhagen:20261116T160000
-SUMMARY:Sprogcafé
-LOCATION:Risskov Bibliotek
-CATEGORIES:Foredrag & Talks\,Aarhus Kommunes Biblioteker\,Gratis
-URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/viden-og-demokrati/
- sprogcafe/2026-11-16
-END:VEVENT
-BEGIN:VEVENT
-UID:aakb-lystrup-bibliotek-arrangementer-viden-og-demokrati-lokalhistoriske
- -samling-2026-11-16@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T150000
-DTEND;TZID=Europe/Copenhagen:20261116T170000
-SUMMARY:Lokalhistoriske Samling
-LOCATION:Lystrup Bibliotek
-CATEGORIES:Foredrag & Talks\,Aarhus Kommunes Biblioteker\,Gratis
-URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/viden-og-demokrati/
- lokalhistoriske-samling/2026-11-16
-END:VEVENT
-BEGIN:VEVENT
-UID:dokk1-2877868@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T160000
-DTEND;TZID=Europe/Copenhagen:20261116T180000
-SUMMARY:Frøbibliotek
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/froebibliotek-25
-END:VEVENT
-BEGIN:VEVENT
-UID:dokk1-2878909@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T160000
-DTEND;TZID=Europe/Copenhagen:20261116T180000
-SUMMARY:Planteværksted - frø som gaver
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/plantevaerksted-froe-som-gaver-1
-END:VEVENT
-BEGIN:VEVENT
-UID:dokk1-2877873@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T163000
-DTEND;TZID=Europe/Copenhagen:20261116T180000
-SUMMARY:Fully booked! English Book Clubs at Dokk1
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/fully-booked-english-book-clubs-dokk1-1
-END:VEVENT
-BEGIN:VEVENT
-UID:aakb-risskov-bibliotek-arrangementer-litteratur-fully-booked-english-bo
- okclub-risskov-bibliotek-2026-11@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T163000
-DTEND;TZID=Europe/Copenhagen:20261116T180000
-SUMMARY:Fully Booked! English Bookclub at Risskov Bibliotek
-LOCATION:Risskov Bibliotek
-CATEGORIES:Foredrag & Talks\,Aarhus Kommunes Biblioteker\,Gratis
-URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/litteratur/fully-bo
- oked-english-bookclub-risskov-bibliotek/2026-11
-END:VEVENT
-BEGIN:VEVENT
-UID:aakb-tilst-bibliotek-arrangementer-litteratur-tid-til-litteratur-ordban
- ko@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T163000
-DTEND;TZID=Europe/Copenhagen:20261116T173000
-SUMMARY:Tid til litteratur - Ordbanko
-LOCATION:Tilst Bibliotek
-CATEGORIES:Foredrag & Talks\,Aarhus Kommunes Biblioteker\,Gratis
-URL:https://www.aakb.dk/tilst-bibliotek/arrangementer/litteratur/tid-til-li
- tteratur-ordbanko
-END:VEVENT
-BEGIN:VEVENT
-UID:hk-20261116-97878870@aarhus-kalender
-DTSTAMP:20261116T040932Z
+UID:hk-20261116-71767641@aarhus-kalender
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261116T173000
 DTEND;TZID=Europe/Copenhagen:20261116T193000
 SUMMARY:‍ Forelæsning om ‘Globale kvindefortællinger i Danmark’ med
@@ -182,29 +36,8 @@ URL:https://fuau.dk/aarhus/program/samfund-og-verden/globale-kvindefortaell
  inger-i-danmark-2621-309?area=Aarhus
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-just-human-med-chris-macdonald@aarhus-ka
- lender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T190000
-DTEND;TZID=Europe/Copenhagen:20261116T210000
-SUMMARY:Just Human med Chris MacDonald
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/just-human-med-chris-macdonald/
-END:VEVENT
-BEGIN:VEVENT
-UID:dokk1-2878821@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261116T190000
-DTEND;TZID=Europe/Copenhagen:20261116T210000
-SUMMARY:Leif Davidsen: Requiem for Rusland
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/leif-davidsen-requiem-rusland
-END:VEVENT
-BEGIN:VEVENT
-UID:hk-20261116-69392591@aarhus-kalender
-DTSTAMP:20261116T040932Z
+UID:hk-20261116-40195151@aarhus-kalender
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261116T190000
 DTEND;TZID=Europe/Copenhagen:20261116T210000
 SUMMARY:Foredrag med forfatter & Weekendavisen-journalist Amalie Langballe
@@ -213,8 +46,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring
 URL:https://kakofoni.nemtilmeld.dk/26/?
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261116-28857652@aarhus-kalender
-DTSTAMP:20261116T040932Z
+UID:hk-20261116-93900625@aarhus-kalender
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261116T190000
 DTEND;TZID=Europe/Copenhagen:20261116T210000
 SUMMARY:Foredrag med Kristian Leth i Ellevang Kirke i Risskov
@@ -224,8 +57,8 @@ URL:https://www.yourticket.dk/?ytroute=/arrangementer/60105/foredrag-med-kr
  istian-leth/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261116-20836626@aarhus-kalender
-DTSTAMP:20261116T040932Z
+UID:hk-20261116-90216769@aarhus-kalender
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261116T190000
 DTEND;TZID=Europe/Copenhagen:20261116T210000
 SUMMARY:Musikforedrag om Beach Boys’ ikoniske album ‘Pet Sounds’
@@ -234,18 +67,8 @@ CATEGORIES:Foredrag & Talks\,Heromkring
 URL:https://heromkring.beehiiv.com/p/heromkring-aarhus-uge-47
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878167@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261117T130000
-DTEND;TZID=Europe/Copenhagen:20261117T150000
-SUMMARY:Spis-dyrk-skab-Lab
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/spisdyrkskablab-13
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878559@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261117T130000
 DTEND;TZID=Europe/Copenhagen:20261117T150000
 SUMMARY:Åben Spire - tirsdag
@@ -255,7 +78,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877813@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261117T130000
 DTEND;TZID=Europe/Copenhagen:20261117T150000
 SUMMARY:Eco-print ☘️
@@ -264,9 +87,19 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/ecoprint-0
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878167@aarhus-kalender
+DTSTAMP:20261117T035823Z
+DTSTART;TZID=Europe/Copenhagen:20261117T130000
+DTEND;TZID=Europe/Copenhagen:20261117T150000
+SUMMARY:Spis-dyrk-skab-Lab
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/spisdyrkskablab-13
+END:VEVENT
+BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-viden-og-demokrati-solbjerg-og-om
  egns-lokalhistoriske-arkiv-31@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261117T150000
 DTEND;TZID=Europe/Copenhagen:20261117T170000
 SUMMARY:Solbjerg og Omegns Lokalhistoriske Arkiv
@@ -278,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-tekst-til-tiden-2026-1
  1-17@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261117T160000
 DTEND;TZID=Europe/Copenhagen:20261117T180000
 SUMMARY:Tekst til tiden
@@ -289,7 +122,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/litteratur/tekst-t
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878196@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261117T161500
 DTEND;TZID=Europe/Copenhagen:20261117T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -299,7 +132,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-56
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877875@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261117T163000
 DTEND;TZID=Europe/Copenhagen:20261117T180000
 SUMMARY:Fully booked! English Book Clubs at Dokk1
@@ -310,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-baeredygtighed-og-natur-visible-mendin
  g@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261117T183000
 DTEND;TZID=Europe/Copenhagen:20261117T203000
 SUMMARY:Visible mending
@@ -320,8 +153,8 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/baeredygtighed-og-natur
  /visible-mending
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261117-59921476@aarhus-kalender
-DTSTAMP:20261116T040932Z
+UID:hk-20261117-49310290@aarhus-kalender
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261117T184500
 DTEND;TZID=Europe/Copenhagen:20261117T204500
 SUMMARY:Foredrag på AU om Tang - livestream?
@@ -331,7 +164,7 @@ URL:https://fb.me/e/4Vj3yODo1
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-tang-aau-foredrag-20261117-190000@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261117T190000
 DTEND;TZID=Europe/Copenhagen:20261117T210000
 SUMMARY:Tang - AAU foredrag
@@ -343,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hasle-bibliotek-arrangementer-viden-og-demokrati-tang-0@aarhus-kal
  ender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261117T190000
 DTEND;TZID=Europe/Copenhagen:20261117T210000
 SUMMARY:Tang
@@ -355,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-vejlby-risskov-
  lokalhistoriske-arkiv-2026-11-18@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261118T090000
 DTEND;TZID=Europe/Copenhagen:20261118T120000
 SUMMARY:Vejlby-Risskov Lokalhistoriske Arkiv
@@ -366,7 +199,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875544@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261118T100000
 DTEND;TZID=Europe/Copenhagen:20261118T120000
 SUMMARY:AppsCafé
@@ -376,7 +209,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877704@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261118T110000
 DTEND;TZID=Europe/Copenhagen:20261118T160000
 SUMMARY:Albus Seminar 2026: Børnelitteratur til tiden – det gamle\, det 
@@ -387,8 +220,8 @@ URL:https://dokk1.dk/det-sker/albus-seminar-2026-boernelitteratur-til-tiden
  -det-gamle-det-nye-og-det-svaere
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261118-5333514@aarhus-kalender
-DTSTAMP:20261116T040932Z
+UID:hk-20261118-47103896@aarhus-kalender
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261118T123000
 DTEND;TZID=Europe/Copenhagen:20261118T143000
 SUMMARY:Startup-workshop hos Kitchen
@@ -399,7 +232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-hjaelp-og-vejledning-ai-cafe@aarhu
  s-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261118T130000
 DTEND;TZID=Europe/Copenhagen:20261118T140000
 SUMMARY:AI Café
@@ -411,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2026-11-18@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261118T140000
 DTEND;TZID=Europe/Copenhagen:20261118T163000
 SUMMARY:Lektiecafé
@@ -421,8 +254,8 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
  ing/lektiecafe/2026-11-18
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261118-13090802@aarhus-kalender
-DTSTAMP:20261116T040932Z
+UID:hk-20261118-16580543@aarhus-kalender
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261118T163000
 DTEND;TZID=Europe/Copenhagen:20261118T183000
 SUMMARY:Forfattersamtale mellem Dean Butt & Thomas Bach fra bandet Ganger
@@ -432,8 +265,8 @@ URL:https://www.kb.dk/arrangementer/mellem-stemmer-forfattersamtale-med-dea
  n-butt-og-thomas-bach-klasse-misbrug-og-moensterbrud
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261118-80396621@aarhus-kalender
-DTSTAMP:20261116T040932Z
+UID:hk-20261118-23704892@aarhus-kalender
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261118T163000
 DTEND;TZID=Europe/Copenhagen:20261118T183000
 SUMMARY:Filmforedrag om Anders Thomas Jensens film - du ved\, Adams Æbler\
@@ -445,7 +278,7 @@ URL:https://kulturhusbunkeren.dk/arrangementer/filmforedrag-blinkende-lygte
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/lasse-rahbek@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261118T190000
 DTEND;TZID=Europe/Copenhagen:20261118T210000
 SUMMARY:Lasse Rahbek - Første grønlænder i Sirius - med Alfred Olsen
@@ -454,31 +287,8 @@ CATEGORIES:Foredrag & Talks\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/lasse-rahbek
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-er-jeg-ogsaa-psykopat-foredrag-med-geo@a
- arhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261118T190000
-DTEND;TZID=Europe/Copenhagen:20261118T210000
-SUMMARY:Er jeg (også) psykopat? – Rørende foredrag med Geo
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/er-jeg-ogsaa-psykopat-foredrag-med-geo/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-anne-linnet-foredrag-lyset-moerket-og-in
- derligheden@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261118T190000
-DTEND;TZID=Europe/Copenhagen:20261118T210000
-SUMMARY:Anne Linnet foredrag – lyset\, mørket og inderligheden
-LOCATION:Solsalen
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/anne-linnet-foredrag-lyset-moerket-og-ind
- erligheden/
-END:VEVENT
-BEGIN:VEVENT
-UID:hk-20261118-48300451@aarhus-kalender
-DTSTAMP:20261116T040932Z
+UID:hk-20261118-79495078@aarhus-kalender
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261118T190000
 DTEND;TZID=Europe/Copenhagen:20261118T210000
 SUMMARY:Musikforedrag om The Smiths og den kontroversielle frontperson Morr
@@ -489,7 +299,7 @@ URL:https://heromkring.beehiiv.com/p/heromkring-aarhus-uge-47
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-smykkekursus-laer-at-stoebe-i-soelv-bronze-2@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Smykkekursus: Lær at støbe i sølv / bronze
@@ -500,7 +310,7 @@ URL:https://godsbanen.dk/kalender/smykkekursus-laer-at-stoebe-i-soelv-bronz
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878518@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T100000
 DTEND;TZID=Europe/Copenhagen:20261119T113000
 SUMMARY:Åben Spire - torsdag
@@ -510,7 +320,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-5
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875545@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T100000
 DTEND;TZID=Europe/Copenhagen:20261119T120000
 SUMMARY:AppsCafé
@@ -521,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2026
  -11-19@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T100000
 DTEND;TZID=Europe/Copenhagen:20261119T110000
 SUMMARY:Åbys IT-café
@@ -533,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-tid-til-litteratur-2026-11-
  19@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T103000
 DTEND;TZID=Europe/Copenhagen:20261119T110000
 SUMMARY:Tid til litteratur
@@ -544,7 +354,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/litteratur/tid-til-litt
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878745@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T113000
 DTEND;TZID=Europe/Copenhagen:20261119T123000
 SUMMARY:Billig bælgfrokost
@@ -555,7 +365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-faelleslaesning-2026-1
  1-19@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T133000
 DTEND;TZID=Europe/Copenhagen:20261119T143000
 SUMMARY:Fælleslæsning
@@ -567,7 +377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe-pa-
  viby-bibliotek-2026-11-19@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T140000
 DTEND;TZID=Europe/Copenhagen:20261119T153000
 SUMMARY:Digital Café på Viby Bibliotek
@@ -579,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-laesefaellesskab-2026-1
  1-19@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T150000
 DTEND;TZID=Europe/Copenhagen:20261119T163000
 SUMMARY:Læsefællesskab
@@ -591,7 +401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-trige-kombi-bibliotek-arrangementer-viden-og-demokrati-trige-olste
  d-lokalhistoriske-arkiv-2026-11-0@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T150000
 DTEND;TZID=Europe/Copenhagen:20261119T163000
 SUMMARY:Trige-Ølsted Lokalhistoriske Arkiv
@@ -602,7 +412,7 @@ URL:https://www.aakb.dk/trige-kombi-bibliotek/arrangementer/viden-og-demokr
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878833@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T160000
 DTEND;TZID=Europe/Copenhagen:20261119T173000
 SUMMARY:IBBY salon: De betydningsfulde illustrationer
@@ -612,7 +422,7 @@ URL:https://dokk1.dk/det-sker/ibby-salon-de-betydningsfulde-illustrationer
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878028@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T160000
 DTEND;TZID=Europe/Copenhagen:20261119T180000
 SUMMARY:Matematikcafe
@@ -623,7 +433,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hasle-bibliotek-arrangementer-litteratur-litteratorsdag-nobelprise
  n-og-nu@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T163000
 DTEND;TZID=Europe/Copenhagen:20261119T174500
 SUMMARY:LitteraTORSDAG: Nobelprisen før og nu
@@ -635,7 +445,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-musik-og-talk-rockhistorier-live-punk-1977-1983-191126@aa
  rhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T170000
 DTEND;TZID=Europe/Copenhagen:20261119T190000
 SUMMARY:Musik og Talk - Rockhistorier Live – Punk 1977-1983
@@ -647,7 +457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-kaerlighed-til-persisk
  e-taepper@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T170000
 DTEND;TZID=Europe/Copenhagen:20261119T190000
 SUMMARY:Kærlighed til persiske tæpper
@@ -659,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-forfattermode-kim-fupz-
  aakeson-0@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261119T190000
 DTEND;TZID=Europe/Copenhagen:20261119T203000
 SUMMARY:Forfattermøde: Kim Fupz Aakeson
@@ -671,7 +481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-ordbanko-2026-11-20@aarhus-
  kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261120T133000
 DTEND;TZID=Europe/Copenhagen:20261120T143000
 SUMMARY:ORDbanko
@@ -682,7 +492,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/litteratur/ordbanko/202
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878682@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261120T140000
 DTEND;TZID=Europe/Copenhagen:20261120T213000
 SUMMARY:Albus Festival for Unge
@@ -692,7 +502,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-unge
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-drejekursus-med-glasering-3@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:DREJEKURSUS med glasering
@@ -702,7 +512,7 @@ URL:https://godsbanen.dk/kalender/drejekursus-med-glasering-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-skrivefestivalen-2026@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
 SUMMARY:Skrivefestivalen 2026
@@ -712,7 +522,7 @@ URL:https://godsbanen.dk/kalender/skrivefestivalen-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-workshop-unge-danske-digtere-inderlig-underlighed@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Workshop: Unge Danske Digtere – Inderlig underlighed
@@ -724,7 +534,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gb-workshop-louise-juhl-dalsgaard-det-minimalistiske-plot@aarhus-kalend
  er
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Workshop: Louise Juhl Dalsgaard – Det minimalistiske plot
@@ -736,7 +546,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gb-workshop-asta-olivia-nordenhof-at-opholde-sig-i-usikkerheden@aarhus-
  kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Workshop: Asta Olivia Nordenhof – At opholde sig i usikkerheden
@@ -747,7 +557,7 @@ URL:https://godsbanen.dk/kalender/workshop-asta-olivia-nordenhof-at-opholde
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-workshop-pennevenner-hjemme-i-verden@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Workshop: Pennevenner – Hjemme i verden
@@ -757,7 +567,7 @@ URL:https://godsbanen.dk/kalender/workshop-pennevenner-hjemme-i-verden/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-aaben-scene-med-unge-danske-digtere@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Åben scene med Unge Danske Digtere
@@ -768,7 +578,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-kunsten-forbindelser-hvad-sker-der-naar-det-velkendte-bli
  ver-fremmed-21112026@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261121T103000
 DTEND;TZID=Europe/Copenhagen:20261121T143000
 SUMMARY:Kunsten forbindelser: Hvad sker der\, når det velkendte bliver fre
@@ -779,18 +589,8 @@ URL:https://www.aros.dk/kalender/kunsten-forbindelser-hvad-sker-der-naar-de
  t-velkendte-bliver-fremmed-21112026/
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878444@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261121T110000
-DTEND;TZID=Europe/Copenhagen:20261121T150000
-SUMMARY:Grøn Gavebod 🌱
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/groen-gavebod
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878737@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261121T140000
 DTEND;TZID=Europe/Copenhagen:20261121T160000
 SUMMARY:Albus Festival: DM i Poetry Slam for efterskoler 2026
@@ -801,7 +601,7 @@ URL:https://dokk1.dk/det-sker/albus-festival-dm-i-poetry-slam-efterskoler-2
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-rammetryk-2@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Rammetryk
@@ -811,7 +611,7 @@ URL:https://godsbanen.dk/kalender/rammetryk-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-boggods-2026@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:BogGods 2026
@@ -822,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gb-workshop-ingrid-nymo-sanna-mohr-laursen-skriv-som-du-taler@aarhus-ka
  lender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Workshop: Ingrid Nymo & Sanna Mohr Laursen – Skriv som du taler
@@ -833,7 +633,7 @@ URL:https://godsbanen.dk/kalender/workshop-ingrid-nymo-sanna-mohr-laursen-s
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-workshop-skrivekunstskolen-livekritik@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Workshop: Skrivekunstskolen – Livekritik
@@ -843,7 +643,7 @@ URL:https://godsbanen.dk/kalender/workshop-skrivekunstskolen-livekritik/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-workshop-tina-frank-benspaend-og-systemer@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Workshop: Tina Frank – Benspænd og systemer
@@ -854,7 +654,7 @@ URL:https://godsbanen.dk/kalender/workshop-tina-frank-benspaend-og-systemer
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-workshop-unge-danske-digtere-monstre-og-nordlys@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Workshop: Unge Danske Digtere – Monstre og nordlys
@@ -865,7 +665,7 @@ URL:https://godsbanen.dk/kalender/workshop-unge-danske-digtere-monstre-og-n
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-workshop-kunsten-at-dogmestrikke-221126@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261122T100000
 DTEND;TZID=Europe/Copenhagen:20261122T130000
 SUMMARY:UDSOLGT · Workshop: Kunsten at dogmestrikke
@@ -876,7 +676,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe
  -2026-11-23@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261123T100000
 DTEND;TZID=Europe/Copenhagen:20261123T120000
 SUMMARY:Digital Café
@@ -888,7 +688,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-hjaelp-og-vejledning-gellerups-it
  -mandage-2026-11-23@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261123T110000
 DTEND;TZID=Europe/Copenhagen:20261123T130000
 SUMMARY:Gellerups IT-mandage
@@ -900,7 +700,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2026-
  11-23@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261123T140000
 DTEND;TZID=Europe/Copenhagen:20261123T160000
 SUMMARY:Sprogcafé
@@ -912,7 +712,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-viden-og-demokrati-lokalhistoriske
  -samling-2026-11-23@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261123T150000
 DTEND;TZID=Europe/Copenhagen:20261123T170000
 SUMMARY:Lokalhistoriske Samling
@@ -923,7 +723,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877863@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261123T160000
 DTEND;TZID=Europe/Copenhagen:20261123T180000
 SUMMARY:Frøbibliotek
@@ -933,7 +733,7 @@ URL:https://dokk1.dk/det-sker/froebibliotek-20
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878907@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261123T160000
 DTEND;TZID=Europe/Copenhagen:20261123T180000
 SUMMARY:Planteværksted - frø som gaver
@@ -944,7 +744,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-beder-malling-bibliotek-arrangementer-litteratur-infomode-opstart-
  af-laesekreds-2@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261123T163000
 DTEND;TZID=Europe/Copenhagen:20261123T173000
 SUMMARY:Infomøde: Opstart af læsekreds
@@ -956,7 +756,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tilst-bibliotek-arrangementer-litteratur-tid-til-litteratur-laesei
  nspration@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261123T163000
 DTEND;TZID=Europe/Copenhagen:20261123T173000
 SUMMARY:Tid til litteratur - Læseinspration
@@ -967,7 +767,7 @@ URL:https://www.aakb.dk/tilst-bibliotek/arrangementer/litteratur/tid-til-li
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/tom-kristensen@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261123T190000
 DTEND;TZID=Europe/Copenhagen:20261123T210000
 SUMMARY:Tom Kristensen
@@ -976,20 +776,9 @@ CATEGORIES:Foredrag & Talks\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/tom-kristensen
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-taenk-vildt-med-rane-willerslev@aarhus-k
- alender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261123T190000
-DTEND;TZID=Europe/Copenhagen:20261123T210000
-SUMMARY:Tænk vildt med Rane Willerslev
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/taenk-vildt-med-rane-willerslev/
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-aben-laesekreds-2026-1
  1-24@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T103000
 DTEND;TZID=Europe/Copenhagen:20261124T120000
 SUMMARY:Åben Læsekreds
@@ -1000,7 +789,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/litteratur/aben-la
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878008@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T120000
 DTEND;TZID=Europe/Copenhagen:20261124T144500
 SUMMARY:LitLab 2026 - et laboratorium for skønlitteratur\, læsekultur og 
@@ -1012,7 +801,7 @@ URL:https://dokk1.dk/det-sker/litlab-2026-et-laboratorium-skoenlitteratur-l
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877814@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T130000
 DTEND;TZID=Europe/Copenhagen:20261124T150000
 SUMMARY:Eco-print ☘️
@@ -1022,7 +811,7 @@ URL:https://dokk1.dk/det-sker/ecoprint-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878169@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T130000
 DTEND;TZID=Europe/Copenhagen:20261124T150000
 SUMMARY:Spis-dyrk-skab-Lab
@@ -1031,19 +820,9 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/spisdyrkskablab-17
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878561@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261124T130000
-DTEND;TZID=Europe/Copenhagen:20261124T150000
-SUMMARY:Åben Spire - tirsdag
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-4
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-cafe-chromeb
  ook-0@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T150000
 DTEND;TZID=Europe/Copenhagen:20261124T170000
 SUMMARY:Café Chromebook
@@ -1055,7 +834,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-viden-og-demokrati-solbjerg-og-om
  egns-lokalhistoriske-arkiv-32@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T150000
 DTEND;TZID=Europe/Copenhagen:20261124T170000
 SUMMARY:Solbjerg og Omegns Lokalhistoriske Arkiv
@@ -1067,7 +846,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-tekst-til-tiden-2026-1
  1-24@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T160000
 DTEND;TZID=Europe/Copenhagen:20261124T180000
 SUMMARY:Tekst til tiden
@@ -1078,7 +857,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/litteratur/tekst-t
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878202@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T161500
 DTEND;TZID=Europe/Copenhagen:20261124T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -1088,7 +867,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-66
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878096@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T163000
 DTEND;TZID=Europe/Copenhagen:20261124T190000
 SUMMARY:Repair Cafe
@@ -1098,7 +877,7 @@ URL:https://dokk1.dk/det-sker/repair-cafe-16
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877996@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T170000
 DTEND;TZID=Europe/Copenhagen:20261124T183000
 SUMMARY:Kommer hele Norden med i EU?
@@ -1108,7 +887,7 @@ URL:https://dokk1.dk/det-sker/kommer-hele-norden-med-i-eu
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/steno-rosenvold@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261124T200000
 DTEND;TZID=Europe/Copenhagen:20261124T220000
 SUMMARY:Steno & Rosenvold - Du er færdig i 2030
@@ -1117,19 +896,8 @@ CATEGORIES:Foredrag & Talks\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/steno-rosenvold
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-steno-rosenvold-musikhuset-foredrag@aarh
- us-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261124T200000
-DTEND;TZID=Europe/Copenhagen:20261124T220000
-SUMMARY:Steno & Rosenvolds foredrag – Du er færdig i 2030
-LOCATION:Musikhuset Aarhus
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/steno-rosenvold-musikhuset-foredrag/
-END:VEVENT
-BEGIN:VEVENT
 UID:gb-kursus-vaevestopning@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Kursus: Vævestopning
@@ -1140,7 +908,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-vejlby-risskov-
  lokalhistoriske-arkiv-2026-11-25@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261125T090000
 DTEND;TZID=Europe/Copenhagen:20261125T120000
 SUMMARY:Vejlby-Risskov Lokalhistoriske Arkiv
@@ -1151,7 +919,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875546@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261125T100000
 DTEND;TZID=Europe/Copenhagen:20261125T120000
 SUMMARY:AppsCafé
@@ -1162,7 +930,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2026-11-25@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261125T140000
 DTEND;TZID=Europe/Copenhagen:20261125T163000
 SUMMARY:Lektiecafé
@@ -1173,7 +941,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/bryd-tavsheden-om-vold-mod-kvinder@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261125T160000
 DTEND;TZID=Europe/Copenhagen:20261125T180000
 SUMMARY:Bryd tavsheden om vold mod kvinder - Paneldebat
@@ -1184,7 +952,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-viden-og-demokrati-nabolagsmode-d
  emokratisk-vaertskab-2026-11-25@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261125T163000
 DTEND;TZID=Europe/Copenhagen:20261125T180000
 SUMMARY:Nabolagsmøde: Demokratisk værtskab
@@ -1195,7 +963,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/viden-og-demokrati
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/gry-jexen@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261125T190000
 DTEND;TZID=Europe/Copenhagen:20261125T210000
 SUMMARY:Gry Jexen - Hvem får plads i historien?
@@ -1205,7 +973,7 @@ URL:https://www.musikhuset.dk/kalender/gry-jexen
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/en-ubegribelig-aften@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261125T190000
 DTEND;TZID=Europe/Copenhagen:20261125T210000
 SUMMARY:En Ubegribelig Aften - med Huxi Bach
@@ -1214,29 +982,8 @@ CATEGORIES:Foredrag & Talks\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/en-ubegribelig-aften
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-gry-jexen-musikhuset-foredrag@aarhus-kal
- ender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261125T190000
-DTEND;TZID=Europe/Copenhagen:20261125T210000
-SUMMARY:Gry Jexens foredrag Hvem får plads i historien?
-LOCATION:Musikhuset Aarhus
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/gry-jexen-musikhuset-foredrag/
-END:VEVENT
-BEGIN:VEVENT
-UID:dokk1-2877882@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261125T190000
-DTEND;TZID=Europe/Copenhagen:20261125T210000
-SUMMARY:Glenn Bech om parforhold og klasse
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/glenn-bech-om-parforhold-og-klasse
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2876795@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261125T190000
 DTEND;TZID=Europe/Copenhagen:20261125T210000
 SUMMARY:Hinduisme og buddhisme – Nepal som religionshistorisk tidsmaskine
@@ -1247,9 +994,19 @@ URL:https://dokk1.dk/det-sker/hinduisme-og-buddhisme-nepal-som-religionshis
  torisk-tidsmaskine
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877882@aarhus-kalender
+DTSTAMP:20261117T035823Z
+DTSTART;TZID=Europe/Copenhagen:20261125T190000
+DTEND;TZID=Europe/Copenhagen:20261125T210000
+SUMMARY:Glenn Bech om parforhold og klasse
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/glenn-bech-om-parforhold-og-klasse
+END:VEVENT
+BEGIN:VEVENT
 UID:aakb-harlev-bibliotek-arrangementer-litteratur-laes-og-snak-aben-laesek
  reds-3@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261125T190000
 DTEND;TZID=Europe/Copenhagen:20261125T210000
 SUMMARY:Læs og snak - Åben læsekreds
@@ -1261,7 +1018,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-litteratur-foredrag-w-g-sebald-0@
  aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261125T190000
 DTEND;TZID=Europe/Copenhagen:20261125T210000
 SUMMARY:Foredrag: W. G. Sebald
@@ -1272,7 +1029,7 @@ URL:https://www.aakb.dk/hojbjerg-bibliotek/arrangementer/litteratur/foredra
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-smykkekursus-lav-din-egen-ring-3@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Smykkekursus: Lav din egen ring
@@ -1282,7 +1039,7 @@ URL:https://godsbanen.dk/kalender/smykkekursus-lav-din-egen-ring-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878521@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T100000
 DTEND;TZID=Europe/Copenhagen:20261126T113000
 SUMMARY:Åben Spire - torsdag
@@ -1292,7 +1049,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-8
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875547@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T100000
 DTEND;TZID=Europe/Copenhagen:20261126T120000
 SUMMARY:AppsCafé
@@ -1303,7 +1060,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2026
  -11-26@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T100000
 DTEND;TZID=Europe/Copenhagen:20261126T110000
 SUMMARY:Åbys IT-café
@@ -1315,7 +1072,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-tid-til-litteratur-2026-11-
  26@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T103000
 DTEND;TZID=Europe/Copenhagen:20261126T110000
 SUMMARY:Tid til litteratur
@@ -1327,7 +1084,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-litteratur-formiddagsfortaellinger-om
  -tove-jansson@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T110000
 DTEND;TZID=Europe/Copenhagen:20261126T120000
 SUMMARY:Formiddagsfortællinger - om Tove Jansson
@@ -1338,7 +1095,7 @@ URL:https://www.aakb.dk/viby-bibliotek/arrangementer/litteratur/formiddagsf
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878746@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T113000
 DTEND;TZID=Europe/Copenhagen:20261126T123000
 SUMMARY:Billig bælgfrokost
@@ -1349,7 +1106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-faelleslaesning-2026-1
  1-26@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T133000
 DTEND;TZID=Europe/Copenhagen:20261126T143000
 SUMMARY:Fælleslæsning
@@ -1361,7 +1118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe-pa-
  viby-bibliotek-2026-11-26@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T140000
 DTEND;TZID=Europe/Copenhagen:20261126T153000
 SUMMARY:Digital Café på Viby Bibliotek
@@ -1373,7 +1130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-laesefaellesskab-2026-1
  1-26@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T150000
 DTEND;TZID=Europe/Copenhagen:20261126T163000
 SUMMARY:Læsefællesskab
@@ -1384,7 +1141,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/litteratur/laesefae
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878029@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T160000
 DTEND;TZID=Europe/Copenhagen:20261126T180000
 SUMMARY:Matematikcafe
@@ -1394,7 +1151,7 @@ URL:https://dokk1.dk/det-sker/matematikcafe-32
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878203@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T161500
 DTEND;TZID=Europe/Copenhagen:20261126T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -1403,20 +1160,8 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-67
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-foredrag-om-lykke-paa-bora-bora-2026-11-
- 26@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261126T183000
-DTEND;TZID=Europe/Copenhagen:20261126T193000
-SUMMARY:Foredrag om lykke på Bora Bora
-LOCATION:Bora Bora
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/foredrag-om-lykke-paa-bora-bora/2026-11-2
- 6/
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878175@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261126T190000
 DTEND;TZID=Europe/Copenhagen:20261126T210000
 SUMMARY:Steffen Kretz: Midtvejsvalget der kan ændre alt
@@ -1427,7 +1172,7 @@ URL:https://dokk1.dk/det-sker/steffen-kretz-midtvejsvalget-der-kan-aendre-a
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878868@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261127T130000
 DTEND;TZID=Europe/Copenhagen:20261127T143000
 SUMMARY:"Moskva-Teheran-Aksen: Rusland\, Iran og det militære spil om Horm
@@ -1438,20 +1183,8 @@ URL:https://dokk1.dk/det-sker/moskvateheranaksen-rusland-iran-og-det-milita
  ere-spil-om-hormuzstraedet
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-foredrag-om-lykke-paa-bora-bora-2026-11-
- 27@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261127T183000
-DTEND;TZID=Europe/Copenhagen:20261127T193000
-SUMMARY:Foredrag om lykke på Bora Bora
-LOCATION:Bora Bora
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/foredrag-om-lykke-paa-bora-bora/2026-11-2
- 7/
-END:VEVENT
-BEGIN:VEVENT
 UID:gb-lav-din-egen-skammel-i-trae-3@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 SUMMARY:Lav din egen skammel i træ
@@ -1461,7 +1194,7 @@ URL:https://godsbanen.dk/kalender/lav-din-egen-skammel-i-trae-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-drejekursus-hurtig-intro-5@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:DREJEKURSUS – hurtig intro
@@ -1471,7 +1204,7 @@ URL:https://godsbanen.dk/kalender/drejekursus-hurtig-intro-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-noise-vision-symposium-28112026@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T093000
 DTEND;TZID=Europe/Copenhagen:20261128T183000
 SUMMARY:NOISE & VISION symposium
@@ -1481,7 +1214,7 @@ URL:https://www.aros.dk/kalender/noise-vision-symposium-28112026/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878819@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261128T104000
 SUMMARY:(Livestream fra Dokk1) Hvor er Europa på vej hen? – med Derek Be
@@ -1493,7 +1226,7 @@ URL:https://dokk1.dk/det-sker/livestream-fra-dokk1-hvor-er-europa-paa-vej-h
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878703@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261128T104000
 SUMMARY:Hvor er Europa på vej hen? – med Derek Beach og Anne Ingemann Jo
@@ -1506,7 +1239,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-baeredygtighed-og-natur-tojbygge-o
  g-hygge@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T100000
 DTEND;TZID=Europe/Copenhagen:20261128T130000
 SUMMARY:Tøjbytte og hygge
@@ -1516,20 +1249,8 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/baeredygtighed-og-n
  atur/tojbygge-og-hygge
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878706@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261128T110000
-DTEND;TZID=Europe/Copenhagen:20261128T114000
-SUMMARY:Kunsten at tænke i mørke tider – med Anna Cornelia Ploug og Nan
- na Bøttcher
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/kunsten-taenke-i-moerke-tider-med-anna-cornel
- ia-ploug-og-nanna-boettcher
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878820@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T110000
 DTEND;TZID=Europe/Copenhagen:20261128T114000
 SUMMARY:(Livestream fra Dokk1) Kunsten at tænke i mørke tider – med Ann
@@ -1540,8 +1261,20 @@ URL:https://dokk1.dk/det-sker/livestream-fra-dokk1-kunsten-taenke-i-moerke-
  tider-med-anna-cornelia-ploug-og-nanna
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878706@aarhus-kalender
+DTSTAMP:20261117T035823Z
+DTSTART;TZID=Europe/Copenhagen:20261128T110000
+DTEND;TZID=Europe/Copenhagen:20261128T114000
+SUMMARY:Kunsten at tænke i mørke tider – med Anna Cornelia Ploug og Nan
+ na Bøttcher
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/kunsten-taenke-i-moerke-tider-med-anna-cornel
+ ia-ploug-og-nanna-boettcher
+END:VEVENT
+BEGIN:VEVENT
 UID:kunsthal-pages-event-event-92gezuij@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T113000
 DTEND;TZID=Europe/Copenhagen:20261128T134500
 SUMMARY:Maria Viftrup: Hvil i dine fejl
@@ -1551,7 +1284,7 @@ URL:https://kunsthal.dk/pages/event/event-92gezuij
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878710@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T120000
 DTEND;TZID=Europe/Copenhagen:20261128T124000
 SUMMARY:Åndelig oprustning for et robust Europa? – med Søren Fauth og J
@@ -1563,7 +1296,7 @@ URL:https://dokk1.dk/det-sker/aandelig-oprustning-et-robust-europa-med-soer
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878815@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T120000
 DTEND;TZID=Europe/Copenhagen:20261128T124000
 SUMMARY:(Livestream fra Dokk1) Åndelig oprustning for et robust Europa? 
@@ -1575,7 +1308,7 @@ URL:https://dokk1.dk/det-sker/livestream-fra-dokk1-aandelig-oprustning-et-r
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878817@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T130000
 DTEND;TZID=Europe/Copenhagen:20261128T134000
 SUMMARY:(Livestream fra Dokk1) Dét skal du vide om Europas historie – me
@@ -1587,7 +1320,7 @@ URL:https://dokk1.dk/det-sker/livestream-fra-dokk1-det-skal-du-vide-om-euro
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878900@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T130000
 DTEND;TZID=Europe/Copenhagen:20261128T143000
 SUMMARY:Dokk1 læser livet højt
@@ -1597,7 +1330,7 @@ URL:https://dokk1.dk/det-sker/dokk1-laeser-livet-hoejt-7
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878701@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T130000
 DTEND;TZID=Europe/Copenhagen:20261128T134000
 SUMMARY:Dét skal du vide om Europas historie – med Asser Amdisen og Jør
@@ -1608,20 +1341,8 @@ URL:https://dokk1.dk/det-sker/det-skal-du-vide-om-europas-historie-med-asse
  r-amdisen-og-joergen-moeller
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878814@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261128T140000
-DTEND;TZID=Europe/Copenhagen:20261128T144000
-SUMMARY:(Livestream fra Dokk1) Kvindernes moderne gennembrud i Europas kuns
- t – med Sara Alfort og Lene Bøgh Rønberg
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/livestream-fra-dokk1-kvindernes-moderne-genne
- mbrud-i-europas-kunst-med-sara-alfort-og-lene
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878707@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T140000
 DTEND;TZID=Europe/Copenhagen:20261128T144000
 SUMMARY:Kvindernes moderne gennembrud i Europas kunst – med Sara Alfort o
@@ -1632,8 +1353,20 @@ URL:https://dokk1.dk/det-sker/kvindernes-moderne-gennembrud-i-europas-kunst
  -med-sara-alfort-og-lene-boegh-roenberg
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878814@aarhus-kalender
+DTSTAMP:20261117T035823Z
+DTSTART;TZID=Europe/Copenhagen:20261128T140000
+DTEND;TZID=Europe/Copenhagen:20261128T144000
+SUMMARY:(Livestream fra Dokk1) Kvindernes moderne gennembrud i Europas kuns
+ t – med Sara Alfort og Lene Bøgh Rønberg
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/livestream-fra-dokk1-kvindernes-moderne-genne
+ mbrud-i-europas-kunst-med-sara-alfort-og-lene
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2878698@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T150000
 DTEND;TZID=Europe/Copenhagen:20261128T155000
 SUMMARY:Den franske revolution og det moderne Europa – med Bertel Nygaard
@@ -1645,7 +1378,7 @@ URL:https://dokk1.dk/det-sker/den-franske-revolution-og-det-moderne-europa-
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878816@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T150000
 DTEND;TZID=Europe/Copenhagen:20261128T155000
 SUMMARY:(Livestream fra Dokk1) Den franske revolution og det moderne Europa
@@ -1657,7 +1390,7 @@ URL:https://dokk1.dk/det-sker/livestream-fra-dokk1-den-franske-revolution-o
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878714@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T161500
 DTEND;TZID=Europe/Copenhagen:20261128T170000
 SUMMARY:Udsolgt: Europas store skønlitterære værker – med Søren Ulrik
@@ -1669,7 +1402,7 @@ URL:https://dokk1.dk/det-sker/udsolgt-europas-store-skoenlitteraere-vaerker
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878818@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261128T161500
 DTEND;TZID=Europe/Copenhagen:20261128T170000
 SUMMARY:(Livestream fra Dokk1) Europas store skønlitterære værker – me
@@ -1682,7 +1415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-workshop-kunsten-at-brodere-paa-vaegtaepper-291126@aarhus
  -kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261129T100000
 DTEND;TZID=Europe/Copenhagen:20261129T130000
 SUMMARY:Workshop: Kunsten at brodere på vægtæpper
@@ -1692,20 +1425,9 @@ URL:https://www.aros.dk/kalender/workshop-kunsten-at-brodere-paa-vaegtaeppe
  r-291126/
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-yngre-med-aarene-bente-klarlund-pedersen
- @aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261129T180000
-DTEND;TZID=Europe/Copenhagen:20261129T200000
-SUMMARY:Yngre med årene med Bente Klarlund Pedersen
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/yngre-med-aarene-bente-klarlund-pedersen/
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-aby-skrivegruppe-om-erindri
  nger-2026-11-30@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261130T100000
 DTEND;TZID=Europe/Copenhagen:20261130T120000
 SUMMARY:Åby skrivegruppe - om erindringer
@@ -1717,7 +1439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-skodstrup-kombi-bibliotek-arrangementer-litteratur-ord-i-kaffen-i-
  skodstrup-sognegard-2026-11-30@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261130T103000
 DTEND;TZID=Europe/Copenhagen:20261130T113000
 SUMMARY:Ord i kaffen i Skødstrup Sognegård
@@ -1729,7 +1451,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-hjaelp-og-vejledning-gellerups-it
  -mandage-2026-11-30@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261130T110000
 DTEND;TZID=Europe/Copenhagen:20261130T130000
 SUMMARY:Gellerups IT-mandage
@@ -1741,7 +1463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2026-
  11-30@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261130T140000
 DTEND;TZID=Europe/Copenhagen:20261130T160000
 SUMMARY:Sprogcafé
@@ -1753,7 +1475,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-viden-og-demokrati-lokalhistoriske
  -samling-2026-11-30@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261130T150000
 DTEND;TZID=Europe/Copenhagen:20261130T170000
 SUMMARY:Lokalhistoriske Samling
@@ -1764,7 +1486,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877864@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261130T160000
 DTEND;TZID=Europe/Copenhagen:20261130T180000
 SUMMARY:Frøbibliotek
@@ -1773,18 +1495,8 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/froebibliotek-21
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878555@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261130T160000
-DTEND;TZID=Europe/Copenhagen:20261130T180000
-SUMMARY:Fermenteringsværksted
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/fermenteringsvaerksted-1
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878908@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261130T160000
 DTEND;TZID=Europe/Copenhagen:20261130T180000
 SUMMARY:Planteværksted - frø som gaver
@@ -1793,9 +1505,19 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/plantevaerksted-froe-som-gaver-0
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878555@aarhus-kalender
+DTSTAMP:20261117T035823Z
+DTSTART;TZID=Europe/Copenhagen:20261130T160000
+DTEND;TZID=Europe/Copenhagen:20261130T180000
+SUMMARY:Fermenteringsværksted
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/fermenteringsvaerksted-1
+END:VEVENT
+BEGIN:VEVENT
 UID:aakb-tilst-bibliotek-arrangementer-litteratur-tid-til-litteratur-samlae
  sning@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261130T163000
 DTEND;TZID=Europe/Copenhagen:20261130T173000
 SUMMARY:Tid til litteratur - Samlæsning
@@ -1805,19 +1527,8 @@ URL:https://www.aakb.dk/tilst-bibliotek/arrangementer/litteratur/tid-til-li
  tteratur-samlaesning
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-mikkel-severin-saet-mennesker-foerst@aar
- hus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261130T190000
-DTEND;TZID=Europe/Copenhagen:20261130T220000
-SUMMARY:Mikkel Severin foredrag – Sæt mennesker først
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/mikkel-severin-saet-mennesker-foerst/
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878245@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261130T190000
 DTEND;TZID=Europe/Copenhagen:20261130T210000
 SUMMARY:Trine Hjorth Bønnerup: Kend dig selv - og bliv en bedre partner
@@ -1828,7 +1539,7 @@ URL:https://dokk1.dk/det-sker/trine-hjorth-boennerup-kend-dig-selv-og-bliv-
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877721@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261130T190000
 DTEND;TZID=Europe/Copenhagen:20261130T210000
 SUMMARY:Bliv klogere på dig selv som læser
@@ -1839,7 +1550,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-litteratur-fortaellinger-voksne-9@
  aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261201T103000
 DTEND;TZID=Europe/Copenhagen:20261201T113000
 SUMMARY:Fortællinger for voksne
@@ -1849,18 +1560,8 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/litteratur/fortaell
  inger-voksne-9
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878164@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261201T130000
-DTEND;TZID=Europe/Copenhagen:20261201T150000
-SUMMARY:Spis-dyrk-skab-Lab
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/spisdyrkskablab-10
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878562@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261201T130000
 DTEND;TZID=Europe/Copenhagen:20261201T150000
 SUMMARY:Åben Spire - tirsdag
@@ -1869,9 +1570,19 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-5
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878164@aarhus-kalender
+DTSTAMP:20261117T035823Z
+DTSTART;TZID=Europe/Copenhagen:20261201T130000
+DTEND;TZID=Europe/Copenhagen:20261201T150000
+SUMMARY:Spis-dyrk-skab-Lab
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/spisdyrkskablab-10
+END:VEVENT
+BEGIN:VEVENT
 UID:aakb-tilst-bibliotek-arrangementer-hjaelp-og-vejledning-laer-biblioteke
  ts-nye-apps-kende@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261201T143000
 DTEND;TZID=Europe/Copenhagen:20261201T160000
 SUMMARY:Lær bibliotekets nye apps at kende
@@ -1883,7 +1594,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-viden-og-demokrati-solbjerg-og-om
  egns-lokalhistoriske-arkiv-33@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261201T150000
 DTEND;TZID=Europe/Copenhagen:20261201T170000
 SUMMARY:Solbjerg og Omegns Lokalhistoriske Arkiv
@@ -1895,7 +1606,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-tekst-til-tiden-2026-1
  2-01@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261201T160000
 DTEND;TZID=Europe/Copenhagen:20261201T180000
 SUMMARY:Tekst til tiden
@@ -1906,7 +1617,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/litteratur/tekst-t
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878197@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261201T161500
 DTEND;TZID=Europe/Copenhagen:20261201T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -1916,7 +1627,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-61
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878232@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261201T180000
 DTEND;TZID=Europe/Copenhagen:20261201T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -1925,18 +1636,8 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/fantasy-fellowship-chapter-2-0
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-anna-libak-putins-verden@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261201T190000
-DTEND;TZID=Europe/Copenhagen:20261201T210000
-SUMMARY:Anna Libak foredrag: Putins verden
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/anna-libak-putins-verden/
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2877710@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261201T190000
 DTEND;TZID=Europe/Copenhagen:20261201T210000
 SUMMARY:Anna Libak: Putins verden
@@ -1947,7 +1648,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-vejlby-risskov-
  lokalhistoriske-arkiv-2026-12-02@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261202T090000
 DTEND;TZID=Europe/Copenhagen:20261202T120000
 SUMMARY:Vejlby-Risskov Lokalhistoriske Arkiv
@@ -1958,7 +1659,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875548@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261202T100000
 DTEND;TZID=Europe/Copenhagen:20261202T120000
 SUMMARY:AppsCafé
@@ -1969,7 +1670,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2026-12-02@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261202T140000
 DTEND;TZID=Europe/Copenhagen:20261202T163000
 SUMMARY:Lektiecafé
@@ -1980,7 +1681,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878114@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261202T150000
 DTEND;TZID=Europe/Copenhagen:20261202T161500
 SUMMARY:Rundvisning på Dokk1
@@ -1991,7 +1692,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-harlev-bibliotek-arrangementer-hjaelp-og-vejledning-laer-bibliotek
  ets-nye-apps-kende@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261202T150000
 DTEND;TZID=Europe/Copenhagen:20261202T170000
 SUMMARY:Lær bibliotekets nye apps at kende
@@ -2002,7 +1703,7 @@ URL:https://www.aakb.dk/harlev-bibliotek/arrangementer/hjaelp-og-vejledning
 END:VEVENT
 BEGIN:VEVENT
 UID:kunsthal-pages-event-sarah-trahan-failure-atelier@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261202T160000
 DTEND;TZID=Europe/Copenhagen:20261202T190000
 SUMMARY:Sarah Trahan: Failure Atelier
@@ -2012,7 +1713,7 @@ URL:https://kunsthal.dk/pages/event/sarah-trahan-failure-atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878253@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261202T160000
 DTEND;TZID=Europe/Copenhagen:20261202T200000
 SUMMARY:Ubuntu Aarhus
@@ -2022,7 +1723,7 @@ URL:https://dokk1.dk/det-sker/ubuntu-aarhus-5
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-fa6b078e-43e9-4411-b251-90d1be8c6799@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261202T190000
 DTEND;TZID=Europe/Copenhagen:20261202T201500
 SUMMARY:Julens mørke fortællinger
@@ -2033,7 +1734,7 @@ URL:https://moesgaardmuseum.dk/besoeg-os/kalender/julens-moerke-fortaelling
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-smykkekursus-lav-din-egen-ring-6@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Smykkekursus: Lav din egen ring
@@ -2043,7 +1744,7 @@ URL:https://godsbanen.dk/kalender/smykkekursus-lav-din-egen-ring-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878514@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T100000
 DTEND;TZID=Europe/Copenhagen:20261203T113000
 SUMMARY:Åben Spire - torsdag
@@ -2053,7 +1754,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875549@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T100000
 DTEND;TZID=Europe/Copenhagen:20261203T120000
 SUMMARY:AppsCafé
@@ -2064,7 +1765,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2026
  -12-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T100000
 DTEND;TZID=Europe/Copenhagen:20261203T110000
 SUMMARY:Åbys IT-café
@@ -2076,7 +1777,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hjortshoj-kombi-bibliotek-arrangementer-litteratur-litteraturklub-
  2026-12-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T100000
 DTEND;TZID=Europe/Copenhagen:20261203T110000
 SUMMARY:Litteraturklub
@@ -2087,7 +1788,7 @@ URL:https://www.aakb.dk/hjortshoj-kombi-bibliotek/arrangementer/litteratur/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878744@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T113000
 DTEND;TZID=Europe/Copenhagen:20261203T123000
 SUMMARY:Billig bælgfrokost
@@ -2098,7 +1799,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-faelleslaesning-2026-1
  2-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T133000
 DTEND;TZID=Europe/Copenhagen:20261203T143000
 SUMMARY:Fælleslæsning
@@ -2110,7 +1811,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe-pa-
  viby-bibliotek-2026-12-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T140000
 DTEND;TZID=Europe/Copenhagen:20261203T153000
 SUMMARY:Digital Café på Viby Bibliotek
@@ -2122,7 +1823,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-repair-cafe-abyho
  j-2026-12-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T150000
 DTEND;TZID=Europe/Copenhagen:20261203T180000
 SUMMARY:Repair Café Åbyhøj
@@ -2134,7 +1835,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-laesefaellesskab-2026-1
  2-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T150000
 DTEND;TZID=Europe/Copenhagen:20261203T163000
 SUMMARY:Læsefællesskab
@@ -2146,7 +1847,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-trige-kombi-bibliotek-arrangementer-viden-og-demokrati-trige-olste
  d-lokalhistoriske-arkiv-2026-12@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T150000
 DTEND;TZID=Europe/Copenhagen:20261203T163000
 SUMMARY:Trige-Ølsted Lokalhistoriske Arkiv
@@ -2157,7 +1858,7 @@ URL:https://www.aakb.dk/trige-kombi-bibliotek/arrangementer/viden-og-demokr
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878021@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T160000
 DTEND;TZID=Europe/Copenhagen:20261203T180000
 SUMMARY:Matematikcafe
@@ -2168,7 +1869,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-litteratur-alverdens-anbefalinger-1@a
  arhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T160000
 DTEND;TZID=Europe/Copenhagen:20261203T170000
 SUMMARY:Alverdens anbefalinger
@@ -2179,7 +1880,7 @@ URL:https://www.aakb.dk/viby-bibliotek/arrangementer/litteratur/alverdens-a
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878205@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T161500
 DTEND;TZID=Europe/Copenhagen:20261203T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -2190,7 +1891,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-stort-romanvaerk-i-krigens-skygge-forfatter-kirsten-thoru
  p-i-samtale-med-klaus-rothstein-031226@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T170000
 DTEND;TZID=Europe/Copenhagen:20261203T183000
 SUMMARY:Stort romanværk i krigens skygge – forfatter Kirsten Thorup og K
@@ -2202,7 +1903,7 @@ URL:https://www.aros.dk/kalender/stort-romanvaerk-i-krigens-skygge-forfatte
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878035@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261203T190000
 DTEND;TZID=Europe/Copenhagen:20261203T210000
 SUMMARY:Mavero - vejen til en bedre fordøjelse
@@ -2212,7 +1913,7 @@ URL:https://dokk1.dk/det-sker/mavero-vejen-til-en-bedre-fordoejelse
 END:VEVENT
 BEGIN:VEVENT
 UID:kunsthal-pages-event-sarah-trahan-failure-atelier-2-2@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261204T160000
 DTEND;TZID=Europe/Copenhagen:20261204T190000
 SUMMARY:Sarah Trahan: Failure Atelier
@@ -2222,7 +1923,7 @@ URL:https://kunsthal.dk/pages/event/sarah-trahan-failure-atelier-2-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878913@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261204T160000
 DTEND;TZID=Europe/Copenhagen:20261204T180000
 SUMMARY:Comeback-workshop med Søster til Søster
@@ -2233,7 +1934,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-workshop-kunsten-at-lave-kaempeblomster-061226@aarhus-kal
  ender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261206T100000
 DTEND;TZID=Europe/Copenhagen:20261206T130000
 SUMMARY:Workshop: Kunsten at lave kæmpeblomster
@@ -2245,7 +1946,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe
  -2026-12-07@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261207T100000
 DTEND;TZID=Europe/Copenhagen:20261207T120000
 SUMMARY:Digital Café
@@ -2257,7 +1958,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-litteratur-klassiker-laeseklub@aar
  hus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261207T103000
 DTEND;TZID=Europe/Copenhagen:20261207T113000
 SUMMARY:Klassiker læseklub
@@ -2269,7 +1970,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-hjaelp-og-vejledning-gellerups-it
  -mandage-2026-12-07@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261207T110000
 DTEND;TZID=Europe/Copenhagen:20261207T130000
 SUMMARY:Gellerups IT-mandage
@@ -2281,7 +1982,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2026-
  12-07@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261207T140000
 DTEND;TZID=Europe/Copenhagen:20261207T160000
 SUMMARY:Sprogcafé
@@ -2293,7 +1994,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-viden-og-demokrati-lokalhistoriske
  -samling-2026-12-07@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261207T150000
 DTEND;TZID=Europe/Copenhagen:20261207T170000
 SUMMARY:Lokalhistoriske Samling
@@ -2303,18 +2004,8 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/viden-og-demokrati/
  lokalhistoriske-samling/2026-12-07
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877867@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261207T160000
-DTEND;TZID=Europe/Copenhagen:20261207T180000
-SUMMARY:Frøbibliotek
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/froebibliotek-24
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878911@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261207T160000
 DTEND;TZID=Europe/Copenhagen:20261207T180000
 SUMMARY:Planteværksted - korn
@@ -2323,9 +2014,19 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/plantevaerksted-korn-0
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877867@aarhus-kalender
+DTSTAMP:20261117T035823Z
+DTSTART;TZID=Europe/Copenhagen:20261207T160000
+DTEND;TZID=Europe/Copenhagen:20261207T180000
+SUMMARY:Frøbibliotek
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/froebibliotek-24
+END:VEVENT
+BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-litteratur-litteratursnakken-202
  6-12-07@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261207T160000
 DTEND;TZID=Europe/Copenhagen:20261207T173000
 SUMMARY:Litteratursnakken
@@ -2336,7 +2037,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/litteratur/litter
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878891@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261207T170000
 DTEND;TZID=Europe/Copenhagen:20261207T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -2345,20 +2046,9 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt-0
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-vanedyr-nicklas-brendborg@aarhus-kalende
- r
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261207T190000
-DTEND;TZID=Europe/Copenhagen:20261207T210000
-SUMMARY:Vanedyr med Nicklas Brendborg
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/vanedyr-nicklas-brendborg/
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-fortaellinger-voksne-20
  26-12-08@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T103000
 DTEND;TZID=Europe/Copenhagen:20261208T113000
 SUMMARY:Fortællinger for voksne
@@ -2368,18 +2058,8 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/litteratur/fortaell
  inger-voksne/2026-12-08
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878838@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261208T130000
-DTEND;TZID=Europe/Copenhagen:20261208T160000
-SUMMARY:Spørgehjørne for slægtsforskere
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/spoergehjoerne-slaegtsforskere-5
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878168@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T130000
 DTEND;TZID=Europe/Copenhagen:20261208T150000
 SUMMARY:Spis-dyrk-skab-Lab
@@ -2389,7 +2069,7 @@ URL:https://dokk1.dk/det-sker/spisdyrkskablab-14
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878560@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T130000
 DTEND;TZID=Europe/Copenhagen:20261208T150000
 SUMMARY:Åben Spire - tirsdag
@@ -2400,7 +2080,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-viden-og-demokrati-solbjerg-og-om
  egns-lokalhistoriske-arkiv-34@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T150000
 DTEND;TZID=Europe/Copenhagen:20261208T170000
 SUMMARY:Solbjerg og Omegns Lokalhistoriske Arkiv
@@ -2412,7 +2092,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-tekst-til-tiden-2026-1
  2-08@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T160000
 DTEND;TZID=Europe/Copenhagen:20261208T180000
 SUMMARY:Tekst til tiden
@@ -2423,7 +2103,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/litteratur/tekst-t
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878198@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T161500
 DTEND;TZID=Europe/Copenhagen:20261208T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -2433,7 +2113,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-62
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878098@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T163000
 DTEND;TZID=Europe/Copenhagen:20261208T190000
 SUMMARY:Repair Cafe
@@ -2444,7 +2124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-drs-romanklub-aby-udsolgt@a
  arhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T163000
 DTEND;TZID=Europe/Copenhagen:20261208T174500
 SUMMARY:DRs Romanklub - Åby - Udsolgt
@@ -2456,7 +2136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-litteratur-vi-skriver-sammen-onskesed
  ler@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T163000
 DTEND;TZID=Europe/Copenhagen:20261208T173000
 SUMMARY:Vi skriver sammen - Ønskesedler
@@ -2467,7 +2147,7 @@ URL:https://www.aakb.dk/viby-bibliotek/arrangementer/litteratur/vi-skriver-
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877828@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T170000
 DTEND;TZID=Europe/Copenhagen:20261208T180000
 SUMMARY:Faglitterær læseklub FULDT BOOKET
@@ -2477,7 +2157,7 @@ URL:https://dokk1.dk/det-sker/faglitteraer-laeseklub-fuldt-booket-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877711@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T190000
 DTEND;TZID=Europe/Copenhagen:20261208T210000
 SUMMARY:Annie Ernaux – at skrive tidens gang
@@ -2487,7 +2167,7 @@ URL:https://dokk1.dk/det-sker/annie-ernaux-skrive-tidens-gang
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878222@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261208T190000
 DTEND;TZID=Europe/Copenhagen:20261208T210000
 SUMMARY:Svend Brinkmann: Meningen med det hele
@@ -2498,7 +2178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-vejlby-risskov-
  lokalhistoriske-arkiv-2026-12-09@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261209T090000
 DTEND;TZID=Europe/Copenhagen:20261209T120000
 SUMMARY:Vejlby-Risskov Lokalhistoriske Arkiv
@@ -2509,7 +2189,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875550@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261209T100000
 DTEND;TZID=Europe/Copenhagen:20261209T120000
 SUMMARY:AppsCafé
@@ -2519,7 +2199,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878210@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261209T140000
 DTEND;TZID=Europe/Copenhagen:20261209T160000
 SUMMARY:Studiestøtte til studerende
@@ -2530,7 +2210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2026-12-09@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261209T140000
 DTEND;TZID=Europe/Copenhagen:20261209T163000
 SUMMARY:Lektiecafé
@@ -2542,7 +2222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-litteratur-laeseklub-med-digte@aarhus
  -kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261209T140000
 DTEND;TZID=Europe/Copenhagen:20261209T150000
 SUMMARY:Læseklub med digte
@@ -2553,7 +2233,7 @@ URL:https://www.aakb.dk/viby-bibliotek/arrangementer/litteratur/laeseklub-m
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877754@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261209T190000
 DTEND;TZID=Europe/Copenhagen:20261209T210000
 SUMMARY:Den litterære filosofi #4: Simone Weil
@@ -2563,7 +2243,7 @@ URL:https://dokk1.dk/det-sker/den-litteraere-filosofi-4-simone-weil
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878515@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T100000
 DTEND;TZID=Europe/Copenhagen:20261210T113000
 SUMMARY:Åben Spire - torsdag
@@ -2573,7 +2253,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875551@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T100000
 DTEND;TZID=Europe/Copenhagen:20261210T120000
 SUMMARY:AppsCafé
@@ -2584,7 +2264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2026
  -12-10@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T100000
 DTEND;TZID=Europe/Copenhagen:20261210T110000
 SUMMARY:Åbys IT-café
@@ -2596,7 +2276,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-litteratur-formiddagsfortaellinger-om
  -ai-og-litteratur@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T100000
 DTEND;TZID=Europe/Copenhagen:20261210T110000
 SUMMARY:Formiddagsfortællinger - om AI og litteratur
@@ -2608,7 +2288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-litteratur-abent-laesefaellesskab
  -7@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T103000
 DTEND;TZID=Europe/Copenhagen:20261210T120000
 SUMMARY:Åbent læsefællesskab
@@ -2620,7 +2300,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-faelleslaesning-2026-1
  2-10@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T133000
 DTEND;TZID=Europe/Copenhagen:20261210T143000
 SUMMARY:Fælleslæsning
@@ -2632,7 +2312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe-pa-
  viby-bibliotek-2026-12-10@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T140000
 DTEND;TZID=Europe/Copenhagen:20261210T153000
 SUMMARY:Digital Café på Viby Bibliotek
@@ -2644,7 +2324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-laesefaellesskab-2026-1
  2-10@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T150000
 DTEND;TZID=Europe/Copenhagen:20261210T163000
 SUMMARY:Læsefællesskab
@@ -2655,7 +2335,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/litteratur/laesefae
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878031@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T160000
 DTEND;TZID=Europe/Copenhagen:20261210T180000
 SUMMARY:Matematikcafe
@@ -2665,7 +2345,7 @@ URL:https://dokk1.dk/det-sker/matematikcafe-37
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878189@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T161500
 DTEND;TZID=Europe/Copenhagen:20261210T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -2675,7 +2355,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-58
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878854@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T163000
 DTEND;TZID=Europe/Copenhagen:20261210T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
@@ -2684,21 +2364,9 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/udsolgt-dr-romanklub-paa-dokk1-2
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-henrik-tingleff-foredrag-manual-til-jule
- n@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261210T190000
-DTEND;TZID=Europe/Copenhagen:20261210T220000
-SUMMARY:Henrik Tingleff foredrag – Manual til julen
-LOCATION:Den Gamle By
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/henrik-tingleff-foredrag-manual-til-julen
- /
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-litteratur-charles-dickens-et-jule
  eventyr@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261210T190000
 DTEND;TZID=Europe/Copenhagen:20261210T210000
 SUMMARY:Charles Dickens: Et Juleeventyr
@@ -2710,7 +2378,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-ordbanko-2026-12-11@aarhus-
  kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261211T133000
 DTEND;TZID=Europe/Copenhagen:20261211T143000
 SUMMARY:ORDbanko
@@ -2721,7 +2389,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/litteratur/ordbanko/202
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-drejekursus-hurtig-intro-6@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:DREJEKURSUS – hurtig intro
@@ -2732,7 +2400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-dr-romanklub-risskov-20
  26-12-12@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261212T103000
 DTEND;TZID=Europe/Copenhagen:20261212T114500
 SUMMARY:DR Romanklub: Risskov
@@ -2743,7 +2411,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/litteratur/dr-roman
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878901@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261212T130000
 DTEND;TZID=Europe/Copenhagen:20261212T143000
 SUMMARY:Dokk1 læser livet højt
@@ -2754,7 +2422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-workshop-kunsten-at-brodere-paa-toej-131226@aarhus-kalend
  er
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261213T100000
 DTEND;TZID=Europe/Copenhagen:20261213T130000
 SUMMARY:Workshop: Kunsten at brodere på tøj
@@ -2766,7 +2434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-aby-skrivegruppe-om-erindri
  nger-2@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T100000
 DTEND;TZID=Europe/Copenhagen:20261214T120000
 SUMMARY:Åby skrivegruppe - om erindringer
@@ -2778,7 +2446,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe
  -2026-12-14@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T100000
 DTEND;TZID=Europe/Copenhagen:20261214T120000
 SUMMARY:Digital Café
@@ -2790,7 +2458,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hasle-bibliotek-arrangementer-litteratur-aben-laesekreds-i-hasle-5
  @aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T103000
 DTEND;TZID=Europe/Copenhagen:20261214T120000
 SUMMARY:Åben læsekreds i Hasle
@@ -2802,7 +2470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-ord-i-kaffen-2026-12-14
  @aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T103000
 DTEND;TZID=Europe/Copenhagen:20261214T113000
 SUMMARY:Ord i kaffen
@@ -2814,7 +2482,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-hjaelp-og-vejledning-gellerups-it
  -mandage-2026-12-14@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T110000
 DTEND;TZID=Europe/Copenhagen:20261214T130000
 SUMMARY:Gellerups IT-mandage
@@ -2826,7 +2494,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2026-
  12-14@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T140000
 DTEND;TZID=Europe/Copenhagen:20261214T160000
 SUMMARY:Sprogcafé
@@ -2838,7 +2506,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-beder-malling-bibliotek-arrangementer-litteratur-ordbanko-og-kaget
  apas-med-adda-lykkeboe-1@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T150000
 DTEND;TZID=Europe/Copenhagen:20261214T163000
 SUMMARY:Ordbanko og Kagetapas med Adda Lykkeboe
@@ -2850,7 +2518,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-viden-og-demokrati-lokalhistoriske
  -samling-2026-12-14@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T150000
 DTEND;TZID=Europe/Copenhagen:20261214T170000
 SUMMARY:Lokalhistoriske Samling
@@ -2861,7 +2529,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878910@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T160000
 DTEND;TZID=Europe/Copenhagen:20261214T180000
 SUMMARY:Planteværksted - korn
@@ -2870,18 +2538,8 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/plantevaerksted-korn
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877869@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261214T160000
-DTEND;TZID=Europe/Copenhagen:20261214T180000
-SUMMARY:Frøbibliotek
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/froebibliotek-29
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878554@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T160000
 DTEND;TZID=Europe/Copenhagen:20261214T180000
 SUMMARY:Fermenteringsværksted
@@ -2890,8 +2548,18 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/fermenteringsvaerksted-0
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877869@aarhus-kalender
+DTSTAMP:20261117T035823Z
+DTSTART;TZID=Europe/Copenhagen:20261214T160000
+DTEND;TZID=Europe/Copenhagen:20261214T180000
+SUMMARY:Frøbibliotek
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/froebibliotek-29
+END:VEVENT
+BEGIN:VEVENT
 UID:dokk1-2877874@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261214T163000
 DTEND;TZID=Europe/Copenhagen:20261214T180000
 SUMMARY:Fully booked! English Book Clubs at Dokk1
@@ -2900,20 +2568,9 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/fully-booked-english-book-clubs-dokk1-2
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-teorier-om-stort-og-smaat-i-hermans@aarh
- us-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261214T190000
-DTEND;TZID=Europe/Copenhagen:20261214T210000
-SUMMARY:Teorier om stort og småt i Hermans
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/teorier-om-stort-og-smaat-i-hermans/
-END:VEVENT
-BEGIN:VEVENT
 UID:gb-find-roen-og-dit-kreative-flow-suminagashi-workshop-2@aarhus-kalende
  r
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Find roen og dit kreative flow: Suminagashi Workshop
@@ -2925,7 +2582,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-litteratur-faelleslaesning-pa-lyst
  rup-bibliotek-2026-12-15@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261215T100000
 DTEND;TZID=Europe/Copenhagen:20261215T113000
 SUMMARY:Fælleslæsning på Lystrup Bibliotek
@@ -2935,18 +2592,8 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/litteratur/faellesl
  aesning-pa-lystrup-bibliotek/2026-12-15
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2878165@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261215T130000
-DTEND;TZID=Europe/Copenhagen:20261215T150000
-SUMMARY:Spis-dyrk-skab-Lab
-LOCATION:Dokk1
-CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/spisdyrkskablab-11
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878558@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261215T130000
 DTEND;TZID=Europe/Copenhagen:20261215T150000
 SUMMARY:Åben Spire - tirsdag
@@ -2955,9 +2602,19 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/aaben-spire-tirsdag-1
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2878165@aarhus-kalender
+DTSTAMP:20261117T035823Z
+DTSTART;TZID=Europe/Copenhagen:20261215T130000
+DTEND;TZID=Europe/Copenhagen:20261215T150000
+SUMMARY:Spis-dyrk-skab-Lab
+LOCATION:Dokk1
+CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/spisdyrkskablab-11
+END:VEVENT
+BEGIN:VEVENT
 UID:aakb-solbjerg-bibliotek-arrangementer-viden-og-demokrati-solbjerg-og-om
  egns-lokalhistoriske-arkiv-35@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261215T150000
 DTEND;TZID=Europe/Copenhagen:20261215T170000
 SUMMARY:Solbjerg og Omegns Lokalhistoriske Arkiv
@@ -2969,7 +2626,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-tekst-til-tiden-2026-1
  2-15@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261215T160000
 DTEND;TZID=Europe/Copenhagen:20261215T180000
 SUMMARY:Tekst til tiden
@@ -2980,7 +2637,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/litteratur/tekst-t
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878190@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261215T161500
 DTEND;TZID=Europe/Copenhagen:20261215T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -2990,7 +2647,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-57
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877877@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261215T163000
 DTEND;TZID=Europe/Copenhagen:20261215T180000
 SUMMARY:Fully booked! English Book Clubs at Dokk1
@@ -3001,7 +2658,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-vejlby-risskov-
  lokalhistoriske-arkiv-2026-12-16@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261216T090000
 DTEND;TZID=Europe/Copenhagen:20261216T120000
 SUMMARY:Vejlby-Risskov Lokalhistoriske Arkiv
@@ -3012,7 +2669,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875552@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261216T100000
 DTEND;TZID=Europe/Copenhagen:20261216T120000
 SUMMARY:AppsCafé
@@ -3022,7 +2679,7 @@ URL:https://dokk1.dk/det-sker/appscafe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878763@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261216T140000
 DTEND;TZID=Europe/Copenhagen:20261216T160000
 SUMMARY:Ventemaskinen
@@ -3033,7 +2690,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2026-12-16@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261216T140000
 DTEND;TZID=Europe/Copenhagen:20261216T163000
 SUMMARY:Lektiecafé
@@ -3044,7 +2701,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878519@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261217T100000
 DTEND;TZID=Europe/Copenhagen:20261217T113000
 SUMMARY:Åben Spire - torsdag
@@ -3054,7 +2711,7 @@ URL:https://dokk1.dk/det-sker/aaben-spire-torsdag-6
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2875553@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261217T100000
 DTEND;TZID=Europe/Copenhagen:20261217T120000
 SUMMARY:AppsCafé
@@ -3065,7 +2722,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2026
  -12-17@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261217T100000
 DTEND;TZID=Europe/Copenhagen:20261217T110000
 SUMMARY:Åbys IT-café
@@ -3077,7 +2734,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-litteratur-faelleslaesning-2026-1
  2-17@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261217T133000
 DTEND;TZID=Europe/Copenhagen:20261217T143000
 SUMMARY:Fælleslæsning
@@ -3089,7 +2746,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe-pa-
  viby-bibliotek-2026-12-17@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261217T140000
 DTEND;TZID=Europe/Copenhagen:20261217T153000
 SUMMARY:Digital Café på Viby Bibliotek
@@ -3101,7 +2758,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-trige-kombi-bibliotek-arrangementer-viden-og-demokrati-trige-olste
  d-lokalhistoriske-arkiv-2026-12-0@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261217T150000
 DTEND;TZID=Europe/Copenhagen:20261217T163000
 SUMMARY:Trige-Ølsted Lokalhistoriske Arkiv
@@ -3112,7 +2769,7 @@ URL:https://www.aakb.dk/trige-kombi-bibliotek/arrangementer/viden-og-demokr
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878032@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261217T160000
 DTEND;TZID=Europe/Copenhagen:20261217T180000
 SUMMARY:Matematikcafe
@@ -3122,7 +2779,7 @@ URL:https://dokk1.dk/det-sker/matematikcafe-38
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878917@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261217T160000
 DTEND;TZID=Europe/Copenhagen:20261217T180000
 SUMMARY:Åndelig oprustning - mød Svend Brinkmann\, Thomas Aastrup Rømer 
@@ -3134,7 +2791,7 @@ URL:https://dokk1.dk/det-sker/aandelig-oprustning-moed-svend-brinkmann-thom
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878206@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261217T161500
 DTEND;TZID=Europe/Copenhagen:20261217T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -3143,19 +2800,9 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-71
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-et-juleeventyr-i-hermans@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20261217T193000
-DTEND;TZID=Europe/Copenhagen:20261217T223000
-SUMMARY:Et juleeventyr i Hermans
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/et-juleeventyr-i-hermans/
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe
  -2026-12-21@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261221T100000
 DTEND;TZID=Europe/Copenhagen:20261221T120000
 SUMMARY:Digital Café
@@ -3167,7 +2814,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-hjaelp-og-vejledning-gellerups-it
  -mandage-2026-12-21@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261221T110000
 DTEND;TZID=Europe/Copenhagen:20261221T130000
 SUMMARY:Gellerups IT-mandage
@@ -3179,7 +2826,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2026-
  12-21@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261221T140000
 DTEND;TZID=Europe/Copenhagen:20261221T160000
 SUMMARY:Sprogcafé
@@ -3191,7 +2838,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-viden-og-demokrati-lokalhistoriske
  -samling-2026-12-21@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261221T150000
 DTEND;TZID=Europe/Copenhagen:20261221T170000
 SUMMARY:Lokalhistoriske Samling
@@ -3202,7 +2849,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878822@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261223T110000
 DTEND;TZID=Europe/Copenhagen:20261223T120000
 SUMMARY:Højtlæsning fra Dickens' "Et Juleeventyr" (mest for voksne)
@@ -3214,7 +2861,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-hjaelp-og-vejledning-gellerups-it
  -mandage-2026-12-28@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20261228T110000
 DTEND;TZID=Europe/Copenhagen:20261228T130000
 SUMMARY:Gellerups IT-mandage
@@ -3226,7 +2873,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe
  -2027-01-04@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270104T100000
 DTEND;TZID=Europe/Copenhagen:20270104T120000
 SUMMARY:Digital Café
@@ -3238,7 +2885,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2027-
  01-04@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270104T140000
 DTEND;TZID=Europe/Copenhagen:20270104T160000
 SUMMARY:Sprogcafé
@@ -3250,7 +2897,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-litteratur-litteratursnakken-202
  7-01-04@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270104T160000
 DTEND;TZID=Europe/Copenhagen:20270104T173000
 SUMMARY:Litteratursnakken
@@ -3261,7 +2908,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/litteratur/litter
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878892@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270104T170000
 DTEND;TZID=Europe/Copenhagen:20270104T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -3271,7 +2918,7 @@ URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt-1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878235@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270105T180000
 DTEND;TZID=Europe/Copenhagen:20270105T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -3282,7 +2929,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-01-06@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270106T140000
 DTEND;TZID=Europe/Copenhagen:20270106T163000
 SUMMARY:Lektiecafé
@@ -3294,7 +2941,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2027
  -01-07@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270107T100000
 DTEND;TZID=Europe/Copenhagen:20270107T110000
 SUMMARY:Åbys IT-café
@@ -3305,7 +2952,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/ab
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878023@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270107T160000
 DTEND;TZID=Europe/Copenhagen:20270107T180000
 SUMMARY:Matematikcafe
@@ -3314,30 +2961,8 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/matematikcafe-25
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-titanique-the-musical-i-hermans@aarhus-k
- alender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270110T140000
-DTEND;TZID=Europe/Copenhagen:20270110T170000
-SUMMARY:TITANIQUE – The Musical i Hermans
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/titanique-the-musical-i-hermans/
-END:VEVENT
-BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-titanique-the-musical-hermans@aarhus-kal
- ender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270111T190000
-DTEND;TZID=Europe/Copenhagen:20270111T213000
-SUMMARY:TITANIQUE – The Musical i Hermans
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/titanique-the-musical-hermans/
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878841@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270112T130000
 DTEND;TZID=Europe/Copenhagen:20270112T160000
 SUMMARY:Spørgehjørne for slægtsforskere
@@ -3348,7 +2973,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-drs-romanklub-aby-udsolgt-1
  @aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270112T163000
 DTEND;TZID=Europe/Copenhagen:20270112T174500
 SUMMARY:DRs Romanklub - Åby - Udsolgt
@@ -3358,21 +2983,9 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/litteratur/drs-romanklu
  b-aby-udsolgt-1
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-kan-man-taenke-sig-rask-med-thomas-brein
- holt@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270112T190000
-DTEND;TZID=Europe/Copenhagen:20270112T210000
-SUMMARY:Kan man tænke sig rask? med Thomas Breinholt
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/kan-man-taenke-sig-rask-med-thomas-breinh
- olt/
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-01-13@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270113T140000
 DTEND;TZID=Europe/Copenhagen:20270113T163000
 SUMMARY:Lektiecafé
@@ -3383,7 +2996,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-b71ef6fe-7230-4745-9c0e-a23e622073a3@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270113T190000
 DTEND;TZID=Europe/Copenhagen:20270113T200000
 SUMMARY:Gratis rejseforedrag: Mexico i mayaernes fodspor
@@ -3395,7 +3008,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2027
  -01-14@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270114T100000
 DTEND;TZID=Europe/Copenhagen:20270114T110000
 SUMMARY:Åbys IT-café
@@ -3406,7 +3019,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/ab
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878207@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270114T161500
 DTEND;TZID=Europe/Copenhagen:20270114T181500
 SUMMARY:Studenterrådets Retshjælp
@@ -3416,7 +3029,7 @@ URL:https://dokk1.dk/det-sker/studenterraadets-retshjaelp-72
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878853@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270114T163000
 DTEND;TZID=Europe/Copenhagen:20270114T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
@@ -3426,7 +3039,7 @@ URL:https://dokk1.dk/det-sker/udsolgt-dr-romanklub-paa-dokk1-0
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-6b43443f-e393-4789-92d6-d5e1ca575ab4@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270120T190000
 DTEND;TZID=Europe/Copenhagen:20270120T201500
 SUMMARY:Hverdagshistorier fra Grønland\, Island og Færøerne
@@ -3437,7 +3050,7 @@ URL:https://moesgaardmuseum.dk/besoeg-os/kalender/hverdagshistorier-fra-gro
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878918@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270123T110000
 DTEND;TZID=Europe/Copenhagen:20270123T153000
 SUMMARY:Fortællingens dag på Dokk1
@@ -3447,7 +3060,7 @@ URL:https://dokk1.dk/det-sker/fortaellingens-dag-paa-dokk1
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878849@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270123T140000
 DTEND;TZID=Europe/Copenhagen:20270123T151500
 SUMMARY:Oplev Vigga Bro – en magisk fortæller
@@ -3457,7 +3070,7 @@ URL:https://dokk1.dk/det-sker/oplev-vigga-bro-en-magisk-fortaeller
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-foredrag-the-beatles-bandet-der-erobrede-verden@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:Foredrag: The Beatles – bandet\, der erobrede verden
@@ -3469,7 +3082,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-guidet-faelleslaesning-
  pa-risskov-bibliotek-2027-01-26@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270126T130000
 DTEND;TZID=Europe/Copenhagen:20270126T143000
 SUMMARY:Guidet Fælleslæsning på Risskov Bibliotek
@@ -3481,7 +3094,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-viden-og-demokrati-nabolagsmode-d
  emokratisk-vaertskab-2027-01-27@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270127T110000
 DTEND;TZID=Europe/Copenhagen:20270127T123000
 SUMMARY:Nabolagsmøde: Demokratisk værtskab
@@ -3493,7 +3106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-01-27@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270127T140000
 DTEND;TZID=Europe/Copenhagen:20270127T163000
 SUMMARY:Lektiecafé
@@ -3505,7 +3118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gb-find-roen-og-dit-kreative-flow-suminagashi-workshop-3@aarhus-kalende
  r
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Find roen og dit kreative flow: Suminagashi Workshop
@@ -3517,7 +3130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe
  -2027-02-01@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270201T100000
 DTEND;TZID=Europe/Copenhagen:20270201T120000
 SUMMARY:Digital Café
@@ -3529,7 +3142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2027-
  02-01@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270201T140000
 DTEND;TZID=Europe/Copenhagen:20270201T160000
 SUMMARY:Sprogcafé
@@ -3541,7 +3154,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-litteratur-litteratursnakken-202
  7-02-01@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270201T160000
 DTEND;TZID=Europe/Copenhagen:20270201T173000
 SUMMARY:Litteratursnakken
@@ -3553,7 +3166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-hjaelp-og-vejledning-mit-barn-tal
  er-flere-sprog-og-har-svaert-0@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270201T163000
 DTEND;TZID=Europe/Copenhagen:20270201T180000
 SUMMARY:Mit barn taler flere sprog og har svært ved læsning
@@ -3563,19 +3176,8 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/hjaelp-og-vejledni
  ng/mit-barn-taler-flere-sprog-og-har-svaert-0
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-glenn-bech-og-mutti-live-i-hermans@aarhu
- s-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270201T190000
-DTEND;TZID=Europe/Copenhagen:20270201T210000
-SUMMARY:Glenn Bech og Mutti live i Hermans
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/glenn-bech-og-mutti-live-i-hermans/
-END:VEVENT
-BEGIN:VEVENT
 UID:gb-cyklusrevolutionen@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:Cyklusrevolutionen
@@ -3585,7 +3187,7 @@ URL:https://godsbanen.dk/kalender/cyklusrevolutionen/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878243@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270202T180000
 DTEND;TZID=Europe/Copenhagen:20270202T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -3596,7 +3198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-02-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270203T140000
 DTEND;TZID=Europe/Copenhagen:20270203T163000
 SUMMARY:Lektiecafé
@@ -3607,7 +3209,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878450@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270203T150000
 DTEND;TZID=Europe/Copenhagen:20270203T161500
 SUMMARY:Rundvisning på Dokk1
@@ -3618,7 +3220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-portraettet-workshop-i-samlingen-ved-illustrator-line-ref
  strup-0302-27@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270203T160000
 DTEND;TZID=Europe/Copenhagen:20270203T180000
 SUMMARY:Portrættet - Workshop i samlingen ved illustrator Line Refstrup
@@ -3629,7 +3231,7 @@ URL:https://www.aros.dk/kalender/portraettet-workshop-i-samlingen-ved-illus
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-515e372a-c653-4f4b-ac1d-55502d6b5a27@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270203T190000
 DTEND;TZID=Europe/Copenhagen:20270203T201500
 SUMMARY:Foredrag: Mayaernes verden - myter\, magt og mysterier
@@ -3641,7 +3243,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2027
  -02-04@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270204T100000
 DTEND;TZID=Europe/Copenhagen:20270204T110000
 SUMMARY:Åbys IT-café
@@ -3652,7 +3254,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/ab
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878895@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270208T170000
 DTEND;TZID=Europe/Copenhagen:20270208T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -3662,7 +3264,7 @@ URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt-4
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878757@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270208T190000
 DTEND;TZID=Europe/Copenhagen:20270208T210000
 SUMMARY:Talk: Mysteriet Jørgen - Genopstandelsen
@@ -3672,7 +3274,7 @@ URL:https://dokk1.dk/det-sker/talk-mysteriet-joergen-genopstandelsen
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878843@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270209T130000
 DTEND;TZID=Europe/Copenhagen:20270209T160000
 SUMMARY:Spørgehjørne for slægtsforskere
@@ -3683,7 +3285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-guidet-faelleslaesning-
  pa-risskov-bibliotek-2027-02-09@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270209T130000
 DTEND;TZID=Europe/Copenhagen:20270209T143000
 SUMMARY:Guidet Fælleslæsning på Risskov Bibliotek
@@ -3695,7 +3297,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-dr-romanklub-aby-udsolgt-1@
  aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270209T163000
 DTEND;TZID=Europe/Copenhagen:20270209T174500
 SUMMARY:DR Romanklub - Åby - Udsolgt
@@ -3707,7 +3309,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-02-10@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270210T140000
 DTEND;TZID=Europe/Copenhagen:20270210T163000
 SUMMARY:Lektiecafé
@@ -3719,7 +3321,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-hjaelp-og-vejledning-mit-barn-kaemper
  -med-laesning-0@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270210T163000
 DTEND;TZID=Europe/Copenhagen:20270210T180000
 SUMMARY:Mit barn kæmper med læsning
@@ -3730,7 +3332,7 @@ URL:https://www.aakb.dk/viby-bibliotek/arrangementer/hjaelp-og-vejledning/m
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-c42f9333-d196-4e99-bcf5-d03f0557f482@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270210T190000
 DTEND;TZID=Europe/Copenhagen:20270210T201500
 SUMMARY:Riget under junglen
@@ -3741,7 +3343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2027
  -02-11@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270211T100000
 DTEND;TZID=Europe/Copenhagen:20270211T110000
 SUMMARY:Åbys IT-café
@@ -3752,7 +3354,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/ab
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878856@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270211T163000
 DTEND;TZID=Europe/Copenhagen:20270211T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
@@ -3763,7 +3365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2027-
  02-15@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270215T140000
 DTEND;TZID=Europe/Copenhagen:20270215T160000
 SUMMARY:Sprogcafé
@@ -3775,7 +3377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-guidet-faelleslaesning-
  pa-risskov-bibliotek-2027-02-23@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270223T130000
 DTEND;TZID=Europe/Copenhagen:20270223T143000
 SUMMARY:Guidet Fælleslæsning på Risskov Bibliotek
@@ -3787,7 +3389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-02-24@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270224T140000
 DTEND;TZID=Europe/Copenhagen:20270224T163000
 SUMMARY:Lektiecafé
@@ -3799,7 +3401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-trige-kombi-bibliotek-arrangementer-hjaelp-og-vejledning-cafe-chro
  mebook-0@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270224T150000
 DTEND;TZID=Europe/Copenhagen:20270224T170000
 SUMMARY:Café Chromebook
@@ -3811,7 +3413,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-viden-og-demokrati-nabolagsmode-d
  emokratisk-vaertskab-2027-02-24@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270224T163000
 DTEND;TZID=Europe/Copenhagen:20270224T180000
 SUMMARY:Nabolagsmøde: Demokratisk værtskab
@@ -3821,19 +3423,8 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/viden-og-demokrati
  /nabolagsmode-demokratisk-vaertskab/2027-02-24
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-eyda-vinterloebet-ved-hermans@aarhus-kal
- ender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270228T093000
-DTEND;TZID=Europe/Copenhagen:20270228T170000
-SUMMARY:EYDA Vinterløbet ved Hermans
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/eyda-vinterloebet-ved-hermans/
-END:VEVENT
-BEGIN:VEVENT
 UID:gb-johanne-mygind-cheminovas-giftige-arv@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Johanne Mygind: Cheminovas giftige arv
@@ -3844,7 +3435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe
  -2027-03-01@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270301T100000
 DTEND;TZID=Europe/Copenhagen:20270301T120000
 SUMMARY:Digital Café
@@ -3856,7 +3447,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2027-
  03-01@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270301T140000
 DTEND;TZID=Europe/Copenhagen:20270301T160000
 SUMMARY:Sprogcafé
@@ -3868,7 +3459,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-litteratur-litteratursnakken-202
  7-03-01@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270301T160000
 DTEND;TZID=Europe/Copenhagen:20270301T173000
 SUMMARY:Litteratursnakken
@@ -3879,7 +3470,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/litteratur/litter
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878890@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270301T170000
 DTEND;TZID=Europe/Copenhagen:20270301T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -3888,19 +3479,8 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-rejseholdet-bent-isager-nielsen@aarhus-k
- alender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270301T190000
-DTEND;TZID=Europe/Copenhagen:20270301T210000
-SUMMARY:Rejseholdet med Bent Isager-Nielsen
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/rejseholdet-bent-isager-nielsen/
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878240@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270302T180000
 DTEND;TZID=Europe/Copenhagen:20270302T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -3911,7 +3491,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-03-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270303T140000
 DTEND;TZID=Europe/Copenhagen:20270303T163000
 SUMMARY:Lektiecafé
@@ -3922,7 +3502,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878451@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270303T150000
 DTEND;TZID=Europe/Copenhagen:20270303T161500
 SUMMARY:Rundvisning på Dokk1
@@ -3933,7 +3513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2027
  -03-04@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270304T100000
 DTEND;TZID=Europe/Copenhagen:20270304T110000
 SUMMARY:Åbys IT-café
@@ -3944,7 +3524,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/ab
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878842@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270309T130000
 DTEND;TZID=Europe/Copenhagen:20270309T160000
 SUMMARY:Spørgehjørne for slægtsforskere
@@ -3955,7 +3535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-guidet-faelleslaesning-
  pa-risskov-bibliotek-2027-03-09@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270309T130000
 DTEND;TZID=Europe/Copenhagen:20270309T143000
 SUMMARY:Guidet Fælleslæsning på Risskov Bibliotek
@@ -3967,7 +3547,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-dr-romanklub-aby-0@aarhus-k
  alender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270309T163000
 DTEND;TZID=Europe/Copenhagen:20270309T174500
 SUMMARY:DR Romanklub - Åby - Udsolgt
@@ -3977,21 +3557,9 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/litteratur/dr-romanklub
  -aby-0
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-manipulationens-psykologi-niels-kroejgaa
- rd@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270309T190000
-DTEND;TZID=Europe/Copenhagen:20270309T210000
-SUMMARY:Manipulationens psykologi – Show og foredrag med Niels Krøjgaard
-LOCATION:Musikhuset Aarhus
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/manipulationens-psykologi-niels-kroejgaar
- d/
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-03-10@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270310T140000
 DTEND;TZID=Europe/Copenhagen:20270310T163000
 SUMMARY:Lektiecafé
@@ -4002,7 +3570,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-452551c7-f7a8-4cfb-a01a-c5ed889cf983@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270310T190000
 DTEND;TZID=Europe/Copenhagen:20270310T201500
 SUMMARY:Frans Blom og det urolige blod
@@ -4014,7 +3582,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2027
  -03-11@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270311T100000
 DTEND;TZID=Europe/Copenhagen:20270311T110000
 SUMMARY:Åbys IT-café
@@ -4025,7 +3593,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/ab
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878851@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270311T163000
 DTEND;TZID=Europe/Copenhagen:20270311T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
@@ -4036,7 +3604,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-retten-til-frih
  ed-historien-om@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270313T130000
 DTEND;TZID=Europe/Copenhagen:20270313T150000
 SUMMARY:Retten til frihed – historien om frihedsrettighederne
@@ -4048,7 +3616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2027-
  03-15@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270315T140000
 DTEND;TZID=Europe/Copenhagen:20270315T160000
 SUMMARY:Sprogcafé
@@ -4059,7 +3627,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-19ea6afc-3252-4745-9498-a6e3a372727e@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270317T190000
 DTEND;TZID=Europe/Copenhagen:20270317T203000
 SUMMARY:Foredrag: Gudernes drik – kakao\, myter og mayaer
@@ -4071,7 +3639,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-viden-og-demokrati-nabolagsmode-d
  emokratisk-vaertskab-2027-03-24@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270324T110000
 DTEND;TZID=Europe/Copenhagen:20270324T123000
 SUMMARY:Nabolagsmøde: Demokratisk værtskab
@@ -4083,7 +3651,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-03-24@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270324T140000
 DTEND;TZID=Europe/Copenhagen:20270324T163000
 SUMMARY:Lektiecafé
@@ -4095,7 +3663,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2027
  -04-01@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270401T100000
 DTEND;TZID=Europe/Copenhagen:20270401T110000
 SUMMARY:Åbys IT-café
@@ -4106,7 +3674,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/ab
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-prince-den-lilla-virtuos@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:Prince – Den lilla virtuos
@@ -4117,7 +3685,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe
  -2027-04-05@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270405T100000
 DTEND;TZID=Europe/Copenhagen:20270405T120000
 SUMMARY:Digital Café
@@ -4129,7 +3697,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2027-
  04-05@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270405T140000
 DTEND;TZID=Europe/Copenhagen:20270405T160000
 SUMMARY:Sprogcafé
@@ -4141,7 +3709,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-litteratur-litteratursnakken-202
  7-04-05@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270405T160000
 DTEND;TZID=Europe/Copenhagen:20270405T173000
 SUMMARY:Litteratursnakken
@@ -4152,7 +3720,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/litteratur/litter
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878896@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270405T170000
 DTEND;TZID=Europe/Copenhagen:20270405T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -4161,20 +3729,9 @@ CATEGORIES:Foredrag & Talks\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt-6
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-simon-jul-rane-willerslev@aarhus-kalende
- r
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270405T190000
-DTEND;TZID=Europe/Copenhagen:20270405T213000
-SUMMARY:Simon Jul & Rane Willerslev – Historien på hovedet
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/simon-jul-rane-willerslev/
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-guidet-faelleslaesning-
  pa-risskov-bibliotek-2027-04-06@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270406T130000
 DTEND;TZID=Europe/Copenhagen:20270406T143000
 SUMMARY:Guidet Fælleslæsning på Risskov Bibliotek
@@ -4185,7 +3742,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/litteratur/guidet-f
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878238@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270406T180000
 DTEND;TZID=Europe/Copenhagen:20270406T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -4196,7 +3753,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-04-07@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270407T140000
 DTEND;TZID=Europe/Copenhagen:20270407T163000
 SUMMARY:Lektiecafé
@@ -4207,7 +3764,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878449@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270407T150000
 DTEND;TZID=Europe/Copenhagen:20270407T161500
 SUMMARY:Rundvisning på Dokk1
@@ -4218,7 +3775,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-naturen-workshop-i-samlingen-ved-illustrator-line-refstru
  p-0704-27@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270407T160000
 DTEND;TZID=Europe/Copenhagen:20270407T180000
 SUMMARY:Naturen - Workshop i samlingen ved illustrator Line Refstrup
@@ -4229,7 +3786,7 @@ URL:https://www.aros.dk/kalender/naturen-workshop-i-samlingen-ved-illustrat
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878719@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270407T170000
 DTEND;TZID=Europe/Copenhagen:20270407T190000
 SUMMARY:Danmarks første kvindelige kriminalbetjent
@@ -4239,7 +3796,7 @@ URL:https://dokk1.dk/det-sker/danmarks-foerste-kvindelige-kriminalbetjent
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-accff395-ebcd-4264-9218-9b6bdb382611@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270407T190000
 DTEND;TZID=Europe/Copenhagen:20270407T201500
 SUMMARY:Hieroglyffernes gåder – jagten på det forsvundne sprog
@@ -4251,7 +3808,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-bavnehoj-bibliotek-arrangementer-hjaelp-og-vejledning-cafe-chromeb
  ook-0@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270408T150000
 DTEND;TZID=Europe/Copenhagen:20270408T170000
 SUMMARY:Café Chromebook
@@ -4262,7 +3819,7 @@ URL:https://www.aakb.dk/bavnehoj-bibliotek/arrangementer/hjaelp-og-vejledni
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878852@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270408T163000
 DTEND;TZID=Europe/Copenhagen:20270408T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
@@ -4273,7 +3830,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2027-
  04-12@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270412T140000
 DTEND;TZID=Europe/Copenhagen:20270412T160000
 SUMMARY:Sprogcafé
@@ -4284,7 +3841,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/viden-og-demokrati/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878844@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270413T130000
 DTEND;TZID=Europe/Copenhagen:20270413T160000
 SUMMARY:Spørgehjørne for slægtsforskere
@@ -4295,7 +3852,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-guidet-faelleslaesning-
  pa-risskov-bibliotek-2027-04-13@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270413T130000
 DTEND;TZID=Europe/Copenhagen:20270413T143000
 SUMMARY:Guidet Fælleslæsning på Risskov Bibliotek
@@ -4307,7 +3864,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-dr-romanklub-aby-udsolgt-2@
  aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270413T163000
 DTEND;TZID=Europe/Copenhagen:20270413T174500
 SUMMARY:DR Romanklub - Åby - Udsolgt
@@ -4318,7 +3875,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/litteratur/dr-romanklub
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-0405c3f6-16a9-49d5-a6d1-3e8e1cff227b@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270414T190000
 DTEND;TZID=Europe/Copenhagen:20270414T201500
 SUMMARY:Koncert: Lyden af mayalandet - koncert med Damián Martínez
@@ -4330,7 +3887,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2027
  -04-15@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270415T100000
 DTEND;TZID=Europe/Copenhagen:20270415T110000
 SUMMARY:Åbys IT-café
@@ -4340,21 +3897,9 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/ab
  ys-it-cafe/2027-04-15
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-linse-kessler-hvordan-fanden-goer-du-lin
- se@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270418T190000
-DTEND;TZID=Europe/Copenhagen:20270418T213000
-SUMMARY:Linse Kessler – Hvordan fanden gør du\, Linse?
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/linse-kessler-hvordan-fanden-goer-du-lins
- e/
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2027-
  04-19@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270419T140000
 DTEND;TZID=Europe/Copenhagen:20270419T160000
 SUMMARY:Sprogcafé
@@ -4364,21 +3909,9 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/viden-og-demokrati/
  sprogcafe/2027-04-19
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-rasmus-tantholdt-fra-verdens-braendpunkt
- er@aarhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270419T190000
-DTEND;TZID=Europe/Copenhagen:20270419T210000
-SUMMARY:Rasmus Tantholdt – Historier fra verdens brændpunkter
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/rasmus-tantholdt-fra-verdens-braendpunkte
- r/
-END:VEVENT
-BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-04-21@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270421T140000
 DTEND;TZID=Europe/Copenhagen:20270421T163000
 SUMMARY:Lektiecafé
@@ -4389,7 +3922,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-f6d51fb3-7406-49c4-a6e2-cd553db4ef4e@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270421T190000
 DTEND;TZID=Europe/Copenhagen:20270421T201500
 SUMMARY:Ib Michael og de største maya-myter
@@ -4400,7 +3933,7 @@ URL:https://moesgaardmuseum.dk/besoeg-os/kalender/ib-michael-og-de-stoerste
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878527@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270424T130000
 DTEND;TZID=Europe/Copenhagen:20270424T141500
 SUMMARY:"Skal du ikke snart have en kæreste?"
@@ -4411,7 +3944,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2027-
  04-26@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270426T140000
 DTEND;TZID=Europe/Copenhagen:20270426T160000
 SUMMARY:Sprogcafé
@@ -4423,7 +3956,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-litteratur-guidet-faelleslaesning-
  pa-risskov-bibliotek-2027-04-27@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270427T130000
 DTEND;TZID=Europe/Copenhagen:20270427T143000
 SUMMARY:Guidet Fælleslæsning på Risskov Bibliotek
@@ -4435,7 +3968,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-viden-og-demokrati-nabolagsmode-d
  emokratisk-vaertskab-2027-04-28@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270428T163000
 DTEND;TZID=Europe/Copenhagen:20270428T180000
 SUMMARY:Nabolagsmøde: Demokratisk værtskab
@@ -4446,7 +3979,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/viden-og-demokrati
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878250@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270429T190000
 DTEND;TZID=Europe/Copenhagen:20270429T210000
 SUMMARY:Tøj og alder
@@ -4457,7 +3990,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-hojbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-digital-cafe
  -2027-05-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270503T100000
 DTEND;TZID=Europe/Copenhagen:20270503T120000
 SUMMARY:Digital Café
@@ -4469,7 +4002,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-viden-og-demokrati-sprogcafe-2027-
  05-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270503T140000
 DTEND;TZID=Europe/Copenhagen:20270503T160000
 SUMMARY:Sprogcafé
@@ -4481,7 +4014,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-litteratur-litteratursnakken-202
  7-05-03@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270503T160000
 DTEND;TZID=Europe/Copenhagen:20270503T173000
 SUMMARY:Litteratursnakken
@@ -4492,7 +4025,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/litteratur/litter
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878893@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270503T170000
 DTEND;TZID=Europe/Copenhagen:20270503T180000
 SUMMARY:Bogklubben Kort Er Godt
@@ -4502,7 +4035,7 @@ URL:https://dokk1.dk/det-sker/bogklubben-kort-er-godt-2
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878236@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270504T180000
 DTEND;TZID=Europe/Copenhagen:20270504T200000
 SUMMARY:The Fantasy Fellowship: Chapter 2
@@ -4513,7 +4046,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-hjaelp-og-vejledning-lektiecafe-
  2027-05-05@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270505T140000
 DTEND;TZID=Europe/Copenhagen:20270505T163000
 SUMMARY:Lektiecafé
@@ -4524,7 +4057,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/hjaelp-og-vejledn
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878452@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270505T150000
 DTEND;TZID=Europe/Copenhagen:20270505T161500
 SUMMARY:Rundvisning på Dokk1
@@ -4535,7 +4068,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2027
  -05-06@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270506T100000
 DTEND;TZID=Europe/Copenhagen:20270506T110000
 SUMMARY:Åbys IT-café
@@ -4545,19 +4078,8 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/ab
  ys-it-cafe/2027-05-06
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-mads-hyldig-hjernero-og-mindre-stress@aa
- rhus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270510T190000
-DTEND;TZID=Europe/Copenhagen:20270510T210000
-SUMMARY:HjerneRO EKSTRA med Mads Hyldig
-LOCATION:Hermans
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/mads-hyldig-hjernero-og-mindre-stress/
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878904@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270510T190000
 DTEND;TZID=Europe/Copenhagen:20270510T203000
 SUMMARY:Arkitektens blik: Gellerup set indefra
@@ -4568,7 +4090,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-hjaelp-dit-ordbli
  nde-barnebarn-med-it-0@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270511T103000
 DTEND;TZID=Europe/Copenhagen:20270511T123000
 SUMMARY:Hjælp dit ordblinde barnebarn med it
@@ -4579,7 +4101,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/hj
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878839@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270511T130000
 DTEND;TZID=Europe/Copenhagen:20270511T160000
 SUMMARY:Spørgehjørne for slægtsforskere
@@ -4590,7 +4112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-litteratur-drs-romanklub-aby-udsolgt-3
  @aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270511T163000
 DTEND;TZID=Europe/Copenhagen:20270511T174500
 SUMMARY:DRs Romanklub - Åby - Udsolgt
@@ -4600,19 +4122,8 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/litteratur/drs-romanklu
  b-aby-udsolgt-3
 END:VEVENT
 BEGIN:VEVENT
-UID:ai-https-aarhusinside-dk-event-manual-til-mennesker-henrik-tingleff@aar
- hus-kalender
-DTSTAMP:20261116T040932Z
-DTSTART;TZID=Europe/Copenhagen:20270511T190000
-DTEND;TZID=Europe/Copenhagen:20270511T210000
-SUMMARY:Manual til mennesker – foredrag med Henrik Tingleff
-LOCATION:Musikhuset Aarhus
-CATEGORIES:Foredrag & Talks\,Aarhus Inside
-URL:https://aarhusinside.dk/event/manual-til-mennesker-henrik-tingleff/
-END:VEVENT
-BEGIN:VEVENT
 UID:moesgaard-6ff0e04e-5332-4ab1-a623-7851299e4704@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270512T183000
 DTEND;TZID=Europe/Copenhagen:20270512T203000
 SUMMARY:Keramik og cava: skab dit eget maya-kunstværk
@@ -4624,7 +4135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-hjaelp-og-vejledning-abys-it-cafe-2027
  -05-13@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270513T100000
 DTEND;TZID=Europe/Copenhagen:20270513T110000
 SUMMARY:Åbys IT-café
@@ -4635,7 +4146,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/hjaelp-og-vejledning/ab
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878855@aarhus-kalender
-DTSTAMP:20261116T040932Z
+DTSTAMP:20261117T035823Z
 DTSTART;TZID=Europe/Copenhagen:20270513T163000
 DTEND;TZID=Europe/Copenhagen:20270513T174500
 SUMMARY:UDSOLGT - DR Romanklub på Dokk1
