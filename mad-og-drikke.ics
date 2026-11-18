@@ -24,8 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:hk-20261116-81510492@aarhus-kalender
-DTSTAMP:20261117T035823Z
+UID:hk-20261116-9556663@aarhus-kalender
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20261116T170000
 DTEND;TZID=Europe/Copenhagen:20261116T190000
 SUMMARY:Smag den egypiske nationalret og streetfood-klassikeren ‘Koshary
@@ -35,18 +35,8 @@ CATEGORIES:Mad & Drikke\,Heromkring
 URL:https://www.instagram.com/p/DfmJ12hsfY4/
 END:VEVENT
 BEGIN:VEVENT
-UID:aros-kalender-brunch-rundvisning-17112026@aarhus-kalender
-DTSTAMP:20261117T035823Z
-DTSTART;TZID=Europe/Copenhagen:20261117T101500
-DTEND;TZID=Europe/Copenhagen:20261117T121500
-SUMMARY:UDSOLGT · Brunch & Rundvisning
-LOCATION:AROS
-CATEGORIES:Mad & Drikke\,AROS
-URL:https://www.aros.dk/kalender/brunch-rundvisning-17112026/
-END:VEVENT
-BEGIN:VEVENT
 UID:aros-kalender-brunch-rundvisning-18112026@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20261118T101500
 DTEND;TZID=Europe/Copenhagen:20261118T121500
 SUMMARY:UDSOLGT · Brunch & Rundvisning
@@ -56,7 +46,7 @@ URL:https://www.aros.dk/kalender/brunch-rundvisning-18112026/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-brunch-rundvisning-19112026@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20261119T101500
 DTEND;TZID=Europe/Copenhagen:20261119T121500
 SUMMARY:UDSOLGT · Brunch & Rundvisning
@@ -66,7 +56,7 @@ URL:https://www.aros.dk/kalender/brunch-rundvisning-19112026/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-faellesspisning-20261119-180000@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20261119T180000
 DTEND;TZID=Europe/Copenhagen:20261119T210000
 SUMMARY:Fællesspisning
@@ -76,7 +66,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-brunch-rundvisning-20112026@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20261120T101500
 DTEND;TZID=Europe/Copenhagen:20261120T121500
 SUMMARY:UDSOLGT · Brunch & Rundvisning
@@ -86,7 +76,7 @@ URL:https://www.aros.dk/kalender/brunch-rundvisning-20112026/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-rundvisning-oelsmagning-20112026@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20261120T160000
 DTEND;TZID=Europe/Copenhagen:20261120T180000
 SUMMARY:UDSOLGT · Rundvisning & Ølsmagning
@@ -96,7 +86,7 @@ URL:https://www.aros.dk/kalender/rundvisning-oelsmagning-20112026/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-brunch-rundvisning-21112026@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20261121T101500
 DTEND;TZID=Europe/Copenhagen:20261121T121500
 SUMMARY:UDSOLGT · Brunch & Rundvisning
@@ -105,8 +95,8 @@ CATEGORIES:Mad & Drikke\,AROS
 URL:https://www.aros.dk/kalender/brunch-rundvisning-21112026/
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261121-87934562@aarhus-kalender
-DTSTAMP:20261117T035823Z
+UID:hk-20261121-88499819@aarhus-kalender
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20261121T200000
 DTEND;TZID=Europe/Copenhagen:20261121T220000
 SUMMARY:Ølsmagning med ÅBEN ombord på ‘Juleskibet Svanen’
@@ -116,7 +106,7 @@ URL:https://heromkring.beehiiv.com/p/heromkring-aarhus-uge-47
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-brunch-rundvisning-22112026@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20261122T101500
 DTEND;TZID=Europe/Copenhagen:20261122T121500
 SUMMARY:UDSOLGT · Brunch & Rundvisning
@@ -126,7 +116,7 @@ URL:https://www.aros.dk/kalender/brunch-rundvisning-22112026/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-julebanko-paa-godsbanen@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:UDSOLGT: Julebanko på Godsbanen
@@ -135,8 +125,19 @@ CATEGORIES:Mad & Drikke\,Godsbanen
 URL:https://godsbanen.dk/kalender/julebanko-paa-godsbanen/
 END:VEVENT
 BEGIN:VEVENT
+UID:va-8ed43bf4-c2cd-4762-bfcc-80c1c290db61-0@aarhus-kalender
+DTSTAMP:20261118T035952Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Julemarked på Aarhus Street Food
+LOCATION:Aarhus
+CATEGORIES:Mad & Drikke\,VisitAarhus\,Gratis
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julemarked-pa
+ a-aarhus-street-food-gdk1094333
+END:VEVENT
+BEGIN:VEVENT
 UID:gb-julemarked-restaurant-gods@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
 SUMMARY:Julemarked: Restaurant GODS
@@ -147,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-viby-bibliotek-arrangementer-ikke-jule-faellesspisning@aarhus-kale
  nder
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20261211T170000
 DTEND;TZID=Europe/Copenhagen:20261211T193000
 SUMMARY:☘️Ikke "Jule"      fællesspisning☘️
@@ -158,7 +159,7 @@ URL:https://www.aakb.dk/viby-bibliotek/arrangementer/ikke-jule-faellesspisn
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-julebanko-paa-godsbanen-2@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:UDSOLGT: Julebanko på Godsbanen
@@ -167,8 +168,19 @@ CATEGORIES:Mad & Drikke\,Godsbanen
 URL:https://godsbanen.dk/kalender/julebanko-paa-godsbanen-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:va-c97815c4-034a-4945-bde9-2c797609fb80-0@aarhus-kalender
+DTSTAMP:20261118T035952Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270301
+SUMMARY:Gastro Week - i Aarhusregionen
+LOCATION:Aarhusregionen
+CATEGORIES:Mad & Drikke\,VisitAarhus
+URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/gastro-week-i
+ -aarhusregionen-gdk954864
+END:VEVENT
+BEGIN:VEVENT
 UID:moesgaard-b71b3604-7f43-4f53-8621-e7e2d4b44088@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20270227T100000
 DTEND;TZID=Europe/Copenhagen:20270227T122000
 SUMMARY:Lørdagsbrunch på Moesgaard: Verdenshistorien om mayaerne
@@ -179,7 +191,7 @@ URL:https://moesgaardmuseum.dk/besoeg-os/kalender/loerdagsbrunch-paa-moesga
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-7b05a198-773e-4d80-942f-5b835ef1c1e5@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20270320T100000
 DTEND;TZID=Europe/Copenhagen:20270320T122000
 SUMMARY:Lørdagsbrunch på Moesgaard: Verdenshistorien om mayaerne
@@ -190,7 +202,7 @@ URL:https://moesgaardmuseum.dk/besoeg-os/kalender/loerdagsbrunch-paa-moesga
 END:VEVENT
 BEGIN:VEVENT
 UID:moesgaard-60cbef45-b1e9-4295-8109-9ec2742f2d20@aarhus-kalender
-DTSTAMP:20261117T035823Z
+DTSTAMP:20261118T035952Z
 DTSTART;TZID=Europe/Copenhagen:20270424T100000
 DTEND;TZID=Europe/Copenhagen:20270424T122000
 SUMMARY:Lørdagsbrunch på Moesgaard: Verdenshistorien om mayaerne
