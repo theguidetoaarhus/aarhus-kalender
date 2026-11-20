@@ -24,8 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:hk-20261116-6298861@aarhus-kalender
-DTSTAMP:20261119T035905Z
+UID:hk-20261116-36695118@aarhus-kalender
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261116T193000
 DTEND;TZID=Europe/Copenhagen:20261116T213000
 SUMMARY:Koncert med ‘tidlig musik’ med Det Jyske Musikkonservatorium
@@ -34,28 +34,8 @@ CATEGORIES:Musik & Koncerter\,Heromkring
 URL:https://heromkring.beehiiv.com/p/heromkring-aarhus-uge-47
 END:VEVENT
 BEGIN:VEVENT
-UID:tr-/kalender/ana-juel-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Ana Juél
-LOCATION:Train\, Aarhus
-CATEGORIES:Musik & Koncerter\,Train
-URL:https://train.dk/kalender/ana-juel-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:tr-/kalender/uld-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:ULD
-LOCATION:Train\, Aarhus
-CATEGORIES:Musik & Koncerter\,Train
-URL:https://train.dk/kalender/uld-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:hk-20261118-62299952@aarhus-kalender
-DTSTAMP:20261119T035905Z
+UID:hk-20261118-79577154@aarhus-kalender
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261118T183000
 DTEND;TZID=Europe/Copenhagen:20261118T203000
 SUMMARY:For de… åbne koncertgængere
@@ -64,8 +44,8 @@ CATEGORIES:Musik & Koncerter\,Heromkring
 URL:https://fb.me/e/79LroVXUE
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261118-29328236@aarhus-kalender
-DTSTAMP:20261119T035905Z
+UID:hk-20261118-25727601@aarhus-kalender
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261118T190000
 DTEND;TZID=Europe/Copenhagen:20261118T210000
 SUMMARY:Koncertaften med Det Jyske Musikkonservatorium
@@ -74,8 +54,8 @@ CATEGORIES:Musik & Koncerter\,Heromkring\,Gratis
 URL:https://www.musikhuset.dk/kalender/koncertcafe-aarhus-5
 END:VEVENT
 BEGIN:VEVENT
-UID:hk-20261118-1248536@aarhus-kalender
-DTSTAMP:20261119T035905Z
+UID:hk-20261118-1777945@aarhus-kalender
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261118T200000
 DTEND;TZID=Europe/Copenhagen:20261118T220000
 SUMMARY:Århusiansk fusionsjazz-klassisk soul-kvartet\, Clapper\, spiller h
@@ -86,19 +66,8 @@ URL:https://www.yourticket.dk/?ytroute=%2Farrangementer%2F59927%2Fclapper%2
  F&
 END:VEVENT
 BEGIN:VEVENT
-UID:va-4e89d2c5-cb73-4406-9b3a-3cd12995f933-0@aarhus-kalender
-DTSTAMP:20261119T035905Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261223
-SUMMARY:Julekoncerter i Aarhus' kirker
-LOCATION:Aarhus
-CATEGORIES:Musik & Koncerter\,VisitAarhus
-URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julekoncerter
- -i-aarhus-kirker-gdk833240
-END:VEVENT
-BEGIN:VEVENT
 UID:tr-/kalender/vilma-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Vilma
@@ -108,7 +77,7 @@ URL:https://train.dk/kalender/vilma-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/allan-olsen-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Allan Olsen & Det Sidste Slæng
@@ -118,7 +87,7 @@ URL:https://train.dk/kalender/allan-olsen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/dahlin-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Dahlin
@@ -127,20 +96,8 @@ CATEGORIES:Musik & Koncerter\,Train
 URL:https://train.dk/kalender/dahlin-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:aakb-tilst-bibliotek-arrangementer-skrallebang-giver-koncert-sange-om-t
- iden-0@aarhus-kalender
-DTSTAMP:20261119T035905Z
-DTSTART;TZID=Europe/Copenhagen:20261119T100000
-DTEND;TZID=Europe/Copenhagen:20261119T110000
-SUMMARY:SKRALLEBANG giver koncert - sange om Tiden
-LOCATION:Tilst Bibliotek
-CATEGORIES:Musik & Koncerter\,Aarhus Kommunes Biblioteker\,Gratis
-URL:https://www.aakb.dk/tilst-bibliotek/arrangementer/skrallebang-giver-kon
- cert-sange-om-tiden-0
-END:VEVENT
-BEGIN:VEVENT
-UID:hk-20261119-18291475@aarhus-kalender
-DTSTAMP:20261119T035905Z
+UID:hk-20261119-22835993@aarhus-kalender
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261119T163000
 DTEND;TZID=Europe/Copenhagen:20261119T183000
 SUMMARY:Brevskrivningskoncert på Det Kgl. Bibliotek
@@ -150,38 +107,8 @@ URL:https://www.kb.dk/arrangementer/brevskrivningskoncert-kaerlighedsbreve-
  til-fremtiden
 END:VEVENT
 BEGIN:VEVENT
-UID:mh-/kalender/koncertcafe-aarhus-6@aarhus-kalender
-DTSTAMP:20261119T035905Z
-DTSTART;TZID=Europe/Copenhagen:20261119T190000
-DTEND;TZID=Europe/Copenhagen:20261119T210000
-SUMMARY:Koncertcafé Aarhus - Det Jyske Musikkonservatorium
-LOCATION:Musikhuset Aarhus
-CATEGORIES:Musik & Koncerter\,Musikhuset Aarhus\,Gratis
-URL:https://www.musikhuset.dk/kalender/koncertcafe-aarhus-6
-END:VEVENT
-BEGIN:VEVENT
-UID:mh-/kalender/klaveraften-28@aarhus-kalender
-DTSTAMP:20261119T035905Z
-DTSTART;TZID=Europe/Copenhagen:20261119T193000
-DTEND;TZID=Europe/Copenhagen:20261119T213000
-SUMMARY:Klaveraften - Det Jyske Musikkonservatorium
-LOCATION:Musikhuset Aarhus
-CATEGORIES:Musik & Koncerter\,Musikhuset Aarhus\,Gratis
-URL:https://www.musikhuset.dk/kalender/klaveraften-28
-END:VEVENT
-BEGIN:VEVENT
-UID:vh-https://voxhall.dk/koncerter/next-gen-2026/@aarhus-kalender
-DTSTAMP:20261119T035905Z
-DTSTART;TZID=Europe/Copenhagen:20261119T200000
-DTEND;TZID=Europe/Copenhagen:20261119T220000
-SUMMARY:Next Gen 2026
-LOCATION:VoxHall
-CATEGORIES:Musik & Koncerter\,VoxHall
-URL:https://voxhall.dk/koncerter/next-gen-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:va-1f091300-b472-48de-b271-00ce218b1abe-0@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Candlelight-koncerter i Aarhus
@@ -192,7 +119,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/candlelight-k
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/junkyard-drive-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Junkyard Drive
@@ -202,7 +129,7 @@ URL:https://train.dk/kalender/junkyard-drive-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/dias-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:dias
@@ -212,7 +139,7 @@ URL:https://train.dk/kalender/dias-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-la-dolce-vita-disco-club@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261122
 SUMMARY:La Dolce Vita Disco Club
@@ -222,7 +149,7 @@ URL:https://www.volumevillage.dk/events/la-dolce-vita-disco-club
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/prong/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261120T193000
 DTEND;TZID=Europe/Copenhagen:20261120T213000
 SUMMARY:Prong + Support Grope & Harmful
@@ -232,7 +159,7 @@ URL:https://voxhall.dk/koncerter/prong/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/carpark-north-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Carpark North
@@ -242,7 +169,7 @@ URL:https://train.dk/kalender/carpark-north-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/mathias-ranch-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Mathias Ranch
@@ -253,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-dub-under-broen-rockers-ark-x-smilets-hi-fi-x-yellow-yard-sou
  nd@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
 SUMMARY:Dub under broen
@@ -264,7 +191,7 @@ URL:https://www.volumevillage.dk/events/dub-under-broen-rockers-ark-x-smile
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-kroeyer@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:KRØYER
@@ -275,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/cafekoncert-med-elever-fra-aarhus-musikskole@aarhus-kalend
  er
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261121T110000
 DTEND;TZID=Europe/Copenhagen:20261121T130000
 SUMMARY:Cafékoncert med elever fra Aarhus Musikskole
@@ -286,7 +213,7 @@ URL:https://www.musikhuset.dk/kalender/cafekoncert-med-elever-fra-aarhus-mu
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/little-north@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261121T193000
 DTEND;TZID=Europe/Copenhagen:20261121T213000
 SUMMARY:Little North - Feat: Reinier Baas & Hannes Bennich
@@ -296,7 +223,7 @@ URL:https://www.musikhuset.dk/kalender/little-north
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/hanne-boel@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261121T200000
 DTEND;TZID=Europe/Copenhagen:20261121T220000
 SUMMARY:Hanne Boel
@@ -306,7 +233,7 @@ URL:https://www.musikhuset.dk/kalender/hanne-boel
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/jacob-aksglaede@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261121T200000
 DTEND;TZID=Europe/Copenhagen:20261121T220000
 SUMMARY:Jacob Aksglæde
@@ -316,7 +243,7 @@ URL:https://www.musikhuset.dk/kalender/jacob-aksglaede
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/jacob-bellens-2/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261121T200000
 DTEND;TZID=Europe/Copenhagen:20261121T220000
 SUMMARY:Jacob Bellens + Support Lykke
@@ -327,7 +254,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/kammermusik-talentcamp-2026-afslutningskoncert@aarhus-kale
  nder
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261122T150000
 DTEND;TZID=Europe/Copenhagen:20261122T170000
 SUMMARY:Kammermusik-talentcamp 2026 - afslutningskoncert - Det Jyske Musikk
@@ -339,7 +266,7 @@ URL:https://www.musikhuset.dk/kalender/kammermusik-talentcamp-2026-afslutni
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/traeblaeserkoncert@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261123T193000
 DTEND;TZID=Europe/Copenhagen:20261123T213000
 SUMMARY:AFLYST: Træblæserkoncert - Det Jyske Musikkonservatorium
@@ -349,7 +276,7 @@ URL:https://www.musikhuset.dk/kalender/traeblaeserkoncert
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/koncertcafe-aarhus-7@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261124T190000
 DTEND;TZID=Europe/Copenhagen:20261124T210000
 SUMMARY:Koncertcafé Aarhus - Det Jyske Musikkonservatorium
@@ -359,7 +286,7 @@ URL:https://www.musikhuset.dk/kalender/koncertcafe-aarhus-7
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/anders-blichfeldt@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261124T193000
 DTEND;TZID=Europe/Copenhagen:20261124T213000
 SUMMARY:Anders Blichfeldt - Christmas Gospel koncert
@@ -369,7 +296,7 @@ URL:https://www.musikhuset.dk/kalender/anders-blichfeldt
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/morgensang-i-musikhuset@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261125T090000
 DTEND;TZID=Europe/Copenhagen:20261125T110000
 SUMMARY:Morgensang i Musikhuset
@@ -379,7 +306,7 @@ URL:https://www.musikhuset.dk/kalender/morgensang-i-musikhuset
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/tyr/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261125T182000
 DTEND;TZID=Europe/Copenhagen:20261125T202000
 SUMMARY:Týr + Support Twilight Force\, Dragonland & Vanaheim
@@ -389,7 +316,7 @@ URL:https://voxhall.dk/koncerter/tyr/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/koncertcafe-aarhus-8@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261125T190000
 DTEND;TZID=Europe/Copenhagen:20261125T210000
 SUMMARY:Koncertcafé Aarhus - Det Jyske Musikkonservatorium
@@ -399,7 +326,7 @@ URL:https://www.musikhuset.dk/kalender/koncertcafe-aarhus-8
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/carmen@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261125T193000
 DTEND;TZID=Europe/Copenhagen:20261125T213000
 SUMMARY:Carmen - Fri eller fanget?
@@ -409,7 +336,7 @@ URL:https://www.musikhuset.dk/kalender/carmen
 END:VEVENT
 BEGIN:VEVENT
 UID:porters-jens-jefsen-kvintet2026-11-25t20-00-00@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261125T200000
 DTEND;TZID=Europe/Copenhagen:20261125T230000
 SUMMARY:Jens Jefsen Kvintet
@@ -420,7 +347,7 @@ URL:https://www.jazzbilletten.dk/?ytroute=/arrangementer/62221/jens-jefsen-
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/asta-norr-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Asta Norr
@@ -430,7 +357,7 @@ URL:https://train.dk/kalender/asta-norr-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/augustaschackinger-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Augusta Schackinger
@@ -440,7 +367,7 @@ URL:https://train.dk/kalender/augustaschackinger-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/clothing-club-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Clothing Club
@@ -450,7 +377,7 @@ URL:https://train.dk/kalender/clothing-club-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/northern-assembly@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261126T193000
 DTEND;TZID=Europe/Copenhagen:20261126T213000
 SUMMARY:Northern Assembly
@@ -461,7 +388,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/rama-classics-orchestra-in-parts-faelleskoncert@aarhus-kal
  ender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261126T193000
 DTEND;TZID=Europe/Copenhagen:20261126T213000
 SUMMARY:RAMA Classics: Orchestra in Parts - fælleskoncert - Det Jyske Musi
@@ -473,7 +400,7 @@ URL:https://www.musikhuset.dk/kalender/rama-classics-orchestra-in-parts-fae
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/100wet/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261126T200000
 DTEND;TZID=Europe/Copenhagen:20261126T220000
 SUMMARY:100%WET
@@ -483,7 +410,7 @@ URL:https://voxhall.dk/koncerter/100wet/
 END:VEVENT
 BEGIN:VEVENT
 UID:porters-clothing-club-free-concert-2026-11-26t20-00-00@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261126T200000
 DTEND;TZID=Europe/Copenhagen:20261126T230000
 SUMMARY:Clothing Club [Free concert]
@@ -493,7 +420,7 @@ URL:https://luma.com/k3iwtyr8
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/downtown-july-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Downtown July
@@ -503,7 +430,7 @@ URL:https://train.dk/kalender/downtown-july-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/uro-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:URO
@@ -513,7 +440,7 @@ URL:https://train.dk/kalender/uro-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-spes-records-showcase@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Spes Records
@@ -523,7 +450,7 @@ URL:https://www.volumevillage.dk/events/spes-records-showcase
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-users@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:USERS
@@ -534,7 +461,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/rama-classics-orchestra-in-parts-traeblaeserkoncert@aarhus
  -kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261127T170000
 DTEND;TZID=Europe/Copenhagen:20261127T190000
 SUMMARY:RAMA Classics: Orchestra in Parts - træblæserkoncert - Det Jyske 
@@ -546,7 +473,7 @@ URL:https://www.musikhuset.dk/kalender/rama-classics-orchestra-in-parts-tra
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/sangsoire-3@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261127T193000
 DTEND;TZID=Europe/Copenhagen:20261127T213000
 SUMMARY:Sangsoiré - Det Jyske Musikkonservatorium
@@ -556,7 +483,7 @@ URL:https://www.musikhuset.dk/kalender/sangsoire-3
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/freja-kirk@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261127T200000
 DTEND;TZID=Europe/Copenhagen:20261127T220000
 SUMMARY:Freja Kirk
@@ -566,7 +493,7 @@ URL:https://www.musikhuset.dk/kalender/freja-kirk
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/michael-williams/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261127T200000
 DTEND;TZID=Europe/Copenhagen:20261127T220000
 SUMMARY:Michael Williams
@@ -576,7 +503,7 @@ URL:https://voxhall.dk/koncerter/michael-williams/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/uro-2026-2@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:URO
@@ -586,7 +513,7 @@ URL:https://train.dk/kalender/uro-2026-2
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/bifald-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Bifald
@@ -596,7 +523,7 @@ URL:https://train.dk/kalender/bifald-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/strychnos-sepulchral-curse-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Strychnos × Sepulchral Curse
@@ -606,7 +533,7 @@ URL:https://train.dk/kalender/strychnos-sepulchral-curse-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-debbie-sings-special-guests-dj-set@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:DEBBIE SINGS + SPECIAL GUESTS DJ-SET
@@ -616,7 +543,7 @@ URL:https://godsbanen.dk/kalender/debbie-sings-special-guests-dj-set/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/klavermatine-10@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261128T150000
 DTEND;TZID=Europe/Copenhagen:20261128T170000
 SUMMARY:Klavermatiné - Det Jyske Musikkonservatorium
@@ -627,7 +554,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/rama-classics-orchestra-in-parts-messing-og-slagtoejskonce
  rt@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261128T193000
 DTEND;TZID=Europe/Copenhagen:20261128T213000
 SUMMARY:RAMA Classics: Orchestra in Parts - messing- og slagtøjskoncert - 
@@ -639,7 +566,7 @@ URL:https://www.musikhuset.dk/kalender/rama-classics-orchestra-in-parts-mes
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/violinaften-10@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261128T193000
 DTEND;TZID=Europe/Copenhagen:20261128T213000
 SUMMARY:Violinaften - Det Jyske Musikkonservatorium
@@ -650,7 +577,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/bodyslam-wrestling-scandinavian-slammas
  ters/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261128T200000
 DTEND;TZID=Europe/Copenhagen:20261128T220000
 SUMMARY:BODYSLAM Wrestling – Scandinavian Slammasters
@@ -661,7 +588,7 @@ URL:https://voxhall.dk/koncerter/bodyslam-wrestling-scandinavian-slammaster
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/classical-mornings@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261129T100000
 DTEND;TZID=Europe/Copenhagen:20261129T120000
 SUMMARY:Classical Mornings - Brunch og klassisk musik
@@ -671,7 +598,7 @@ URL:https://www.musikhuset.dk/kalender/classical-mornings
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/unge-spiller-klassisk@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261129T130000
 DTEND;TZID=Europe/Copenhagen:20261129T150000
 SUMMARY:Unge spiller klassisk - Det Jyske Musikkonservatorium
@@ -682,7 +609,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/rama-classics-orchestra-in-parts-strygerkoncert@aarhus-kal
  ender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261129T150000
 DTEND;TZID=Europe/Copenhagen:20261129T170000
 SUMMARY:RAMA Classics: Orchestra in Parts - strygerkoncert - Det Jyske Musi
@@ -694,7 +621,7 @@ URL:https://www.musikhuset.dk/kalender/rama-classics-orchestra-in-parts-str
 END:VEVENT
 BEGIN:VEVENT
 UID:porters-veronika-rud-kvartet2026-11-29t15-00-00@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261129T150000
 DTEND;TZID=Europe/Copenhagen:20261129T180000
 SUMMARY:Veronika Rud Kvartet
@@ -705,7 +632,7 @@ URL:https://www.jazzbilletten.dk/?ytroute=/arrangementer/59021/veronika-rud
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-tramhaus-nl@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Tramhaus (NL)
@@ -715,7 +642,7 @@ URL:https://godsbanen.dk/kalender/tramhaus-nl/
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/rappernes-bogklub@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261130T160000
 DTEND;TZID=Europe/Copenhagen:20261130T180000
 SUMMARY:Rappernes Bogklub  - Læser Carmen
@@ -725,7 +652,7 @@ URL:https://www.musikhuset.dk/kalender/rappernes-bogklub
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/rode-kors-aarhus-fejrer-150-ar@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261130T193000
 DTEND;TZID=Europe/Copenhagen:20261130T213000
 SUMMARY:Røde Kors Aarhus fejrer 150 år - Musikalsk fejring af fællesskab
@@ -736,7 +663,7 @@ URL:https://www.musikhuset.dk/kalender/rode-kors-aarhus-fejrer-150-ar
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/nordisk-sangaften@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261130T193000
 DTEND;TZID=Europe/Copenhagen:20261130T213000
 SUMMARY:Nordiske naboer - Det Jyske Musikkonservatorium
@@ -746,7 +673,7 @@ URL:https://www.musikhuset.dk/kalender/nordisk-sangaften
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/rytmiske-semesterkoncerter-aarhus@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261201T190000
 DTEND;TZID=Europe/Copenhagen:20261201T210000
 SUMMARY:Rytmiske Semesterkoncerter Aarhus - Det Jyske Musikkonservatorium
@@ -756,7 +683,7 @@ URL:https://www.musikhuset.dk/kalender/rytmiske-semesterkoncerter-aarhus
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/basunaften-3@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261201T193000
 DTEND;TZID=Europe/Copenhagen:20261201T213000
 SUMMARY:Basunaften - Det Jyske Musikkonservatorium
@@ -766,7 +693,7 @@ URL:https://www.musikhuset.dk/kalender/basunaften-3
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/julekoncert-med-aarhus-jazz-orchestra@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261201T200000
 DTEND;TZID=Europe/Copenhagen:20261201T220000
 SUMMARY:Julekoncert med Aarhus Jazz Orchestra - feat. Gretchen Parlato
@@ -777,7 +704,7 @@ URL:https://www.musikhuset.dk/kalender/julekoncert-med-aarhus-jazz-orchestr
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/rytmiske-semesterkoncerter-aarhus-2@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261202T190000
 DTEND;TZID=Europe/Copenhagen:20261202T210000
 SUMMARY:Rytmiske Semesterkoncerter Aarhus - Det Jyske Musikkonservatorium
@@ -787,7 +714,7 @@ URL:https://www.musikhuset.dk/kalender/rytmiske-semesterkoncerter-aarhus-2
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/floejteaften-floejte-og-klaver-2@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261202T193000
 DTEND;TZID=Europe/Copenhagen:20261202T213000
 SUMMARY:Fløjteaften: Fløjte og klaver - Det Jyske Musikkonservatorium
@@ -797,7 +724,7 @@ URL:https://www.musikhuset.dk/kalender/floejteaften-floejte-og-klaver-2
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/chris-burton-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Chris Burton
@@ -807,7 +734,7 @@ URL:https://train.dk/kalender/chris-burton-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-tomas-hoffding@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Tomas Høffding
@@ -818,7 +745,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/danish-youth-jazz-orchestra-nordic-impressions@aarhus-kale
  nder
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261203T193000
 DTEND;TZID=Europe/Copenhagen:20261203T213000
 SUMMARY:Danish Youth Jazz Orchestra: Nordic Impressions - Det Jyske Musikko
@@ -830,7 +757,7 @@ URL:https://www.musikhuset.dk/kalender/danish-youth-jazz-orchestra-nordic-i
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/pauline@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261203T200000
 DTEND;TZID=Europe/Copenhagen:20261203T220000
 SUMMARY:Pauline
@@ -840,7 +767,7 @@ URL:https://www.musikhuset.dk/kalender/pauline
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/guzo-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:GUZO
@@ -850,7 +777,7 @@ URL:https://train.dk/kalender/guzo-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/og-du-lyser-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:OG DU LYSER
@@ -860,7 +787,7 @@ URL:https://train.dk/kalender/og-du-lyser-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/roya-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Roya
@@ -870,17 +797,17 @@ URL:https://train.dk/kalender/roya-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-lille-fucker@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-SUMMARY:Lille Fucker
+SUMMARY:Lille Fucker // få billetter
 LOCATION:Volume Village
 CATEGORIES:Musik & Koncerter\,Volume Village
 URL:https://www.volumevillage.dk/events/lille-fucker
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/solistkoncert-mira-siegel-komposition@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261204T160000
 DTEND;TZID=Europe/Copenhagen:20261204T180000
 SUMMARY:Solistkoncert - Mira Siegel
@@ -891,7 +818,7 @@ URL:https://www.musikhuset.dk/kalender/solistkoncert-mira-siegel-kompositio
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/sjostakovitj-11@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261204T190000
 DTEND;TZID=Europe/Copenhagen:20261204T210000
 SUMMARY:Sjostakovitj 11 - Aarhus Symfoniorkester
@@ -901,7 +828,7 @@ URL:https://www.musikhuset.dk/kalender/sjostakovitj-11
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/jo-harrop@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261204T193000
 DTEND;TZID=Europe/Copenhagen:20261204T213000
 SUMMARY:Jo Harrop
@@ -911,7 +838,7 @@ URL:https://www.musikhuset.dk/kalender/jo-harrop
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/violinaften-11@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261204T193000
 DTEND;TZID=Europe/Copenhagen:20261204T213000
 SUMMARY:Violinaften - Det Jyske Musikkonservatorium
@@ -921,7 +848,7 @@ URL:https://www.musikhuset.dk/kalender/violinaften-11
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/pay2/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261204T200000
 DTEND;TZID=Europe/Copenhagen:20261204T220000
 SUMMARY:PAY
@@ -931,7 +858,7 @@ URL:https://voxhall.dk/koncerter/pay2/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/syl-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Syl
@@ -941,7 +868,7 @@ URL:https://train.dk/kalender/syl-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878848@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261205T130000
 DTEND;TZID=Europe/Copenhagen:20261205T140000
 SUMMARY:Julekoncert med Hjemmeværnets Musikkorps Aarhus
@@ -952,7 +879,7 @@ URL:https://dokk1.dk/det-sker/julekoncert-med-hjemmevaernets-musikkorps-aar
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/vulvatorious-slyngel/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261205T200000
 DTEND;TZID=Europe/Copenhagen:20261205T220000
 SUMMARY:Vulvatorious & Slyngel
@@ -962,7 +889,7 @@ URL:https://voxhall.dk/koncerter/vulvatorious-slyngel/
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/dylan-leblanc/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261205T200000
 DTEND;TZID=Europe/Copenhagen:20261205T220000
 SUMMARY:Dylan LeBlanc
@@ -971,8 +898,18 @@ CATEGORIES:Musik & Koncerter\,VoxHall
 URL:https://voxhall.dk/koncerter/dylan-leblanc/
 END:VEVENT
 BEGIN:VEVENT
+UID:mh-/kalender/brantelid-hadland-duo@aarhus-kalender
+DTSTAMP:20261120T035434Z
+DTSTART;TZID=Europe/Copenhagen:20261206T150000
+DTEND;TZID=Europe/Copenhagen:20261206T170000
+SUMMARY:Brantelid/Hadland Duo
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Musik & Koncerter\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/brantelid-hadland-duo
+END:VEVENT
+BEGIN:VEVENT
 UID:tr-/kalender/q-marsden-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Q Marsden
@@ -983,7 +920,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-risskov-bibliotek-arrangementer-lyd-og-musik-risskov-synger-2026-1
  2-07@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261207T190000
 DTEND;TZID=Europe/Copenhagen:20261207T203000
 SUMMARY:Risskov Synger
@@ -994,7 +931,7 @@ URL:https://www.aakb.dk/risskov-bibliotek/arrangementer/lyd-og-musik/rissko
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/panzerfaust-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Panzerfaust
@@ -1004,7 +941,7 @@ URL:https://train.dk/kalender/panzerfaust-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/ki-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Ki!
@@ -1015,7 +952,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-aby-bibliotek-arrangementer-lyd-og-musik-julekoncert-med-voce-sole
  il@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261209T193000
 DTEND;TZID=Europe/Copenhagen:20261209T203000
 SUMMARY:Julekoncert med Voce Soleil
@@ -1026,7 +963,7 @@ URL:https://www.aakb.dk/aby-bibliotek/arrangementer/lyd-og-musik/julekoncer
 END:VEVENT
 BEGIN:VEVENT
 UID:porters-ki-2026-12-09t20-00-00@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261209T200000
 DTEND;TZID=Europe/Copenhagen:20261209T230000
 SUMMARY:Ki!
@@ -1036,7 +973,7 @@ URL:https://www.jazzbilletten.dk/?ytroute=/arrangementer/61436/ki/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/berg-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Berg
@@ -1046,7 +983,7 @@ URL:https://train.dk/kalender/berg-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/smag-paa-dig-selv/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261210T200000
 DTEND;TZID=Europe/Copenhagen:20261210T220000
 SUMMARY:Smag På Dig Selv + Support CHÆK
@@ -1056,7 +993,7 @@ URL:https://voxhall.dk/koncerter/smag-paa-dig-selv/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-d63b3cb1-3b34-46dc-8517-9bb584eec878-0@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Julekoncert med Caroline Henderson
@@ -1067,7 +1004,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julekoncert-m
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/hymns-from-nineveh-2026-2@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Hymns From Nineveh
@@ -1077,7 +1014,7 @@ URL:https://train.dk/kalender/hymns-from-nineveh-2026-2
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/allen-anjeh-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Allen Anjeh
@@ -1087,7 +1024,7 @@ URL:https://train.dk/kalender/allen-anjeh-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/skammerens-doetre-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Skammerens Døtre
@@ -1097,7 +1034,7 @@ URL:https://train.dk/kalender/skammerens-doetre-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/lord-siva-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Lord Siva
@@ -1107,7 +1044,7 @@ URL:https://train.dk/kalender/lord-siva-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/niah-steiner-ankah-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Niah Steiner × ANKAH
@@ -1117,7 +1054,7 @@ URL:https://train.dk/kalender/niah-steiner-ankah-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-perreo-social-club-5@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Perreo Social Club
@@ -1127,7 +1064,7 @@ URL:https://www.volumevillage.dk/events/perreo-social-club-5
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878888@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261212T130000
 DTEND;TZID=Europe/Copenhagen:20261212T140000
 SUMMARY:Julekoncert med RAMA Low Brass
@@ -1137,7 +1074,7 @@ URL:https://dokk1.dk/det-sker/julekoncert-med-rama-low-brass
 END:VEVENT
 BEGIN:VEVENT
 UID:va-056a1b27-f094-4bb0-9ceb-3b3da5bf9da1-0@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Julekoncert med Stig Rossen i Musikhuset Aarhus
@@ -1148,7 +1085,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julekoncert-m
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/trolds-magiske-juleturne-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Trolds Magiske Juleturné
@@ -1158,7 +1095,7 @@ URL:https://train.dk/kalender/trolds-magiske-juleturne-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:va-8f7d6248-2f22-4147-bd20-54c51f1f8c40-0@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Julekoncert med Sissel Kyrkjebø i Musikhuset
@@ -1170,7 +1107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-lyd-og-musik-lysfest-pa-fredsplad
  sen-1@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261216T160000
 DTEND;TZID=Europe/Copenhagen:20261216T173000
 SUMMARY:Lysfest på Fredspladsen
@@ -1181,7 +1118,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/lyd-og-musik/lysfe
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/electric-guitars-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Electric Guitars
@@ -1192,7 +1129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/self-deception-ankor-support-lauren-bab
  ic/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20261217T190000
 DTEND;TZID=Europe/Copenhagen:20261217T210000
 SUMMARY:Self Deception & Ankor + Support Lauren Babic
@@ -1202,7 +1139,7 @@ URL:https://voxhall.dk/koncerter/self-deception-ankor-support-lauren-babic/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/mor-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:MOR
@@ -1212,7 +1149,7 @@ URL:https://train.dk/kalender/mor-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/pretty-maids-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Pretty Maids
@@ -1222,7 +1159,7 @@ URL:https://train.dk/kalender/pretty-maids-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-cabal-special-guest-gradience-henret@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Cabal + Special Guest: Gradience + HENRET
@@ -1232,7 +1169,7 @@ URL:https://godsbanen.dk/kalender/cabal-special-guest-gradience-henret/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/toomanylefthands-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:TooManyLeftHands
@@ -1242,7 +1179,7 @@ URL:https://train.dk/kalender/toomanylefthands-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-12-djs-of-christmas@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261221
 SUMMARY:12 DJs of Christmas
@@ -1252,7 +1189,7 @@ URL:https://www.volumevillage.dk/events/12-djs-of-christmas
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-homecoming-bogfinkevej-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261228
 SUMMARY:Homecoming 2026
@@ -1262,7 +1199,7 @@ URL:https://www.volumevillage.dk/events/homecoming-bogfinkevej-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/infernal-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Infernal
@@ -1272,7 +1209,7 @@ URL:https://train.dk/kalender/infernal-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/magtens-korridorer-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:Magtens Korridorer
@@ -1282,7 +1219,7 @@ URL:https://train.dk/kalender/magtens-korridorer-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:va-c9e2c2a9-9e42-4281-bb0e-921e413754fb-0@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:Nytårskoncert 2027 i Musikhuset Aarhus
@@ -1293,7 +1230,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/nytaarskoncer
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/unmuted-showcase-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Unmuted Showcase
@@ -1303,7 +1240,7 @@ URL:https://train.dk/kalender/unmuted-showcase-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/iceage-2/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270108T200000
 DTEND;TZID=Europe/Copenhagen:20270108T220000
 SUMMARY:Iceage
@@ -1313,7 +1250,7 @@ URL:https://voxhall.dk/koncerter/iceage-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/davidbowie80-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:David Bowie 80 – En hyldestkoncert
@@ -1323,7 +1260,7 @@ URL:https://train.dk/kalender/davidbowie80-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/wesmo-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Wesmo
@@ -1333,7 +1270,7 @@ URL:https://train.dk/kalender/wesmo-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/davidbowie80-2027-2@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:David Bowie 80 – En hyldestkoncert
@@ -1343,7 +1280,7 @@ URL:https://train.dk/kalender/davidbowie80-2027-2
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/thencomessilence-agentsidegrinder-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Then Comes Silence × Agent Side Grinder
@@ -1353,7 +1290,7 @@ URL:https://train.dk/kalender/thencomessilence-agentsidegrinder-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/fabrak_27/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270115T200000
 DTEND;TZID=Europe/Copenhagen:20270115T220000
 SUMMARY:FABRÄK
@@ -1363,7 +1300,7 @@ URL:https://voxhall.dk/koncerter/fabrak_27/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/rigmor-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Rigmor
@@ -1373,7 +1310,7 @@ URL:https://train.dk/kalender/rigmor-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/mattias-kolstrup-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Mattias Kolstrup
@@ -1383,7 +1320,7 @@ URL:https://train.dk/kalender/mattias-kolstrup-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/lifefest-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Lifesick × Purified In Blood × Real Impact × Violence × SKIRT.
@@ -1393,7 +1330,7 @@ URL:https://train.dk/kalender/lifefest-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/laura-vejlby-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Laura Vejlby
@@ -1403,7 +1340,7 @@ URL:https://train.dk/kalender/laura-vejlby-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/roben-knud/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270122T200000
 DTEND;TZID=Europe/Copenhagen:20270122T220000
 SUMMARY:Roben & Knud
@@ -1413,7 +1350,7 @@ URL:https://voxhall.dk/koncerter/roben-knud/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/oilly-wallace-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Oilly Wallace
@@ -1423,7 +1360,7 @@ URL:https://train.dk/kalender/oilly-wallace-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/juno-standart-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Juno × Standart
@@ -1433,7 +1370,7 @@ URL:https://train.dk/kalender/juno-standart-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/hvalfugl-2/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270123T200000
 DTEND;TZID=Europe/Copenhagen:20270123T220000
 SUMMARY:Hvalfugl
@@ -1443,7 +1380,7 @@ URL:https://voxhall.dk/koncerter/hvalfugl-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/alien-force-animalyze-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Alien Force × Animalyze
@@ -1453,7 +1390,7 @@ URL:https://train.dk/kalender/alien-force-animalyze-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/thor-farlov-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Thor Farlov
@@ -1463,7 +1400,7 @@ URL:https://train.dk/kalender/thor-farlov-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/patrick-walshe-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Patrick Walshe
@@ -1473,7 +1410,7 @@ URL:https://train.dk/kalender/patrick-walshe-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/undergang-malformed/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270130T200000
 DTEND;TZID=Europe/Copenhagen:20270130T220000
 SUMMARY:Undergang & Malformed + Support Foetorem
@@ -1483,7 +1420,7 @@ URL:https://voxhall.dk/koncerter/undergang-malformed/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/schaefer-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:Schæfer
@@ -1493,7 +1430,7 @@ URL:https://train.dk/kalender/schaefer-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/beth-orton/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270203T200000
 DTEND;TZID=Europe/Copenhagen:20270203T220000
 SUMMARY:Beth Orton
@@ -1503,7 +1440,7 @@ URL:https://voxhall.dk/koncerter/beth-orton/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/david-ramirez-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:David Ramirez
@@ -1513,7 +1450,7 @@ URL:https://train.dk/kalender/david-ramirez-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/hugorm-2027-4@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:Hugorm
@@ -1523,7 +1460,7 @@ URL:https://train.dk/kalender/hugorm-2027-4
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/svart-ridaa/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270204T200000
 DTEND;TZID=Europe/Copenhagen:20270204T220000
 SUMMARY:Svart Ridå
@@ -1533,7 +1470,7 @@ URL:https://voxhall.dk/koncerter/svart-ridaa/
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/the-mary-wallopers/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270204T200000
 DTEND;TZID=Europe/Copenhagen:20270204T220000
 SUMMARY:The Mary Wallopers
@@ -1543,7 +1480,7 @@ URL:https://voxhall.dk/koncerter/the-mary-wallopers/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/carlina-de-place-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Carlina de Place
@@ -1553,7 +1490,7 @@ URL:https://train.dk/kalender/carlina-de-place-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/hugorm-2027-5@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Hugorm
@@ -1563,7 +1500,7 @@ URL:https://train.dk/kalender/hugorm-2027-5
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/hugorm-2027-6@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Hugorm
@@ -1573,7 +1510,7 @@ URL:https://train.dk/kalender/hugorm-2027-6
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/marcus-wav-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Marcus.wav
@@ -1583,7 +1520,7 @@ URL:https://train.dk/kalender/marcus-wav-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/lowly-2/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270206T200000
 DTEND;TZID=Europe/Copenhagen:20270206T220000
 SUMMARY:Lowly
@@ -1593,7 +1530,7 @@ URL:https://voxhall.dk/koncerter/lowly-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/warhaus-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Warhaus
@@ -1603,7 +1540,7 @@ URL:https://train.dk/kalender/warhaus-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/smugler-oejesten-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Smugler × Øjesten
@@ -1613,7 +1550,7 @@ URL:https://train.dk/kalender/smugler-oejesten-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/maline-godt-gaaet-frej-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:Maline × Godt Gået Frej
@@ -1623,7 +1560,7 @@ URL:https://train.dk/kalender/maline-godt-gaaet-frej-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/panzerchrist-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:Panzerchrist
@@ -1633,7 +1570,7 @@ URL:https://train.dk/kalender/panzerchrist-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/eee-gee-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:Eee Gee
@@ -1643,7 +1580,7 @@ URL:https://train.dk/kalender/eee-gee-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/slomosa/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270212T200000
 DTEND;TZID=Europe/Copenhagen:20270212T220000
 SUMMARY:Slomosa
@@ -1653,7 +1590,7 @@ URL:https://voxhall.dk/koncerter/slomosa/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/eee-gee-2027-2@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Eee Gee
@@ -1664,7 +1601,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/hatesphere-support-universal-enemy/@aar
  hus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270213T200000
 DTEND;TZID=Europe/Copenhagen:20270213T220000
 SUMMARY:Hatesphere + Support Universal Enemy
@@ -1675,7 +1612,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:porters-human-being-human-feat-chris-cheek2027-02-17t20-00-00@aarhus-ka
  lender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270217T200000
 DTEND;TZID=Europe/Copenhagen:20270217T230000
 SUMMARY:Human Being Human feat. Chris Cheek
@@ -1685,7 +1622,7 @@ URL:https://event-link.dk/arrangement/62429/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/dawn-of-demise-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Dawn of Demise
@@ -1695,7 +1632,7 @@ URL:https://train.dk/kalender/dawn-of-demise-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/kalaset-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:Kalaset
@@ -1705,7 +1642,7 @@ URL:https://train.dk/kalender/kalaset-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/tonser/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270219T200000
 DTEND;TZID=Europe/Copenhagen:20270219T220000
 SUMMARY:Tonser
@@ -1715,7 +1652,7 @@ URL:https://voxhall.dk/koncerter/tonser/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/ude-af-kontrol-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Ude Af Kontrol
@@ -1725,7 +1662,7 @@ URL:https://train.dk/kalender/ude-af-kontrol-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/jonny-hefty-joeden-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Jonny Hefty & Jøden
@@ -1735,7 +1672,7 @@ URL:https://train.dk/kalender/jonny-hefty-joeden-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/clemens-jokeren/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270220T200000
 DTEND;TZID=Europe/Copenhagen:20270220T220000
 SUMMARY:Clemens & Jokeren
@@ -1745,7 +1682,7 @@ URL:https://voxhall.dk/koncerter/clemens-jokeren/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/dusch-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:DUSCH
@@ -1755,7 +1692,7 @@ URL:https://train.dk/kalender/dusch-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/the-hello-darlins-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:The Hello Darlins
@@ -1765,7 +1702,7 @@ URL:https://train.dk/kalender/the-hello-darlins-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:porters-i-think-you-re-awesome2027-02-24t20-00-00@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270224T200000
 DTEND;TZID=Europe/Copenhagen:20270224T230000
 SUMMARY:I Think You're Awesome
@@ -1775,7 +1712,7 @@ URL:https://event-link.dk/arrangement/62331/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/ibens-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:ibens
@@ -1785,7 +1722,7 @@ URL:https://train.dk/kalender/ibens-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/sebastian-wolff-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:Sebastian Wolff
@@ -1795,7 +1732,7 @@ URL:https://train.dk/kalender/sebastian-wolff-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/per-vers-dyjo-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:Per Vers × Danish Youth Jazz Orchestra
@@ -1805,7 +1742,7 @@ URL:https://train.dk/kalender/per-vers-dyjo-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/kakkmaddafakka_26/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270225T200000
 DTEND;TZID=Europe/Copenhagen:20270225T220000
 SUMMARY:KAKKMADDAFAKKA
@@ -1815,7 +1752,7 @@ URL:https://voxhall.dk/koncerter/kakkmaddafakka_26/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/eivoer-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:Eivør
@@ -1825,7 +1762,7 @@ URL:https://train.dk/kalender/eivoer-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/slush-eyes-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:Slush Eyes
@@ -1835,7 +1772,7 @@ URL:https://train.dk/kalender/slush-eyes-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/viola-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:Viola
@@ -1845,7 +1782,7 @@ URL:https://train.dk/kalender/viola-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-oskar-witt@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:Oskar Witt
@@ -1855,7 +1792,7 @@ URL:https://www.volumevillage.dk/events/oskar-witt
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/toldermania-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Toldermania
@@ -1865,7 +1802,7 @@ URL:https://train.dk/kalender/toldermania-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/okaynico-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:OKAYNICO
@@ -1875,7 +1812,7 @@ URL:https://train.dk/kalender/okaynico-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/school-of-x-2027/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270227T200000
 DTEND;TZID=Europe/Copenhagen:20270227T220000
 SUMMARY:School Of X
@@ -1885,7 +1822,7 @@ URL:https://voxhall.dk/koncerter/school-of-x-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/party-cannon-internal-bleeding-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 SUMMARY:Party Cannon × Internal Bleeding
@@ -1895,7 +1832,7 @@ URL:https://train.dk/kalender/party-cannon-internal-bleeding-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/baphy/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270302T200000
 DTEND;TZID=Europe/Copenhagen:20270302T220000
 SUMMARY:Baphy
@@ -1905,7 +1842,7 @@ URL:https://voxhall.dk/koncerter/baphy/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/emil-de-waal-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:Emil de Waal
@@ -1915,7 +1852,7 @@ URL:https://train.dk/kalender/emil-de-waal-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/loui-henderson-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Loui Henderson
@@ -1925,7 +1862,7 @@ URL:https://train.dk/kalender/loui-henderson-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/katinka-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Katinka
@@ -1935,7 +1872,7 @@ URL:https://train.dk/kalender/katinka-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/guttural-disgorge-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Guttural Disgorge
@@ -1945,7 +1882,7 @@ URL:https://train.dk/kalender/guttural-disgorge-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/kamelot/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270309T190000
 DTEND;TZID=Europe/Copenhagen:20270309T210000
 SUMMARY:Kamelot
@@ -1955,7 +1892,7 @@ URL:https://voxhall.dk/koncerter/kamelot/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/knaegt-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 SUMMARY:Knægt
@@ -1965,7 +1902,7 @@ URL:https://train.dk/kalender/knaegt-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/andreas-odbjerg-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:Andreas Odbjerg
@@ -1975,7 +1912,7 @@ URL:https://train.dk/kalender/andreas-odbjerg-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/foens-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:FØNS
@@ -1985,7 +1922,7 @@ URL:https://train.dk/kalender/foens-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/mark-eitzel-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:Mark Eitzel
@@ -1995,7 +1932,7 @@ URL:https://train.dk/kalender/mark-eitzel-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/bye-bye-brenda-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:Bye Bye Brenda
@@ -2005,7 +1942,7 @@ URL:https://train.dk/kalender/bye-bye-brenda-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-iomfro@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:Iomfro
@@ -2015,7 +1952,7 @@ URL:https://godsbanen.dk/kalender/iomfro/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/gaardsangerne-fra-thy-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:Gårdsangerne fra Thy
@@ -2025,7 +1962,7 @@ URL:https://train.dk/kalender/gaardsangerne-fra-thy-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/saad-tiouly-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:Saad Tiouly
@@ -2035,7 +1972,7 @@ URL:https://train.dk/kalender/saad-tiouly-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-josie-amadonna-karla@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 SUMMARY:JOSIE AMADONNA & KARLA
@@ -2045,7 +1982,7 @@ URL:https://www.volumevillage.dk/events/josie-amadonna-karla
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/jonathan-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:JONATHAN
@@ -2055,7 +1992,7 @@ URL:https://train.dk/kalender/jonathan-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-i-am-an-instrument@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:I Am An Instrument
@@ -2065,7 +2002,7 @@ URL:https://www.volumevillage.dk/events/i-am-an-instrument
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/barcode-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:BARCODE
@@ -2075,7 +2012,7 @@ URL:https://train.dk/kalender/barcode-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/brimheim-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:Brimheim
@@ -2085,7 +2022,7 @@ URL:https://train.dk/kalender/brimheim-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/noah-carter-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:Noah Carter
@@ -2095,7 +2032,7 @@ URL:https://train.dk/kalender/noah-carter-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/defecto-manticora-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:Defecto × Manticora
@@ -2105,7 +2042,7 @@ URL:https://train.dk/kalender/defecto-manticora-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/karl-pava-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:Karl Pava
@@ -2115,7 +2052,7 @@ URL:https://train.dk/kalender/karl-pava-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/144hz-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:144Hz
@@ -2125,7 +2062,7 @@ URL:https://train.dk/kalender/144hz-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/frida-saiya-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:Friða Saiya
@@ -2135,7 +2072,7 @@ URL:https://train.dk/kalender/frida-saiya-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/dina-ogon-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 SUMMARY:Dina Ögon
@@ -2145,7 +2082,7 @@ URL:https://train.dk/kalender/dina-ogon-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/kedde-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:KEDDE
@@ -2155,7 +2092,7 @@ URL:https://train.dk/kalender/kedde-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/bleeder-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:BLEEDER
@@ -2165,7 +2102,7 @@ URL:https://train.dk/kalender/bleeder-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/ye-vagabonds-2/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270409T200000
 DTEND;TZID=Europe/Copenhagen:20270409T220000
 SUMMARY:Ye Vagabonds
@@ -2175,7 +2112,7 @@ URL:https://voxhall.dk/koncerter/ye-vagabonds-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/psyched-up-janis-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:Psyched Up Janis
@@ -2185,7 +2122,7 @@ URL:https://train.dk/kalender/psyched-up-janis-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/tamikrest-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
 SUMMARY:Tamikrest
@@ -2195,7 +2132,7 @@ URL:https://train.dk/kalender/tamikrest-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/esben-just-all-stars-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:Esben Just All Stars
@@ -2205,7 +2142,7 @@ URL:https://train.dk/kalender/esben-just-all-stars-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/rosa-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Rosa
@@ -2215,7 +2152,7 @@ URL:https://train.dk/kalender/rosa-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/soen-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Søn
@@ -2225,7 +2162,7 @@ URL:https://train.dk/kalender/soen-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/barselona-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:Barselona
@@ -2235,7 +2172,7 @@ URL:https://train.dk/kalender/barselona-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/bersaerk-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:Bersærk
@@ -2245,7 +2182,7 @@ URL:https://train.dk/kalender/bersaerk-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/marie-key-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Marie Key
@@ -2255,7 +2192,7 @@ URL:https://train.dk/kalender/marie-key-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/laura-veirs-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:Laura Veirs
@@ -2265,7 +2202,7 @@ URL:https://train.dk/kalender/laura-veirs-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/the-floor-is-made-of-lava-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:The Floor Is Made Of Lava
@@ -2275,7 +2212,7 @@ URL:https://train.dk/kalender/the-floor-is-made-of-lava-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/oesten-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:Østen
@@ -2285,7 +2222,7 @@ URL:https://train.dk/kalender/oesten-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/soppgirobygget/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270423T200000
 DTEND;TZID=Europe/Copenhagen:20270423T220000
 SUMMARY:Soppgirobygget
@@ -2295,7 +2232,7 @@ URL:https://voxhall.dk/koncerter/soppgirobygget/
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/kellermensch-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:Kellermensch
@@ -2305,7 +2242,7 @@ URL:https://train.dk/kalender/kellermensch-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/illdisposed-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Illdisposed
@@ -2315,7 +2252,7 @@ URL:https://train.dk/kalender/illdisposed-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-papa-e@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Papa E
@@ -2326,7 +2263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/marwan-p-e-r-k-e-r-20-aars-jubilaeumsko
  ncert/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270501T200000
 DTEND;TZID=Europe/Copenhagen:20270501T220000
 SUMMARY:MARWAN – “P.E.R.K.E.R. – 20 års jubilæumskoncert”
@@ -2337,7 +2274,7 @@ URL:https://voxhall.dk/koncerter/marwan-p-e-r-k-e-r-20-aars-jubilaeumskonce
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/hun-solo-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:HUN SOLO
@@ -2348,7 +2285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/dragged-into-sunlight-mizmor-this-gift-
  is-a-curse/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270511T190000
 DTEND;TZID=Europe/Copenhagen:20270511T210000
 SUMMARY:Dragged Into Sunlight & Mizmor & This Gift Is A Curse
@@ -2359,7 +2296,7 @@ URL:https://voxhall.dk/koncerter/dragged-into-sunlight-mizmor-this-gift-is-
 END:VEVENT
 BEGIN:VEVENT
 UID:vv-events-beta-2027@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270516
 SUMMARY:Beta 2027
@@ -2369,7 +2306,7 @@ URL:https://www.volumevillage.dk/events/beta-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:va-9d2f0bbd-2810-4cd1-9940-c8a405c62498-0@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:Joey Moe til Fed Fredag koncert
@@ -2380,7 +2317,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/joey-moe-til-
 END:VEVENT
 BEGIN:VEVENT
 UID:vh-https://voxhall.dk/koncerter/neckbreakker/@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;TZID=Europe/Copenhagen:20270514T200000
 DTEND;TZID=Europe/Copenhagen:20270514T220000
 SUMMARY:Neckbreakker
@@ -2390,7 +2327,7 @@ URL:https://voxhall.dk/koncerter/neckbreakker/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-3a4308fb-09d1-49ea-9afc-74e156bf70d8-0@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Dodo & The Dodos til Fed Lørdag koncert
@@ -2401,12 +2338,22 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/dodo-the-dodo
 END:VEVENT
 BEGIN:VEVENT
 UID:tr-/kalender/kunstvaerk-2026@aarhus-kalender
-DTSTAMP:20261119T035905Z
+DTSTAMP:20261120T035434Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Kunstværk
 LOCATION:Train\, Aarhus
 CATEGORIES:Musik & Koncerter\,Train
 URL:https://train.dk/kalender/kunstvaerk-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:tr-/kalender/ayyuka-2027@aarhus-kalender
+DTSTAMP:20261120T035434Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:AYYUKA
+LOCATION:Train\, Aarhus
+CATEGORIES:Musik & Koncerter\,Train
+URL:https://train.dk/kalender/ayyuka-2027
 END:VEVENT
 END:VCALENDAR
