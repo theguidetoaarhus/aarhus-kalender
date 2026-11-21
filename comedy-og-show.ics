@@ -24,18 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mh-/kalender/hadi-ka-koush@aarhus-kalender
-DTSTAMP:20261120T035434Z
-DTSTART;TZID=Europe/Copenhagen:20261120T203000
-DTEND;TZID=Europe/Copenhagen:20261120T223000
-SUMMARY:Hadi Ka-koush - Næsten Helt Normal
-LOCATION:Musikhuset Aarhus
-CATEGORIES:Comedy & Show\,Musikhuset Aarhus
-URL:https://www.musikhuset.dk/kalender/hadi-ka-koush
-END:VEVENT
-BEGIN:VEVENT
 UID:mh-/kalender/mads-og-a-holdet@aarhus-kalender
-DTSTAMP:20261120T035434Z
+DTSTAMP:20261121T035449Z
 DTSTART;TZID=Europe/Copenhagen:20261127T203000
 DTEND;TZID=Europe/Copenhagen:20261127T223000
 SUMMARY:Mads og A-holdet - Live
@@ -45,7 +35,7 @@ URL:https://www.musikhuset.dk/kalender/mads-og-a-holdet
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/mark-le-fevre@aarhus-kalender
-DTSTAMP:20261120T035434Z
+DTSTAMP:20261121T035449Z
 DTSTART;TZID=Europe/Copenhagen:20261201T180000
 DTEND;TZID=Europe/Copenhagen:20261201T200000
 SUMMARY:Mark Le Fevre - Det Fejler Ik' En Skid
