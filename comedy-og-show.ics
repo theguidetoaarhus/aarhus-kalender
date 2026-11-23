@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mh-/kalender/mads-og-a-holdet@aarhus-kalender
-DTSTAMP:20261122T035815Z
+DTSTAMP:20261123T040236Z
 DTSTART;TZID=Europe/Copenhagen:20261127T203000
 DTEND;TZID=Europe/Copenhagen:20261127T223000
 SUMMARY:Mads og A-holdet - Live
@@ -35,7 +35,7 @@ URL:https://www.musikhuset.dk/kalender/mads-og-a-holdet
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/mark-le-fevre@aarhus-kalender
-DTSTAMP:20261122T035815Z
+DTSTAMP:20261123T040236Z
 DTSTART;TZID=Europe/Copenhagen:20261201T180000
 DTEND;TZID=Europe/Copenhagen:20261201T200000
 SUMMARY:Mark Le Fevre - Det Fejler Ik' En Skid
