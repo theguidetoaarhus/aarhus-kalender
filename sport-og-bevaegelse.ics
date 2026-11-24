@@ -24,39 +24,9 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bh-yoga-med-ida-20261123-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
-DTSTART;TZID=Europe/Copenhagen:20261123T163000
-DTEND;TZID=Europe/Copenhagen:20261123T173000
-SUMMARY:Yoga med Ida
-LOCATION:Beboernes Hus
-CATEGORIES:Sport & Bevægelse\,Beboernes Hus
-URL:http://find-ro.dk/
-END:VEVENT
-BEGIN:VEVENT
-UID:bh-badminton-el-volley-20261123-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
-DTSTART;TZID=Europe/Copenhagen:20261123T170000
-DTEND;TZID=Europe/Copenhagen:20261123T190000
-SUMMARY:Badminton el. volley
-LOCATION:Beboernes Hus
-CATEGORIES:Sport & Bevægelse\,Beboernes Hus
-URL:https://beboerneshus.dk/kalender/
-END:VEVENT
-BEGIN:VEVENT
-UID:bh-capoeira-20261123-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
-DTSTART;TZID=Europe/Copenhagen:20261123T190000
-DTEND;TZID=Europe/Copenhagen:20261123T210000
-SUMMARY:Capoeira
-LOCATION:Beboernes Hus
-CATEGORIES:Sport & Bevægelse\,Beboernes Hus
-URL:https://beboerneshus.dk/capoeira/
-END:VEVENT
-BEGIN:VEVENT
 UID:bh-salsadans-sidste-gang-indtil-foraaret-20261124-170000@aarhus-kalende
  r
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261124T170000
 DTEND;TZID=Europe/Copenhagen:20261124T175000
 SUMMARY:Salsadans *Sidste gang indtil foråret*
@@ -67,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-sidste-gang-indtil-foraaret-20261124-190000@aarhus-kalende
  r
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261124T190000
 DTEND;TZID=Europe/Copenhagen:20261124T195000
 SUMMARY:Salsadans *Sidste gang indtil foråret*
@@ -77,7 +47,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20261124-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261124T190000
 DTEND;TZID=Europe/Copenhagen:20261124T230000
 SUMMARY:Øgadernes dart
@@ -87,7 +57,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261125-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261125T163000
 DTEND;TZID=Europe/Copenhagen:20261125T173000
 SUMMARY:Yoga med Ida
@@ -96,8 +66,18 @@ CATEGORIES:Sport & Bevægelse\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
+UID:jvb-loebskalender-2026-27-11-2026-fyraftensraes@aarhus-kalender
+DTSTAMP:20261124T040017Z
+DTSTART;TZID=Europe/Copenhagen:20261127T154500
+DTEND;TZID=Europe/Copenhagen:20261127T194500
+SUMMARY:FyraftensRæs
+LOCATION:Aarhus
+CATEGORIES:Sport & Bevægelse\,Jydsk Væddeløbsbane
+URL:https://www.jvb-aarhus.dk/loebskalender/2026/27-11-2026-fyraftensraes/
+END:VEVENT
+BEGIN:VEVENT
 UID:clubnews-kamp-5764479@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261128T133000
 DTEND;TZID=Europe/Copenhagen:20261128T153000
 SUMMARY:HB Køge - Aarhus Fremad
@@ -106,7 +86,7 @@ URL:https://clubnews.dk/kamp/5764479
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5739559@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261129T180000
 DTEND;TZID=Europe/Copenhagen:20261129T200000
 SUMMARY:Silkeborg IF - AGF
@@ -115,7 +95,7 @@ URL:https://clubnews.dk/kamp/5739559
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261130-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261130T163000
 DTEND;TZID=Europe/Copenhagen:20261130T173000
 SUMMARY:Yoga med Ida
@@ -125,7 +105,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20261130-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261130T170000
 DTEND;TZID=Europe/Copenhagen:20261130T190000
 SUMMARY:Badminton el. volley
@@ -135,7 +115,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20261130-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261130T190000
 DTEND;TZID=Europe/Copenhagen:20261130T210000
 SUMMARY:Capoeira
@@ -145,7 +125,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-morgenyoga-i-as-seen-below-011226@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261201T090000
 DTEND;TZID=Europe/Copenhagen:20261201T100000
 SUMMARY:UDSOLGT · Morgenyoga i As Seen Below
@@ -155,7 +135,7 @@ URL:https://www.aros.dk/kalender/morgenyoga-i-as-seen-below-011226/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20261201-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261201T190000
 DTEND;TZID=Europe/Copenhagen:20261201T230000
 SUMMARY:Øgadernes dart
@@ -165,7 +145,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261202-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261202T163000
 DTEND;TZID=Europe/Copenhagen:20261202T173000
 SUMMARY:Yoga med Ida
@@ -175,7 +155,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-efm49pl64jfd6oivr77kq45ue0@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261202T183000
 DTEND;TZID=Europe/Copenhagen:20261202T203000
 SUMMARY:Bakken Bears - Vejen Basketball Klub
@@ -185,7 +165,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5764484@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261204T190000
 DTEND;TZID=Europe/Copenhagen:20261204T210000
 SUMMARY:Aarhus Fremad - AB
@@ -193,8 +173,18 @@ CATEGORIES:Sport & Bevægelse\,Aarhus Fremad
 URL:https://clubnews.dk/kamp/5764484
 END:VEVENT
 BEGIN:VEVENT
+UID:jvb-loebskalender-2026-05-12-2026-juleraes@aarhus-kalender
+DTSTAMP:20261124T040017Z
+DTSTART;TZID=Europe/Copenhagen:20261205T140000
+DTEND;TZID=Europe/Copenhagen:20261205T180000
+SUMMARY:JuleRæs
+LOCATION:Aarhus
+CATEGORIES:Sport & Bevægelse\,Jydsk Væddeløbsbane
+URL:https://www.jvb-aarhus.dk/loebskalender/2026/05-12-2026-juleraes/
+END:VEVENT
+BEGIN:VEVENT
 UID:clubnews-kamp-5739563@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261205T170000
 DTEND;TZID=Europe/Copenhagen:20261205T190000
 SUMMARY:AGF - Randers FC
@@ -203,7 +193,7 @@ URL:https://clubnews.dk/kamp/5739563
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-casma8ha6q5m1gb60128c4ecgk@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261206T140000
 DTEND;TZID=Europe/Copenhagen:20261206T160000
 SUMMARY:Bakken Bears - TBA
@@ -213,7 +203,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261207-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261207T163000
 DTEND;TZID=Europe/Copenhagen:20261207T173000
 SUMMARY:Yoga med Ida
@@ -223,7 +213,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20261207-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261207T170000
 DTEND;TZID=Europe/Copenhagen:20261207T190000
 SUMMARY:Badminton el. volley
@@ -233,7 +223,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20261207-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261207T190000
 DTEND;TZID=Europe/Copenhagen:20261207T210000
 SUMMARY:Capoeira
@@ -243,7 +233,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20261208-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261208T190000
 DTEND;TZID=Europe/Copenhagen:20261208T230000
 SUMMARY:Øgadernes dart
@@ -253,7 +243,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-46rchm8rv4086l8aosmn1gb2cc@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261209T160000
 DTEND;TZID=Europe/Copenhagen:20261209T180000
 SUMMARY:Landau Lions - Bakken Bears
@@ -263,7 +253,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261209-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261209T163000
 DTEND;TZID=Europe/Copenhagen:20261209T173000
 SUMMARY:Yoga med Ida
@@ -273,7 +263,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-4crrjgbaru7q478jrn395ms84o@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261211T180000
 DTEND;TZID=Europe/Copenhagen:20261211T200000
 SUMMARY:BC Copenhagen - Bakken Bears
@@ -283,7 +273,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-3n7r2dsgj1jp6j2i78vfjdtf1o@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261211T183000
 DTEND;TZID=Europe/Copenhagen:20261211T203000
 SUMMARY:Bakken Bears - BC Copenhagen
@@ -293,7 +283,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261214-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261214T163000
 DTEND;TZID=Europe/Copenhagen:20261214T173000
 SUMMARY:Yoga med Ida
@@ -303,7 +293,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20261214-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261214T170000
 DTEND;TZID=Europe/Copenhagen:20261214T190000
 SUMMARY:Badminton el. volley
@@ -313,7 +303,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20261214-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261214T190000
 DTEND;TZID=Europe/Copenhagen:20261214T210000
 SUMMARY:Capoeira
@@ -323,7 +313,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-morgenyoga-i-as-seen-below-151226@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261215T090000
 DTEND;TZID=Europe/Copenhagen:20261215T100000
 SUMMARY:Morgenyoga i As Seen Below
@@ -333,7 +323,7 @@ URL:https://www.aros.dk/kalender/morgenyoga-i-as-seen-below-151226/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20261215-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261215T190000
 DTEND;TZID=Europe/Copenhagen:20261215T230000
 SUMMARY:Øgadernes dart
@@ -343,7 +333,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261216-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261216T163000
 DTEND;TZID=Europe/Copenhagen:20261216T173000
 SUMMARY:Yoga med Ida
@@ -353,7 +343,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-8k30c96mtsr65rgc49a57psop4@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261216T180000
 DTEND;TZID=Europe/Copenhagen:20261216T200000
 SUMMARY:Bakken Bears - BC Prievidza
@@ -363,7 +353,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-ko4qsl04pfml7ss94asl40c12s@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261216T183000
 DTEND;TZID=Europe/Copenhagen:20261216T203000
 SUMMARY:Bakken Bears -
@@ -372,8 +362,18 @@ CATEGORIES:Sport & Bevægelse\,Bakken Bears
 URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
+UID:jvb-loebskalender-2026-19-12-2026-juleloebet@aarhus-kalender
+DTSTAMP:20261124T040017Z
+DTSTART;TZID=Europe/Copenhagen:20261219T170000
+DTEND;TZID=Europe/Copenhagen:20261219T210000
+SUMMARY:Juleløbet
+LOCATION:Aarhus
+CATEGORIES:Sport & Bevægelse\,Jydsk Væddeløbsbane
+URL:https://www.jvb-aarhus.dk/loebskalender/2026/19-12-2026-juleloebet/
+END:VEVENT
+BEGIN:VEVENT
 UID:moesgaard-0dda49db-d083-4ab2-8012-fd153ba4946f@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261221T150000
 DTEND;TZID=Europe/Copenhagen:20261221T170000
 SUMMARY:Vintersolhvervsvandring: Gå lyset i møde
@@ -383,8 +383,8 @@ URL:https://moesgaardmuseum.dk/besoeg-os/kalender/vintersolhvervsvandring-g
  aa-lyset-i-moede
 END:VEVENT
 BEGIN:VEVENT
-UID:bakkenbears-d3ubveo63k4i9lk9jv844og1r0@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+UID:bakkenbears-5o4eg4geuq69dvvh2vrdb1sur8@google.com@aarhus-kalender
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261223T183000
 DTEND;TZID=Europe/Copenhagen:20261223T203000
 SUMMARY:Bakken Bears - Yukatel Denizli Basket
@@ -394,7 +394,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-9v493sntim50nqjgsvjn68jscs@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20261227T190000
 DTEND;TZID=Europe/Copenhagen:20261227T210000
 SUMMARY:Horsens IC - Bakken Bears
@@ -403,8 +403,18 @@ CATEGORIES:Sport & Bevægelse\,Bakken Bears
 URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
+UID:jvb-loebskalender-2026-30-12-2026-nytaarsloebet@aarhus-kalender
+DTSTAMP:20261124T040017Z
+DTSTART;TZID=Europe/Copenhagen:20261230T150000
+DTEND;TZID=Europe/Copenhagen:20261230T190000
+SUMMARY:Nytårsløbet
+LOCATION:Aarhus
+CATEGORIES:Sport & Bevægelse\,Jydsk Væddeløbsbane
+URL:https://www.jvb-aarhus.dk/loebskalender/2026/30-12-2026-nytaarsloebet/
+END:VEVENT
+BEGIN:VEVENT
 UID:bakkenbears-anv42nv9kqk9pbq292mroeu488@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270103T140000
 DTEND;TZID=Europe/Copenhagen:20270103T160000
 SUMMARY:Bakken Bears - Team FOG Næstved
@@ -414,7 +424,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270104-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270104T163000
 DTEND;TZID=Europe/Copenhagen:20270104T173000
 SUMMARY:Yoga med Ida
@@ -424,7 +434,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270104-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270104T170000
 DTEND;TZID=Europe/Copenhagen:20270104T190000
 SUMMARY:Badminton el. volley
@@ -434,7 +444,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270104-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270104T190000
 DTEND;TZID=Europe/Copenhagen:20270104T210000
 SUMMARY:Capoeira
@@ -444,7 +454,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270105-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270105T190000
 DTEND;TZID=Europe/Copenhagen:20270105T230000
 SUMMARY:Øgadernes dart
@@ -454,7 +464,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270106-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270106T163000
 DTEND;TZID=Europe/Copenhagen:20270106T173000
 SUMMARY:Yoga med Ida
@@ -464,7 +474,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-vc89n4mop3pm74o62k5ns71u68@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270107T190000
 DTEND;TZID=Europe/Copenhagen:20270107T210000
 SUMMARY:Bakken Bears - Svendborg Rabbits
@@ -474,7 +484,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270111-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270111T163000
 DTEND;TZID=Europe/Copenhagen:20270111T173000
 SUMMARY:Yoga med Ida
@@ -484,7 +494,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270111-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270111T170000
 DTEND;TZID=Europe/Copenhagen:20270111T190000
 SUMMARY:Badminton el. volley
@@ -494,7 +504,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270111-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270111T190000
 DTEND;TZID=Europe/Copenhagen:20270111T210000
 SUMMARY:Capoeira
@@ -504,7 +514,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-morgenyoga-i-as-seen-below-120127@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270112T090000
 DTEND;TZID=Europe/Copenhagen:20270112T100000
 SUMMARY:Morgenyoga i As Seen Below
@@ -514,7 +524,7 @@ URL:https://www.aros.dk/kalender/morgenyoga-i-as-seen-below-120127/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270112-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270112T190000
 DTEND;TZID=Europe/Copenhagen:20270112T230000
 SUMMARY:Øgadernes dart
@@ -524,7 +534,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270113-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270113T163000
 DTEND;TZID=Europe/Copenhagen:20270113T173000
 SUMMARY:Yoga med Ida
@@ -534,7 +544,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-morgenyoga-i-as-seen-below-160127@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270116T080000
 DTEND;TZID=Europe/Copenhagen:20270116T090000
 SUMMARY:Morgenyoga i As Seen Below
@@ -544,7 +554,7 @@ URL:https://www.aros.dk/kalender/morgenyoga-i-as-seen-below-160127/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-loff5qktcmo100bknqharfgm38@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270116T153000
 DTEND;TZID=Europe/Copenhagen:20270116T173000
 SUMMARY:BMS Herlev - Bakken Bears
@@ -554,7 +564,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270118-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270118T163000
 DTEND;TZID=Europe/Copenhagen:20270118T173000
 SUMMARY:Yoga med Ida
@@ -564,7 +574,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270118-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270118T170000
 DTEND;TZID=Europe/Copenhagen:20270118T190000
 SUMMARY:Badminton el. volley
@@ -574,7 +584,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270118-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270118T190000
 DTEND;TZID=Europe/Copenhagen:20270118T210000
 SUMMARY:Capoeira
@@ -584,7 +594,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270119-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270119T190000
 DTEND;TZID=Europe/Copenhagen:20270119T230000
 SUMMARY:Øgadernes dart
@@ -594,7 +604,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-27bvlc54c53b5ljnvncs2ahnkk@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270119T190000
 DTEND;TZID=Europe/Copenhagen:20270119T210000
 SUMMARY:BC Copenhagen - Bakken Bears
@@ -604,7 +614,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270120-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270120T163000
 DTEND;TZID=Europe/Copenhagen:20270120T173000
 SUMMARY:Yoga med Ida
@@ -614,7 +624,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270125-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270125T163000
 DTEND;TZID=Europe/Copenhagen:20270125T173000
 SUMMARY:Yoga med Ida
@@ -624,7 +634,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270125-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270125T170000
 DTEND;TZID=Europe/Copenhagen:20270125T190000
 SUMMARY:Badminton el. volley
@@ -634,7 +644,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270125-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270125T190000
 DTEND;TZID=Europe/Copenhagen:20270125T210000
 SUMMARY:Capoeira
@@ -644,7 +654,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-morgenyoga-i-as-seen-below-260127@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270126T090000
 DTEND;TZID=Europe/Copenhagen:20270126T100000
 SUMMARY:Morgenyoga i As Seen Below
@@ -654,7 +664,7 @@ URL:https://www.aros.dk/kalender/morgenyoga-i-as-seen-below-260127/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270126-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270126T190000
 DTEND;TZID=Europe/Copenhagen:20270126T230000
 SUMMARY:Øgadernes dart
@@ -664,7 +674,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270127-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270127T163000
 DTEND;TZID=Europe/Copenhagen:20270127T173000
 SUMMARY:Yoga med Ida
@@ -674,7 +684,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-4lf8qu2mpcu17jb7ljnd3p8tss@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270127T190000
 DTEND;TZID=Europe/Copenhagen:20270127T210000
 SUMMARY:Randers Cimbria - Bakken Bears
@@ -684,7 +694,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270201-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270201T163000
 DTEND;TZID=Europe/Copenhagen:20270201T173000
 SUMMARY:Yoga med Ida
@@ -694,7 +704,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270201-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270201T170000
 DTEND;TZID=Europe/Copenhagen:20270201T190000
 SUMMARY:Badminton el. volley
@@ -704,7 +714,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270201-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270201T190000
 DTEND;TZID=Europe/Copenhagen:20270201T210000
 SUMMARY:Capoeira
@@ -714,7 +724,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270202-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270202T170000
 DTEND;TZID=Europe/Copenhagen:20270202T175000
 SUMMARY:Salsadans
@@ -724,7 +734,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-dbhtf3iq3995hmcmtkloe1skio@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270202T183000
 DTEND;TZID=Europe/Copenhagen:20270202T203000
 SUMMARY:Svendborg Rabbits - Bakken Bears
@@ -734,7 +744,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270202-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270202T190000
 DTEND;TZID=Europe/Copenhagen:20270202T195000
 SUMMARY:Salsadans
@@ -744,7 +754,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270202-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270202T190000
 DTEND;TZID=Europe/Copenhagen:20270202T230000
 SUMMARY:Øgadernes dart
@@ -754,7 +764,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270203-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270203T163000
 DTEND;TZID=Europe/Copenhagen:20270203T173000
 SUMMARY:Yoga med Ida
@@ -764,7 +774,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-h837cs0rid0gd4i4e3ngrnstcc@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270206T140000
 DTEND;TZID=Europe/Copenhagen:20270206T160000
 SUMMARY:Bakken Bears - Holbæk-Stenhus
@@ -774,7 +784,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270208-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270208T163000
 DTEND;TZID=Europe/Copenhagen:20270208T173000
 SUMMARY:Yoga med Ida
@@ -784,7 +794,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270208-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270208T170000
 DTEND;TZID=Europe/Copenhagen:20270208T190000
 SUMMARY:Badminton el. volley
@@ -794,7 +804,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270208-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270208T190000
 DTEND;TZID=Europe/Copenhagen:20270208T210000
 SUMMARY:Capoeira
@@ -804,7 +814,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-morgenyoga-i-as-seen-below-090227@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270209T090000
 DTEND;TZID=Europe/Copenhagen:20270209T100000
 SUMMARY:Morgenyoga i As Seen Below
@@ -814,7 +824,7 @@ URL:https://www.aros.dk/kalender/morgenyoga-i-as-seen-below-090227/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270209-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270209T170000
 DTEND;TZID=Europe/Copenhagen:20270209T175000
 SUMMARY:Salsadans
@@ -824,7 +834,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270209-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270209T190000
 DTEND;TZID=Europe/Copenhagen:20270209T195000
 SUMMARY:Salsadans
@@ -834,7 +844,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270209-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270209T190000
 DTEND;TZID=Europe/Copenhagen:20270209T230000
 SUMMARY:Øgadernes dart
@@ -844,7 +854,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270210-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270210T163000
 DTEND;TZID=Europe/Copenhagen:20270210T173000
 SUMMARY:Yoga med Ida
@@ -854,7 +864,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-g5ae4c2gmjul4fg513u5krli6o@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270213T140000
 DTEND;TZID=Europe/Copenhagen:20270213T160000
 SUMMARY:Bakken Bears - Værløse Blue Hawks
@@ -864,7 +874,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270215-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270215T163000
 DTEND;TZID=Europe/Copenhagen:20270215T173000
 SUMMARY:Yoga med Ida
@@ -874,7 +884,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270215-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270215T170000
 DTEND;TZID=Europe/Copenhagen:20270215T190000
 SUMMARY:Badminton el. volley
@@ -884,7 +894,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-qs9qc74bn4lvq6l5193ki09bq0@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270215T183000
 DTEND;TZID=Europe/Copenhagen:20270215T203000
 SUMMARY:Bakken Bears - Bears Academy
@@ -894,7 +904,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270215-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270215T190000
 DTEND;TZID=Europe/Copenhagen:20270215T210000
 SUMMARY:Capoeira
@@ -904,7 +914,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270216-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270216T170000
 DTEND;TZID=Europe/Copenhagen:20270216T175000
 SUMMARY:Salsadans
@@ -914,7 +924,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270216-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270216T190000
 DTEND;TZID=Europe/Copenhagen:20270216T195000
 SUMMARY:Salsadans
@@ -924,7 +934,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270216-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270216T190000
 DTEND;TZID=Europe/Copenhagen:20270216T230000
 SUMMARY:Øgadernes dart
@@ -934,7 +944,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270217-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270217T163000
 DTEND;TZID=Europe/Copenhagen:20270217T173000
 SUMMARY:Yoga med Ida
@@ -944,7 +954,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bakkenbears-dc1v2010fntvqg8bov73tvthg8@google.com@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270217T200000
 DTEND;TZID=Europe/Copenhagen:20270217T220000
 SUMMARY:Gladsaxe Basketball Klub - Bakken Bears
@@ -954,7 +964,7 @@ URL:https://www.bakkenbears.com/kampe/
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5764536@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270220T190000
 DTEND;TZID=Europe/Copenhagen:20270220T210000
 SUMMARY:Esbjerg fB - Aarhus Fremad
@@ -963,7 +973,7 @@ URL:https://clubnews.dk/kamp/5764536
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5739566@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270221T160000
 DTEND;TZID=Europe/Copenhagen:20270221T180000
 SUMMARY:Sønderjyske Fodbold - AGF
@@ -972,7 +982,7 @@ URL:https://clubnews.dk/kamp/5739566
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270222-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270222T163000
 DTEND;TZID=Europe/Copenhagen:20270222T173000
 SUMMARY:Yoga med Ida
@@ -982,7 +992,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270222-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270222T170000
 DTEND;TZID=Europe/Copenhagen:20270222T190000
 SUMMARY:Badminton el. volley
@@ -992,7 +1002,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270222-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270222T190000
 DTEND;TZID=Europe/Copenhagen:20270222T210000
 SUMMARY:Capoeira
@@ -1002,7 +1012,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:aros-kalender-morgenyoga-i-as-seen-below-230227@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270223T090000
 DTEND;TZID=Europe/Copenhagen:20270223T100000
 SUMMARY:Morgenyoga i As Seen Below
@@ -1012,7 +1022,7 @@ URL:https://www.aros.dk/kalender/morgenyoga-i-as-seen-below-230227/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270223-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270223T170000
 DTEND;TZID=Europe/Copenhagen:20270223T175000
 SUMMARY:Salsadans
@@ -1022,7 +1032,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270223-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270223T190000
 DTEND;TZID=Europe/Copenhagen:20270223T195000
 SUMMARY:Salsadans
@@ -1032,7 +1042,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270223-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270223T190000
 DTEND;TZID=Europe/Copenhagen:20270223T230000
 SUMMARY:Øgadernes dart
@@ -1042,7 +1052,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270224-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270224T163000
 DTEND;TZID=Europe/Copenhagen:20270224T173000
 SUMMARY:Yoga med Ida
@@ -1052,7 +1062,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5764539@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270227T190000
 DTEND;TZID=Europe/Copenhagen:20270227T210000
 SUMMARY:Aarhus Fremad - FC Fredericia
@@ -1061,7 +1071,7 @@ URL:https://clubnews.dk/kamp/5764539
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5739576@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270228T160000
 DTEND;TZID=Europe/Copenhagen:20270228T180000
 SUMMARY:AGF - F.C. København
@@ -1070,7 +1080,7 @@ URL:https://clubnews.dk/kamp/5739576
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270301-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270301T163000
 DTEND;TZID=Europe/Copenhagen:20270301T173000
 SUMMARY:Yoga med Ida
@@ -1080,7 +1090,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270301-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270301T170000
 DTEND;TZID=Europe/Copenhagen:20270301T190000
 SUMMARY:Badminton el. volley
@@ -1090,7 +1100,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270301-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270301T190000
 DTEND;TZID=Europe/Copenhagen:20270301T210000
 SUMMARY:Capoeira
@@ -1100,7 +1110,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270302-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270302T170000
 DTEND;TZID=Europe/Copenhagen:20270302T175000
 SUMMARY:Salsadans
@@ -1110,7 +1120,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270302-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270302T190000
 DTEND;TZID=Europe/Copenhagen:20270302T195000
 SUMMARY:Salsadans
@@ -1120,7 +1130,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270302-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270302T190000
 DTEND;TZID=Europe/Copenhagen:20270302T230000
 SUMMARY:Øgadernes dart
@@ -1130,7 +1140,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270303-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270303T163000
 DTEND;TZID=Europe/Copenhagen:20270303T173000
 SUMMARY:Yoga med Ida
@@ -1140,7 +1150,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5764544@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270306T190000
 DTEND;TZID=Europe/Copenhagen:20270306T210000
 SUMMARY:AaB - Aarhus Fremad
@@ -1149,7 +1159,7 @@ URL:https://clubnews.dk/kamp/5764544
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5739578@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270307T160000
 DTEND;TZID=Europe/Copenhagen:20270307T180000
 SUMMARY:OB - AGF
@@ -1158,7 +1168,7 @@ URL:https://clubnews.dk/kamp/5739578
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270308-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270308T163000
 DTEND;TZID=Europe/Copenhagen:20270308T173000
 SUMMARY:Yoga med Ida
@@ -1168,7 +1178,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270308-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270308T170000
 DTEND;TZID=Europe/Copenhagen:20270308T190000
 SUMMARY:Badminton el. volley
@@ -1178,7 +1188,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270308-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270308T190000
 DTEND;TZID=Europe/Copenhagen:20270308T210000
 SUMMARY:Capoeira
@@ -1188,7 +1198,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270309-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270309T170000
 DTEND;TZID=Europe/Copenhagen:20270309T175000
 SUMMARY:Salsadans
@@ -1198,7 +1208,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270309-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270309T190000
 DTEND;TZID=Europe/Copenhagen:20270309T195000
 SUMMARY:Salsadans
@@ -1208,7 +1218,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270309-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270309T190000
 DTEND;TZID=Europe/Copenhagen:20270309T230000
 SUMMARY:Øgadernes dart
@@ -1218,7 +1228,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270310-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270310T163000
 DTEND;TZID=Europe/Copenhagen:20270310T173000
 SUMMARY:Yoga med Ida
@@ -1228,7 +1238,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5764553@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270313T190000
 DTEND;TZID=Europe/Copenhagen:20270313T210000
 SUMMARY:Aarhus Fremad - Vendsyssel FF
@@ -1237,7 +1247,7 @@ URL:https://clubnews.dk/kamp/5764553
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5739588@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270314T160000
 DTEND;TZID=Europe/Copenhagen:20270314T180000
 SUMMARY:AGF - FC Nordsjælland
@@ -1246,7 +1256,7 @@ URL:https://clubnews.dk/kamp/5739588
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270315-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270315T163000
 DTEND;TZID=Europe/Copenhagen:20270315T173000
 SUMMARY:Yoga med Ida
@@ -1256,7 +1266,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270315-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270315T170000
 DTEND;TZID=Europe/Copenhagen:20270315T190000
 SUMMARY:Badminton el. volley
@@ -1266,7 +1276,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270315-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270315T190000
 DTEND;TZID=Europe/Copenhagen:20270315T210000
 SUMMARY:Capoeira
@@ -1276,7 +1286,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270316-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270316T170000
 DTEND;TZID=Europe/Copenhagen:20270316T175000
 SUMMARY:Salsadans
@@ -1286,7 +1296,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270316-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270316T190000
 DTEND;TZID=Europe/Copenhagen:20270316T195000
 SUMMARY:Salsadans
@@ -1296,7 +1306,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270316-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270316T190000
 DTEND;TZID=Europe/Copenhagen:20270316T230000
 SUMMARY:Øgadernes dart
@@ -1306,7 +1316,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270317-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270317T163000
 DTEND;TZID=Europe/Copenhagen:20270317T173000
 SUMMARY:Yoga med Ida
@@ -1316,7 +1326,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5764557@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270320T190000
 DTEND;TZID=Europe/Copenhagen:20270320T210000
 SUMMARY:Kolding IF - Aarhus Fremad
@@ -1325,7 +1335,7 @@ URL:https://clubnews.dk/kamp/5764557
 END:VEVENT
 BEGIN:VEVENT
 UID:clubnews-kamp-5739592@clubnews.dk@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270321T160000
 DTEND;TZID=Europe/Copenhagen:20270321T180000
 SUMMARY:FC Midtjylland - AGF
@@ -1334,7 +1344,7 @@ URL:https://clubnews.dk/kamp/5739592
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270322-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270322T163000
 DTEND;TZID=Europe/Copenhagen:20270322T173000
 SUMMARY:Yoga med Ida
@@ -1344,7 +1354,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270322-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270322T170000
 DTEND;TZID=Europe/Copenhagen:20270322T190000
 SUMMARY:Badminton el. volley
@@ -1354,7 +1364,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270322-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270322T190000
 DTEND;TZID=Europe/Copenhagen:20270322T210000
 SUMMARY:Capoeira
@@ -1364,7 +1374,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270323-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270323T170000
 DTEND;TZID=Europe/Copenhagen:20270323T175000
 SUMMARY:Salsadans
@@ -1374,7 +1384,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270323-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270323T190000
 DTEND;TZID=Europe/Copenhagen:20270323T195000
 SUMMARY:Salsadans
@@ -1384,7 +1394,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270323-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270323T190000
 DTEND;TZID=Europe/Copenhagen:20270323T230000
 SUMMARY:Øgadernes dart
@@ -1394,7 +1404,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270324-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270324T163000
 DTEND;TZID=Europe/Copenhagen:20270324T173000
 SUMMARY:Yoga med Ida
@@ -1404,7 +1414,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270329-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270329T163000
 DTEND;TZID=Europe/Copenhagen:20270329T173000
 SUMMARY:Yoga med Ida
@@ -1414,7 +1424,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270329-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270329T170000
 DTEND;TZID=Europe/Copenhagen:20270329T190000
 SUMMARY:Badminton el. volley
@@ -1424,7 +1434,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270329-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270329T190000
 DTEND;TZID=Europe/Copenhagen:20270329T210000
 SUMMARY:Capoeira
@@ -1434,7 +1444,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270330-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270330T170000
 DTEND;TZID=Europe/Copenhagen:20270330T175000
 SUMMARY:Salsadans
@@ -1444,7 +1454,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270330-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270330T190000
 DTEND;TZID=Europe/Copenhagen:20270330T195000
 SUMMARY:Salsadans
@@ -1454,7 +1464,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270330-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270330T190000
 DTEND;TZID=Europe/Copenhagen:20270330T230000
 SUMMARY:Øgadernes dart
@@ -1464,7 +1474,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270331-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270331T163000
 DTEND;TZID=Europe/Copenhagen:20270331T173000
 SUMMARY:Yoga med Ida
@@ -1474,7 +1484,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270405-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270405T163000
 DTEND;TZID=Europe/Copenhagen:20270405T173000
 SUMMARY:Yoga med Ida
@@ -1484,7 +1494,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270405-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270405T170000
 DTEND;TZID=Europe/Copenhagen:20270405T190000
 SUMMARY:Badminton el. volley
@@ -1494,7 +1504,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270405-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270405T190000
 DTEND;TZID=Europe/Copenhagen:20270405T210000
 SUMMARY:Capoeira
@@ -1504,7 +1514,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270406-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270406T170000
 DTEND;TZID=Europe/Copenhagen:20270406T175000
 SUMMARY:Salsadans
@@ -1514,7 +1524,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270406-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270406T190000
 DTEND;TZID=Europe/Copenhagen:20270406T195000
 SUMMARY:Salsadans
@@ -1524,7 +1534,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270406-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270406T190000
 DTEND;TZID=Europe/Copenhagen:20270406T230000
 SUMMARY:Øgadernes dart
@@ -1534,7 +1544,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270407-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270407T163000
 DTEND;TZID=Europe/Copenhagen:20270407T173000
 SUMMARY:Yoga med Ida
@@ -1544,7 +1554,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270412-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270412T163000
 DTEND;TZID=Europe/Copenhagen:20270412T173000
 SUMMARY:Yoga med Ida
@@ -1554,7 +1564,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270412-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270412T170000
 DTEND;TZID=Europe/Copenhagen:20270412T190000
 SUMMARY:Badminton el. volley
@@ -1564,7 +1574,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270412-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270412T190000
 DTEND;TZID=Europe/Copenhagen:20270412T210000
 SUMMARY:Capoeira
@@ -1574,7 +1584,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270413-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270413T170000
 DTEND;TZID=Europe/Copenhagen:20270413T175000
 SUMMARY:Salsadans
@@ -1584,7 +1594,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270413-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270413T190000
 DTEND;TZID=Europe/Copenhagen:20270413T195000
 SUMMARY:Salsadans
@@ -1594,7 +1604,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270413-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270413T190000
 DTEND;TZID=Europe/Copenhagen:20270413T230000
 SUMMARY:Øgadernes dart
@@ -1604,7 +1614,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270414-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270414T163000
 DTEND;TZID=Europe/Copenhagen:20270414T173000
 SUMMARY:Yoga med Ida
@@ -1614,7 +1624,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270419-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270419T163000
 DTEND;TZID=Europe/Copenhagen:20270419T173000
 SUMMARY:Yoga med Ida
@@ -1624,7 +1634,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270419-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270419T170000
 DTEND;TZID=Europe/Copenhagen:20270419T190000
 SUMMARY:Badminton el. volley
@@ -1634,7 +1644,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270419-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270419T190000
 DTEND;TZID=Europe/Copenhagen:20270419T210000
 SUMMARY:Capoeira
@@ -1644,7 +1654,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270420-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270420T170000
 DTEND;TZID=Europe/Copenhagen:20270420T175000
 SUMMARY:Salsadans
@@ -1654,7 +1664,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270420-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270420T190000
 DTEND;TZID=Europe/Copenhagen:20270420T195000
 SUMMARY:Salsadans
@@ -1664,7 +1674,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270420-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270420T190000
 DTEND;TZID=Europe/Copenhagen:20270420T230000
 SUMMARY:Øgadernes dart
@@ -1674,7 +1684,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270421-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270421T163000
 DTEND;TZID=Europe/Copenhagen:20270421T173000
 SUMMARY:Yoga med Ida
@@ -1684,7 +1694,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270426-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270426T163000
 DTEND;TZID=Europe/Copenhagen:20270426T173000
 SUMMARY:Yoga med Ida
@@ -1694,7 +1704,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270426-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270426T170000
 DTEND;TZID=Europe/Copenhagen:20270426T190000
 SUMMARY:Badminton el. volley
@@ -1704,7 +1714,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270426-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270426T190000
 DTEND;TZID=Europe/Copenhagen:20270426T210000
 SUMMARY:Capoeira
@@ -1714,7 +1724,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270427-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270427T170000
 DTEND;TZID=Europe/Copenhagen:20270427T175000
 SUMMARY:Salsadans
@@ -1724,7 +1734,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270427-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270427T190000
 DTEND;TZID=Europe/Copenhagen:20270427T195000
 SUMMARY:Salsadans
@@ -1734,7 +1744,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270427-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270427T190000
 DTEND;TZID=Europe/Copenhagen:20270427T230000
 SUMMARY:Øgadernes dart
@@ -1744,7 +1754,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270428-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270428T163000
 DTEND;TZID=Europe/Copenhagen:20270428T173000
 SUMMARY:Yoga med Ida
@@ -1754,7 +1764,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270503-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270503T163000
 DTEND;TZID=Europe/Copenhagen:20270503T173000
 SUMMARY:Yoga med Ida
@@ -1764,7 +1774,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270503-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270503T170000
 DTEND;TZID=Europe/Copenhagen:20270503T190000
 SUMMARY:Badminton el. volley
@@ -1774,7 +1784,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270503-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270503T190000
 DTEND;TZID=Europe/Copenhagen:20270503T210000
 SUMMARY:Capoeira
@@ -1784,7 +1794,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270504-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270504T170000
 DTEND;TZID=Europe/Copenhagen:20270504T175000
 SUMMARY:Salsadans
@@ -1794,7 +1804,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270504-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270504T190000
 DTEND;TZID=Europe/Copenhagen:20270504T195000
 SUMMARY:Salsadans
@@ -1804,7 +1814,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270504-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270504T190000
 DTEND;TZID=Europe/Copenhagen:20270504T230000
 SUMMARY:Øgadernes dart
@@ -1814,7 +1824,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270505-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270505T163000
 DTEND;TZID=Europe/Copenhagen:20270505T173000
 SUMMARY:Yoga med Ida
@@ -1824,7 +1834,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270510-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270510T163000
 DTEND;TZID=Europe/Copenhagen:20270510T173000
 SUMMARY:Yoga med Ida
@@ -1834,7 +1844,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270510-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270510T170000
 DTEND;TZID=Europe/Copenhagen:20270510T190000
 SUMMARY:Badminton el. volley
@@ -1844,7 +1854,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270510-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270510T190000
 DTEND;TZID=Europe/Copenhagen:20270510T210000
 SUMMARY:Capoeira
@@ -1854,7 +1864,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270511-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270511T170000
 DTEND;TZID=Europe/Copenhagen:20270511T175000
 SUMMARY:Salsadans
@@ -1864,7 +1874,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270511-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270511T190000
 DTEND;TZID=Europe/Copenhagen:20270511T195000
 SUMMARY:Salsadans
@@ -1874,7 +1884,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270511-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270511T190000
 DTEND;TZID=Europe/Copenhagen:20270511T230000
 SUMMARY:Øgadernes dart
@@ -1884,7 +1894,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270512-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270512T163000
 DTEND;TZID=Europe/Copenhagen:20270512T173000
 SUMMARY:Yoga med Ida
@@ -1894,7 +1904,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270517-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270517T163000
 DTEND;TZID=Europe/Copenhagen:20270517T173000
 SUMMARY:Yoga med Ida
@@ -1904,7 +1914,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270517-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270517T170000
 DTEND;TZID=Europe/Copenhagen:20270517T190000
 SUMMARY:Badminton el. volley
@@ -1914,7 +1924,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270517-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270517T190000
 DTEND;TZID=Europe/Copenhagen:20270517T210000
 SUMMARY:Capoeira
@@ -1924,7 +1934,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270518-170000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270518T170000
 DTEND;TZID=Europe/Copenhagen:20270518T175000
 SUMMARY:Salsadans
@@ -1934,7 +1944,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270518-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270518T190000
 DTEND;TZID=Europe/Copenhagen:20270518T195000
 SUMMARY:Salsadans
@@ -1944,7 +1954,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270518-190000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270518T190000
 DTEND;TZID=Europe/Copenhagen:20270518T230000
 SUMMARY:Øgadernes dart
@@ -1954,7 +1964,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270519-163000@aarhus-kalender
-DTSTAMP:20261123T040236Z
+DTSTAMP:20261124T040017Z
 DTSTART;TZID=Europe/Copenhagen:20270519T163000
 DTEND;TZID=Europe/Copenhagen:20270519T173000
 SUMMARY:Yoga med Ida
