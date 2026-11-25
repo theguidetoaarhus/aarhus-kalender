@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mh-/kalender/mads-og-a-holdet@aarhus-kalender
-DTSTAMP:20261124T040017Z
+DTSTAMP:20261125T040640Z
 DTSTART;TZID=Europe/Copenhagen:20261127T203000
 DTEND;TZID=Europe/Copenhagen:20261127T223000
 SUMMARY:Mads og A-holdet - Live
@@ -35,12 +35,22 @@ URL:https://www.musikhuset.dk/kalender/mads-og-a-holdet
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/mark-le-fevre@aarhus-kalender
-DTSTAMP:20261124T040017Z
+DTSTAMP:20261125T040640Z
 DTSTART;TZID=Europe/Copenhagen:20261201T180000
 DTEND;TZID=Europe/Copenhagen:20261201T200000
 SUMMARY:Mark Le Fevre - Det Fejler Ik' En Skid
 LOCATION:Musikhuset Aarhus
 CATEGORIES:Comedy & Show\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/mark-le-fevre
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/grand-slam@aarhus-kalender
+DTSTAMP:20261125T040640Z
+DTSTART;TZID=Europe/Copenhagen:20261208T193000
+DTEND;TZID=Europe/Copenhagen:20261208T213000
+SUMMARY:Grand Slam - Finale i StorySlam
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Comedy & Show\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/grand-slam
 END:VEVENT
 END:VCALENDAR
