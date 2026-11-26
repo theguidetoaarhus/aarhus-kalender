@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gb-signe-boisen-manus@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261213
 SUMMARY:Signe Boisen: Manus.
@@ -36,7 +36,7 @@ URL:https://godsbanen.dk/kalender/signe-boisen-manus/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-longing-as-organ@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261213
 SUMMARY:Longing as Organ
@@ -45,19 +45,8 @@ CATEGORIES:Kunst\,Godsbanen\,Gratis
 URL:https://godsbanen.dk/kalender/longing-as-organ/
 END:VEVENT
 BEGIN:VEVENT
-UID:va-ba0eac1e-c806-4c72-8e61-7637a613af4f-0@aarhus-kalender
-DTSTAMP:20261125T040640Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261224
-SUMMARY:Gløgg Skoven - Julehygge på Bispetorvet i Aarhus
-LOCATION:Aarhus
-CATEGORIES:Kunst\,VisitAarhus
-URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/gloegg-skoven
- -julehygge-paa-bispetorvet-i-aarhus-gdk1163310
-END:VEVENT
-BEGIN:VEVENT
 UID:va-6dd7d14d-c31c-442e-a7e4-ad0911714b76-0@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
 SUMMARY:Aarhus Kunst- og Julemarked i Ridehuset
@@ -68,7 +57,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhus-kunst-
 END:VEVENT
 BEGIN:VEVENT
 UID:va-ec1ad63a-6817-40f6-9565-cba9c53d1758-0@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261220
 SUMMARY:Julevæsner på Moesgaard Museum
@@ -79,7 +68,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julevaesner-p
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878679@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20270118
 SUMMARY:Kalk - en fortælling om et misforstået mineral
@@ -91,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-udstilling-udstilling-kunst-pa-hj
  ernen@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;TZID=Europe/Copenhagen:20261208T120000
 DTEND;TZID=Europe/Copenhagen:20270105T120000
 SUMMARY:Udstilling - Kunst på hjernen
@@ -102,7 +91,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/udstilling/udstill
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878903@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20270115
 SUMMARY:Øniverser
@@ -112,7 +101,7 @@ URL:https://dokk1.dk/det-sker/oeniverser
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-juleferie26@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20270104
 SUMMARY:Godsbanen holder juleferie
@@ -123,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-de-tavse-borns-stemmer-0@aarh
  us-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270124
 SUMMARY:De tavse børns stemmer
@@ -134,7 +123,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/born/de-tavse-borns
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877700@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270126
 SUMMARY:Aarhus dengang i 1960’erne - og nu
@@ -145,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-baeredygtighed-og-natur-udklaedn
  ingstoj-byt-og-del-1@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;TZID=Europe/Copenhagen:20270104T120000
 DTEND;TZID=Europe/Copenhagen:20270208T180000
 SUMMARY:Udklædningstøj - byt og del
@@ -156,7 +145,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/baeredygtighed-og
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-ingrid-soegaard-et-dirrende-rum@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270313
 SUMMARY:Ingrid Søgaard: Et dirrende rum
@@ -166,7 +155,7 @@ URL:https://godsbanen.dk/kalender/ingrid-soegaard-et-dirrende-rum/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-c97815c4-034a-4945-bde9-2c797609fb80-0@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270223
 SUMMARY:Gastro Week - i Aarhusregionen
@@ -177,7 +166,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/gastro-week-i
 END:VEVENT
 BEGIN:VEVENT
 UID:va-e23f5e33-4eda-40a2-b648-d2a7ceb62ca3-0@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270311
 SUMMARY:Hamlet på Aarhus Teater
@@ -187,18 +176,8 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/hamlet-paa-aa
  rhus-teater-gdk1158902
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877734@aarhus-kalender
-DTSTAMP:20261125T040640Z
-DTSTART;VALUE=DATE:20270208
-DTEND;VALUE=DATE:20270222
-SUMMARY:Crowdfunding
-LOCATION:Dokk1
-CATEGORIES:Kunst\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/crowdfunding
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878756@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270305
 SUMMARY:Mysteriet Jørgen – Genopstandelsen
@@ -207,8 +186,18 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/mysteriet-joergen-genopstandelsen
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877734@aarhus-kalender
+DTSTAMP:20261126T040433Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270222
+SUMMARY:Crowdfunding
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/crowdfunding
+END:VEVENT
+BEGIN:VEVENT
 UID:va-172211ce-7051-471d-83d4-0e9482bb5a5b-0@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270222
 SUMMARY:Vinterferie i Musikhuset Aarhus
@@ -219,7 +208,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/vinterferie-i
 END:VEVENT
 BEGIN:VEVENT
 UID:va-02de1486-6f8f-4443-948d-96a654c1ac6a-0@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270222
 SUMMARY:Vinterferie i Den Gamle By
@@ -230,7 +219,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/vinterferie-i
 END:VEVENT
 BEGIN:VEVENT
 UID:va-1a454ecf-99ff-4eee-9a41-edc6f7fc9c01-0@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270315
 SUMMARY:Århundredets Festival
@@ -241,7 +230,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhundredets
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878869@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270412
 SUMMARY:Jeg er sgu min egen
@@ -251,7 +240,7 @@ URL:https://dokk1.dk/det-sker/jeg-er-sgu-min-egen
 END:VEVENT
 BEGIN:VEVENT
 UID:va-326f1081-5851-455d-ab8d-8302629edf8f-0@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270603
 SUMMARY:Very Rich Angels på Aarhus Teater

@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mh-/kalender/mads-og-a-holdet@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;TZID=Europe/Copenhagen:20261127T203000
 DTEND;TZID=Europe/Copenhagen:20261127T223000
 SUMMARY:Mads og A-holdet - Live
@@ -35,7 +35,7 @@ URL:https://www.musikhuset.dk/kalender/mads-og-a-holdet
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/mark-le-fevre@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;TZID=Europe/Copenhagen:20261201T180000
 DTEND;TZID=Europe/Copenhagen:20261201T200000
 SUMMARY:Mark Le Fevre - Det Fejler Ik' En Skid
@@ -45,12 +45,22 @@ URL:https://www.musikhuset.dk/kalender/mark-le-fevre
 END:VEVENT
 BEGIN:VEVENT
 UID:mh-/kalender/grand-slam@aarhus-kalender
-DTSTAMP:20261125T040640Z
+DTSTAMP:20261126T040433Z
 DTSTART;TZID=Europe/Copenhagen:20261208T193000
 DTEND;TZID=Europe/Copenhagen:20261208T213000
 SUMMARY:Grand Slam - Finale i StorySlam
 LOCATION:Musikhuset Aarhus
 CATEGORIES:Comedy & Show\,Musikhuset Aarhus
 URL:https://www.musikhuset.dk/kalender/grand-slam
+END:VEVENT
+BEGIN:VEVENT
+UID:mh-/kalender/lis-rytter@aarhus-kalender
+DTSTAMP:20261126T040433Z
+DTSTART;TZID=Europe/Copenhagen:20261210T190000
+DTEND;TZID=Europe/Copenhagen:20261210T210000
+SUMMARY:Lis Rytter - Med venner!
+LOCATION:Musikhuset Aarhus
+CATEGORIES:Comedy & Show\,Musikhuset Aarhus
+URL:https://www.musikhuset.dk/kalender/lis-rytter
 END:VEVENT
 END:VCALENDAR
