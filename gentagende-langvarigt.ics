@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gb-signe-boisen-manus@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261213
 SUMMARY:Signe Boisen: Manus.
@@ -36,7 +36,7 @@ URL:https://godsbanen.dk/kalender/signe-boisen-manus/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-longing-as-organ@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261213
 SUMMARY:Longing as Organ
@@ -45,19 +45,8 @@ CATEGORIES:Kunst\,Godsbanen\,Gratis
 URL:https://godsbanen.dk/kalender/longing-as-organ/
 END:VEVENT
 BEGIN:VEVENT
-UID:va-6dd7d14d-c31c-442e-a7e4-ad0911714b76-0@aarhus-kalender
-DTSTAMP:20261127T040524Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261221
-SUMMARY:Aarhus Kunst- og Julemarked i Ridehuset
-LOCATION:Aarhus
-CATEGORIES:Kunst\,VisitAarhus\,Gratis
-URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhus-kunst-
- og-julemarked-i-ridehuset-gdk645953
-END:VEVENT
-BEGIN:VEVENT
 UID:bh-aabent-hus-20261130-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261130T100000
 DTEND;TZID=Europe/Copenhagen:20261130T130000
 SUMMARY:Åbent hus
@@ -67,7 +56,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261130-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261130T163000
 DTEND;TZID=Europe/Copenhagen:20261130T173000
 SUMMARY:Yoga med Ida
@@ -77,7 +66,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20261130-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261130T170000
 DTEND;TZID=Europe/Copenhagen:20261130T190000
 SUMMARY:Badminton el. volley
@@ -87,7 +76,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20261130-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261130T170000
 DTEND;TZID=Europe/Copenhagen:20261130T183000
 SUMMARY:Kor - Er på pause
@@ -97,7 +86,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20261130-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261130T190000
 DTEND;TZID=Europe/Copenhagen:20261130T210000
 SUMMARY:Capoeira
@@ -107,7 +96,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20261130-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261130T190000
 DTEND;TZID=Europe/Copenhagen:20261130T210000
 SUMMARY:Nørkleaften
@@ -117,7 +106,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20261201-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261201T110000
 DTEND;TZID=Europe/Copenhagen:20261201T150000
 SUMMARY:Alm. åbningstid
@@ -127,7 +116,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20261201-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261201T190000
 DTEND;TZID=Europe/Copenhagen:20261201T230000
 SUMMARY:Øgadernes dart
@@ -137,7 +126,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20261202-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261202T110000
 DTEND;TZID=Europe/Copenhagen:20261202T150000
 SUMMARY:Alm. åbningstid
@@ -147,7 +136,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261202-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261202T163000
 DTEND;TZID=Europe/Copenhagen:20261202T173000
 SUMMARY:Yoga med Ida
@@ -157,7 +146,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261202-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261202T180000
 DTEND;TZID=Europe/Copenhagen:20261202T194000
 SUMMARY:Hopning for Quinder
@@ -167,7 +156,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20261203-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261203T110000
 DTEND;TZID=Europe/Copenhagen:20261203T170000
 SUMMARY:Alm. åbningstid
@@ -178,7 +167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261203-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261203T160000
 DTEND;TZID=Europe/Copenhagen:20261203T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -188,7 +177,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-ec1ad63a-6817-40f6-9565-cba9c53d1758-0@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261220
 SUMMARY:Julevæsner på Moesgaard Museum
@@ -199,7 +188,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/julevaesner-p
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878679@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20270118
 SUMMARY:Kalk - en fortælling om et misforstået mineral
@@ -210,7 +199,7 @@ URL:https://dokk1.dk/det-sker/kalk-en-fortaelling-om-et-misforstaaet-minera
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20261207-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261207T100000
 DTEND;TZID=Europe/Copenhagen:20261207T130000
 SUMMARY:Åbent hus
@@ -220,7 +209,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261207-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261207T163000
 DTEND;TZID=Europe/Copenhagen:20261207T173000
 SUMMARY:Yoga med Ida
@@ -230,7 +219,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20261207-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261207T170000
 DTEND;TZID=Europe/Copenhagen:20261207T190000
 SUMMARY:Badminton el. volley
@@ -240,7 +229,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20261207-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261207T170000
 DTEND;TZID=Europe/Copenhagen:20261207T183000
 SUMMARY:Kor - Er på pause
@@ -250,7 +239,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20261207-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261207T190000
 DTEND;TZID=Europe/Copenhagen:20261207T210000
 SUMMARY:Capoeira
@@ -260,7 +249,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20261207-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261207T190000
 DTEND;TZID=Europe/Copenhagen:20261207T210000
 SUMMARY:Nørkleaften
@@ -270,7 +259,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20261208-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261208T110000
 DTEND;TZID=Europe/Copenhagen:20261208T150000
 SUMMARY:Alm. åbningstid
@@ -281,7 +270,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-gellerup-bibliotek-arrangementer-udstilling-udstilling-kunst-pa-hj
  ernen@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261208T120000
 DTEND;TZID=Europe/Copenhagen:20270105T120000
 SUMMARY:Udstilling - Kunst på hjernen
@@ -292,7 +281,7 @@ URL:https://www.aakb.dk/gellerup-bibliotek/arrangementer/udstilling/udstill
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20261208-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261208T190000
 DTEND;TZID=Europe/Copenhagen:20261208T230000
 SUMMARY:Øgadernes dart
@@ -302,7 +291,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20261209-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261209T110000
 DTEND;TZID=Europe/Copenhagen:20261209T150000
 SUMMARY:Alm. åbningstid
@@ -312,7 +301,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261209-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261209T163000
 DTEND;TZID=Europe/Copenhagen:20261209T173000
 SUMMARY:Yoga med Ida
@@ -322,7 +311,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261209-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261209T180000
 DTEND;TZID=Europe/Copenhagen:20261209T194000
 SUMMARY:Hopning for Quinder
@@ -332,7 +321,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20261210-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261210T110000
 DTEND;TZID=Europe/Copenhagen:20261210T170000
 SUMMARY:Alm. åbningstid
@@ -343,7 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261210-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261210T160000
 DTEND;TZID=Europe/Copenhagen:20261210T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -353,7 +342,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20261214-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261214T100000
 DTEND;TZID=Europe/Copenhagen:20261214T130000
 SUMMARY:Åbent hus
@@ -363,7 +352,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261214-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261214T163000
 DTEND;TZID=Europe/Copenhagen:20261214T173000
 SUMMARY:Yoga med Ida
@@ -373,7 +362,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20261214-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261214T170000
 DTEND;TZID=Europe/Copenhagen:20261214T190000
 SUMMARY:Badminton el. volley
@@ -383,7 +372,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20261214-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261214T170000
 DTEND;TZID=Europe/Copenhagen:20261214T183000
 SUMMARY:Kor - Er på pause
@@ -393,7 +382,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20261214-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261214T190000
 DTEND;TZID=Europe/Copenhagen:20261214T210000
 SUMMARY:Capoeira
@@ -403,7 +392,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20261214-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261214T190000
 DTEND;TZID=Europe/Copenhagen:20261214T210000
 SUMMARY:Nørkleaften
@@ -413,7 +402,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878903@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20270115
 SUMMARY:Øniverser
@@ -423,7 +412,7 @@ URL:https://dokk1.dk/det-sker/oeniverser
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20261215-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261215T110000
 DTEND;TZID=Europe/Copenhagen:20261215T150000
 SUMMARY:Alm. åbningstid
@@ -433,7 +422,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20261215-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261215T190000
 DTEND;TZID=Europe/Copenhagen:20261215T230000
 SUMMARY:Øgadernes dart
@@ -443,7 +432,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20261216-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261216T110000
 DTEND;TZID=Europe/Copenhagen:20261216T150000
 SUMMARY:Alm. åbningstid
@@ -453,7 +442,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20261216-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261216T163000
 DTEND;TZID=Europe/Copenhagen:20261216T173000
 SUMMARY:Yoga med Ida
@@ -463,7 +452,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20261216-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261216T180000
 DTEND;TZID=Europe/Copenhagen:20261216T194000
 SUMMARY:Hopning for Quinder
@@ -473,7 +462,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20261217-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261217T110000
 DTEND;TZID=Europe/Copenhagen:20261217T170000
 SUMMARY:Alm. åbningstid
@@ -484,7 +473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20261217-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20261217T160000
 DTEND;TZID=Europe/Copenhagen:20261217T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -494,7 +483,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-juleferie26@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20270104
 SUMMARY:Godsbanen holder juleferie
@@ -505,7 +494,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-lystrup-bibliotek-arrangementer-born-de-tavse-borns-stemmer-0@aarh
  us-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270124
 SUMMARY:De tavse børns stemmer
@@ -516,7 +505,7 @@ URL:https://www.aakb.dk/lystrup-bibliotek/arrangementer/born/de-tavse-borns
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2877700@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270126
 SUMMARY:Aarhus dengang i 1960’erne - og nu
@@ -526,7 +515,7 @@ URL:https://dokk1.dk/det-sker/aarhus-dengang-i-1960erne-og-nu
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270104-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270104T100000
 DTEND;TZID=Europe/Copenhagen:20270104T130000
 SUMMARY:Åbent hus
@@ -537,7 +526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aakb-tranbjerg-bibliotek-arrangementer-baeredygtighed-og-natur-udklaedn
  ingstoj-byt-og-del-1@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270104T120000
 DTEND;TZID=Europe/Copenhagen:20270208T180000
 SUMMARY:Udklædningstøj - byt og del
@@ -548,7 +537,7 @@ URL:https://www.aakb.dk/tranbjerg-bibliotek/arrangementer/baeredygtighed-og
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270104-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270104T163000
 DTEND;TZID=Europe/Copenhagen:20270104T173000
 SUMMARY:Yoga med Ida
@@ -558,7 +547,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270104-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270104T170000
 DTEND;TZID=Europe/Copenhagen:20270104T190000
 SUMMARY:Badminton el. volley
@@ -568,7 +557,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270104-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270104T170000
 DTEND;TZID=Europe/Copenhagen:20270104T183000
 SUMMARY:Kor - Er på pause
@@ -578,7 +567,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270104-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270104T190000
 DTEND;TZID=Europe/Copenhagen:20270104T210000
 SUMMARY:Capoeira
@@ -588,7 +577,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270104-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270104T190000
 DTEND;TZID=Europe/Copenhagen:20270104T210000
 SUMMARY:Nørkleaften
@@ -598,7 +587,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270105-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270105T110000
 DTEND;TZID=Europe/Copenhagen:20270105T150000
 SUMMARY:Alm. åbningstid
@@ -608,7 +597,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270105-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270105T190000
 DTEND;TZID=Europe/Copenhagen:20270105T230000
 SUMMARY:Øgadernes dart
@@ -618,7 +607,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270106-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270106T110000
 DTEND;TZID=Europe/Copenhagen:20270106T150000
 SUMMARY:Alm. åbningstid
@@ -628,7 +617,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270106-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270106T163000
 DTEND;TZID=Europe/Copenhagen:20270106T173000
 SUMMARY:Yoga med Ida
@@ -638,7 +627,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270106-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270106T180000
 DTEND;TZID=Europe/Copenhagen:20270106T194000
 SUMMARY:Hopning for Quinder
@@ -648,7 +637,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270107-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270107T110000
 DTEND;TZID=Europe/Copenhagen:20270107T170000
 SUMMARY:Alm. åbningstid
@@ -659,7 +648,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270107-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270107T160000
 DTEND;TZID=Europe/Copenhagen:20270107T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -669,7 +658,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-ingrid-soegaard-et-dirrende-rum@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270313
 SUMMARY:Ingrid Søgaard: Et dirrende rum
@@ -679,7 +668,7 @@ URL:https://godsbanen.dk/kalender/ingrid-soegaard-et-dirrende-rum/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270111-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270111T100000
 DTEND;TZID=Europe/Copenhagen:20270111T130000
 SUMMARY:Åbent hus
@@ -689,7 +678,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270111-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270111T163000
 DTEND;TZID=Europe/Copenhagen:20270111T173000
 SUMMARY:Yoga med Ida
@@ -699,7 +688,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270111-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270111T170000
 DTEND;TZID=Europe/Copenhagen:20270111T190000
 SUMMARY:Badminton el. volley
@@ -709,7 +698,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270111-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270111T170000
 DTEND;TZID=Europe/Copenhagen:20270111T183000
 SUMMARY:Kor - Er på pause
@@ -719,7 +708,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270111-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270111T190000
 DTEND;TZID=Europe/Copenhagen:20270111T210000
 SUMMARY:Capoeira
@@ -729,7 +718,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270111-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270111T190000
 DTEND;TZID=Europe/Copenhagen:20270111T210000
 SUMMARY:Nørkleaften
@@ -739,7 +728,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270112-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270112T110000
 DTEND;TZID=Europe/Copenhagen:20270112T150000
 SUMMARY:Alm. åbningstid
@@ -749,7 +738,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270112-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270112T190000
 DTEND;TZID=Europe/Copenhagen:20270112T230000
 SUMMARY:Øgadernes dart
@@ -759,7 +748,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270113-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270113T110000
 DTEND;TZID=Europe/Copenhagen:20270113T150000
 SUMMARY:Alm. åbningstid
@@ -769,7 +758,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270113-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270113T163000
 DTEND;TZID=Europe/Copenhagen:20270113T173000
 SUMMARY:Yoga med Ida
@@ -779,7 +768,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270113-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270113T180000
 DTEND;TZID=Europe/Copenhagen:20270113T194000
 SUMMARY:Hopning for Quinder
@@ -789,7 +778,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270114-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270114T110000
 DTEND;TZID=Europe/Copenhagen:20270114T170000
 SUMMARY:Alm. åbningstid
@@ -800,7 +789,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270114-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270114T160000
 DTEND;TZID=Europe/Copenhagen:20270114T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -810,7 +799,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:gb-residency-mia-og-martha-bider@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:RESIDENCY: Mia og Martha bider
@@ -820,7 +809,7 @@ URL:https://godsbanen.dk/kalender/residency-mia-og-martha-bider/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270118-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270118T100000
 DTEND;TZID=Europe/Copenhagen:20270118T130000
 SUMMARY:Åbent hus
@@ -830,7 +819,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270118-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270118T163000
 DTEND;TZID=Europe/Copenhagen:20270118T173000
 SUMMARY:Yoga med Ida
@@ -840,7 +829,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270118-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270118T170000
 DTEND;TZID=Europe/Copenhagen:20270118T190000
 SUMMARY:Badminton el. volley
@@ -850,7 +839,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270118-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270118T170000
 DTEND;TZID=Europe/Copenhagen:20270118T183000
 SUMMARY:Kor - Er på pause
@@ -860,7 +849,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270118-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270118T190000
 DTEND;TZID=Europe/Copenhagen:20270118T210000
 SUMMARY:Capoeira
@@ -870,7 +859,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270118-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270118T190000
 DTEND;TZID=Europe/Copenhagen:20270118T210000
 SUMMARY:Nørkleaften
@@ -880,7 +869,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270119-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270119T110000
 DTEND;TZID=Europe/Copenhagen:20270119T150000
 SUMMARY:Alm. åbningstid
@@ -890,7 +879,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270119-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270119T190000
 DTEND;TZID=Europe/Copenhagen:20270119T230000
 SUMMARY:Øgadernes dart
@@ -900,7 +889,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270120-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270120T110000
 DTEND;TZID=Europe/Copenhagen:20270120T150000
 SUMMARY:Alm. åbningstid
@@ -910,7 +899,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270120-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270120T163000
 DTEND;TZID=Europe/Copenhagen:20270120T173000
 SUMMARY:Yoga med Ida
@@ -920,7 +909,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270120-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270120T180000
 DTEND;TZID=Europe/Copenhagen:20270120T194000
 SUMMARY:Hopning for Quinder
@@ -930,7 +919,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270121-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270121T110000
 DTEND;TZID=Europe/Copenhagen:20270121T170000
 SUMMARY:Alm. åbningstid
@@ -941,7 +930,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270121-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270121T160000
 DTEND;TZID=Europe/Copenhagen:20270121T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -951,7 +940,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270125-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270125T100000
 DTEND;TZID=Europe/Copenhagen:20270125T130000
 SUMMARY:Åbent hus
@@ -961,7 +950,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270125-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270125T163000
 DTEND;TZID=Europe/Copenhagen:20270125T173000
 SUMMARY:Yoga med Ida
@@ -971,7 +960,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270125-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270125T170000
 DTEND;TZID=Europe/Copenhagen:20270125T190000
 SUMMARY:Badminton el. volley
@@ -981,7 +970,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270125-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270125T170000
 DTEND;TZID=Europe/Copenhagen:20270125T183000
 SUMMARY:Kor - Er på pause
@@ -991,7 +980,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270125-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270125T190000
 DTEND;TZID=Europe/Copenhagen:20270125T210000
 SUMMARY:Capoeira
@@ -1001,7 +990,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270125-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270125T190000
 DTEND;TZID=Europe/Copenhagen:20270125T210000
 SUMMARY:Nørkleaften
@@ -1011,7 +1000,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270126-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270126T110000
 DTEND;TZID=Europe/Copenhagen:20270126T150000
 SUMMARY:Alm. åbningstid
@@ -1021,7 +1010,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270126-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270126T190000
 DTEND;TZID=Europe/Copenhagen:20270126T230000
 SUMMARY:Øgadernes dart
@@ -1031,7 +1020,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270127-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270127T110000
 DTEND;TZID=Europe/Copenhagen:20270127T150000
 SUMMARY:Alm. åbningstid
@@ -1041,7 +1030,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270127-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270127T163000
 DTEND;TZID=Europe/Copenhagen:20270127T173000
 SUMMARY:Yoga med Ida
@@ -1051,7 +1040,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270127-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270127T180000
 DTEND;TZID=Europe/Copenhagen:20270127T194000
 SUMMARY:Hopning for Quinder
@@ -1061,7 +1050,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270128-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270128T110000
 DTEND;TZID=Europe/Copenhagen:20270128T170000
 SUMMARY:Alm. åbningstid
@@ -1072,7 +1061,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270128-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270128T160000
 DTEND;TZID=Europe/Copenhagen:20270128T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1082,7 +1071,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270201-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270201T100000
 DTEND;TZID=Europe/Copenhagen:20270201T130000
 SUMMARY:Åbent hus
@@ -1092,7 +1081,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270201-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270201T163000
 DTEND;TZID=Europe/Copenhagen:20270201T173000
 SUMMARY:Yoga med Ida
@@ -1102,7 +1091,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270201-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270201T170000
 DTEND;TZID=Europe/Copenhagen:20270201T190000
 SUMMARY:Badminton el. volley
@@ -1112,7 +1101,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270201-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270201T170000
 DTEND;TZID=Europe/Copenhagen:20270201T183000
 SUMMARY:Kor - Er på pause
@@ -1122,7 +1111,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270201-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270201T190000
 DTEND;TZID=Europe/Copenhagen:20270201T210000
 SUMMARY:Capoeira
@@ -1132,7 +1121,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270201-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270201T190000
 DTEND;TZID=Europe/Copenhagen:20270201T210000
 SUMMARY:Nørkleaften
@@ -1142,7 +1131,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-c97815c4-034a-4945-bde9-2c797609fb80-0@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270223
 SUMMARY:Gastro Week - i Aarhusregionen
@@ -1153,7 +1142,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/gastro-week-i
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270202-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270202T110000
 DTEND;TZID=Europe/Copenhagen:20270202T150000
 SUMMARY:Alm. åbningstid
@@ -1163,7 +1152,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270202-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270202T170000
 DTEND;TZID=Europe/Copenhagen:20270202T175000
 SUMMARY:Salsadans
@@ -1173,7 +1162,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270202-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270202T190000
 DTEND;TZID=Europe/Copenhagen:20270202T195000
 SUMMARY:Salsadans
@@ -1183,7 +1172,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270202-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270202T190000
 DTEND;TZID=Europe/Copenhagen:20270202T230000
 SUMMARY:Øgadernes dart
@@ -1193,7 +1182,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270203-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270203T110000
 DTEND;TZID=Europe/Copenhagen:20270203T150000
 SUMMARY:Alm. åbningstid
@@ -1203,7 +1192,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270203-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270203T163000
 DTEND;TZID=Europe/Copenhagen:20270203T173000
 SUMMARY:Yoga med Ida
@@ -1213,7 +1202,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270203-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270203T180000
 DTEND;TZID=Europe/Copenhagen:20270203T194000
 SUMMARY:Hopning for Quinder
@@ -1223,7 +1212,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-e23f5e33-4eda-40a2-b648-d2a7ceb62ca3-0@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270311
 SUMMARY:Hamlet på Aarhus Teater
@@ -1234,7 +1223,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/hamlet-paa-aa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270204-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270204T110000
 DTEND;TZID=Europe/Copenhagen:20270204T170000
 SUMMARY:Alm. åbningstid
@@ -1245,7 +1234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270204-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270204T160000
 DTEND;TZID=Europe/Copenhagen:20270204T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1254,18 +1243,8 @@ CATEGORIES:Kunst\,Beboernes Hus
 URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
-UID:dokk1-2877734@aarhus-kalender
-DTSTAMP:20261127T040524Z
-DTSTART;VALUE=DATE:20270208
-DTEND;VALUE=DATE:20270222
-SUMMARY:Crowdfunding
-LOCATION:Dokk1
-CATEGORIES:Kunst\,Dokk1\,Gratis
-URL:https://dokk1.dk/det-sker/crowdfunding
-END:VEVENT
-BEGIN:VEVENT
 UID:dokk1-2878756@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270305
 SUMMARY:Mysteriet Jørgen – Genopstandelsen
@@ -1274,8 +1253,18 @@ CATEGORIES:Kunst\,Dokk1\,Gratis
 URL:https://dokk1.dk/det-sker/mysteriet-joergen-genopstandelsen
 END:VEVENT
 BEGIN:VEVENT
+UID:dokk1-2877734@aarhus-kalender
+DTSTAMP:20261128T112957Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270222
+SUMMARY:Crowdfunding
+LOCATION:Dokk1
+CATEGORIES:Kunst\,Dokk1\,Gratis
+URL:https://dokk1.dk/det-sker/crowdfunding
+END:VEVENT
+BEGIN:VEVENT
 UID:bh-aabent-hus-20270208-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270208T100000
 DTEND;TZID=Europe/Copenhagen:20270208T130000
 SUMMARY:Åbent hus
@@ -1285,7 +1274,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270208-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270208T163000
 DTEND;TZID=Europe/Copenhagen:20270208T173000
 SUMMARY:Yoga med Ida
@@ -1295,7 +1284,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270208-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270208T170000
 DTEND;TZID=Europe/Copenhagen:20270208T190000
 SUMMARY:Badminton el. volley
@@ -1305,7 +1294,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270208-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270208T170000
 DTEND;TZID=Europe/Copenhagen:20270208T183000
 SUMMARY:Kor - Er på pause
@@ -1315,7 +1304,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270208-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270208T190000
 DTEND;TZID=Europe/Copenhagen:20270208T210000
 SUMMARY:Capoeira
@@ -1325,7 +1314,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270208-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270208T190000
 DTEND;TZID=Europe/Copenhagen:20270208T210000
 SUMMARY:Nørkleaften
@@ -1335,7 +1324,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270209-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270209T110000
 DTEND;TZID=Europe/Copenhagen:20270209T150000
 SUMMARY:Alm. åbningstid
@@ -1345,7 +1334,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270209-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270209T170000
 DTEND;TZID=Europe/Copenhagen:20270209T175000
 SUMMARY:Salsadans
@@ -1355,7 +1344,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270209-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270209T190000
 DTEND;TZID=Europe/Copenhagen:20270209T195000
 SUMMARY:Salsadans
@@ -1365,7 +1354,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270209-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270209T190000
 DTEND;TZID=Europe/Copenhagen:20270209T230000
 SUMMARY:Øgadernes dart
@@ -1375,7 +1364,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270210-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270210T110000
 DTEND;TZID=Europe/Copenhagen:20270210T150000
 SUMMARY:Alm. åbningstid
@@ -1385,7 +1374,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270210-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270210T163000
 DTEND;TZID=Europe/Copenhagen:20270210T173000
 SUMMARY:Yoga med Ida
@@ -1395,7 +1384,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270210-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270210T180000
 DTEND;TZID=Europe/Copenhagen:20270210T194000
 SUMMARY:Hopning for Quinder
@@ -1405,7 +1394,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270211-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270211T110000
 DTEND;TZID=Europe/Copenhagen:20270211T170000
 SUMMARY:Alm. åbningstid
@@ -1416,7 +1405,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270211-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270211T160000
 DTEND;TZID=Europe/Copenhagen:20270211T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1426,7 +1415,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-172211ce-7051-471d-83d4-0e9482bb5a5b-0@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270222
 SUMMARY:Vinterferie i Musikhuset Aarhus
@@ -1437,7 +1426,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/vinterferie-i
 END:VEVENT
 BEGIN:VEVENT
 UID:va-02de1486-6f8f-4443-948d-96a654c1ac6a-0@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270222
 SUMMARY:Vinterferie i Den Gamle By
@@ -1448,7 +1437,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/vinterferie-i
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270215-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270215T100000
 DTEND;TZID=Europe/Copenhagen:20270215T130000
 SUMMARY:Åbent hus
@@ -1458,7 +1447,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270215-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270215T163000
 DTEND;TZID=Europe/Copenhagen:20270215T173000
 SUMMARY:Yoga med Ida
@@ -1468,7 +1457,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270215-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270215T170000
 DTEND;TZID=Europe/Copenhagen:20270215T190000
 SUMMARY:Badminton el. volley
@@ -1478,7 +1467,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270215-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270215T170000
 DTEND;TZID=Europe/Copenhagen:20270215T183000
 SUMMARY:Kor - Er på pause
@@ -1488,7 +1477,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270215-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270215T190000
 DTEND;TZID=Europe/Copenhagen:20270215T210000
 SUMMARY:Capoeira
@@ -1498,7 +1487,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270215-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270215T190000
 DTEND;TZID=Europe/Copenhagen:20270215T210000
 SUMMARY:Nørkleaften
@@ -1508,7 +1497,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270216-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270216T110000
 DTEND;TZID=Europe/Copenhagen:20270216T150000
 SUMMARY:Alm. åbningstid
@@ -1518,7 +1507,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270216-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270216T170000
 DTEND;TZID=Europe/Copenhagen:20270216T175000
 SUMMARY:Salsadans
@@ -1528,7 +1517,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270216-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270216T190000
 DTEND;TZID=Europe/Copenhagen:20270216T195000
 SUMMARY:Salsadans
@@ -1538,7 +1527,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270216-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270216T190000
 DTEND;TZID=Europe/Copenhagen:20270216T230000
 SUMMARY:Øgadernes dart
@@ -1548,7 +1537,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270217-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270217T110000
 DTEND;TZID=Europe/Copenhagen:20270217T150000
 SUMMARY:Alm. åbningstid
@@ -1558,7 +1547,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270217-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270217T163000
 DTEND;TZID=Europe/Copenhagen:20270217T173000
 SUMMARY:Yoga med Ida
@@ -1568,7 +1557,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270217-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270217T180000
 DTEND;TZID=Europe/Copenhagen:20270217T194000
 SUMMARY:Hopning for Quinder
@@ -1578,7 +1567,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270218-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270218T110000
 DTEND;TZID=Europe/Copenhagen:20270218T170000
 SUMMARY:Alm. åbningstid
@@ -1589,7 +1578,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270218-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270218T160000
 DTEND;TZID=Europe/Copenhagen:20270218T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1599,7 +1588,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270222-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270222T100000
 DTEND;TZID=Europe/Copenhagen:20270222T130000
 SUMMARY:Åbent hus
@@ -1609,7 +1598,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270222-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270222T163000
 DTEND;TZID=Europe/Copenhagen:20270222T173000
 SUMMARY:Yoga med Ida
@@ -1619,7 +1608,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270222-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270222T170000
 DTEND;TZID=Europe/Copenhagen:20270222T190000
 SUMMARY:Badminton el. volley
@@ -1629,7 +1618,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270222-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270222T170000
 DTEND;TZID=Europe/Copenhagen:20270222T183000
 SUMMARY:Kor - Er på pause
@@ -1639,7 +1628,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270222-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270222T190000
 DTEND;TZID=Europe/Copenhagen:20270222T210000
 SUMMARY:Capoeira
@@ -1649,7 +1638,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270222-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270222T190000
 DTEND;TZID=Europe/Copenhagen:20270222T210000
 SUMMARY:Nørkleaften
@@ -1659,7 +1648,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270223-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270223T110000
 DTEND;TZID=Europe/Copenhagen:20270223T150000
 SUMMARY:Alm. åbningstid
@@ -1669,7 +1658,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270223-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270223T170000
 DTEND;TZID=Europe/Copenhagen:20270223T175000
 SUMMARY:Salsadans
@@ -1679,7 +1668,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270223-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270223T190000
 DTEND;TZID=Europe/Copenhagen:20270223T195000
 SUMMARY:Salsadans
@@ -1689,7 +1678,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270223-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270223T190000
 DTEND;TZID=Europe/Copenhagen:20270223T230000
 SUMMARY:Øgadernes dart
@@ -1699,7 +1688,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270224-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270224T110000
 DTEND;TZID=Europe/Copenhagen:20270224T150000
 SUMMARY:Alm. åbningstid
@@ -1709,7 +1698,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270224-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270224T163000
 DTEND;TZID=Europe/Copenhagen:20270224T173000
 SUMMARY:Yoga med Ida
@@ -1719,7 +1708,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270224-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270224T180000
 DTEND;TZID=Europe/Copenhagen:20270224T194000
 SUMMARY:Hopning for Quinder
@@ -1729,7 +1718,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270225-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270225T110000
 DTEND;TZID=Europe/Copenhagen:20270225T170000
 SUMMARY:Alm. åbningstid
@@ -1740,7 +1729,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270225-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270225T160000
 DTEND;TZID=Europe/Copenhagen:20270225T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1750,7 +1739,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270301-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270301T100000
 DTEND;TZID=Europe/Copenhagen:20270301T130000
 SUMMARY:Åbent hus
@@ -1760,7 +1749,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270301-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270301T163000
 DTEND;TZID=Europe/Copenhagen:20270301T173000
 SUMMARY:Yoga med Ida
@@ -1770,7 +1759,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270301-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270301T170000
 DTEND;TZID=Europe/Copenhagen:20270301T190000
 SUMMARY:Badminton el. volley
@@ -1780,7 +1769,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270301-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270301T170000
 DTEND;TZID=Europe/Copenhagen:20270301T183000
 SUMMARY:Kor - Er på pause
@@ -1790,7 +1779,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270301-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270301T190000
 DTEND;TZID=Europe/Copenhagen:20270301T210000
 SUMMARY:Capoeira
@@ -1800,7 +1789,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270301-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270301T190000
 DTEND;TZID=Europe/Copenhagen:20270301T210000
 SUMMARY:Nørkleaften
@@ -1810,7 +1799,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270302-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270302T110000
 DTEND;TZID=Europe/Copenhagen:20270302T150000
 SUMMARY:Alm. åbningstid
@@ -1820,7 +1809,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270302-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270302T170000
 DTEND;TZID=Europe/Copenhagen:20270302T175000
 SUMMARY:Salsadans
@@ -1830,7 +1819,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270302-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270302T190000
 DTEND;TZID=Europe/Copenhagen:20270302T195000
 SUMMARY:Salsadans
@@ -1840,7 +1829,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270302-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270302T190000
 DTEND;TZID=Europe/Copenhagen:20270302T230000
 SUMMARY:Øgadernes dart
@@ -1850,7 +1839,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270303-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270303T110000
 DTEND;TZID=Europe/Copenhagen:20270303T150000
 SUMMARY:Alm. åbningstid
@@ -1860,7 +1849,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270303-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270303T163000
 DTEND;TZID=Europe/Copenhagen:20270303T173000
 SUMMARY:Yoga med Ida
@@ -1870,7 +1859,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270303-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270303T180000
 DTEND;TZID=Europe/Copenhagen:20270303T194000
 SUMMARY:Hopning for Quinder
@@ -1880,7 +1869,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270304-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270304T110000
 DTEND;TZID=Europe/Copenhagen:20270304T170000
 SUMMARY:Alm. åbningstid
@@ -1891,7 +1880,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270304-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270304T160000
 DTEND;TZID=Europe/Copenhagen:20270304T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -1901,7 +1890,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-1a454ecf-99ff-4eee-9a41-edc6f7fc9c01-0@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270315
 SUMMARY:Århundredets Festival
@@ -1912,7 +1901,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/aarhundredets
 END:VEVENT
 BEGIN:VEVENT
 UID:dokk1-2878869@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270412
 SUMMARY:Jeg er sgu min egen
@@ -1922,7 +1911,7 @@ URL:https://dokk1.dk/det-sker/jeg-er-sgu-min-egen
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270308-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270308T100000
 DTEND;TZID=Europe/Copenhagen:20270308T130000
 SUMMARY:Åbent hus
@@ -1932,7 +1921,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270308-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270308T163000
 DTEND;TZID=Europe/Copenhagen:20270308T173000
 SUMMARY:Yoga med Ida
@@ -1942,7 +1931,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270308-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270308T170000
 DTEND;TZID=Europe/Copenhagen:20270308T190000
 SUMMARY:Badminton el. volley
@@ -1952,7 +1941,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270308-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270308T170000
 DTEND;TZID=Europe/Copenhagen:20270308T183000
 SUMMARY:Kor - Er på pause
@@ -1962,7 +1951,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270308-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270308T190000
 DTEND;TZID=Europe/Copenhagen:20270308T210000
 SUMMARY:Capoeira
@@ -1972,7 +1961,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270308-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270308T190000
 DTEND;TZID=Europe/Copenhagen:20270308T210000
 SUMMARY:Nørkleaften
@@ -1982,7 +1971,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270309-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270309T110000
 DTEND;TZID=Europe/Copenhagen:20270309T150000
 SUMMARY:Alm. åbningstid
@@ -1992,7 +1981,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270309-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270309T170000
 DTEND;TZID=Europe/Copenhagen:20270309T175000
 SUMMARY:Salsadans
@@ -2002,7 +1991,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270309-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270309T190000
 DTEND;TZID=Europe/Copenhagen:20270309T195000
 SUMMARY:Salsadans
@@ -2012,7 +2001,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270309-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270309T190000
 DTEND;TZID=Europe/Copenhagen:20270309T230000
 SUMMARY:Øgadernes dart
@@ -2022,7 +2011,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270310-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270310T110000
 DTEND;TZID=Europe/Copenhagen:20270310T150000
 SUMMARY:Alm. åbningstid
@@ -2032,7 +2021,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270310-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270310T163000
 DTEND;TZID=Europe/Copenhagen:20270310T173000
 SUMMARY:Yoga med Ida
@@ -2042,7 +2031,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270310-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270310T180000
 DTEND;TZID=Europe/Copenhagen:20270310T194000
 SUMMARY:Hopning for Quinder
@@ -2052,7 +2041,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270311-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270311T110000
 DTEND;TZID=Europe/Copenhagen:20270311T170000
 SUMMARY:Alm. åbningstid
@@ -2063,7 +2052,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270311-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270311T160000
 DTEND;TZID=Europe/Copenhagen:20270311T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2073,7 +2062,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270315-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270315T100000
 DTEND;TZID=Europe/Copenhagen:20270315T130000
 SUMMARY:Åbent hus
@@ -2083,7 +2072,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270315-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270315T163000
 DTEND;TZID=Europe/Copenhagen:20270315T173000
 SUMMARY:Yoga med Ida
@@ -2093,7 +2082,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270315-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270315T170000
 DTEND;TZID=Europe/Copenhagen:20270315T190000
 SUMMARY:Badminton el. volley
@@ -2103,7 +2092,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270315-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270315T170000
 DTEND;TZID=Europe/Copenhagen:20270315T183000
 SUMMARY:Kor - Er på pause
@@ -2113,7 +2102,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270315-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270315T190000
 DTEND;TZID=Europe/Copenhagen:20270315T210000
 SUMMARY:Capoeira
@@ -2123,7 +2112,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270315-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270315T190000
 DTEND;TZID=Europe/Copenhagen:20270315T210000
 SUMMARY:Nørkleaften
@@ -2133,7 +2122,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270316-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270316T110000
 DTEND;TZID=Europe/Copenhagen:20270316T150000
 SUMMARY:Alm. åbningstid
@@ -2143,7 +2132,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270316-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270316T170000
 DTEND;TZID=Europe/Copenhagen:20270316T175000
 SUMMARY:Salsadans
@@ -2153,7 +2142,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270316-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270316T190000
 DTEND;TZID=Europe/Copenhagen:20270316T195000
 SUMMARY:Salsadans
@@ -2163,7 +2152,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270316-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270316T190000
 DTEND;TZID=Europe/Copenhagen:20270316T230000
 SUMMARY:Øgadernes dart
@@ -2173,7 +2162,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270317-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270317T110000
 DTEND;TZID=Europe/Copenhagen:20270317T150000
 SUMMARY:Alm. åbningstid
@@ -2183,7 +2172,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270317-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270317T163000
 DTEND;TZID=Europe/Copenhagen:20270317T173000
 SUMMARY:Yoga med Ida
@@ -2193,7 +2182,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270317-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270317T180000
 DTEND;TZID=Europe/Copenhagen:20270317T194000
 SUMMARY:Hopning for Quinder
@@ -2203,7 +2192,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270318-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270318T110000
 DTEND;TZID=Europe/Copenhagen:20270318T170000
 SUMMARY:Alm. åbningstid
@@ -2214,7 +2203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270318-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270318T160000
 DTEND;TZID=Europe/Copenhagen:20270318T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2224,7 +2213,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270322-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270322T100000
 DTEND;TZID=Europe/Copenhagen:20270322T130000
 SUMMARY:Åbent hus
@@ -2234,7 +2223,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270322-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270322T163000
 DTEND;TZID=Europe/Copenhagen:20270322T173000
 SUMMARY:Yoga med Ida
@@ -2244,7 +2233,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270322-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270322T170000
 DTEND;TZID=Europe/Copenhagen:20270322T190000
 SUMMARY:Badminton el. volley
@@ -2254,7 +2243,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270322-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270322T170000
 DTEND;TZID=Europe/Copenhagen:20270322T183000
 SUMMARY:Kor - Er på pause
@@ -2264,7 +2253,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270322-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270322T190000
 DTEND;TZID=Europe/Copenhagen:20270322T210000
 SUMMARY:Capoeira
@@ -2274,7 +2263,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270322-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270322T190000
 DTEND;TZID=Europe/Copenhagen:20270322T210000
 SUMMARY:Nørkleaften
@@ -2284,7 +2273,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270323-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270323T110000
 DTEND;TZID=Europe/Copenhagen:20270323T150000
 SUMMARY:Alm. åbningstid
@@ -2294,7 +2283,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270323-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270323T170000
 DTEND;TZID=Europe/Copenhagen:20270323T175000
 SUMMARY:Salsadans
@@ -2304,7 +2293,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270323-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270323T190000
 DTEND;TZID=Europe/Copenhagen:20270323T195000
 SUMMARY:Salsadans
@@ -2314,7 +2303,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270323-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270323T190000
 DTEND;TZID=Europe/Copenhagen:20270323T230000
 SUMMARY:Øgadernes dart
@@ -2324,7 +2313,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270324-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270324T110000
 DTEND;TZID=Europe/Copenhagen:20270324T150000
 SUMMARY:Alm. åbningstid
@@ -2334,7 +2323,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270324-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270324T163000
 DTEND;TZID=Europe/Copenhagen:20270324T173000
 SUMMARY:Yoga med Ida
@@ -2344,7 +2333,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270324-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270324T180000
 DTEND;TZID=Europe/Copenhagen:20270324T194000
 SUMMARY:Hopning for Quinder
@@ -2354,7 +2343,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270325-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270325T110000
 DTEND;TZID=Europe/Copenhagen:20270325T170000
 SUMMARY:Alm. åbningstid
@@ -2365,7 +2354,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270325-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270325T160000
 DTEND;TZID=Europe/Copenhagen:20270325T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2375,7 +2364,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270329-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270329T100000
 DTEND;TZID=Europe/Copenhagen:20270329T130000
 SUMMARY:Åbent hus
@@ -2385,7 +2374,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270329-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270329T163000
 DTEND;TZID=Europe/Copenhagen:20270329T173000
 SUMMARY:Yoga med Ida
@@ -2395,7 +2384,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270329-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270329T170000
 DTEND;TZID=Europe/Copenhagen:20270329T190000
 SUMMARY:Badminton el. volley
@@ -2405,7 +2394,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270329-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270329T170000
 DTEND;TZID=Europe/Copenhagen:20270329T183000
 SUMMARY:Kor - Er på pause
@@ -2415,7 +2404,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270329-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270329T190000
 DTEND;TZID=Europe/Copenhagen:20270329T210000
 SUMMARY:Capoeira
@@ -2425,7 +2414,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270329-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270329T190000
 DTEND;TZID=Europe/Copenhagen:20270329T210000
 SUMMARY:Nørkleaften
@@ -2435,7 +2424,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270330-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270330T110000
 DTEND;TZID=Europe/Copenhagen:20270330T150000
 SUMMARY:Alm. åbningstid
@@ -2445,7 +2434,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270330-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270330T170000
 DTEND;TZID=Europe/Copenhagen:20270330T175000
 SUMMARY:Salsadans
@@ -2455,7 +2444,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270330-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270330T190000
 DTEND;TZID=Europe/Copenhagen:20270330T195000
 SUMMARY:Salsadans
@@ -2465,7 +2454,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270330-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270330T190000
 DTEND;TZID=Europe/Copenhagen:20270330T230000
 SUMMARY:Øgadernes dart
@@ -2475,7 +2464,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270331-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270331T110000
 DTEND;TZID=Europe/Copenhagen:20270331T150000
 SUMMARY:Alm. åbningstid
@@ -2485,7 +2474,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270331-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270331T163000
 DTEND;TZID=Europe/Copenhagen:20270331T173000
 SUMMARY:Yoga med Ida
@@ -2495,7 +2484,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270331-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270331T180000
 DTEND;TZID=Europe/Copenhagen:20270331T194000
 SUMMARY:Hopning for Quinder
@@ -2505,7 +2494,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270401-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270401T110000
 DTEND;TZID=Europe/Copenhagen:20270401T170000
 SUMMARY:Alm. åbningstid
@@ -2516,7 +2505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270401-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270401T160000
 DTEND;TZID=Europe/Copenhagen:20270401T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2526,7 +2515,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270405-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270405T100000
 DTEND;TZID=Europe/Copenhagen:20270405T130000
 SUMMARY:Åbent hus
@@ -2536,7 +2525,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270405-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270405T163000
 DTEND;TZID=Europe/Copenhagen:20270405T173000
 SUMMARY:Yoga med Ida
@@ -2546,7 +2535,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270405-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270405T170000
 DTEND;TZID=Europe/Copenhagen:20270405T190000
 SUMMARY:Badminton el. volley
@@ -2556,7 +2545,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270405-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270405T170000
 DTEND;TZID=Europe/Copenhagen:20270405T183000
 SUMMARY:Kor - Er på pause
@@ -2566,7 +2555,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270405-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270405T190000
 DTEND;TZID=Europe/Copenhagen:20270405T210000
 SUMMARY:Capoeira
@@ -2576,7 +2565,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270405-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270405T190000
 DTEND;TZID=Europe/Copenhagen:20270405T210000
 SUMMARY:Nørkleaften
@@ -2586,7 +2575,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270406-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270406T110000
 DTEND;TZID=Europe/Copenhagen:20270406T150000
 SUMMARY:Alm. åbningstid
@@ -2596,7 +2585,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270406-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270406T170000
 DTEND;TZID=Europe/Copenhagen:20270406T175000
 SUMMARY:Salsadans
@@ -2606,7 +2595,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270406-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270406T190000
 DTEND;TZID=Europe/Copenhagen:20270406T195000
 SUMMARY:Salsadans
@@ -2616,7 +2605,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270406-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270406T190000
 DTEND;TZID=Europe/Copenhagen:20270406T230000
 SUMMARY:Øgadernes dart
@@ -2626,7 +2615,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270407-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270407T110000
 DTEND;TZID=Europe/Copenhagen:20270407T150000
 SUMMARY:Alm. åbningstid
@@ -2636,7 +2625,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270407-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270407T163000
 DTEND;TZID=Europe/Copenhagen:20270407T173000
 SUMMARY:Yoga med Ida
@@ -2646,7 +2635,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270407-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270407T180000
 DTEND;TZID=Europe/Copenhagen:20270407T194000
 SUMMARY:Hopning for Quinder
@@ -2656,7 +2645,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270408-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270408T110000
 DTEND;TZID=Europe/Copenhagen:20270408T170000
 SUMMARY:Alm. åbningstid
@@ -2667,7 +2656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270408-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270408T160000
 DTEND;TZID=Europe/Copenhagen:20270408T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2677,7 +2666,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270412-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270412T100000
 DTEND;TZID=Europe/Copenhagen:20270412T130000
 SUMMARY:Åbent hus
@@ -2687,7 +2676,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270412-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270412T163000
 DTEND;TZID=Europe/Copenhagen:20270412T173000
 SUMMARY:Yoga med Ida
@@ -2697,7 +2686,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270412-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270412T170000
 DTEND;TZID=Europe/Copenhagen:20270412T190000
 SUMMARY:Badminton el. volley
@@ -2707,7 +2696,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270412-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270412T170000
 DTEND;TZID=Europe/Copenhagen:20270412T183000
 SUMMARY:Kor - Er på pause
@@ -2717,7 +2706,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270412-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270412T190000
 DTEND;TZID=Europe/Copenhagen:20270412T210000
 SUMMARY:Capoeira
@@ -2727,7 +2716,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270412-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270412T190000
 DTEND;TZID=Europe/Copenhagen:20270412T210000
 SUMMARY:Nørkleaften
@@ -2737,7 +2726,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270413-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270413T110000
 DTEND;TZID=Europe/Copenhagen:20270413T150000
 SUMMARY:Alm. åbningstid
@@ -2747,7 +2736,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270413-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270413T170000
 DTEND;TZID=Europe/Copenhagen:20270413T175000
 SUMMARY:Salsadans
@@ -2757,7 +2746,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270413-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270413T190000
 DTEND;TZID=Europe/Copenhagen:20270413T195000
 SUMMARY:Salsadans
@@ -2767,7 +2756,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270413-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270413T190000
 DTEND;TZID=Europe/Copenhagen:20270413T230000
 SUMMARY:Øgadernes dart
@@ -2777,7 +2766,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270414-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270414T110000
 DTEND;TZID=Europe/Copenhagen:20270414T150000
 SUMMARY:Alm. åbningstid
@@ -2787,7 +2776,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270414-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270414T163000
 DTEND;TZID=Europe/Copenhagen:20270414T173000
 SUMMARY:Yoga med Ida
@@ -2797,7 +2786,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270414-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270414T180000
 DTEND;TZID=Europe/Copenhagen:20270414T194000
 SUMMARY:Hopning for Quinder
@@ -2807,7 +2796,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270415-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270415T110000
 DTEND;TZID=Europe/Copenhagen:20270415T170000
 SUMMARY:Alm. åbningstid
@@ -2818,7 +2807,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270415-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270415T160000
 DTEND;TZID=Europe/Copenhagen:20270415T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2828,7 +2817,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270419-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270419T100000
 DTEND;TZID=Europe/Copenhagen:20270419T130000
 SUMMARY:Åbent hus
@@ -2838,7 +2827,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270419-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270419T163000
 DTEND;TZID=Europe/Copenhagen:20270419T173000
 SUMMARY:Yoga med Ida
@@ -2848,7 +2837,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270419-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270419T170000
 DTEND;TZID=Europe/Copenhagen:20270419T190000
 SUMMARY:Badminton el. volley
@@ -2858,7 +2847,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270419-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270419T170000
 DTEND;TZID=Europe/Copenhagen:20270419T183000
 SUMMARY:Kor - Er på pause
@@ -2868,7 +2857,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270419-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270419T190000
 DTEND;TZID=Europe/Copenhagen:20270419T210000
 SUMMARY:Capoeira
@@ -2878,7 +2867,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270419-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270419T190000
 DTEND;TZID=Europe/Copenhagen:20270419T210000
 SUMMARY:Nørkleaften
@@ -2888,7 +2877,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270420-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270420T110000
 DTEND;TZID=Europe/Copenhagen:20270420T150000
 SUMMARY:Alm. åbningstid
@@ -2898,7 +2887,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270420-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270420T170000
 DTEND;TZID=Europe/Copenhagen:20270420T175000
 SUMMARY:Salsadans
@@ -2908,7 +2897,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270420-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270420T190000
 DTEND;TZID=Europe/Copenhagen:20270420T195000
 SUMMARY:Salsadans
@@ -2918,7 +2907,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270420-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270420T190000
 DTEND;TZID=Europe/Copenhagen:20270420T230000
 SUMMARY:Øgadernes dart
@@ -2928,7 +2917,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270421-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270421T110000
 DTEND;TZID=Europe/Copenhagen:20270421T150000
 SUMMARY:Alm. åbningstid
@@ -2938,7 +2927,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270421-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270421T163000
 DTEND;TZID=Europe/Copenhagen:20270421T173000
 SUMMARY:Yoga med Ida
@@ -2948,7 +2937,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270421-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270421T180000
 DTEND;TZID=Europe/Copenhagen:20270421T194000
 SUMMARY:Hopning for Quinder
@@ -2958,7 +2947,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270422-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270422T110000
 DTEND;TZID=Europe/Copenhagen:20270422T170000
 SUMMARY:Alm. åbningstid
@@ -2969,7 +2958,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270422-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270422T160000
 DTEND;TZID=Europe/Copenhagen:20270422T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -2979,7 +2968,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270426-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270426T100000
 DTEND;TZID=Europe/Copenhagen:20270426T130000
 SUMMARY:Åbent hus
@@ -2989,7 +2978,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270426-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270426T163000
 DTEND;TZID=Europe/Copenhagen:20270426T173000
 SUMMARY:Yoga med Ida
@@ -2999,7 +2988,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270426-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270426T170000
 DTEND;TZID=Europe/Copenhagen:20270426T190000
 SUMMARY:Badminton el. volley
@@ -3009,7 +2998,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270426-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270426T170000
 DTEND;TZID=Europe/Copenhagen:20270426T183000
 SUMMARY:Kor - Er på pause
@@ -3019,7 +3008,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270426-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270426T190000
 DTEND;TZID=Europe/Copenhagen:20270426T210000
 SUMMARY:Capoeira
@@ -3029,7 +3018,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270426-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270426T190000
 DTEND;TZID=Europe/Copenhagen:20270426T210000
 SUMMARY:Nørkleaften
@@ -3039,7 +3028,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270427-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270427T110000
 DTEND;TZID=Europe/Copenhagen:20270427T150000
 SUMMARY:Alm. åbningstid
@@ -3049,7 +3038,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270427-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270427T170000
 DTEND;TZID=Europe/Copenhagen:20270427T175000
 SUMMARY:Salsadans
@@ -3059,7 +3048,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270427-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270427T190000
 DTEND;TZID=Europe/Copenhagen:20270427T195000
 SUMMARY:Salsadans
@@ -3069,7 +3058,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270427-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270427T190000
 DTEND;TZID=Europe/Copenhagen:20270427T230000
 SUMMARY:Øgadernes dart
@@ -3079,7 +3068,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270428-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270428T110000
 DTEND;TZID=Europe/Copenhagen:20270428T150000
 SUMMARY:Alm. åbningstid
@@ -3089,7 +3078,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270428-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270428T163000
 DTEND;TZID=Europe/Copenhagen:20270428T173000
 SUMMARY:Yoga med Ida
@@ -3099,7 +3088,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270428-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270428T180000
 DTEND;TZID=Europe/Copenhagen:20270428T194000
 SUMMARY:Hopning for Quinder
@@ -3109,7 +3098,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270429-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270429T110000
 DTEND;TZID=Europe/Copenhagen:20270429T170000
 SUMMARY:Alm. åbningstid
@@ -3120,7 +3109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270429-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270429T160000
 DTEND;TZID=Europe/Copenhagen:20270429T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -3130,7 +3119,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270503-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270503T100000
 DTEND;TZID=Europe/Copenhagen:20270503T130000
 SUMMARY:Åbent hus
@@ -3140,7 +3129,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270503-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270503T163000
 DTEND;TZID=Europe/Copenhagen:20270503T173000
 SUMMARY:Yoga med Ida
@@ -3150,7 +3139,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270503-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270503T170000
 DTEND;TZID=Europe/Copenhagen:20270503T190000
 SUMMARY:Badminton el. volley
@@ -3160,7 +3149,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270503-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270503T170000
 DTEND;TZID=Europe/Copenhagen:20270503T183000
 SUMMARY:Kor - Er på pause
@@ -3170,7 +3159,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270503-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270503T190000
 DTEND;TZID=Europe/Copenhagen:20270503T210000
 SUMMARY:Capoeira
@@ -3180,7 +3169,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270503-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270503T190000
 DTEND;TZID=Europe/Copenhagen:20270503T210000
 SUMMARY:Nørkleaften
@@ -3190,7 +3179,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270504-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270504T110000
 DTEND;TZID=Europe/Copenhagen:20270504T150000
 SUMMARY:Alm. åbningstid
@@ -3200,7 +3189,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270504-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270504T170000
 DTEND;TZID=Europe/Copenhagen:20270504T175000
 SUMMARY:Salsadans
@@ -3210,7 +3199,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270504-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270504T190000
 DTEND;TZID=Europe/Copenhagen:20270504T195000
 SUMMARY:Salsadans
@@ -3220,7 +3209,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270504-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270504T190000
 DTEND;TZID=Europe/Copenhagen:20270504T230000
 SUMMARY:Øgadernes dart
@@ -3230,7 +3219,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:va-326f1081-5851-455d-ab8d-8302629edf8f-0@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270603
 SUMMARY:Very Rich Angels på Aarhus Teater
@@ -3241,7 +3230,7 @@ URL:https://www.visitaarhus.dk/aarhusregionen/planlaeg-ferien/very-rich-ang
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270505-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270505T110000
 DTEND;TZID=Europe/Copenhagen:20270505T150000
 SUMMARY:Alm. åbningstid
@@ -3251,7 +3240,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270505-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270505T163000
 DTEND;TZID=Europe/Copenhagen:20270505T173000
 SUMMARY:Yoga med Ida
@@ -3261,7 +3250,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270505-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270505T180000
 DTEND;TZID=Europe/Copenhagen:20270505T194000
 SUMMARY:Hopning for Quinder
@@ -3271,7 +3260,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270506-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270506T110000
 DTEND;TZID=Europe/Copenhagen:20270506T170000
 SUMMARY:Alm. åbningstid
@@ -3282,7 +3271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270506-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270506T160000
 DTEND;TZID=Europe/Copenhagen:20270506T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -3292,7 +3281,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270510-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270510T100000
 DTEND;TZID=Europe/Copenhagen:20270510T130000
 SUMMARY:Åbent hus
@@ -3302,7 +3291,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270510-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270510T163000
 DTEND;TZID=Europe/Copenhagen:20270510T173000
 SUMMARY:Yoga med Ida
@@ -3312,7 +3301,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270510-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270510T170000
 DTEND;TZID=Europe/Copenhagen:20270510T190000
 SUMMARY:Badminton el. volley
@@ -3322,7 +3311,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270510-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270510T170000
 DTEND;TZID=Europe/Copenhagen:20270510T183000
 SUMMARY:Kor - Er på pause
@@ -3332,7 +3321,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270510-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270510T190000
 DTEND;TZID=Europe/Copenhagen:20270510T210000
 SUMMARY:Capoeira
@@ -3342,7 +3331,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270510-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270510T190000
 DTEND;TZID=Europe/Copenhagen:20270510T210000
 SUMMARY:Nørkleaften
@@ -3352,7 +3341,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270511-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270511T110000
 DTEND;TZID=Europe/Copenhagen:20270511T150000
 SUMMARY:Alm. åbningstid
@@ -3362,7 +3351,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270511-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270511T170000
 DTEND;TZID=Europe/Copenhagen:20270511T175000
 SUMMARY:Salsadans
@@ -3372,7 +3361,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270511-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270511T190000
 DTEND;TZID=Europe/Copenhagen:20270511T195000
 SUMMARY:Salsadans
@@ -3382,7 +3371,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270511-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270511T190000
 DTEND;TZID=Europe/Copenhagen:20270511T230000
 SUMMARY:Øgadernes dart
@@ -3392,7 +3381,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270512-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270512T110000
 DTEND;TZID=Europe/Copenhagen:20270512T150000
 SUMMARY:Alm. åbningstid
@@ -3402,7 +3391,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270512-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270512T163000
 DTEND;TZID=Europe/Copenhagen:20270512T173000
 SUMMARY:Yoga med Ida
@@ -3412,7 +3401,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270512-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270512T180000
 DTEND;TZID=Europe/Copenhagen:20270512T194000
 SUMMARY:Hopning for Quinder
@@ -3422,7 +3411,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270513-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270513T110000
 DTEND;TZID=Europe/Copenhagen:20270513T170000
 SUMMARY:Alm. åbningstid
@@ -3433,7 +3422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270513-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270513T160000
 DTEND;TZID=Europe/Copenhagen:20270513T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -3443,7 +3432,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270517-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270517T100000
 DTEND;TZID=Europe/Copenhagen:20270517T130000
 SUMMARY:Åbent hus
@@ -3453,7 +3442,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270517-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270517T163000
 DTEND;TZID=Europe/Copenhagen:20270517T173000
 SUMMARY:Yoga med Ida
@@ -3463,7 +3452,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270517-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270517T170000
 DTEND;TZID=Europe/Copenhagen:20270517T190000
 SUMMARY:Badminton el. volley
@@ -3473,7 +3462,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270517-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270517T170000
 DTEND;TZID=Europe/Copenhagen:20270517T183000
 SUMMARY:Kor - Er på pause
@@ -3483,7 +3472,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270517-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270517T190000
 DTEND;TZID=Europe/Copenhagen:20270517T210000
 SUMMARY:Capoeira
@@ -3493,7 +3482,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270517-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270517T190000
 DTEND;TZID=Europe/Copenhagen:20270517T210000
 SUMMARY:Nørkleaften
@@ -3503,7 +3492,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270518-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270518T110000
 DTEND;TZID=Europe/Copenhagen:20270518T150000
 SUMMARY:Alm. åbningstid
@@ -3513,7 +3502,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270518-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270518T170000
 DTEND;TZID=Europe/Copenhagen:20270518T175000
 SUMMARY:Salsadans
@@ -3523,7 +3512,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270518-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270518T190000
 DTEND;TZID=Europe/Copenhagen:20270518T195000
 SUMMARY:Salsadans
@@ -3533,7 +3522,7 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270518-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270518T190000
 DTEND;TZID=Europe/Copenhagen:20270518T230000
 SUMMARY:Øgadernes dart
@@ -3543,7 +3532,7 @@ URL:https://beboerneshus.dk/dart/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270519-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270519T110000
 DTEND;TZID=Europe/Copenhagen:20270519T150000
 SUMMARY:Alm. åbningstid
@@ -3553,7 +3542,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270519-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270519T163000
 DTEND;TZID=Europe/Copenhagen:20270519T173000
 SUMMARY:Yoga med Ida
@@ -3563,7 +3552,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-hopning-for-quinder-20270519-180000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270519T180000
 DTEND;TZID=Europe/Copenhagen:20270519T194000
 SUMMARY:Hopning for Quinder
@@ -3573,7 +3562,7 @@ URL:https://beboerneshus.dk/hopning/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270520-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270520T110000
 DTEND;TZID=Europe/Copenhagen:20270520T170000
 SUMMARY:Alm. åbningstid
@@ -3584,7 +3573,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bh-noegle-udlevering-til-lejere-fremvisning-af-lokaler-20270520-160000@
  aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270520T160000
 DTEND;TZID=Europe/Copenhagen:20270520T173000
 SUMMARY:Nøgle udlevering til lejere - Fremvisning af lokaler
@@ -3594,7 +3583,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-aabent-hus-20270524-100000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270524T100000
 DTEND;TZID=Europe/Copenhagen:20270524T130000
 SUMMARY:Åbent hus
@@ -3604,7 +3593,7 @@ URL:https://beboerneshus.dk/hus-hygge/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-yoga-med-ida-20270524-163000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270524T163000
 DTEND;TZID=Europe/Copenhagen:20270524T173000
 SUMMARY:Yoga med Ida
@@ -3614,7 +3603,7 @@ URL:http://find-ro.dk/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-badminton-el-volley-20270524-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270524T170000
 DTEND;TZID=Europe/Copenhagen:20270524T190000
 SUMMARY:Badminton el. volley
@@ -3624,7 +3613,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-kor-er-paa-pause-20270524-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270524T170000
 DTEND;TZID=Europe/Copenhagen:20270524T183000
 SUMMARY:Kor - Er på pause
@@ -3634,7 +3623,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-capoeira-20270524-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270524T190000
 DTEND;TZID=Europe/Copenhagen:20270524T210000
 SUMMARY:Capoeira
@@ -3644,7 +3633,7 @@ URL:https://beboerneshus.dk/capoeira/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-noerkleaften-20270524-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270524T190000
 DTEND;TZID=Europe/Copenhagen:20270524T210000
 SUMMARY:Nørkleaften
@@ -3654,7 +3643,7 @@ URL:https://beboerneshus.dk/strikkeaften/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-alm-aabningstid-20270525-110000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270525T110000
 DTEND;TZID=Europe/Copenhagen:20270525T150000
 SUMMARY:Alm. åbningstid
@@ -3664,7 +3653,7 @@ URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270525-170000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270525T170000
 DTEND;TZID=Europe/Copenhagen:20270525T175000
 SUMMARY:Salsadans
@@ -3674,7 +3663,7 @@ URL:https://beboerneshus.dk/salsa/
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-salsadans-20270525-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270525T190000
 DTEND;TZID=Europe/Copenhagen:20270525T195000
 SUMMARY:Salsadans
@@ -3684,12 +3673,52 @@ URL:https://beboerneshus.dk/salsa
 END:VEVENT
 BEGIN:VEVENT
 UID:bh-oegadernes-dart-20270525-190000@aarhus-kalender
-DTSTAMP:20261127T040524Z
+DTSTAMP:20261128T112957Z
 DTSTART;TZID=Europe/Copenhagen:20270525T190000
 DTEND;TZID=Europe/Copenhagen:20270525T230000
 SUMMARY:Øgadernes dart
 LOCATION:Beboernes Hus
 CATEGORIES:Sport & Bevægelse\,Beboernes Hus
 URL:https://beboerneshus.dk/dart/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-alm-aabningstid-20270526-110000@aarhus-kalender
+DTSTAMP:20261128T112957Z
+DTSTART;TZID=Europe/Copenhagen:20270526T110000
+DTEND;TZID=Europe/Copenhagen:20270526T150000
+SUMMARY:Alm. åbningstid
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-yoga-med-ida-20270526-163000@aarhus-kalender
+DTSTAMP:20261128T112957Z
+DTSTART;TZID=Europe/Copenhagen:20270526T163000
+DTEND;TZID=Europe/Copenhagen:20270526T173000
+SUMMARY:Yoga med Ida
+LOCATION:Beboernes Hus
+CATEGORIES:Sport & Bevægelse\,Beboernes Hus
+URL:https://beboerneshus.dk/kalender/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-hopning-for-quinder-20270526-180000@aarhus-kalender
+DTSTAMP:20261128T112957Z
+DTSTART;TZID=Europe/Copenhagen:20270526T180000
+DTEND;TZID=Europe/Copenhagen:20270526T194000
+SUMMARY:Hopning for Quinder
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/hopning/
+END:VEVENT
+BEGIN:VEVENT
+UID:bh-alm-aabningstid-20270527-110000@aarhus-kalender
+DTSTAMP:20261128T112957Z
+DTSTART;TZID=Europe/Copenhagen:20270527T110000
+DTEND;TZID=Europe/Copenhagen:20270527T170000
+SUMMARY:Alm. åbningstid
+LOCATION:Beboernes Hus
+CATEGORIES:Kunst\,Beboernes Hus\,Gratis
+URL:https://beboerneshus.dk/kalender/
 END:VEVENT
 END:VCALENDAR
